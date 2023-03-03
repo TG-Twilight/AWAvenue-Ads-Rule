@@ -85,3 +85,10 @@
 ||thumb.1010pic.com^
 ||thumb2018.1010pic.com^
 ||1010pic.com^
+||adkwai.com^
+||open.e.kuaishou.cn^
+||henzanapp.com^
+||masdkv6.3g.qq.com^
+||ads.heytapmobi.com^
+||stg-data.ads.heytapmobi.com^
+||irc.qubiankeji.com^
