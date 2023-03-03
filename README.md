@@ -18,7 +18,7 @@
 ## 推荐的广告过滤工具
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)    *路由器安装，这是较为理想的安装位置*
 
-- [AdGuard Home For Magisk](https://t.me/AWAvenue/357)   *AdGuard Home的Magisk版本，由酷安@top大佬制作*
+- [AdGuard Home For Magisk](https://t.me/AWAvenue/357)   *AdGuard Home的Magisk版本，由[酷安@top大佬制作](https://www.coolapk.com/u/1373784)*
 
 - [Adblock Plus](https://adblockplus.org/)    *强大的、适用于浏览器的广告过滤插件*
 
