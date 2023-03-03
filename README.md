@@ -1,6 +1,7 @@
 # -AWAvenue 秋风广告规则（AWAvenue-Adblock-Rule）-
 
-使用Adblock语法，从网络层面对抗Android应用中的各种广告SDK，阻止其加载。 |    Use Adblock syntax to fight against various advertising SDKs in Android apps from the network level.
+使用Adblock语法，从网络层面对抗Android应用中的各种广告SDK，阻止其加载。
+Use Adblock syntax to fight against various advertising SDKs in Android apps from the network level.
 
 [订阅地址](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt)
 
@@ -15,7 +16,7 @@
 ## 如何使用 | How to use
 如同众多广告规则的导入流程一样，此广告规则使用[Adblock语法](https://help.adblockplus.org/hc/en-us/articles/360062733293)编写，故在理论上，但凡是支持Adblock语法的广告拦截工具均可将其导入并使用。（你也可以复制规则然后再粘贴进广告拦截工具的自定义拦截规则区域内，但那比你直接导入会麻烦许多）
 
-## 推荐的广告过滤工具
+## 推荐的广告过滤工具 | Recommended Tools
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)    *路由器安装，这是广告过滤工具较为理想的工作位置*
 
 - [AdGuard Home For Magisk](https://t.me/AWAvenue/357)   *AdGuard Home的Magisk版本，由[酷安@top大佬制作](https://www.coolapk.com/u/1373784)*
