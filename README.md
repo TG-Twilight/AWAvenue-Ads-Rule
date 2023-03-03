@@ -32,6 +32,7 @@ Use Adblock syntax to fight against various advertising SDKs in Android apps fro
 
 
 #### 特别强调 此项目目前为个人维护项目，随缘更新，可以issues(个人更推荐你[进群](https://t.me/AWAvenueCheat)，更多时候我在那里)，但请别对我指手画脚，谢谢。
+以及，目前还没有解决在科学网络环境下的广告屏蔽，需要各位自行配置好(不难)，十分抱歉。如果可以，希望有大佬可以来共同编写规则，期待着您的加入。
 
 ---
 
