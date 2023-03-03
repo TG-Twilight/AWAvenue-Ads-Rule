@@ -28,4 +28,4 @@
 
 ---
 
-> [@Github][https://github.com/TG-Twilight/AWAvenue-Adblock-Rule] · [@Telegram Channel](https://t.me/AWAvenue) · [@Telegram群](https://t.me/AWAvenueCheat)
+> [@Github](https://github.com/TG-Twilight/AWAvenue-Adblock-Rule) · [@Telegram Channel](https://t.me/AWAvenue) · [@Telegram群](https://t.me/AWAvenueCheat)
