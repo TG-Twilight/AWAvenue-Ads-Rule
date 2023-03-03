@@ -16,10 +16,10 @@
 如同众多广告规则的导入流程一样，此广告规则使用[Adblock语法](https://help.adblockplus.org/hc/en-us/articles/360062733293)编写，故在理论上，但凡是支持Adblock语法的广告拦截工具均可将其导入并使用。（你也可以复制规则然后再粘贴进广告拦截工具的自定义拦截规则区域内，但那比你直接导入会麻烦许多）
 
 ## 推荐的广告过滤工具
-[AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)  *> 路由器安装，这是较为理想的安装位置*
+- [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)  *路由器安装，这是较为理想的安装位置*
 
-[Adblock Plus](https://adblockplus.org/)  *> 强大的、适用于浏览器的广告过滤插件*
+- [Adblock Plus](https://adblockplus.org/)  *强大的、适用于浏览器的广告过滤插件*
 
-[uBlock Origin](https://ublockorigin.com/)  *> 另一款开源而强大的浏览器广告过滤插件*
+- [uBlock Origin](https://ublockorigin.com/)  *另一款开源而强大的浏览器广告过滤插件*
 
-[AdGuard](https://adguard.com/)  *> 多端使用，支持Android、Windows、Mac、iOS*
+- [AdGuard](https://adguard.com/)  *多端使用，支持Android、Windows、Mac、iOS*
