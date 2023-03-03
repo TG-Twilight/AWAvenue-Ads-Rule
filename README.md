@@ -18,8 +18,14 @@
 ## 推荐的广告过滤工具
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)    *路由器安装，这是较为理想的安装位置*
 
+- [AdGuard Home For Magisk](https://t.me/AWAvenue/357)   *AdGuard Home的Magisk版本，由酷安@top大佬制作*
+
 - [Adblock Plus](https://adblockplus.org/)    *强大的、适用于浏览器的广告过滤插件*
 
 - [uBlock Origin](https://ublockorigin.com/)    *另一款开源而强大的浏览器广告过滤插件*
 
 - [AdGuard](https://adguard.com/)    *多端使用，支持Android、Windows、Mac、iOS*
+
+---
+
+> [@Github][https://github.com/TG-Twilight/AWAvenue-Adblock-Rule] · [@Telegram Channel](https://t.me/AWAvenue) · [@Telegram群](https://t.me/AWAvenueCheat)
