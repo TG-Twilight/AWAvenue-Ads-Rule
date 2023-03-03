@@ -1,5 +1,7 @@
 # -AWAvenue 秋风广告规则（AWAvenue-Adblock-Rule）-
 
+![秋风のとおり道Github](https://user-images.githubusercontent.com/121682528/222716105-d5582f28-7139-4f58-8ee4-e2cb8b1fde31.png)
+
 使用Adblock语法，从网络层面对抗Android应用中的各种广告SDK，阻止其加载。
 
 Use Adblock syntax to fight against various advertising SDKs in Android apps from the network level.
