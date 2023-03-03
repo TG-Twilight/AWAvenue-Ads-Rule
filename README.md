@@ -20,7 +20,7 @@ Use Adblock syntax to fight against various advertising SDKs in Android apps fro
 如同众多广告规则的导入流程一样，此广告规则使用[Adblock语法](https://help.adblockplus.org/hc/en-us/articles/360062733293)编写，故在理论上，但凡是支持Adblock语法的广告拦截工具均可将其导入并使用。（你也可以复制规则然后再粘贴进广告拦截工具的自定义拦截规则区域内，但那比你直接导入会麻烦许多）
 
 #### 特别强调 此项目目前为个人维护项目，随缘更新，可以issues(个人更推荐你[进群](https://t.me/AWAvenueCheat)，更多时候我在那里)，但请别对我指手画脚，谢谢。
-以及，目前还没有解决在科学网络环境下的广告屏蔽，需要各位自行配置好(不难)，十分抱歉。如果可以，希望有大佬可以来共同编写规则，期待着您的加入。
+以及，目前还没有很好解决在科学网络环境下的广告屏蔽，需要各位自行配置好(不难)，十分抱歉。如果可以，希望有大佬可以来共同编写规则，期待着您的加入。
 
 ## 推荐的广告过滤工具 | Recommended Tools
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)    *路由器安装，这是广告过滤工具较为理想的工作位置*
