@@ -15,11 +15,8 @@
 ! This project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
 !
 ||wxsnsdy.wxs.qq.com^
-127.0.0.1 wxsnsdy.wxs.qq.com
 ||wxa.wxs.qq.com^
-127.0.0.1 wxa.wxs.qq.com
 ||wxsnsdythumb.wxs.qq.com^
-127.0.0.1 wxsnsdythumb.wxs.qq.com
 ||is.snssdk.com^
 ||i.snssdk.com^
 ||p3-tt.byteimg.com^
