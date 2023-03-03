@@ -27,8 +27,7 @@
 - [AdGuard](https://adguard.com/)    *多端使用，支持Android、Windows、Mac、iOS*
 
 
-
-### 特别强调 此项目目前为个人维护项目，随缘更新，可以issues(个人更推荐你[进群](https://t.me/AWAvenueCheat)，更多时候我在那里)，但请别对我指手画脚，谢谢。
+#### 特别强调 此项目目前为个人维护项目，随缘更新，可以issues(个人更推荐你[进群](https://t.me/AWAvenueCheat)，更多时候我在那里)，但请别对我指手画脚，谢谢。
 
 ---
 
