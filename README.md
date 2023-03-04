@@ -17,7 +17,8 @@ Use Adblock syntax to fight against various advertising SDKs in Android apps fro
 
 目前主要针对：
 
-穿x甲巨量、Txxxxxt Advertising Open Platform、快x广告开放平台、京x入侵式购物广告、Kiwi广告、Ali Ads等广告sdk的流氓部分。同时，支持拦截微信订阅号文章列表及文章内容页中 插入式/文末的视频/图片广告（不会使其彻底不可见，仅拦截图片广告的图片加载和自动视频广告的视频自动下载、播放）
+0.2.0-beta：穿x甲巨量、Txxxxxt Advertising Open Platform、快x广告开放平台、京x入侵式购物广告、Kiwi广告、Ali Ads等广告sdk的流氓部分。同时，支持拦截微信订阅号文章列表及文章内容页中 插入式/文末的视频/图片广告（不会使其彻底不可见，仅拦截图片广告的图片加载和自动视频广告的视频自动下载、播放）
+0.3.0-beta：新增 Apple Ads、UMENG、Google Analysis、Google Ads、DoubleClick、XiaoMi Ads 拦截
 
 ## 如何使用 | How to use
 如同众多广告规则的导入流程一样，此广告规则使用[Adblock语法](https://help.adblockplus.org/hc/en-us/articles/360062733293)编写，故在理论上，但凡是支持Adblock语法的广告拦截工具均可将其导入并使用。（你也可以复制规则然后再粘贴进广告拦截工具的自定义拦截规则区域内，但那比你直接导入会麻烦许多）
