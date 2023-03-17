@@ -12,7 +12,8 @@ Use Adblock syntax to fight against various advertising SDKs in Android apps fro
 - [反代订阅地址-1](https://ghproxy.net/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt)
 - [反代订阅地址-2](https://ghproxy.com/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt)
 
-感谢 [杰哥](https://t.me/JessTeesdale) 、[Aries](https://t.me/NoAries) 、[Zutzo](https://github.com/zutzo) 的帮助
+项目维护者 [Zutzo](https://github.com/zutzo)、[Flower](https://t.me/Reese_Rikkati)
+感谢 [杰哥](https://t.me/JessTeesdale) 、[Aries](https://t.me/NoAries) 提供的反代订阅
 
 ## 关于此广告规则 | About
 嘛！**十分厌恶**某些广告sdk的**侵入式**展示，这非常影响使我的用体验。及考虑到现在有许多长辈们也在使用Android设备，而长辈们在面对无良广告商时，大多毫无还手之力。他们的与子女沟通联系的设备被灌满垃圾；他们自由掌控设备的权利被肆意践踏……最后不得不换回老年机……
