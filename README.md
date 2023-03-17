@@ -13,6 +13,7 @@ Use Adblock syntax to fight against various advertising SDKs in Android apps fro
 - [反代订阅地址-2](https://ghproxy.com/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt)
 
 项目维护者 [Zutzo](https://github.com/zutzo)、[Flower](https://t.me/Reese_Rikkati)
+
 感谢 [杰哥](https://t.me/JessTeesdale) 、[Aries](https://t.me/NoAries) 提供的反代订阅
 
 ## 关于此广告规则 | About
