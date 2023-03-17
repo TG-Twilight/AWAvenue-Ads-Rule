@@ -26,6 +26,8 @@ Use Adblock syntax to fight against various advertising SDKs in Android apps fro
 
 0.3.0-beta：新增 Apple Ads、UMENG、Google Analysis、Google Ads、DoubleClick、XiaoMi Ads 拦截
 
+0.4.1-beta：新增 部分baidu adsdk、QQ Music的广告屏蔽
+
 ## 如何使用 | How to use
 如同众多广告规则的导入流程一样，此广告规则使用[Adblock语法](https://help.adblockplus.org/hc/en-us/articles/360062733293)编写，故在理论上，但凡是支持Adblock语法的广告拦截工具均可将其导入并使用。（你也可以复制规则然后再粘贴进广告拦截工具的自定义拦截规则区域内，但那比你直接导入会麻烦许多）
 
