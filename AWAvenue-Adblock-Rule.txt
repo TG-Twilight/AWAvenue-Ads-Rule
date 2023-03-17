@@ -1,6 +1,6 @@
 [-AWAvenue 秋风广告规则（AWAvenue-Adblock-Rule）-]
-! 规则版本: 0.3.0-beta
-! 更新时间: 2023.03.04
+! 规则版本: 0.4.0-beta
+! 更新时间: 2023.03.18
 ! AWAvenue-Adblock-Rule
 ! 如果需要在其它规则中混合此规则，请在您的规则显眼处注明本规则的出处，谢谢！
 ! 加入Telegram群组 秋风のとおり屋 (@AWAvenueCheat) 与编写者交流，期待着您的到来！
@@ -96,3 +96,33 @@
 ||wxsnsdy.wxs.qq.com^
 ||wxsnsdythumb.wxs.qq.com^
 ||xlmzc.cnjp-exp.com^
+||hmma.baidu.com^
+||eclick.baidu.com^
+||entry.baidu.com^
+||mobads.baidu.com^
+||mobads-logs.baidu.com^
+||mtj.baidu.com^
+||nsclick.baidu.com^
+||ucstat.baidu.com^
+||union.baidu.com^
+||imageplus.baidu.com^
+||t10.baidu.com^
+||t11.baidu.com^
+||t12.baidu.com^
+||adstats.tencentmusic.com^
+||ad.tencentmusic.com^
+||adcdn.tencentmusic.com^
+||adexpo.tencentmusic.com^
+||adclick.tencentmusic.com^
+||otheve.beacon.qq.com^
+||monitor.music.qq.com^
+||stat.y.qq.com^
+||tmead.y.qq.com^
+||oth.str.mdt.qq.com^
+||h.trace.qq.com^
+||tmead.y.qq.com^
+||imtmp.net^
+||sdk.e.qq.com^
+||p.l.qq.com^
+||us.l.qq.com^
+||tangram.e.qq.com^
