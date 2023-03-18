@@ -1,5 +1,5 @@
 [-AWAvenue 秋风广告规则（AWAvenue-Adblock-Rule）-]
-! 规则版本: 0.4.1-beta
+! 规则版本: 0.4.2-beta
 ! 更新时间: 2023.03.18
 ! AWAvenue-Adblock-Rule
 ! 如果需要在其它规则中混合此规则，请在您的规则显眼处注明本规则的出处，谢谢！
