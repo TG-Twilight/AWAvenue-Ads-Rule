@@ -126,3 +126,14 @@
 ||p.l.qq.com^
 ||us.l.qq.com^
 ||tangram.e.qq.com^
+||data.flurry.com^
+||cfg.flurry.com^
+||toblog.ctobsnssdk.com^
+||collect.kugou.com^
+||adsfile.bssdlbig.kugou.com^
+||tracking.miui.com^
+||tracker.ai.xiaomi.com^
+||umengacs.m.taobao.com^
+||hm.baidu.com^
+||android.bugly.qq.com^
+||ulogs.umengcloud.com^
