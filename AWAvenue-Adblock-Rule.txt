@@ -17,6 +17,7 @@
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
 ||1010pic.com^
+||adapi.yynetwk.com^
 ||ad.*.xiaomi.com^
 ||ad.qq.com^
 ||ad.tencentmusic.com^
@@ -95,6 +96,9 @@
 ||qzs.gdtimg.com^
 ||roi.soulapp.cn^
 ||sdk.e.qq.com^
+||sdk.alibaba.com.ailbaba.me/xgapp.php/v\d/version^
+||sdk.alibaba.com.ailbaba.me/xgapp.php/v\d/advert^
+||sdk.alibaba.com.ailbaba.me/xgapp.php/v\d/top_notice^
 ||sdkoptedge.chinanetcenter.com^
 ||sf16-static.i18n-pglstatp.com^
 ||skdisplay.jd.com^
@@ -127,3 +131,6 @@
 ||wxsnsdy.wxs.qq.com^
 ||wxsnsdythumb.wxs.qq.com^
 ||xlmzc.cnjp-exp.com^
+^http?:\/\/sdk\.alibaba\.com\.ailbaba\.me\/xgapp\.php\/v\d\/version
+^http?:\/\/sdk\.alibaba\.com\.ailbaba\.me\/xgapp\.php\/v\d\/advert\?position=[^2]+
+^http?:\/\/sdk\.alibaba\.com\.ailbaba\.me\/xgapp\.php\/v\d\/top_notice\?
