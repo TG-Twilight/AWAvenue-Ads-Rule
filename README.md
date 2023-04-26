@@ -32,7 +32,7 @@ Use Adblock syntax to fight against various advertising SDKs in Android apps fro
 
 0.5.0-beta：新增拦截 云猿广告sdk ，屏蔽部分微信小程序广告
 
-0.6.0-bata：新增拦截 酷安的广告卡片、穿山甲sdk
+0.6.0-bata：新增拦截 酷安 提到的好物、什么值得买、去除热搜、随机应用推荐、评论区下某广告、穿山甲sdk等
 
 ## 如何使用 | How to use
 如同众多广告规则的导入流程一样，此广告规则使用[Adblock语法](https://help.adblockplus.org/hc/en-us/articles/360062733293)编写，故在理论上，但凡是支持Adblock语法的广告拦截工具均可将其导入并使用。（你也可以复制规则然后再粘贴进广告拦截工具的自定义拦截规则区域内，但那比你直接导入会麻烦许多）
