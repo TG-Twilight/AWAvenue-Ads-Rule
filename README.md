@@ -54,4 +54,4 @@ Use Adblock syntax to fight against various advertising SDKs in Android apps fro
 
 ---
 
-> [@Github](https://github.com/TG-Twilight/AWAvenue-Adblock-Rule) · [@Telegram Channel](https://t.me/AWAvenue) · [@Telegram Group](https://t.me/AWAvenueCheat) · [@CLOUDFLARE](CLOUDFLARE.com)
+> [@Github](https://github.com/TG-Twilight/AWAvenue-Adblock-Rule) · [@Telegram Channel](https://t.me/AWAvenue) · [@Telegram Group](https://t.me/AWAvenueCheat) · [@CLOUDFLARE](https://CLOUDFLARE.com/)
