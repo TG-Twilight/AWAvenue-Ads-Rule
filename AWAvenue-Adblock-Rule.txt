@@ -1,6 +1,6 @@
 [-AWAvenue 秋风广告规则（AWAvenue-Adblock-Rule）-]
-! 规则版本: 0.5.5-beta
-! 更新时间: 2023.04.26
+! 规则版本: 0.6.0-beta
+! 更新时间: 2023.06.03
 ! AWAvenue-Adblock-Rule
 ! 如果需要在其它规则中混合此规则，请在您的规则显眼处注明本规则的出处，谢谢！
 ! 加入Telegram群组 秋风のとおり屋 (@AWAvenueCheat) 与编写者交流，期待着您的到来！
@@ -147,3 +147,8 @@
 ||i0.hdslb.com/bfs/live/user_cover/581775ed57beef0dd64c1f6b611da48409b2c4fa.jpg@672w_378h_1c_!web-home-common-cover.avif
 ||i0.hdslb.com/bfs/vc/9c699f2acbcad00197e92c401b835d2c6aba8a55.png@924w_429h_!web-dynamic.avif
 ||i0.hdslb.com/bfs/live/new_room_cover/9a95a8efc6ee0e07574e3a538a73613318672d50.jpg@1050w_591h_!web-video-rcmd-live-cover.avif
+||adx-cn.anythinktech.com^
+||v1-ad.video.yximgs.com^$important
+||v2-ad.video.yximgs.com^$important
+||hw-ot-ad.a.yximgs.com^$important
+||v3-ad.video.yximgs.com^$important
