@@ -43,6 +43,10 @@
 ||api-access.pangolin-sdk-toutiao5.com^
 ||apiyd.my91app.com^
 ||b1-data.ads.heytapmobi.com^
+||b2-data.ads.heytapmobi.com^
+||b3-data.ads.heytapmobi.com^
+||b4-data.ads.heytapmobi.com^
+||b5-data.ads.heytapmobi.com^
 ||bd-adaptive.pull.yximgs.com^
 ||bd-livemate.pull.yximgs.com^
 ||bd-origin.pull.yximgs.com^
@@ -171,3 +175,8 @@
 ||i0.hdslb.com/bfs/live/new_room_cover/9a95a8efc6ee0e07574e3a538a73613318672d50.jpg@1050w_591h_!web-video-rcmd-live-cover.avif
 ||api-cn.open.heytapmobi.com^
 ||mdp-usertrace-cn.heytapmobi.com^
+||stg-data.ads.heytapmobi.com^
+||uapi.ads.heytapmobi.com^
+||p.s.360.cn^
+||dxp.baidu.com^
+||cdn.ynuf.aliapp.org^
