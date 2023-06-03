@@ -1,42 +1,57 @@
-||bilibili.com##.download-entry.download-client-trigger
-||bilibili.com##.loc-mc-box__text.loc-mc-box__text--down
-||bilibili.com##.right-entry__outside.right-entry--vip
-||bilibili.com##.carousel-container
-||bilibili.com##.carousel
-||bilibili.com##.carousel-area
-||bilibili.com##.recommended-swipe-body
-||bilibili.com##.recommended-swipe-core
-||bilibili.com##.recommended-swipe.grid-anchor
-||bilibili.com##.floor-card-inner
-||bilibili.com##.floor-single-card
-||bilibili.com##.header-upload-entry
-||bilibili.com##.default-entry
-||bilibili.com##.adblock-tips
-||bilibili.com##.loc-mc-box__text.loc-mc-box__text--up
-||bilibili.com##.loc-mc-box
-||bilibili.com##.red-num--dynamic
-||bilibili.com##.entry-title
-||bilibili.com##.bili-live-card__stats--item
-||bilibili.com##.bili-live-card__stats
-||i0.hdslb.com/bfs/live/user_cover/581775ed57beef0dd64c1f6b611da48409b2c4fa.jpg@672w_378h_1c_!web-home-common-cover.avif
-||bilibili.com##.bili-live-card__wrap.__scale-wrap
-||bilibili.com##.bili-live-card.is-rcmd
-||bilibili.com##.red-num--message
-||bilibili.com##.icon-bg.icon-bg__popular
-||bilibili.com##.icon-title
-||t.bilibili.com##.topic-panel
-||i0.hdslb.com/bfs/vc/9c699f2acbcad00197e92c401b835d2c6aba8a55.png@924w_429h_!web-dynamic.avif
-||t.bilibili.com##.right
-||t.bilibili.com##.bili-dyn-live-users__item__living
-||baidu.com##.title-text.c-font-medium.c-color-t
-||baidu.com##.title-content.tag-width.c-link.c-font-medium.c-line-clamp1
-||baidu.com##.title-content.c-link.c-font-medium.c-line-clamp1
-||baidu.com##.hotsearch-item.odd
-||baidu.com##.hotsearch-item.even
-||baidu.com##.s-hotsearch-title
-||baidu.com##.qrcode-layer.icon-mask-wrapper
-||baidu.com###s_side_wrapper
-||baidu.com###bottom_layer
-||baidu.com##.s-bottom-layer.s-isindex-wrap
-||bilibili.com##.pl__mask
-||i0.hdslb.com/bfs/live/new_room_cover/9a95a8efc6ee0e07574e3a538a73613318672d50.jpg@1050w_591h_!web-video-rcmd-live-cover.avif
+[-AWAvenue 秋风浏览器插件广告规则（AWAvenue-Browser-Plug-Adblock-Rule）-]
+! 规则版本: 0.0.1-beta
+! 更新时间: 2023.06.03
+! AWAvenue-Browser-Plug-Adblock-Rule
+! 如果需要在其它规则中混合此规则，请在您的规则显眼处注明本规则的出处，谢谢！
+! 加入Telegram群组 秋风のとおり屋 (@AWAvenueCheat) 与编写者交流，期待着您的到来！
+! 群组链接：https://t.me/AWAvenueCheat
+! 
+! 订阅Telegram频道 秋风のとおり道 (@AWAvenue) 获取各种有意思的内容，期待着您的订阅！
+! 频道链接：https://t.me/AWAvenue
+! 
+! 项目地址：https://github.com/TG-Twilight/AWAvenue-Adblock-Rule
+! 
+! 本项目遵循 署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0) 许可。
+! This project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
+!
+! Compiled by @adguard/hostlist-compiler v1.0.19
+!
+bilibili.com##.download-entry.download-client-trigger
+bilibili.com##.loc-mc-box__text.loc-mc-box__text--down
+bilibili.com##.right-entry__outside.right-entry--vip
+bilibili.com##.carousel-container
+bilibili.com##.carousel
+bilibili.com##.carousel-area
+bilibili.com##.recommended-swipe-body
+bilibili.com##.recommended-swipe-core
+bilibili.com##.recommended-swipe.grid-anchor
+bilibili.com##.floor-card-inner
+bilibili.com##.floor-single-card
+bilibili.com##.header-upload-entry
+bilibili.com##.default-entry
+bilibili.com##.adblock-tips
+bilibili.com##.loc-mc-box__text.loc-mc-box__text--up
+bilibili.com##.loc-mc-box
+bilibili.com##.red-num--dynamic
+bilibili.com##.entry-title
+bilibili.com##.bili-live-card__stats--item
+bilibili.com##.bili-live-card__stats
+bilibili.com##.bili-live-card__wrap.__scale-wrap
+bilibili.com##.bili-live-card.is-rcmd
+bilibili.com##.red-num--message
+bilibili.com##.icon-bg.icon-bg__popular
+bilibili.com##.icon-title
+t.bilibili.com##.topic-panel
+t.bilibili.com##.right
+t.bilibili.com##.bili-dyn-live-users__item__living
+baidu.com##.title-text.c-font-medium.c-color-t
+baidu.com##.title-content.tag-width.c-link.c-font-medium.c-line-clamp1
+baidu.com##.title-content.c-link.c-font-medium.c-line-clamp1
+baidu.com##.hotsearch-item.odd
+baidu.com##.hotsearch-item.even
+baidu.com##.s-hotsearch-title
+baidu.com##.qrcode-layer.icon-mask-wrapper
+baidu.com###s_side_wrapper
+baidu.com###bottom_layer
+baidu.com##.s-bottom-layer.s-isindex-wrap
+bilibili.com##.pl__mask
