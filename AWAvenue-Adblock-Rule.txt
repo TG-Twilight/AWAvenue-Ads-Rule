@@ -67,15 +67,19 @@
 ||coolapk.com/v6/feed/detail?$replace=/detailSponsorCard//
 ||cfg.flurry.com^
 ||chat1.jd.com^
+||cm.bilibili.com^
 ||cnzz.com^
+||cfg.imtt.qq.com^
 ||collect.kugou.com^
+||dataflow.biliapi.com^
 ||data.flurry.com^
 ||doubleclick.net^
 ||eclick.baidu.com^
 ||entry.baidu.com^
 ||google-analytics.com^
 ||googleadservices.com^
-||hw-ot-ad.a.yximgs.com^$important
+||hw-ot-ad.a.yximgs.com^$important^
+||h-adashx.ut.taobao.com^
 ||h.trace.qq.com^
 ||henzanapp.com^
 ||hm.baidu.com^
@@ -115,6 +119,7 @@
 ||pangolin-sdk-toutiao-b.com^
 ||pgdt.ugdtimg.com^
 ||pglstatp-toutiao.com^
+||public.gdtimg.com^
 ||pig.pupuapi.com^
 ||qqdata.ab.qq.com^
 ||qzs.gdtimg.com^
@@ -145,9 +150,11 @@
 ||tracking.miui.com^
 ||tx-ad.a.yximgs.com^
 ||tx-kmpaudio.pull.yximgs.com^
+||log.tbs.qq.com^
 ||ucstat.baidu.com^
 ||ulogs.umengcloud.com^
 ||umeng.com^
+||ulogs.umeng.com^
 ||umengacs.m.taobao.com^
 ||union.baidu.com^
 ||us.l.qq.com^
@@ -180,3 +187,4 @@
 ||p.s.360.cn^
 ||dxp.baidu.com^
 ||cdn.ynuf.aliapp.org^
+||adashbc.ut.taobao.com^
