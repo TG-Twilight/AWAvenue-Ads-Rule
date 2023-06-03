@@ -152,3 +152,5 @@
 ||v2-ad.video.yximgs.com^$important
 ||hw-ot-ad.a.yximgs.com^$important
 ||v3-ad.video.yximgs.com^$important
+||api-cn.open.heytapmobi.com^
+||mdp-usertrace-cn.heytapmobi.com^
