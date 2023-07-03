@@ -1,5 +1,5 @@
 [-AWAvenue 秋风广告规则（AWAvenue-Adblock-Rule）-]
-! 规则版本: 0.7.0-beta
+! 规则版本: 0.7.5-beta
 ! 更新时间: 2023.07.03
 ! AWAvenue-Adblock-Rule
 ! 如果需要在其它规则中混合此规则，请在您的规则显眼处注明本规则的出处，谢谢！
@@ -48,6 +48,7 @@
 ||api-access.pangolin-sdk-toutiao5.com^
 ||api.htp.hubcloud.com.cn^
 ||apiyd.my91app.com^
+||api.hzsanjiaomao.com^
 ||b1-data.ads.heytapmobi.com^
 ||b2-data.ads.heytapmobi.com^
 ||b3-data.ads.heytapmobi.com^
@@ -142,6 +143,7 @@
 ||sdk.alibaba.com.ailbaba.me/xgapp.php/v\d/advert^
 ||sdk.alibaba.com.ailbaba.me/xgapp.php/v\d/top_notice^
 ||sdkoptedge.chinanetcenter.com^
+||sdktmp.hubcloud.com.cn^
 ||sf1-fe-tos.pglstatp-toutiao.com^
 ||sf2-fe-tos.pglstatp-toutiao.com^
 ||sf3-fe-tos.pglstatp-toutiao.com^
