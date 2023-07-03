@@ -1,6 +1,6 @@
 [-AWAvenue 秋风广告规则（AWAvenue-Adblock-Rule）-]
-! 规则版本: 0.6.0-beta
-! 更新时间: 2023.06.03
+! 规则版本: 0.7.0-beta
+! 更新时间: 2023.07.03
 ! AWAvenue-Adblock-Rule
 ! 如果需要在其它规则中混合此规则，请在您的规则显眼处注明本规则的出处，谢谢！
 ! 加入Telegram群组 秋风のとおり屋 (@AWAvenueCheat) 与编写者交流，期待着您的到来！
@@ -22,6 +22,8 @@
 ||ad.qq.com^
 ||ad.tencentmusic.com^
 ||adx-cn.anythinktech.com^
+||ad-scope.com^
+||ad-scope.com.cn^
 ||ad.xiaomi.com^
 ||ad.zijieapi.com^
 ||adcdn.tencentmusic.com^
@@ -41,6 +43,7 @@
 ||api-access.pangolin-sdk-toutiao3.com^
 ||api-access.pangolin-sdk-toutiao4.com^
 ||api-access.pangolin-sdk-toutiao5.com^
+||api.htp.hubcloud.com.cn^
 ||apiyd.my91app.com^
 ||b1-data.ads.heytapmobi.com^
 ||b2-data.ads.heytapmobi.com^
@@ -123,6 +126,10 @@
 ||pig.pupuapi.com^
 ||qqdata.ab.qq.com^
 ||qzs.gdtimg.com^
+||res.hubcloud.com.cn^
+||res1.hubcloud.com.cn^
+||res2.hubcloud.com.cn^
+||res3.hubcloud.com.cn^
 ||roi.soulapp.cn^
 ||sdk.e.qq.com^
 ||sdk.alibaba.com.ailbaba.me/xgapp.php/v\d/version^
@@ -158,6 +165,7 @@
 ||umengacs.m.taobao.com^
 ||union.baidu.com^
 ||us.l.qq.com^
+||v.adx.hubcloud.com.cn^
 ||v1-ad.video.yximgs.com^$important
 ||v1-lm.adukwai.com^
 ||v2-ad.video.yximgs.com^$important
