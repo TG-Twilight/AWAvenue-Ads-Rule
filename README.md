@@ -9,8 +9,9 @@ Use Adblock syntax to fight against various advertising SDKs in Android apps fro
 ## 订阅规则 | Subscription Rules
 
 - [Github订阅地址](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt)
-- [反代订阅地址-1](https://ghproxy.net/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt)
-- [反代订阅地址-2](https://ghproxy.com/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt)
+- [Aries反代订阅地址](https://js.aries.ovh/-----https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt)
+- [ghproxy反代订阅地址-1](https://ghproxy.net/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt)
+- [ghproxy反代订阅地址-2](https://ghproxy.com/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt)
 
 项目维护者 [Zutzo](https://github.com/zutzo)、[Flower](https://t.me/Reese_Rikkati)
 
@@ -36,7 +37,7 @@ Use Adblock syntax to fight against various advertising SDKs in Android apps fro
 
 0.6.0-bata：新增一些叫不上名的拦截~~0.6.0更新时忘了写，更新0.7.0也想不起来了~~
 
-0.7.0-bata：新增 ADSCOPE 广告sdk拦截、ADHUB（钧云） 广告sdk拦截。
+0.7.0-bata：新增 ADSCOPE 广告sdk拦截、ADHUB（钧云） 广告sdk拦截，添加了Aries.ovh的反代订阅。
 
 ## 如何使用 | How to use
 如同众多广告规则的导入流程一样，此广告规则使用[Adblock语法](https://help.adblockplus.org/hc/en-us/articles/360062733293)编写，故在理论上，但凡是支持Adblock语法的广告拦截工具均可将其导入并使用。（你也可以复制规则然后再粘贴进广告拦截工具的自定义拦截规则区域内，但那比你直接导入会麻烦许多）
