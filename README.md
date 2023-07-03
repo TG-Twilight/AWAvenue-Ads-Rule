@@ -36,7 +36,7 @@ Use Adblock syntax to fight against various advertising SDKs in Android apps fro
 
 0.6.0-bata：新增一些叫不上名的拦截~~0.6.0更新时忘了写，更新0.7.0也想不起来了~~
 
-0.7.0-bata：新增 ADSCOPE 广告sdk拦截、ADHUB（钧云） 广告sdk拦截，添加了Aries.ovh的反代订阅。
+0.7.0-bata：新增 ADSCOPE 广告sdk拦截、ADHUB（钧云） 广告sdk以及部分vivo和拼夕夕广告拦截。
 
 ## 如何使用 | How to use
 如同众多广告规则的导入流程一样，此广告规则使用[Adblock语法](https://help.adblockplus.org/hc/en-us/articles/360062733293)编写，故在理论上，但凡是支持Adblock语法的广告拦截工具均可将其导入并使用。（你也可以复制规则然后再粘贴进广告拦截工具的自定义拦截规则区域内，但那比你直接导入会麻烦许多）
