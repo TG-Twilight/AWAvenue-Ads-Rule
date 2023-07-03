@@ -34,6 +34,9 @@
 ||adsfile.bssdlbig.kugou.com^
 ||adstats.tencentmusic.com^
 ||advertising.apple.com^
+||adv.sec.miui.com^
+||adxlog-adnet.vivo.com.cn^
+||adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn^
 ||ali-ad.a.yximgs.com^
 ||analytics.google.com^
 ||android.bugly.qq.com^
@@ -73,6 +76,7 @@
 ||cm.bilibili.com^
 ||cnzz.com^
 ||cfg.imtt.qq.com^
+||c.sayhi.360.cn^
 ||collect.kugou.com^
 ||dataflow.biliapi.com^
 ||data.flurry.com^
@@ -98,10 +102,12 @@
 ||lm10111.jtrincc.cn^
 ||m.jingxi.com^
 ||masdkv6.3g.qq.com^
+||metok.sys.miui.com^
 ||mi.gdt.qq.com^
 ||mobads-logs.baidu.com^
 ||mobads.baidu.com^
 ||monitor.music.qq.com^
+||mon.snssdk.com^
 ||mtj.baidu.com^
 ||nsclick.baidu.com^
 ||open.e.kuaishou.cn^
@@ -151,6 +157,7 @@
 ||t12.baidu.com^
 ||tangram.e.qq.com^
 ||tdid.m.qq.com^
+||t-dsp.pinduoduo.com^
 ||tmead.y.qq.com^
 ||toblog.ctobsnssdk.com^
 ||tracker.ai.xiaomi.com^
