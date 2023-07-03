@@ -163,6 +163,11 @@
 ||t11.baidu.com^
 ||t12.baidu.com^
 ||tangram.e.qq.com^
+||tnc1-bjlgy.zijieapi.com^
+||tnc2-bjlgy.zijieapi.com^
+||tnc3-bjlgy.zijieapi.com^
+||tnc4-bjlgy.zijieapi.com^
+||tnc5-bjlgy.zijieapi.com^
 ||tdid.m.qq.com^
 ||t-dsp.pinduoduo.com^
 ||tmead.y.qq.com^
