@@ -23,6 +23,16 @@ Use Adblock syntax to fight against various advertising SDKs in Android apps fro
 #### 特别强调 此项目目前为个人维护项目，随缘更新，可以issues(个人更推荐你[进群](https://t.me/AWAvenueCheat)，更多时候我在那里)，但请别对我指手画脚，谢谢。
 #### 如果您有想屏蔽的广告sdk而本规则无法屏蔽的，也欢迎加入群聊反馈！期待着您的加入!
 
+## 如何使用 | How to use
+如同众多广告规则的导入流程一样，此广告规则使用[Adblock语法](https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists)编写，故在理论上，但凡是支持Adblock语法\从网络层面工作的广告拦截工具均可将其导入并使用。（你也可以复制规则然后再粘贴进广告拦截工具的自定义拦截规则区域内，但那比你直接导入会麻烦许多）
+
+### 关于配合各种Clash进行过滤工作的额外设置
+以 Shell Clash 为例，
+Clash功能设置 —— DNS运行模式 —— Redir host
+Clash进阶设置 —— 配置内置DNS服务 —— 修改基础DNS 改为本地最优的DNS地址（可设置多个，英文逗号分隔，不知道填什么？推荐：1.1.1.1、8.8.8.8、223.5.5.5）
+Clash进阶设置 —— 配置内置DNS服务 —— Dnsmasq转发 更改为开启状态
+AdGuard Home —— 设置 —— DNS设置 —— 上游DNS服务器 填写：127.0.0.1:1053(Shell Clash默认的DNS端口)
+
 ### 更新日志：
 
 0.2.0-beta：针对 穿x甲巨量、Txxxxxt Advertising Open Platform、快x广告开放平台、京x入侵式购物广告、Kiwi广告、Ali Ads等广告sdk的流氓部分 进行了有效的屏蔽。同时，支持拦截微信订阅号文章列表及文章内容页中 插入式/文末的视频/图片广告（拦截图片广告的图片加载和自动视频广告的视频自动下载、播放）
@@ -43,8 +53,6 @@ Use Adblock syntax to fight against various advertising SDKs in Android apps fro
 
 0.8.0-bata：新增 谷歌广告（CN）、OPPO应用商店开屏广告、优量汇、小红书等
 
-## 如何使用 | How to use
-如同众多广告规则的导入流程一样，此广告规则使用[Adblock语法](https://help.adblockplus.org/hc/en-us/articles/360062733293)编写，故在理论上，但凡是支持Adblock语法的广告拦截工具均可将其导入并使用。（你也可以复制规则然后再粘贴进广告拦截工具的自定义拦截规则区域内，但那比你直接导入会麻烦许多）
 
 ## 推荐的广告过滤工具 | Recommended Tools
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)    *路由器安装，这是广告过滤工具较为理想的工作位置*
