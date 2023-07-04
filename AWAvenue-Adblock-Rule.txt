@@ -144,9 +144,6 @@
 ||res2.hubcloud.com.cn^
 ||res3.hubcloud.com.cn^
 ||roi.soulapp.cn^
-||sdk.alibaba.com.ailbaba.me/xgapp.php/v\d/advert^
-||sdk.alibaba.com.ailbaba.me/xgapp.php/v\d/top_notice^
-||sdk.alibaba.com.ailbaba.me/xgapp.php/v\d/version^
 ||sdk.e.qq.com^
 ||sdkoptedge.chinanetcenter.com^
 ||sdktmp.hubcloud.com.cn^
