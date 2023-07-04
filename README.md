@@ -16,6 +16,7 @@ Use Adblock syntax to fight against various advertising SDKs in Android apps fro
 
 同时，感谢 [杰哥](https://t.me/JessTeesdale) 、[Aries](https://t.me/NoAries) 提供的反代订阅
 
+
 ## 关于此广告规则 | About
 **十分厌恶**某些广告sdk的**侵入式**展示，这非常影响使我的用体验。及考虑到长辈们也在使用Android设备，在他们面对无良广告时，大多毫无还手之力。他们的与子女沟通联系的设备被灌满垃圾；他们自由掌控设备的权利被肆意践踏……最后不得不换回老年机……
 **为了保护他们自由、舒适、流畅的使用Android设备权利不受无良广告商之践踏，及让我自己使用时尽可能不被无良广告恶心**，故制作此规则，以期与无良广告sdk能有一搏之力。
@@ -23,15 +24,20 @@ Use Adblock syntax to fight against various advertising SDKs in Android apps fro
 #### 特别强调 此项目目前为个人维护项目，随缘更新，可以issues(个人更推荐你[进群](https://t.me/AWAvenueCheat)，更多时候我在那里)，但请别对我指手画脚，谢谢。
 #### 如果您有想屏蔽的广告sdk而本规则无法屏蔽的，也欢迎加入群聊反馈！期待着您的加入!
 
+
 ## 如何使用 | How to use
 如同众多广告规则的导入流程一样，此广告规则使用[Adblock语法](https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists)编写，故在理论上，但凡是支持Adblock语法\从网络层面工作的广告拦截工具均可将其导入并使用。（你也可以复制规则然后再粘贴进广告拦截工具的自定义拦截规则区域内，但那比你直接导入会麻烦许多）
 
 ### 关于配合各种Clash进行过滤工作的额外设置
 以 Shell Clash 为例，
 Clash功能设置 —— DNS运行模式 —— Redir host
+
 Clash进阶设置 —— 配置内置DNS服务 —— 修改基础DNS 改为本地最优的DNS地址（可设置多个，英文逗号分隔，不知道填什么？推荐：1.1.1.1、8.8.8.8、223.5.5.5）
+
 Clash进阶设置 —— 配置内置DNS服务 —— Dnsmasq转发 更改为开启状态
+
 AdGuard Home —— 设置 —— DNS设置 —— 上游DNS服务器 填写：127.0.0.1:1053(Shell Clash默认的DNS端口)
+
 
 ### 更新日志：
 
