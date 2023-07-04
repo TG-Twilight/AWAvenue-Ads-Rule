@@ -17,9 +17,6 @@
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
 
-^http?:\/\/sdk\.alibaba\.com\.ailbaba\.me\/xgapp\.php\/v\d\/advert\?position=[^2]+
-^http?:\/\/sdk\.alibaba\.com\.ailbaba\.me\/xgapp\.php\/v\d\/top_notice\?
-^http?:\/\/sdk\.alibaba\.com\.ailbaba\.me\/xgapp\.php\/v\d\/version
 ||1010pic.com^
 ||ad-scope.com.cn^
 ||ad-scope.com^
@@ -76,16 +73,6 @@
 ||cm.bilibili.com^
 ||cnzz.com^
 ||collect.kugou.com^
-||coolapk.com/v6/feed/detail?$replace=/detailSponsorCard//
-||coolapk.com/v6/feed/detail?$replace=/extra_entities//
-||coolapk.com/v6/feed/detail?$replace=/extra_title//
-||coolapk.com/v6/feed/detail?$replace=/include_goods//
-||coolapk.com/v6/main/indexV8?$replace=/\,\{.*?"entityType": "card"\,"entityTemplate":"apkImageCard".*?\}\,\{"id"/,{"id"/
-||coolapk.com/v6/main/indexV8?$replace=/\{"entityType":"card"\,"entityTemplate":"listCard".*?\}\,\{"id/{"id/
-||coolapk.com/v6/main/indexV?$replace=/extra_entities//
-||coolapk.com/v6/main/init?$replace=/\{"data":\[\{"entityType":"card"\,"entityTemplate":"textCard"\,"title":"\\u70ed\\u95e8\\u641c\\u7d22".*?\}\,\{"entityType":"card"\,"entityTemplate":"configCard"/\{"data":[\{"entityType":"card"\,"entityTemplate":"configCard"/
-||coolapk.com/v6/page/dataList?$replace=/extra_entities//
-||coolapk.com/v6/search?type=hotSearch$replace=/\{"data":\[.*\]/{"data":[]/
 ||data.flurry.com^
 ||dataflow.biliapi.com^
 ||doubleclick.net^
