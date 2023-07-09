@@ -94,7 +94,7 @@
 ||h-adashx.ut.taobao.com^
 ||h.trace.qq.com^
 ||henzanapp.com^
-||heytapmobi.com^
+||ads.heytapmobi.com^
 ||hm.baidu.com^
 ||hmma.baidu.com^
 ||httpdns.bcelive.com^
