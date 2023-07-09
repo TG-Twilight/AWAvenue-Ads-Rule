@@ -150,7 +150,6 @@
 ||public.gdtimg.com^
 ||qqdata.ab.qq.com^
 ||qzs.gdtimg.com^
-||qzs.gdtimg.com^
 ||res.hubcloud.com.cn^
 ||res1.hubcloud.com.cn^
 ||res2.hubcloud.com.cn^
