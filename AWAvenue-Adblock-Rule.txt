@@ -134,14 +134,7 @@
 ||otheve.beacon.qq.com^
 ||p.l.qq.com^
 ||p.s.360.cn^
-||p1-jx.adukwai.com^
-||p1-lm.adukwai.com^
-||p2-jx.adukwai.com^
-||p2-lm.adukwai.com^
-||p3-lm.adukwai.com^
 ||p3-tt.byteimg.com^
-||p4-lm.adukwai.com^
-||p5-lm.adukwai.com^
 ||pagead*.google.com^
 ||pangolin-sdk-toutiao-b.com^
 ||pgdt.ugdtimg.com^
@@ -181,7 +174,6 @@
 ||tx-kmpaudio.pull.yximgs.com^
 ||ucstat.baidu.com^
 ||ulog-sdk.gifshow.com^
-||ulogs.umeng.com^
 ||ulogs.umengcloud.com^
 ||umeng.com^
 ||umengacs.m.taobao.com^
@@ -189,13 +181,8 @@
 ||us.l.qq.com^
 ||v.adx.hubcloud.com.cn^
 ||v1-ad.video.yximgs.com^
-||v1-lm.adukwai.com^
 ||v2-ad.video.yximgs.com^
-||v2-lm.adukwai.com^
 ||v3-ad.video.yximgs.com^
-||v3-lm.adukwai.com^
-||v4-lm.adukwai.com^
-||v5-lm.adukwai.com^
 ||video-dsp.pddpic.com^
 ||w1.askwai.com^
 ||w1.bskwai.com^
