@@ -1,6 +1,7 @@
 [-AWAvenue 秋风广告规则（AWAvenue-Adblock-Rule）-]
-! 规则版本: 0.8.0-beta
-! 更新时间: 2023.07.04
+! Title: [-AWAvenue 秋风广告规则（AWAvenue-Adblock-Rule）-]
+! 规则版本: 0.8.9-beta
+! 更新时间: 2023.07.10
 ! AWAvenue-Adblock-Rule
 ! 如果需要在其它规则中混合此规则，请在您的规则显眼处注明本规则的出处，谢谢！
 ! 加入Telegram群组 秋风のとおり屋 (@AWAvenueCheat) 与编写者交流，期待着您的到来！
@@ -16,8 +17,6 @@
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.19
 !
-
-
 ||1010pic.com^
 ||ad-scope.com.cn^
 ||ad-scope.com^
@@ -59,6 +58,7 @@
 ||api-access.pangolin-sdk-toutiao3.com^
 ||api-access.pangolin-sdk-toutiao4.com^
 ||api-access.pangolin-sdk-toutiao5.com^
+||api-htp.beizi.biz^
 ||api.htp.hubcloud.com.cn^
 ||api.hzsanjiaomao.com^
 ||apiyd.my91app.com^
@@ -117,6 +117,7 @@
 ||log.tbs.qq.com^
 ||m.jingxi.com^
 ||masdkv6.3g.qq.com^
+||mdp-usertrace-cn.heytapmobi.com^
 ||metok.sys.miui.com^
 ||mi.gdt.qq.com^
 ||mobads-logs.baidu.com^
@@ -155,6 +156,7 @@
 ||res2.hubcloud.com.cn^
 ||res3.hubcloud.com.cn^
 ||roi.soulapp.cn^
+||sdk.beizi.biz^
 ||sdk.e.qq.com^
 ||sdkoptedge.chinanetcenter.com^
 ||sdktmp.hubcloud.com.cn^
@@ -163,9 +165,6 @@
 ||stat.y.qq.com^
 ||success.ctobsnssdk.com^
 ||t-dsp.pinduoduo.com^
-||t10.baidu.com^
-||t11.baidu.com^
-||t12.baidu.com^
 ||tangram.e.qq.com^
 ||tdid.m.qq.com^
 ||tmead.y.qq.com^
@@ -183,10 +182,10 @@
 ||ulog-sdk.gifshow.com^
 ||ulogs.umeng.com^
 ||ulogs.umengcloud.com^
-||umeng.com^
 ||umengacs.m.taobao.com^
 ||union.baidu.com^
 ||us.l.qq.com^
+||v.adintl.cn^
 ||v.adx.hubcloud.com.cn^
 ||v1-ad.video.yximgs.com^
 ||v1-lm.adukwai.com^
