@@ -22,6 +22,7 @@
 ||ad-scope.com^
 ||ad.*.xiaomi.com^
 ||ad.partner.gifshow.com^
+||ad-log-upload.mihoyo.com^
 ||ad.qq.com^
 ||ad.tencentmusic.com^
 ||ad.xiaomi.com^
