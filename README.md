@@ -51,16 +51,17 @@ AdGuard Home —— 设置 —— DNS设置 —— 上游DNS服务器 填写：1
 
 0.5.0-beta：新增拦截 云猿广告sdk ，屏蔽部分微信小程序广告
 
-0.5.5-bata：新增拦截(测试，不生效属正常) 酷安 提到的好物、什么值得买、去除热搜、随机应用推荐、评论区下某广告，更新穿山甲sdk拦截等
+0.5.5-beta：新增拦截(测试，不生效属正常) 酷安 提到的好物、什么值得买、去除热搜、随机应用推荐、评论区下某广告，更新穿山甲sdk拦截等
 
-0.6.0-bata：新增一些叫不上名的拦截~~0.6.0更新时忘了写，更新0.7.0也想不起来了~~
+0.6.0-beta：新增一些叫不上名的拦截~~0.6.0更新时忘了写，更新0.7.0也想不起来了~~
 
-0.7.5-bata：新增 ADSCOPE广告sdk、ADHUB广告sdk、猫眼广告sdk、360 ads sdk ，更新部分 vivo 与 并夕夕、JD购物广告、zijie Aads sdk 等拦截，经过测试，作业精灵 可无广告正常使用
+0.7.5-beta：新增 ADSCOPE广告sdk、ADHUB广告sdk、猫眼广告sdk、360 ads sdk ，更新部分 vivo 与 并夕夕、JD购物广告、zijie Aads sdk 等拦截，经过测试，作业精灵 可无广告正常使用
 
-0.8.0-bata：新增 谷歌广告（CN）、OPPO应用商店开屏广告、优量汇、小红书等
+0.8.0-beta：新增 谷歌广告（CN）、OPPO应用商店开屏广告、优量汇、小红书等
 
-0.8.9-bata：新增拦截 ADSCOPE 的“beizi”广告，新增拦截 章鱼广告 ，新增拦截 一些 heytap(obbo)广告域名，修复了对于百度图片链接的误杀，同时为规则添加了“title”
+0.8.9-beta：新增拦截 ADSCOPE 的“beizi”广告，新增拦截 章鱼广告 ，新增拦截 一些 heytap(obbo)广告域名，修复了对于百度图片链接的误杀，同时为规则添加了“title”
 
+0.9.2-beta：新增拦截 米游社日志 酷狗音乐统计 Adjust GamePass，加强拦截 字节跳动
 
 ## 推荐的广告过滤工具 | Recommended Tools
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)    *路由器安装，这是广告过滤工具较为理想的工作位置*
