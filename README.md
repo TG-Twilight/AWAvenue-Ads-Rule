@@ -61,6 +61,7 @@ AdGuard Home —— 设置 —— DNS设置 —— 上游DNS服务器 填写：1
 
 0.8.9-bata：新增拦截 ADSCOPE 的“beizi”广告，新增拦截 章鱼广告 ，新增拦截 一些 heytap(obbo)广告域名，修复了对于百度图片链接的误杀，同时为规则添加了“title”
 
+0.9.2-bata：新增拦截 米游社日志 酷狗音乐统计 Adjust GamePass，加强拦截 字节跳动
 
 ## 推荐的广告过滤工具 | Recommended Tools
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)    *路由器安装，这是广告过滤工具较为理想的工作位置*
