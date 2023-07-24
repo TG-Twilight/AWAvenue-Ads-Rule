@@ -69,7 +69,7 @@ AdGuard Home —— 设置 —— DNS设置 —— 上游DNS服务器 填写：1
 
 0.9.2-beta：新增拦截 米游社日志 酷狗音乐统计 Adjust GamePass，加强拦截 字节跳动
 
-0.9.7-beta：新增拦截 meizi 银联广告 推必安
+0.9.7-beta：新增拦截 银联广告 推必安
 
 ## 推荐的广告过滤工具 | Recommended Tools
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)    *路由器安装，这是广告过滤工具较为理想的工作位置*
