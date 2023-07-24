@@ -1,6 +1,6 @@
 [-AWAvenue 秋风广告规则（AWAvenue-Adblock-Rule）-]
 ! Title: [-AWAvenue 秋风广告规则（AWAvenue-Adblock-Rule）-]
-! 规则版本: 0.9.2-beta
+! 规则版本: 0.9.7-beta
 ! 更新时间: 2023.07.23
 ! AWAvenue-Adblock-Rule
 ! 如果需要在其它规则中混合此规则，请在您的规则显眼处注明本规则的出处，谢谢！
@@ -15,7 +15,7 @@
 ! 本项目遵循 署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0) 许可。
 ! This project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
 !
-! Compiled by @adguard/hostlist-compiler v1.0.19
+! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 ||*-ad-*.byteimg.com^
 ||*-ad.wtzw.com^
@@ -35,6 +35,7 @@
 ||adkwai.com^
 ||ad-log-upload.mihoyo.com^
 ||ads*-normal-lq.zijieapi.com^
+||ads.95516.com^
 ||ads.google.cn^
 ||ads.heytapmobi.com^
 ||ads.music.126.net^
@@ -133,6 +134,7 @@
 ||mobads.baidu.com^
 ||mobads-logs.baidu.com^
 ||mobads-pre-config.cdn.bcebos.com^
+||mobileservice.cn^
 ||mon.snssdk.com^
 ||monitor.music.qq.com^
 ||mtj.baidu.com^
@@ -221,7 +223,7 @@
 ||w1.xskwai.com^
 ||w1.yskwai.com^
 ||w1.zskwai.com^
-||www.csjplatform.com^
+||csjplatform.com^
 ||wxa.wxs.qq.com^
 ||wxsnsdy.wxs.qq.com^
 ||wxsnsdythumb.wxs.qq.com^
