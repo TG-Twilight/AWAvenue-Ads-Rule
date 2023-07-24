@@ -26,5 +26,6 @@
 /^ad(s)?.*/
 /\.ad\./
 /-ad/
-
+/.+(\.)log\.aliyuncs\.com/
 ! Domains 部分
+||macpaw.com^
