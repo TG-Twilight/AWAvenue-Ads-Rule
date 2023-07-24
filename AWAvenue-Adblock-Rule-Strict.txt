@@ -1,6 +1,6 @@
 [-AWAvenue 秋风广告规则(Strict版)（AWAvenue-Adblock-Rule-Strict）-]
 ! Title: [-AWAvenue 秋风广告规则(Strict版)（AWAvenue-Adblock-Rule-Strict）-]
-! 规则版本: 0.0.1-dev
+! 规则版本: 0.0.2-dev
 ! 更新时间: 2023.07.23
 ! AWAvenue-Adblock-Rule-Strict
 ! 本规则与AWAvenue-Adblock-Rule不重合，效果更激进，请再三思考后使用！
