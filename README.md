@@ -8,7 +8,7 @@
 <h1 align="center">-AWAvenue 秋风广告规则 -</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/Y33pdy0/AWAvenue-AWAvenue-Adblock-Rule.png">
+  <img src="[https://i.ibb.co/Y33pdy0/AWAvenue-AWAvenue-Adblock-Rule.png](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue%20%E7%A7%8B%E9%A3%8E%E5%B9%BF%E5%91%8A%E8%A7%84%E5%88%99%EF%BC%88AWAvenue-Adblock-Rule%EF%BC%89.png)">
 </p>
 <p align="center">
  <img src="https://img.shields.io/github/stars/TG-Twilight/AWAvenue-Adblock-Rule?style=for-the-badge&colorA=FFEBEB&colorB=FFD9DC&logo=github&logoColor=black">
