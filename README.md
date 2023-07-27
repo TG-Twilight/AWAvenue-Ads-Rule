@@ -1,7 +1,9 @@
 <div align="left">
 <a href="/README.md">中文</a>&nbsp;|&nbsp;
-<a href="/README_en-US.md">English</a> 
+<a href="/README_en-US.md">English</a> &nbsp;|&nbsp;
+<a href="/README_Update.md">更新日志</a> 
 </div>
+
 
 
 
@@ -23,9 +25,14 @@
 
 <p align="center"><b>干掉所有无良广告<br>Eliminate All Malicious Ads</b></p>
 
-使用Adblock语法，从网络层面对抗Android应用中的各种广告SDK，阻止其加载。
 
-Use Adblock syntax to fight against various advertising SDKs in Android apps from the network level.
+## 秋风广告规则是什么？有什么特点？
+
+使用Adblock语法，从网络层面对抗(拦截)Android应用中的各种流氓广告SDK，阻止其加载，从而达到去广告的目的。
+
+相较于其它去广告的手段，这种从网络层面过滤的方式成本低、使用方便快捷、受益范围广(例如路由器部署)，在无感过滤的同时不影响您正常使用原有的app。
+
+以及，通杀一切被我们拦截的广告，您无需对每个有需求的应用进行单独设置。
 
 ## 订阅规则 | Subscription Rules
 
@@ -65,32 +72,6 @@ Clash进阶设置 —— 配置内置DNS服务 —— Dnsmasq转发 更改为开
 
 AdGuard Home —— 设置 —— DNS设置 —— 上游DNS服务器 填写：127.0.0.1:1053(Shell Clash默认的DNS端口)
 
-
-### 更新日志：
-
-0.2.0-beta：针对 穿x甲巨量、Txxxxxt Advertising Open Platform、快x广告开放平台、京x入侵式购物广告、Kiwi广告、Ali Ads等广告sdk的流氓部分 进行了有效的屏蔽。同时，支持拦截微信订阅号文章列表及文章内容页中 插入式/文末的视频/图片广告（拦截图片广告的图片加载和自动视频广告的视频自动下载、播放）
-
-0.3.0-beta：新增 Apple Ads、UMENG、Google Analysis、Google Ads、DoubleClick、XiaoMi Ads 拦截
-
-0.4.1-beta：新增 部分baidu adsdk、QQ Music的广告屏蔽
-
-0.4.2-beta：新增拦截 Fluurry统计、酷狗统计与广告、小米跟踪、百度跟踪、QQ Bugly，补充拦截 Umeng
-
-0.5.0-beta：新增拦截 云猿广告sdk ，屏蔽部分微信小程序广告
-
-0.5.5-beta：新增拦截(测试，不生效属正常) 酷安 提到的好物、什么值得买、去除热搜、随机应用推荐、评论区下某广告，更新穿山甲sdk拦截等
-
-0.6.0-beta：新增一些叫不上名的拦截~~0.6.0更新时忘了写，更新0.7.0也想不起来了~~
-
-0.7.5-beta：新增 ADSCOPE广告sdk、ADHUB广告sdk、猫眼广告sdk、360 ads sdk ，更新部分 vivo 与 并夕夕、JD购物广告、zijie Aads sdk 等拦截，经过测试，作业精灵 可无广告正常使用
-
-0.8.0-beta：新增 谷歌广告（CN）、OPPO应用商店开屏广告、优量汇、小红书等
-
-0.8.9-beta：新增拦截 ADSCOPE 的“beizi”广告，新增拦截 章鱼广告 ，新增拦截 一些 heytap(obbo)广告域名，修复了对于百度图片链接的误杀，同时为规则添加了“title”
-
-0.9.2-beta：新增拦截 米游社日志 酷狗音乐统计 Adjust GamePass，加强拦截 字节跳动
-
-0.9.5-beta：新增拦截 银联广告 推必安
 
 ## 推荐的广告过滤工具 | Recommended Tools
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)    *路由器安装，这是广告过滤工具较为理想的工作位置*
