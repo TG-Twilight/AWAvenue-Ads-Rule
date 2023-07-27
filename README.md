@@ -1,6 +1,27 @@
-# -AWAvenue 秋风广告规则（AWAvenue-Adblock-Rule）-
+<div align="left">
+<a href="/README.md">中文</a>&nbsp;|&nbsp;
+<a href="/README_en-US.md">English</a> 
+</div>
 
-![秋风のとおり道Github](https://user-images.githubusercontent.com/121682528/222716105-d5582f28-7139-4f58-8ee4-e2cb8b1fde31.png)
+
+
+<h1 align="center">-AWAvenue 秋风广告规则 -</h1>
+
+<p align="center">
+  <img src="https://i.ibb.co/Y33pdy0/AWAvenue-AWAvenue-Adblock-Rule.png">
+</p>
+<p align="center">
+ <img src="https://img.shields.io/github/stars/TG-Twilight/AWAvenue-Adblock-Rule?style=for-the-badge&colorA=FFEBEB&colorB=FFD9DC&logo=github&logoColor=black">
+  <a href="https://t.me/AWAvenue">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&colorA=DAE9FC&colorB=056DE8&label=%E9%A2%91%E9%81%93&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DAWAvenue" alt="Telegram">
+  </a>
+  <a href="https://t.me/AWAvenueCheat">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&colorA=DAE9FC&colorB=056DE8&label=%E7%BE%A4%E8%81%8A&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DAWAvenueCheat" alt="Telegram">
+  </a>
+</p>
+
+
+<p align="center"><b>干掉所有无良广告<br>Eliminate All Malicious Ads</b></p>
 
 使用Adblock语法，从网络层面对抗Android应用中的各种广告SDK，阻止其加载。
 
