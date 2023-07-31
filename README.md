@@ -83,4 +83,8 @@ AdGuard Home —— 设置 —— DNS设置 —— 上游DNS服务器 填写：1
 
 ---
 
-> [@Github](https://github.com/TG-Twilight/AWAvenue-Adblock-Rule) · [@Telegram Channel](https://t.me/AWAvenue) · [@Telegram Group](https://t.me/AWAvenueCheat) 
+> [@Github](https://github.com/TG-Twilight/AWAvenue-Adblock-Rule) · [@Telegram Channel](https://t.me/AWAvenue) · [@Telegram Group](https://t.me/AWAvenueCheat)
+
+## 赞助商 | Special sponsors
+
+<img src="https://s1.ax1x.com/2023/07/31/pP9QVBt.jpg" width="20" height="20"/> [猫猫云(Maomao Cloud) - 世界互联，网络零距离！](https://maomaovpn.com/index.php#/register?code=dfvKEI9h)
