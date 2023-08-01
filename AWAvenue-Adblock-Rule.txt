@@ -157,6 +157,7 @@
 ||mobads-logs.baidu.com^
 ||mobads-pre-config.cdn.bcebos.com^
 ||mobileservice.cn^
+||mobileanalytics.*.amazonaws.com^
 ||mon.snssdk.com^
 ||monitor.music.qq.com^
 ||mtj.baidu.com^
