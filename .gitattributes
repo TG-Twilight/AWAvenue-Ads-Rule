@@ -1,0 +1,2 @@
+# Fix language classification on GitHub.com
+*.txt linguist-language=Adblock linguist-detectable
