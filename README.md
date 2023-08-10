@@ -31,9 +31,8 @@
 使用Adblock语法，从网络层面对抗(拦截)Android应用中的各种流氓广告SDK，阻止其加载，从而达到去广告的目的。
 
 相较于其它去广告的手段，这种从网络层面过滤的方式成本低、使用方便快捷、受益范围广(例如路由器部署)，您无需对每个有需求的app进行单独设置，在无感过滤的同时不影响您正常使用原有的app。
-
-
-
+<br />
+<br />
 ## 订阅规则 | Subscription Rules
 
 - [Github订阅地址](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt)
@@ -44,20 +43,20 @@
 - [Github订阅地址](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule-Strict.txt)
 - [ghproxy反代订阅地址-1](https://ghproxy.net/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule-Strict.txt)
 - [ghproxy反代订阅地址-2](https://ghproxy.com/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule-Strict.txt)
-  
-
+ <br />
+ 
  *普通用户建议仅订阅普通版(AWAvenue-Adblock-Rule)即可，激进版多用于整活/探索，订阅后会对您正常上网产生一定的影响，除非您清楚自己在做什么，否则请不要订阅此规则！*
 
+ *若您在订阅本广告规则后，仍发现应用内流氓广告sdk在正常展示广告，欢迎你进群反馈！*
 
-#### 特别强调 此项目目前为个人维护项目，随缘更新，可以issues(个人更推荐你[进群](https://t.me/AWAvenueCheat)，更多时候我在那里，Pr前请到群里打个招呼)，但请别对我指手画脚，谢谢。
-如果您有想屏蔽的广告sdk而本规则无法屏蔽的，也欢迎加入群聊反馈！期待着您的加入!
-
-
-
+个人项目，随缘维护更新，欢迎issues和Pr(**Pr前请到群里打个招呼)**),推荐各位[进群](https://t.me/AWAvenueCheat)，大家一起吹水聊天。
+<br />
+<br />
 ## 如何使用 | How to use
 复制你需要的订阅链接，将其导入到 AdGuard/AdGuard Home 的 DNS黑名单 中，即可生效。
-
-
+<br />
+<br />
+<br />
 ### 关于配合各种Clash进行过滤工作的额外设置
 以 Shell Clash 为例，
 Clash功能设置 —— DNS运行模式 —— Redir host
@@ -67,8 +66,8 @@ Clash进阶设置 —— 配置内置DNS服务 —— 修改基础DNS 改为本�
 Clash进阶设置 —— 配置内置DNS服务 —— Dnsmasq转发 更改为开启状态
 
 AdGuard Home —— 设置 —— DNS设置 —— 上游DNS服务器 填写：127.0.0.1:1053(Shell Clash默认的DNS端口)
-
-
+<br />
+<br />
 ## 推荐的广告过滤工具 | Recommended Tools
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)    *路由器安装，这是广告过滤工具较为理想的工作位置*
 
@@ -84,6 +83,8 @@ AdGuard Home —— 设置 —— DNS设置 —— 上游DNS服务器 填写：1
 ---
 
 > [@Github](https://github.com/TG-Twilight/AWAvenue-Adblock-Rule) · [@Telegram Channel](https://t.me/AWAvenue) · [@Telegram Group](https://t.me/AWAvenueCheat)
+
+<br />
 
 ## 赞助商 | Special sponsors
 
