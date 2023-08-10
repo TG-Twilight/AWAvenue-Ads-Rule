@@ -26,4 +26,6 @@
 
 0.9.5-beta：新增拦截 银联广告 推必安
 
-0.9.8-beta：更新拦截 statsig-api 追踪，新增 MIUI 应用安装程序云控检查拦截
+0.9.7-beta：更新拦截 statsig-api 追踪，新增 MIUI 应用安装程序云控检查拦截
+
+0.9.8-beta：新增拦截 sigmob 广告，修复一些误杀
