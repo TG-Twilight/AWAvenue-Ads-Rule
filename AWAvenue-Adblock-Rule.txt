@@ -22,6 +22,9 @@
 ||*-ad.wtzw.com^
 ||1010pic.com^
 ||a0.app.xiaomi.com^
+||adapi.izuiyou.com^
+||ad.bwton.com^
+||adcolony.com^
 ||ad.*.xiaomi.com^
 ||ad.partner.gifshow.com^
 ||ad.qq.com^
@@ -180,6 +183,7 @@
 ||p.l.qq.com^
 ||p.s.360.cn^
 ||p3-tt.byteimg.com^
+||p*-ad-sign.byteimg.com^
 ||pagead*.google.com^
 ||pagead2.googlesyndication.com^
 ||pangolin-sdk-toutiao-b.com^
@@ -233,6 +237,7 @@
 ||v2-ad.video.yximgs.com^
 ||v3-ad.video.yximgs.com^
 ||video-dsp.pddpic.com^
+||vungle.com^
 ||w1.askwai.com^
 ||w1.bskwai.com^
 ||w1.cskwai.com^
@@ -259,6 +264,7 @@
 ||w1.xskwai.com^
 ||w1.yskwai.com^
 ||w1.zskwai.com^
+||w*.*skwai.com^
 ||wxa.wxs.qq.com^
 ||wxsnsdy.wxs.qq.com^
 ||wxsnsdythumb.wxs.qq.com^
