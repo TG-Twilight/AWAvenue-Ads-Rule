@@ -29,3 +29,5 @@
 0.9.7-beta：更新拦截 statsig-api 追踪，新增 MIUI 应用安装程序云控检查拦截
 
 0.9.8-beta：新增拦截 sigmob 广告，修复一些误杀
+
+0.9.9-beta：新增拦截 南昌地铁官方APP广告、最右app广告、Vungle ads、adcolony ads，修复拦截 字节ads
