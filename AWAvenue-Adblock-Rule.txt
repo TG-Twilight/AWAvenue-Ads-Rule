@@ -1,7 +1,7 @@
 [-AWAvenue 秋风广告规则（AWAvenue-Adblock-Rule）-]
 ! Title: [-AWAvenue 秋风广告规则（AWAvenue-Adblock-Rule）-]
-! 规则版本: 0.9.9-beta
-! 更新时间: 2023.08.16
+! 规则版本: 0.9.9-beta-咕咕咕
+! 更新时间: 2023.08.22
 ! AWAvenue-Adblock-Rule
 ! 如果需要在其它规则中混合此规则，请在您的规则显眼处注明本规则的出处，谢谢！
 ! 加入Telegram群组 秋风のとおり屋 (@AWAvenueCheat) 与编写者交流，期待着您的到来！
@@ -21,6 +21,7 @@
 ||*-ad-*.byteimg.com^
 ||*-ad.wtzw.com^
 ||1010pic.com^
+||8le8le.com^
 ||a0.app.xiaomi.com^
 ||adapi.izuiyou.com^
 ||ad.bwton.com^
@@ -35,28 +36,37 @@
 ||adashbc.ut.taobao.com^
 ||adcdn.tencentmusic.com^
 ||adclick.tencentmusic.com^
+||ad.cyapi.cn^
 ||adexpo.tencentmusic.com^
 ||adjust.cn^
 ||adkwai.com^
 ||ad-log-upload.mihoyo.com^
+||ads-api-o.api.leiniao.com^
 ||adservice.sigmob.cn^
 ||ads*-normal-lq.zijieapi.com^
 ||ads.95516.com^
+||adsfilebssdlbig.ali.kugou.com^
 ||ads.google.cn^
 ||ads.heytapmobi.com^
 ||ads.music.126.net^
 ||ads.oppomobile.com^
+||adserviceretry.kugou.com^
+||ads.service.kugou.com^
 ||ad-scope.com.cn^
 ||ad-scope.com^
+||ad-sdk.huxiu.com^
 ||adsense.google.cn^
 ||adservice.google.cn^
 ||adsfile.bssdlbig.kugou.com^
+||adsfilebssdlbig.ali.kugou.com^
+||adsfilebssdlbig.*.kugou.com^
 ||ads-img-qc.xhscdn.com^
 ||adstats.tencentmusic.com^
 ||ads-video-al.xhscdn.com^
 ||ads-video-qc.xhscdn.com^
 ||adtrack.quark.cn^
 ||adukwai.com^
+||adview.cn^
 ||adv.sec.miui.com^
 ||advertiseonbing.azureedge.net^
 ||advertising.apple.com^
@@ -64,6 +74,7 @@
 ||adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn^
 ||adxlog-adnet.vivo.com.cn^
 ||ali-ad.a.yximgs.com^
+||analytics.126.net^
 ||analysis.yozocloud.cn^
 ||analytics.95516.com^
 ||analytics.google.com^
@@ -77,6 +88,8 @@
 ||api-access.pangolin-sdk-toutiao3.com^
 ||api-access.pangolin-sdk-toutiao4.com^
 ||api-access.pangolin-sdk-toutiao5.com^
+||api-access.pangolin-sdk-toutiao*.com^
+||api-ad-product.huxiu.com^
 ||api-adservices.apple.com^
 ||api-htp.beizi.biz^
 ||api.statsig.com^
@@ -89,6 +102,7 @@
 ||beacon.qq.com^
 ||beacon-api.aliyuncs.com^
 ||beacons.gvt2.com^
+||beizi.biz^
 ||bugly.qq.com^
 ||c.sayhi.360.cn^
 ||catalog.fjwhcbsh.com^
@@ -96,6 +110,7 @@
 ||cdn.ynuf.aliapp.org^
 ||cfg.imtt.qq.com^
 ||chat1.jd.com^
+||clog.miguvideo.com^
 ||cm.bilibili.com^
 ||cnzz.com^
 ||collect.kugou.com^
@@ -103,6 +118,8 @@
 ||crashlyticsreports-pa.googleapis.com^
 ||csjplatform.com^
 ||data.mistat.xiaomi.com^
+||data-sdk-uuid-log.d.meituan.net^
+||ata-sdk-uuid-report.dreport.meituan.net^
 ||dataflow.biliapi.com^
 ||dlogs.bwton.com^
 ||doubleclick.net^
@@ -152,6 +169,8 @@
 ||ks.pull.yximgs.com^
 ||lm10111.jtrincc.cn^
 ||log.aispeech.com^
+||log-api.huxiu.com^
+||log-api-mn.huxiu.com^
 ||log.avlyun.com^
 ||log.avlyun.sec.intl.miui.com^
 ||log.tbs.qq.com^
@@ -162,6 +181,8 @@
 ||logupdate.avlyun.sec.miui.com^
 ||log-upload.mihoyo.com^
 ||log-upload-os.hoyoverse.com^
+||log.stat.kugou.com^
+||log.web.kugou.com^
 ||masdkv6.3g.qq.com^
 ||mdp-usertrace-cn.heytapmobi.com^
 ||metok.sys.miui.com^
@@ -184,6 +205,7 @@
 ||open.e.kuaishou.com^
 ||open.kuaishouzt.com^
 ||open.kwaizt.com^
+||optimus-ads.amap.com^
 ||oth.str.mdt.qq.com^
 ||p.l.qq.com^
 ||p.s.360.cn^
@@ -208,9 +230,11 @@
 ||sdk.e.qq.com^
 ||sdkoptedge.chinanetcenter.com^
 ||sdktmp.hubcloud.com.cn^
+||sensors-log.dongqiudi.com^
 ||sf16-static.i18n-pglstatp.com^
 ||skdisplay.jd.com^
 ||statsigapi.net^
+||stats.qiumibao.com^
 ||stat.y.qq.com^
 ||success.ctobsnssdk.com^
 ||tangram.e.qq.com^
@@ -232,6 +256,7 @@
 ||ulogs.umengcloud.com^
 ||ulog-sdk.gifshow.com^
 ||umengacs.m.taobao.com^
+||umengjmacs.m.taobao.com^
 ||umsns.com^
 ||union.baidu.com^
 ||update.avlyun.sec.miui.com^
@@ -271,6 +296,7 @@
 ||w1.yskwai.com^
 ||w1.zskwai.com^
 ||w*.*skwai.com^
+||webstat.qiumibao.com^
 ||wxa.wxs.qq.com^
 ||wxsnsdy.wxs.qq.com^
 ||wxsnsdythumb.wxs.qq.com^
