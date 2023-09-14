@@ -211,7 +211,7 @@
 ||p.s.360.cn^
 ||p3-tt.byteimg.com^
 ||p*-ad-sign.byteimg.com^
-||pan.baidu.com##.adVideo^
+||pan.baidu.com**.adVideo^
 ||pagead*.google.com^
 ||pagead2.googlesyndication.com^
 ||pangolin-sdk-toutiao-b.com^
@@ -299,6 +299,7 @@
 ||w*.*skwai.com^
 ||webstat.qiumibao.com^
 ||wxa.wxs.qq.com^
+!||wxs.qq.com^
 ||wxsnsdy.wxs.qq.com^
 ||wxsnsdythumb.wxs.qq.com^
 ||xlmzc.cnjp-exp.com^
