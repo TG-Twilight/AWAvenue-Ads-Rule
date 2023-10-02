@@ -36,11 +36,13 @@
 ## 订阅规则 | Subscription Rules
 
 - [Github订阅地址](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt)
+- [jsDelivr订阅地址](https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Adblock-Rule@main/AWAvenue-Adblock-Rule.txt)
 - [ghproxy反代订阅地址-1](https://ghproxy.net/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt)
 - [ghproxy反代订阅地址-2](https://ghproxy.com/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt)
 
 激进版（AWAvenue-Adblock-Rule-Strict） **不推荐订阅日用**
 - [Github订阅地址](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule-Strict.txt)
+- [jsDelivr订阅地址](https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Adblock-Rule@main/AWAvenue-Adblock-Rule-Strict.txt)
 - [ghproxy反代订阅地址-1](https://ghproxy.net/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule-Strict.txt)
 - [ghproxy反代订阅地址-2](https://ghproxy.com/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule-Strict.txt)
  <br />
@@ -49,7 +51,7 @@
 
  *若您在订阅本广告规则后，仍发现应用内流氓广告sdk在正常展示广告，欢迎你进群反馈！*
 
-个人项目，随缘维护更新，欢迎issues和Pr，**Pr前请到群里打个招呼**，[加入群组](https://t.me/AWAvenueCheat)。
+个人项目，随缘维护更新，欢迎issues和Pr，**Pr前请到群里打个招呼**。   [😀加入群组](https://t.me/AWAvenueCheat)。
 <br />
 <br />
 ## 如何使用 | How to use
@@ -62,7 +64,7 @@
 以 Shell Clash 为例，
 Clash功能设置 —— DNS运行模式 —— Redir host
 
-Clash进阶设置 —— 配置内置DNS服务 —— 修改基础DNS 改为本地最优的DNS地址（可设置多个，英文逗号分隔，不知道填什么？推荐：1.1.1.1、8.8.8.8、223.5.5.5）
+Clash进阶设置 —— 配置内置DNS服务 —— 修改基础DNS 改为你本地最优的DNS地址，可设置多个，英文逗号分隔，推荐：1.1.1.1、8.8.8.8、223.5.5.5
 
 Clash进阶设置 —— 配置内置DNS服务 —— Dnsmasq转发 更改为开启状态
 
