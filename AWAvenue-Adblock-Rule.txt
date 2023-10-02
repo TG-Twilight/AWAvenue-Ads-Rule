@@ -162,6 +162,7 @@
 ||irc.qubiankeji.com^
 ||is.snssdk.com^
 ||ixav-cse.avlyun.com^
+||iyfbodn.com^$all
 ||janapi.jd.com^
 ||jiguang.cn^
 ||jpush.cn^
@@ -308,4 +309,6 @@
 ||wxsnsdythumb.wxs.qq.com^
 ||xlmzc.cnjp-exp.com^
 ||xlog.jd.com^
-
+||xlviirdr.com^
+||xlviiirdr.com^
+||xlivrdr.com^
