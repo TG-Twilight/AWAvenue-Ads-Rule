@@ -71,7 +71,7 @@ AdGuard Home —— 设置 —— DNS设置 —— 上游DNS服务器 填写：1
 ## 推荐的广告过滤工具 | Recommended Tools
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)    *路由器安装，这是广告过滤工具较为理想的工作位置*
 
-- [AdGuard Home For Magisk](https://t.me/AWAvenue/357)   *AdGuard Home的Magisk版本，由[酷安@top大佬制作](https://www.coolapk.com/u/1373784)*
+- [AdGuard Home For Magisk](https://t.me/AWAvenue/357)   *AdGuard Home的Magisk版本，由酷安@top大佬制作*
 
 - [Adblock Plus](https://adblockplus.org/)    *强大的、适用于浏览器的广告过滤插件*
 
