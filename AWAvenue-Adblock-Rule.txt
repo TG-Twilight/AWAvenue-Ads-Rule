@@ -121,6 +121,7 @@
 ||data-sdk-uuid-log.d.meituan.net^
 ||ata-sdk-uuid-report.dreport.meituan.net^
 ||dataflow.biliapi.com^
+@@||developers.e.qq.com^
 ||dlogs.bwton.com^
 ||doubleclick.net^
 ||doubleclick-cn.net^
@@ -129,6 +130,7 @@
 ||dxp.baidu.com^
 ||eclick.baidu.com^
 ||entry.baidu.com^
+||errnewlog.umeng.com^
 ||events-drcn.op.dbankcloud.cn^
 ||firebaselogging-pa.googleapis.com^
 ||flurry.com^
