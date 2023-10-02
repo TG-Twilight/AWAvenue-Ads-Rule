@@ -49,10 +49,11 @@
 
  *若您在订阅本广告规则后，仍发现应用内流氓广告sdk在正常展示广告，欢迎你进群反馈！*
 
-个人项目，随缘维护更新，欢迎issues和Pr**(Pr前请到群里打个招呼)**,[进群](https://t.me/AWAvenueCheat)，大家一起吹水聊天。
+个人项目，随缘维护更新，欢迎issues和Pr，**Pr前请到群里打个招呼**，[加入群组](https://t.me/AWAvenueCheat)。
 <br />
 <br />
 ## 如何使用 | How to use
+
 复制我们的订阅链接，将其导入到 AdGuard/AdGuard Home 的 DNS黑名单 中，即可生效。
 <br />
 <br />
