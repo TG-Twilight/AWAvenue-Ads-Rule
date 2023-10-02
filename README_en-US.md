@@ -60,7 +60,7 @@ Copy our subscription link and import it into AdGuard/AdGuard Home's DNS blackli
 ## Recommended Tools
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)    *Installed in the router, which is the ideal place for the ad filtering tool to work*
 
-- [AdGuard Home For Magisk](https://t.me/AWAvenue/357)   *Magisk version of AdGuard Home
+- [AdGuard Home For Magisk](https://t.me/AWAvenue/357)   *Magisk version of AdGuard Home*
 
 - [Adblock Plus](https://adblockplus.org/)    *Powerful, ad-filtering plug-in for browsers*
 
