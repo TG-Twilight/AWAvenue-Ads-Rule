@@ -49,7 +49,7 @@ Strict version（AWAvenue-Adblock-Rule-Strict） I don't recommend you subscribe
 
  *If you still find the in-app rogue ads sdk displaying ads normally after subscribing to this ad rule, you are welcome to enter the group for feedback!*
 
-个人项目，随缘维护更新，欢迎issues和Pr(**Pr前请到群里打个招呼)**),推荐各位[进群](https://t.me/AWAvenueCheat)，大家一起吹水聊天。
+Personal project, maintain and update in spare time, welcome issues and Pr (please say hello in the group before Pr)。   [Join Group](https://t.me/AWAvenueCheat)
 <br />
 <br />
 ## How to use
@@ -66,7 +66,7 @@ Copy our subscription link and import it into AdGuard/AdGuard Home's DNS blackli
 
 - [uBlock Origin](https://ublockorigin.com/)    *Another open source and powerful browser ad filtering plugin*
 
-- [AdGuard](https://adguard.com/)    *多端使用，支持Android、Windows、Mac、iOS*
+- [AdGuard](https://adguard.com/)    *Multi-end use, support Android, Windows, Mac, iOS*
 
 
 ---
