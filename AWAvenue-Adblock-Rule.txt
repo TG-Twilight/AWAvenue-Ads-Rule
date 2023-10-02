@@ -1,7 +1,7 @@
 [-AWAvenue 秋风广告规则（AWAvenue-Adblock-Rule）-]
 ! Title: [-AWAvenue 秋风广告规则（AWAvenue-Adblock-Rule）-]
-! 规则版本: 0.9.9-beta-咕咕咕咕咕咕
-! 更新时间: 2023.09.12
+! 规则版本: 1.0.0
+! 更新时间: 2023.10.03
 ! AWAvenue-Adblock-Rule
 ! 如果需要在其它规则中混合此规则，请在您的规则显眼处注明本规则的出处，谢谢！
 ! 加入Telegram群组 秋风のとおり屋 (@AWAvenueCheat) 与编写者交流，期待着您的到来！
@@ -206,6 +206,7 @@
 ||open.kuaishouzt.com^
 ||open.kwaizt.com^
 ||optimus-ads.amap.com^
+||oth.eve.mdt.qq.com^
 ||oth.str.mdt.qq.com^
 ||p.l.qq.com^
 ||p.s.360.cn^
@@ -298,6 +299,7 @@
 ||w1.zskwai.com^
 ||w*.*skwai.com^
 ||webstat.qiumibao.com^
+||ws-keyboard.shouji.sogou.com^
 ||wxa.wxs.qq.com^
 !||wxs.qq.com^
 ||wxsnsdy.wxs.qq.com^
