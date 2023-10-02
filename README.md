@@ -39,7 +39,7 @@
 - [ghproxy反代订阅地址-1](https://ghproxy.net/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt)
 - [ghproxy反代订阅地址-2](https://ghproxy.com/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt)
 
-激进版（AWAvenue-Adblock-Rule-Strict） 不推荐订阅日用
+激进版（AWAvenue-Adblock-Rule-Strict） **不推荐订阅日用**
 - [Github订阅地址](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule-Strict.txt)
 - [ghproxy反代订阅地址-1](https://ghproxy.net/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule-Strict.txt)
 - [ghproxy反代订阅地址-2](https://ghproxy.com/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule-Strict.txt)
@@ -49,7 +49,7 @@
 
  *若您在订阅本广告规则后，仍发现应用内流氓广告sdk在正常展示广告，欢迎你进群反馈！*
 
-个人项目，随缘维护更新，欢迎issues和Pr(**Pr前请到群里打个招呼)**),推荐各位[进群](https://t.me/AWAvenueCheat)，大家一起吹水聊天。
+个人项目，随缘维护更新，欢迎issues和Pr**(Pr前请到群里打个招呼)**,[进群](https://t.me/AWAvenueCheat)，大家一起吹水聊天。
 <br />
 <br />
 ## 如何使用 | How to use
