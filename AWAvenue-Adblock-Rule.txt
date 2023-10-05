@@ -70,6 +70,7 @@
 ||adv.sec.miui.com^
 ||advertiseonbing.azureedge.net^
 ||advertising.apple.com^
+||adv.sec.intl.miui.com^
 ||adx-cn.anythinktech.com^
 ||adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn^
 ||adxlog-adnet.vivo.com.cn^
@@ -99,6 +100,7 @@
 ||applog.uc.cn^
 ||app-measurement.com^
 ||audid-api.taobao.com^
+||azr.footprintdns.com^
 ||beacon.qq.com^
 ||beacon-api.aliyuncs.com^
 ||beacons.gvt2.com^
