@@ -37,3 +37,5 @@
 1.0.0-release：秋风广告规则正式更新 1.0.0 版本！新增搜狗输入法采集拦截、datk采集日志拦截、友盟错误日志上传等，同时对Txxxxxt ads developer平台设置了豁免，更新了README文件和一些有关的资源。
 
 1.0.1-release：广告规则小更新，新增对footprintdns的拦截，增强了对于miui广告的拦截。AdGuard for Magisk模块准备中，完成后将放弃小绿书作者版本。
+
+1.0.1-fix：修复米哈游反作弊误拦截，新增VMOS Pro开屏广告拦截
