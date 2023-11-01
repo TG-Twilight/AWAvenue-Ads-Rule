@@ -24,11 +24,15 @@
 
 
 <p align="center"><b>干掉所有无良广告<br>Eliminate All Malicious Ads</b></p>
+<br />
+<br />
 
+### 建议使用 [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)、[AdGuard DNS](https://adguard-dns.io/zh_cn/welcome.html)来订阅本规则，以达到最佳的广告过滤效果！🐼
+
+<br />
+<br />
 
 ## 关于此广告规则 | About
-
-*建议使用AdGuard Home、AdGuard DNS来订阅本规则，以达到最佳的广告过滤效果！🐼*
 
 使用Adblock语法，从网络层面对抗(拦截)Android应用中的各种流氓广告SDK，阻止其加载，从而达到去广告的目的。
 
