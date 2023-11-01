@@ -27,7 +27,7 @@
 <br />
 <br />
 
-### It is recommended to use [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) 和 [AdGuard DNS](https://adguard-dns.io/en/welcome.html) to subscribe to this rule to achieve the best ad filtering effect! 🐼
+### It is recommended to use [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) or [AdGuard DNS](https://adguard-dns.io/en/welcome.html) to subscribe to this rule to achieve the best ad filtering effect! 🐼
 
 <br />
 <br />
