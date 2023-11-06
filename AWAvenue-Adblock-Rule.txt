@@ -1,7 +1,7 @@
 [-AWAvenue 秋风广告规则（AWAvenue-Adblock-Rule）-]
 ! Title: [-AWAvenue 秋风广告规则（AWAvenue-Adblock-Rule）-]
-! 规则版本: 1.0.1-fix
-! 更新时间: 2023.10.14
+! 规则版本: 1.1.0
+! 更新时间: 2023.11.06
 ! AWAvenue-Adblock-Rule
 ! 如果需要在其它规则中混合此规则，请在您的规则显眼处注明本规则的出处，谢谢！
 ! 加入Telegram群组 秋风のとおり屋 (@AWAvenueCheat) 与编写者交流，期待着您的到来！
@@ -17,6 +17,8 @@
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.22
 !
+!||wxs.qq.com^
+@@||developers.e.qq.com^
 ||*.log.aliyuncs.com^
 ||*-ad-*.byteimg.com^
 ||*-ad.wtzw.com^
@@ -57,7 +59,6 @@
 ||adsense.google.cn^
 ||adservice.google.cn^
 ||adsfile.bssdlbig.kugou.com^
-||adsfilebssdlbig.ali.kugou.com^
 ||adsfilebssdlbig.*.kugou.com^
 ||ads-img-qc.xhscdn.com^
 ||adstats.tencentmusic.com^
@@ -122,7 +123,7 @@
 ||data-sdk-uuid-log.d.meituan.net^
 ||ata-sdk-uuid-report.dreport.meituan.net^
 ||dataflow.biliapi.com^
-@@||developers.e.qq.com^
+||dc.sigmob.cn^
 ||dlogs.bwton.com^
 ||doubleclick.net^
 ||doubleclick-cn.net^
@@ -240,6 +241,7 @@
 ||service.vmos.cn/vmospro/api/ad^
 ||sf16-static.i18n-pglstatp.com^
 ||skdisplay.jd.com^
+||static.yximgs.com^
 ||statsigapi.net^
 ||stats.qiumibao.com^
 ||stat.y.qq.com^
@@ -306,7 +308,6 @@
 ||webstat.qiumibao.com^
 ||ws-keyboard.shouji.sogou.com^
 ||wxa.wxs.qq.com^
-!||wxs.qq.com^
 ||wxsnsdy.wxs.qq.com^
 ||wxsnsdythumb.wxs.qq.com^
 ||xlmzc.cnjp-exp.com^
@@ -314,3 +315,48 @@
 ||xlviirdr.com^
 ||xlviiirdr.com^
 ||xlivrdr.com^
+||lf3-ad-union-sdk.pglstatp-toutiao.com^
+||api-access.pangolin-sdk-toutiao.com3^
+||p1-be-pack-sign.pglstatp-toutiao.com^
+||p2-be-pack-sign.pglstatp-toutiao.com^
+||p3-be-pack-sign.pglstatp-toutiao.com^
+||p4-be-pack-sign.pglstatp-toutiao.com^
+||p5-be-pack-sign.pglstatp-toutiao.com^
+||p6-be-pack-sign.pglstatp-toutiao.com^
+||p*-be-pack-sign.pglstatp-toutiao.com^
+||p**-be-pack-sign.pglstatp-toutiao.com^
+||gromore.pangolin-sdk-toutiao.com^
+||img.adnyg.com^
+||p1-lm.adkwai.com^
+||p2-lm.adkwai.com^
+||p3-lm.adkwai.com^
+||p*-lm.adkwai.com^
+||img.adnyg.com.w.kunlungr.com^
+||log-api.pangolin-sdk-toutiao-b.com^
+||log.tagtic.cn^
+||adfilter.imtt.qq.com^
+||sdownload.stargame.com^
+||xc.gdt.qq.com^
+||m.kubiqq.com^
+||sngmta.qq.com^
+||scdown.qq.com^
+||c.gj.qq.com^
+||tj.video.qq.com^
+||tj.b.qq.com^
+||tdc.qq.com^
+||t.l.qq.com^
+||trace.qq.com^
+||w.l.qq.com^
+||v2.gdt.qq.com^
+||review.gdtimg.com^
+||rpt.gdt.qq.com^
+||c2.gdt.qq.com^
+||win.gdt.qq.com^
+||ws.sj.qq.com^
+||s1.qq.com^
+||s2.qq.com^
+||s3.qq.com^
+||adsmind.ugdtimg.com^
+||lf1-cdn-tos.bytegoofy.com^
+||cn-acs.m.cainiao.com^
+||ef-dongfeng.tanx.com^
