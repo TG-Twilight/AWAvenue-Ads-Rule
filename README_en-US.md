@@ -10,7 +10,7 @@
 <h1 align="center">- AWAvenue Adblock Rule -</h1>
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue%20%E7%A7%8B%E9%A3%8E%E5%B9%BF%E5%91%8A%E8%A7%84%E5%88%99%EF%BC%88AWAvenue-Adblock-Rule%EF%BC%89.png">
+   <img src="https://cdn.jsdelivr.net/gh/TG-Twilight/AWAvenue-Adblock-Rule@main/AWAvenue-Adblock-Rule.png">
 </p>
 <p align="center">
  <img src="https://img.shields.io/github/stars/TG-Twilight/AWAvenue-Adblock-Rule?style=for-the-badge&colorA=FFEBEB&colorB=FFD9DC&logo=github&logoColor=black">
