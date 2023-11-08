@@ -10,7 +10,7 @@
 <h1 align="center">- AWAvenue Adblock Rule -</h1>
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue%20%E7%A7%8B%E9%A3%8E%E5%B9%BF%E5%91%8A%E8%A7%84%E5%88%99%EF%BC%88AWAvenue-Adblock-Rule%EF%BC%89.png">
+   <img src="https://cdn.jsdelivr.net/gh/TG-Twilight/AWAvenue-Adblock-Rule@main/AWAvenue-Adblock-Rule.png">
 </p>
 <p align="center">
  <img src="https://img.shields.io/github/stars/TG-Twilight/AWAvenue-Adblock-Rule?style=for-the-badge&colorA=FFEBEB&colorB=FFD9DC&logo=github&logoColor=black">
@@ -40,15 +40,19 @@ Compared with other means of removing ads, this way of filtering from the networ
 <br />
 <br />
 ## Subscription Rules
-
 - [Github Sub Address](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt)
-- [ghproxy Proxy Sub Address-1](https://ghproxy.net/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt)
-- [ghproxy Proxy Sub Address-2](https://ghproxy.com/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt)
+- [Miaoruan CDN Proxy Sub Address](https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Adblock-Rule@main/AWAvenue-Adblock-Rule.txt)
+- [jsDelivr Proxy Sub Address](https://cdn.jsdelivr.net/gh/TG-Twilight/AWAvenue-Adblock-Rule@main/AWAvenue-Adblock-Rule.txt)
+- [ghproxy Proxy Sub Address](https://ghproxy.net/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt)
+
 
 Strict version（AWAvenue-Adblock-Rule-Strict） I don't recommend you subscribe
 - [Github Sub Address](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule-Strict.txt)
-- [ghproxy Proxy Sub Address-1](https://ghproxy.net/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule-Strict.txt)
-- [ghproxy Proxy Sub Address-2](https://ghproxy.com/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule-Strict.txt)
+- [Miaoruan CDN Proxy Sub Address](https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Adblock-Rule@main/AWAvenue-Adblock-Rule-Strict.txt)
+- [jsDelivr Proxy Sub Address](https://cdn.jsdelivr.net/gh/TG-Twilight/AWAvenue-Adblock-Rule@main/AWAvenue-Adblock-Rule.txt)
+- [ghproxy Proxy Sub Address](https://ghproxy.net/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule-Strict.txt)
+
+
  <br />
  
  *Typically, you only need to subscribe to the "Normal" version(AWAvenue-Adblock-Rule), the "Strict" version is mainly for exploring, and the Strict version subscription interferes with your normal browsing of the web, so please don't subscribe to this rule unless you know exactly what you're doing!*
