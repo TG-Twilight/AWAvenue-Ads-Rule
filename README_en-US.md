@@ -50,7 +50,7 @@ Strict version（AWAvenue-Adblock-Rule-Strict） I don't recommend you subscribe
 - [Github Sub Address](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule-Strict.txt)
 - [Miaoruan CDN Proxy Sub Address](https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Adblock-Rule@main/AWAvenue-Adblock-Rule-Strict.txt)
 - [jsDelivr Proxy Sub Address](https://cdn.jsdelivr.net/gh/TG-Twilight/AWAvenue-Adblock-Rule@main/AWAvenue-Adblock-Rule.txt)
-- [ghproxy Proxy Sub Address](https://ghproxy.net/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule-Strict.txt)
+- [ghproxy Proxy Sub Address](https://mirror.ghproxy.com/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule-Strict.txt)
 
 
  <br />
