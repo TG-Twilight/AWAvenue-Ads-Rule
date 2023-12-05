@@ -1,8 +1,11 @@
 [-AWAvenue 秋风广告规则（AWAvenue-Adblock-Rule）-]
 ! Title: [-AWAvenue 秋风广告规则（AWAvenue-Adblock-Rule）-]
-! 规则版本: 1.1.2
-! 更新时间: 2023.11.24
+! 规则版本: 1.2.0
+! 更新时间: 2023.12.05
 ! AWAvenue-Adblock-Rule
+! 
+! 项目地址：https://github.com/TG-Twilight/AWAvenue-Adblock-Rule
+! 
 ! 如果需要在其它规则中混合此规则，请在您的规则显眼处注明本规则的出处，谢谢！
 ! 加入Telegram群组 秋风のとおり屋 (@AWAvenueCheat) 与编写者交流，期待着您的到来！
 ! 群组链接：https://t.me/AWAvenueCheat
@@ -10,12 +13,8 @@
 ! 订阅Telegram频道 秋风のとおり道 (@AWAvenue) 获取各种有意思的内容，期待着您的订阅！
 ! 频道链接：https://t.me/AWAvenue
 ! 
-! 项目地址：https://github.com/TG-Twilight/AWAvenue-Adblock-Rule
-! 
 ! 本项目遵循 署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0) 许可。
 ! This project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
-!
-! Compiled by @adguard/hostlist-compiler v1.0.22
 !
 !||wxs.qq.com^
 @@||developers.e.qq.com^
@@ -47,7 +46,10 @@
 ||adjust.cn^
 ||adkwai.com^
 ||ads*-normal-lq.zijieapi.com^
+||ads-**.tiktok.com^
 ||ads-api-o.api.leiniao.com^
+||ads-api.tiktok.com^
+||ads-api.twitter.com^
 ||ads-img-qc.xhscdn.com^
 ||ads-video-al.xhscdn.com^
 ||ads-video-qc.xhscdn.com^
@@ -59,29 +61,43 @@
 ||ads.service.kugou.com^
 ||adsense.google.cn^
 ||adservice.google.cn^
+||adservice.google.com^
 ||adservice.sigmob.cn^
 ||adserviceretry.kugou.com^
 ||adsfile.bssdlbig.kugou.com^
 ||adsfilebssdlbig.*.kugou.com^
 ||adsfilebssdlbig.ali.kugou.com^
+||adsfs.oppomobile.com^
 ||adsmind.ugdtimg.com^
 ||adstats.tencentmusic.com^
+||adtago.s3.amazonaws.com^
+||adtech.yahooinc.com^
 ||adtrack.quark.cn^
 ||adukwai.com^
 ||adv.sec.intl.miui.com^
 ||adv.sec.miui.com^
 ||advertiseonbing.azureedge.net^
+||advertising-api-eu.amazon.com^
 ||advertising.apple.com^
+||advertising.yahoo.com^
+||advertising.yandex.ru^
+||advice-ads.s3.amazonaws.com^
 ||adview.cn^
 ||adx-cn.anythinktech.com^
+||adx.ads.oppomobile.com^
 ||adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn^
 ||adxlog-adnet.vivo.com.cn^
+||afs.googlesyndication.com^
 ||ali-ad.a.yximgs.com^
+||an.facebook.com^
 ||analysis.yozocloud.cn^
+||analytics-api.samsunghealthcn.com^
 ||analytics.126.net^
 ||analytics.95516.com^
 ||analytics.google.com^
+||analytics.pinterest.com^
 ||analytics.rayjump.com^
+||analytics.tiktok.com^
 ||analyze.lemurbrowser.com^
 ||api-access.pangolin-sdk-toutiao*.com^
 ||api-access.pangolin-sdk-toutiao.com3^
@@ -94,6 +110,7 @@
 ||api-ad-product.huxiu.com^
 ||api-adservices.apple.com^
 ||api-htp.beizi.biz^
+||api.ad.xiaomi.com^
 ||api.htp.hubcloud.com.cn^
 ||api.hzsanjiaomao.com^
 ||api.installer.xiaomi.com^
@@ -105,11 +122,15 @@
 ||ata-sdk-uuid-report.dreport.meituan.net^
 ||audid-api.taobao.com^
 ||azr.footprintdns.com^
+||bdapi-ads.realmemobile.com^
+||bdapi-in-ads.realmemobile.com^
 ||beacon-api.aliyuncs.com^
 ||beacon.qq.com^
 ||beacons.gvt2.com^
 ||beizi.biz^
+||books-analytics-events.apple.com^
 ||bugly.qq.com^
+||business-api.tiktok.com
 ||c.gj.qq.com^
 ||c.sayhi.360.cn^
 ||c2.gdt.qq.com^
@@ -118,6 +139,7 @@
 ||cdn.ynuf.aliapp.org^
 ||cfg.imtt.qq.com^
 ||chat1.jd.com^
+||ck.ads.oppomobile.com^
 ||clog.miguvideo.com^
 ||cm.bilibili.com^
 ||cn-acs.m.cainiao.com^
@@ -127,6 +149,9 @@
 ||crashlyticsreports-pa.googleapis.com^
 ||csjplatform.com^
 ||data-sdk-uuid-log.d.meituan.net^
+||data.ads.oppomobile.com^
+||data.mistat.india.xiaomi.com^
+||data.mistat.rus.xiaomi.com^
 ||data.mistat.xiaomi.com^
 ||dataflow.biliapi.com^
 ||dc.sigmob.cn^
@@ -145,12 +170,15 @@
 ||firebaselogging-pa.googleapis.com^
 ||flurry.com^
 ||gdfp.gifshow.com^
+||gemini.yahoo.com^
+||globalapi.ad.xiaomi.com^
 ||google-analytics.com^
 ||googleadservices-cn.com^
 ||googleadservices.com^
 ||googletagservices-cn.com^
 ||googletagservices.com^
 ||gromore.pangolin-sdk-toutiao.com^
+||grs.hicloud.com^
 ||h-adashx.ut.taobao.com^
 ||h.trace.qq.com^
 ||henzanapp.com^
@@ -168,6 +196,7 @@
 ||i.snssdk.com^
 ||iad.apple.com^
 ||iadctest.qwapi.com^
+||iadsdk.apple.com^
 ||iadworkbench.apple.com^
 ||image-ad.sm.cn^
 ||imageplus.baidu.com^
@@ -179,7 +208,7 @@
 ||irc.qubiankeji.com^
 ||is.snssdk.com^
 ||ixav-cse.avlyun.com^
-||iyfbodn.com^$all
+||iyfbodn.com^
 ||janapi.jd.com^
 ||jiguang.cn^
 ||jpush.cn^
@@ -199,18 +228,30 @@
 ||log.aispeech.com^
 ||log.avlyun.com^
 ||log.avlyun.sec.intl.miui.com^
+||log.byteoversea.com^
+||log.fc.yahoo.com^
 ||log.stat.kugou.com^
 ||log.tagtic.cn^
 ||log.tbs.qq.com^
 ||log.web.kugou.com^
 ||log1.cmpassport.com^
+||logbak.hicloud.com^
 ||logs.amap.com^
+||logservice*.hicloud.com^
+||logservice.hicloud.com^
+||logservice1.hicloud.com^
 ||logtj.kugou.com^
 ||logupdate.avlyun.sec.miui.com^
 ||m.kubiqq.com^
 ||masdkv6.3g.qq.com^
 ||mdp-usertrace-cn.heytapmobi.com^
 ||metok.sys.miui.com^
+||metrics*.data.hicloud.com^
+||metrics.apple.com^
+||metrics.data.hicloud.com^
+||metrics.icloud.com^
+||metrics.mzstatic.com^
+||metrics2.data.hicloud.com^
 ||mi.gdt.qq.com^
 ||miav-cse.avlyun.com^
 ||miui-fxcse.avlyun.com^
@@ -224,9 +265,11 @@
 ||mon.snssdk.com^
 ||monitor.music.qq.com^
 ||mtj.baidu.com^
+||nmetrics.samsung.com^
+||notes-analytics-events.apple.com^
 ||nsclick.baidu.com^
 ||o2o.api.xiaomi.com^
-||open.e.kuaishou.cn^
+||offerwall.yandex.net^||open.e.kuaishou.cn^
 ||open.e.kuaishou.com^
 ||open.kuaishouzt.com^
 ||open.kwaizt.com^
@@ -250,6 +293,7 @@
 ||p5-be-pack-sign.pglstatp-toutiao.com^
 ||p6-be-pack-sign.pglstatp-toutiao.com^
 ||pagead*.google.com^
+||pagead2.googleadservices.com^
 ||pagead2.googlesyndication.com^
 ||pan.baidu.com**.adVideo^
 ||pangolin-sdk-toutiao-b.com^
@@ -270,10 +314,14 @@
 ||s1.qq.com^
 ||s2.qq.com^
 ||s3.qq.com^
+||samsung-com.112.2o7.net^
+||samsungads.com^
 ||scdown.qq.com^
 ||sdk.beizi.biz^
 ||sdk.e.qq.com^
 ||sdkconf.avlyun.com^
+||sdkconfig.ad.intl.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
 ||sdkoptedge.chinanetcenter.com^
 ||sdktmp.hubcloud.com.cn^
 ||sdownload.stargame.com^
@@ -281,6 +329,7 @@
 ||service.vmos.cn/vmospro/api/ad^
 ||sf16-static.i18n-pglstatp.com^
 ||skdisplay.jd.com^
+||smetrics.samsung.com^
 ||sngmta.qq.com^
 ||stat.y.qq.com^
 ||staticsns.cdn.bcebos.com^
@@ -303,6 +352,7 @@
 ||tracker.ai.xiaomi.com^
 ||tracker.gitee.com^
 ||tracking.miui.com^
+||tracking.rus.miui.com^
 ||tx-ad.a.yximgs.com^
 ||tx-kmpaudio.pull.yximgs.com^
 ||ucstat.baidu.com^
@@ -354,6 +404,7 @@
 ||w1.xskwai.com^
 ||w1.yskwai.com^
 ||w1.zskwai.com^
+||weather-analytics-events.apple.com^
 ||webstat.qiumibao.com^
 ||win.gdt.qq.com^
 ||ws-keyboard.shouji.sogou.com^
