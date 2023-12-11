@@ -61,28 +61,14 @@
 <br />
 <br />
 ## 如何使用 | How to use
-
+<br />
 复制我们的订阅链接，将其导入到 AdGuard/AdGuard Home 的 DNS黑名单 中，即可生效。
-<br />
-<br />
-<br />
-### 关于配合各种Clash进行过滤工作的额外设置
-以 Shell Clash 为例，
-Clash功能设置 —— DNS运行模式 —— Redir host
-
-Clash进阶设置 —— 配置内置DNS服务 —— 修改基础DNS 改为你本地最优的DNS地址，可设置多个，英文逗号分隔，推荐：1.1.1.1、8.8.8.8、223.5.5.5
-
-Clash进阶设置 —— 配置内置DNS服务 —— Dnsmasq转发 更改为开启状态
-
-AdGuard Home —— 设置 —— DNS设置 —— 上游DNS服务器 填写：127.0.0.1:1053(Shell Clash默认的DNS端口)
 <br />
 <br />
 ## 推荐的广告过滤工具 | Recommended Tools
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)    *安装在路由器，广告过滤工具较为理想的工作位置*
 
 - [AdGuard Home For Magisk](https://t.me/AWAvenue/622)   *AdGuard Home的Magisk版本*
-
-- [Adblock Plus](https://adblockplus.org/)    *强大的、适用于浏览器的广告过滤插件*
 
 - [uBlock Origin](https://ublockorigin.com/)    *另一款开源而强大的浏览器广告过滤插件*
 
