@@ -45,3 +45,5 @@
 1.1.2-release：新增百度网盘广告（主要出现于开屏与分享等页面）、丰巢广告拦截（取件页面广告），拦截更多来自apple的广告域名，同时给更新日志(README_Update.md)所有的更新末尾添加了句号[手动滑稽]。
 
 1.2.0-release：新增针对Twitter、Yandex、HW、SAMSUNG的广告拦截(感谢@d3ward)，添加更多对于Apple、Oppo、Realme的广告拦截，以及再次加强对微信订阅号的广告拦截。
+
+1.2.1-release：“AWAvenue Adblock Rule”现更名为“AWAvenue Ads Rule”！增加对Surfboard/Surge的支持，新增12306的广告拦截（开屏、banner），更新了README的链接与需要更新的信息。
