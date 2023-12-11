@@ -65,7 +65,10 @@
 复制我们的订阅链接，将其导入到 AdGuard/AdGuard Home 的 DNS黑名单 中，即可生效。
 <br />
 <br />
+
 ## 推荐的广告过滤工具 | Recommended Tools
+
+<br />
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)    *安装在路由器，广告过滤工具较为理想的工作位置*
 
 - [AdGuard Home For Magisk](https://t.me/AWAvenue/622)   *AdGuard Home的Magisk版本*
