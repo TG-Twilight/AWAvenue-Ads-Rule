@@ -1,17 +1,17 @@
-[-AWAvenue 秋风广告规则(Strict版)（AWAvenue-Adblock-Rule-Strict）-]
-! Title: [-AWAvenue 秋风广告规则(Strict版)（AWAvenue-Adblock-Rule-Strict）-]
-! 规则版本: 0.0.3-dev
-! 更新时间: 2023.07.23
-! AWAvenue-Adblock-Rule-Strict
-! 本规则与AWAvenue-Adblock-Rule不重合，效果更激进，请再三思考后使用！
+[-AWAvenue 秋风广告规则（AWAvenue-Ads-Rule-Strict）-]
+! Title: [-AWAvenue 秋风广告规则（AWAvenue-Ads-Rule-Strict）-]
+! 规则版本: 0.0.5-dev
+! 更新时间: 2023.12.11
+! AWAvenue-Ads-Rule-Strict
+! 
+! 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+! 
 ! 如果需要在其它规则中混合此规则，请在您的规则显眼处注明本规则的出处，谢谢！
-! 加入Telegram群组 秋风のとおり屋 (@AWAvenueCheat) 与编写者交流，期待着您的到来！
-! 群组链接：https://t.me/AWAvenueCheat
+! 加入Telegram群组 秋風がく山道 (@AWAvenueAdsChat) 与编写者交流，期待着您的到来！
+! 群组链接：https://t.me/AWAvenueAdsChat
 ! 
-! 订阅Telegram频道 秋风のとおり道 (@AWAvenue) 获取各种有意思的内容，期待着您的订阅！
-! 频道链接：https://t.me/AWAvenue
-! 
-! 项目地址：https://github.com/TG-Twilight/AWAvenue-Adblock-Rule
+! 订阅Telegram频道 AWAvenue Ads Rule (@AWAvenueAdsRule) 获取最新公告，期待着您的订阅！
+! 频道链接：https://t.me/AWAvenueAdsRule
 ! 
 ! 本项目遵循 署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0) 许可。
 ! This project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
@@ -74,3 +74,5 @@
 ||duba.net^
 ||duba.com^
 ||drivergenius.com^
+! 百度百家号
+||baijiahao.baidu.com
