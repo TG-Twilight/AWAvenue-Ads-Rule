@@ -59,7 +59,7 @@ Strict version（AWAvenue-Ads-Rule-Strict） I don't recommend you subscribe
 
  *If you still find the in-app rogue ads sdk displaying ads normally after subscribing to this ad rule, you are welcome to enter the group for feedback!*
 
-Personal project, maintain and update in spare time, welcome issues and Pr (please say hello in the group before Pr)。   [Join Group](https://t.me/AWAvenueCheat)
+Personal project, maintain and update in spare time, welcome issues and Pr (please say hello in the group before Pr)。   [Join Group](https://t.me/AWAvenueAdsCheat)
 <br />
 <br />
 ## How to use
