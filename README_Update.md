@@ -47,3 +47,5 @@
 1.2.0-release：新增针对Twitter、Yandex、HW、SAMSUNG的广告拦截(感谢@d3ward)，添加更多对于Apple、Oppo、Realme的广告拦截，以及再次加强对微信订阅号的广告拦截。
 
 1.2.1-release：“AWAvenue Adblock Rule”现更名为“AWAvenue Ads Rule”！增加对Surfboard/Surge的支持，新增12306的广告拦截（开屏、banner），更新了README的链接与需要更新的信息。
+
+1.2.5-release：又挤了一大截牙膏🪥......新增 更多的xiaomi ads拦截；新增拦截xiaomi TV的开屏广告拦截；新增 长虹电视 的更新与部分广告拦截（越更越卡越流氓）；新增喜马拉雅、酷我、酷狗、京东、蜻蜓FM、今日头条、迅雷、WinRAR的部分广告拦截。最后，加强了对于 WeChat、OPPO(Oplus)、Apple的广告拦截。
