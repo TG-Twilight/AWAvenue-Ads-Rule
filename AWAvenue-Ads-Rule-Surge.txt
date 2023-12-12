@@ -1,6 +1,6 @@
 # Title: [-AWAvenue 秋风广告规则（AWAvenue-Ads-Rule-Surge）-]
-# 规则版本: 1.2.1
-# 更新时间: 2023.12.11
+# 规则版本: 1.2.5
+# 更新时间: 2023.12.12
 # AWAvenue-Ads-Rule-Surge
 # 
 # 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
