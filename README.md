@@ -71,7 +71,7 @@
 <br />
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)    *安装在路由器，广告过滤工具较为理想的工作位置*
 
-- [AdGuard Home For Magisk](https://t.me/AWAvenue/622)   *AdGuard Home的Magisk版本*
+- [AdGuard Home For Magisk](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/releases/tag/%F0%9F%8E%891.2.5-release)   *AdGuard Home的Magisk版本，感谢@heinu123*
 
 - [uBlock Origin](https://ublockorigin.com/)    *另一款开源而强大的浏览器广告过滤插件*
 
