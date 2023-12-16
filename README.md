@@ -10,7 +10,7 @@
 <h1 align="center">-AWAvenue 秋风广告规则 -</h1>
 
 <p align="center">
-   <img src="https://cdn.jsdelivr.net/gh/TG-Twilight/AWAvenue-Ads-Rule@main/AWAvenue-Ads-Rule.png">
+   <img src="https://gcore.jsdelivr.net/gh/TG-Twilight/AWAvenue-Ads-Rule@main/AWAvenue-Ads-Rule.png">
 </p>
 <p align="center">
  <img src="https://img.shields.io/github/stars/TG-Twilight/AWAvenue-Ads-Rule?style=for-the-badge&colorA=FFEBEB&colorB=FFD9DC&logo=github&logoColor=black">
