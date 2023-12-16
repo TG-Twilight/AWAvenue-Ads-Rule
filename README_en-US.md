@@ -70,7 +70,9 @@ Copy our subscription link and import it into AdGuard/AdGuard Home's DNS blackli
 ## Recommended Tools
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)    *Installed in the router, which is the ideal place for the ad filtering tool to work*
 
-- [AdGuard Home For Magisk](https://t.me/AWAvenue/622)   *Magisk version of AdGuard Home*
+- [AdGuard Home For Magisk]([https://t.me/AWAvenue/622](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/releases/tag/%F0%9F%8E%891.2.5-release))   *Magisk version of AdGuard Home，thanks @heinu123*
+
+- [AdClose（Xposed module）](https://t.me/Reese_XPModule)    *The xposed module，it's can block common ads through hooks and has built-in AWAvenue Ads Rule*
 
 - [Adblock Plus](https://adblockplus.org/)    *Powerful, ad-filtering plug-in for browsers*
 
