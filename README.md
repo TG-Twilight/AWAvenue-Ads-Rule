@@ -73,6 +73,8 @@
 
 - [AdGuard Home For Magisk](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/releases/tag/%F0%9F%8E%891.2.5-release)   *AdGuard Home的Magisk版本，感谢@heinu123*
 
+- [AdClose（Xposed module）](https://t.me/Reese_XPModule)    *Xposed模块，可以通过hook拦截常见广告，内置秋风广告规则，感谢@zjyzip*
+
 - [uBlock Origin](https://ublockorigin.com/)    *另一款开源而强大的浏览器广告过滤插件*
 
 - [AdGuard](https://adguard.com/)    *多端使用，支持Android、Windows、Mac、iOS*
