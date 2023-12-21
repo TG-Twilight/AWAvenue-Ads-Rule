@@ -1,6 +1,6 @@
 # Title: [-AWAvenue 秋风广告规则（AWAvenue-Ads-Rule-Clash）-]
-# 规则版本: 1.2.5
-# 更新时间: 2023.12.12
+# 规则版本: 1.2.6
+# 更新时间: 2023.12.21
 # AWAvenue-Ads-Rule-Clash
 # 
 # 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -17,7 +17,7 @@
 #
 # RULE-SET,AWAvenueAds,REJECT
 payload:
-@@  - '+.developers.e.qq.com'
+  - '+.developers.e.qq.com'
   - '+.*-ad-*.byteimg.com'
   - '+.*-ad.sm.cn'
   - '+.*-ad.wtzw.com'
@@ -113,6 +113,7 @@ payload:
   - '+.analytics.pinterest.com'
   - '+.analytics.rayjump.com'
   - '+.analytics.tiktok.com'
+  - '+.analytics.woozooo.com'
   - '+.analyze.lemurbrowser.com'
   - '+.api-access.pangolin-sdk-toutiao*.com'
   - '+.api-access.pangolin-sdk-toutiao.com3'
@@ -302,14 +303,17 @@ payload:
   - '+.mon.snssdk.com'
   - '+.monitor.music.qq.com'
   - '+.monitor.uu.qq.com'
+  - '+.mp.weixin.qq.com/mp/getappmsgad'
   - '+.mtj.baidu.com'
   - '+.nmetrics.samsung.com'
   - '+.notes-analytics-events.apple.com'
   - '+.nsclick.baidu.com'
   - '+.o2o.api.xiaomi.com'
-  - '+.offerwall.yandex.net'  - '+.open.e.kuaishou.cn'
+  - '+.offerwall.yandex.net'
+  - '+.open.e.kuaishou.cn'
   - '+.open.e.kuaishou.com'
   - '+.open.kuaishouzt.com'
+  - '+.open.kwaishouzt.com'
   - '+.open.kwaizt.com'
   - '+.optimus-ads.amap.com'
   - '+.oth.eve.mdt.qq.com'
@@ -393,7 +397,8 @@ payload:
   - '+.tdc.qq.com'
   - '+.tdid.m.qq.com'
   - '+.test.ad.xiaomi.com'
-  - '+.test.e.ad.xiaomi.com'  - '+.tj.b.qq.com'
+  - '+.test.e.ad.xiaomi.com'
+  - '+.tj.b.qq.com'
   - '+.tj.video.qq.com'
   - '+.tmead.y.qq.com'
   - '+.tmfsdk.m.qq.com'
@@ -479,3 +484,4 @@ payload:
   - '+.xlviirdr.com'
   - '+.youxi.kugou.com'
   - '+.zeus.ad.xiaomi.com'
+  - '+.https:\/\/mp\.weixin\.qq\.com\/mp\/getappmsgad'
