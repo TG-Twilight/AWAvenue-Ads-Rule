@@ -124,3 +124,8 @@
 又挤了一大截牙膏🪥......新增 更多的xiaomi ads拦截；新增拦截xiaomi TV的开屏广告拦截；新增 长虹电视 的更新与部分广告拦截（越更越卡越流氓）；新增喜马拉雅、Kuwo、Kugou、JD、蜻蜓FM、今日头条、Xunlei、WinRAR的部分广告拦截。最后，加强了对于  WeChat 、OPPO(Oplus)、Apple的广告拦截。
 <br />
 <br />
+
+## 1.2.6-release：12月21日，2023年
+新增 lanzou Cloud 追踪参数拦截，加强 WeChat 广告拦截，加强 kuaishou ads 拦截，修正了一些错误。
+<br />
+<br />
