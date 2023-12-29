@@ -1,4 +1,4 @@
-<div align="left">
+<img width="294" alt="image" src="https://github.com/TG-Twilight/AWAvenue-Ads-Rule/assets/121682528/b1ad9f6f-1511-405f-a7a6-9d50c8bc6b58"><div align="left">
 <a href="/README.md">中文</a>&nbsp;|&nbsp;
 <a href="/README_en-US.md">English</a> &nbsp;|&nbsp;
 <a href="/README_Update.md">Update Log(Chinese only)</a> 
@@ -89,4 +89,5 @@ Copy our subscription link and import it into AdGuard/AdGuard Home's DNS blackli
 
 ## Special sponsors
 
-虚位以待 | The seat is still warm...
+[贤者Cloud - 畅游世界，高速互联](https://xianzhey01.top/#/register?code=lalF8iqS)
+
