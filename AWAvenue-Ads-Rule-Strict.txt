@@ -76,3 +76,5 @@
 ||drivergenius.com^
 ! 百度百家号
 ||baijiahao.baidu.com
+! 元梦之星
+||ymzx.qq.com^
