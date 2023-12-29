@@ -89,4 +89,4 @@
 
 ## 赞助商 | Special sponsors
 
-[贤者Cloud - 畅游世界，高速互联](https://xianzhey01.top/#/register?code=lalF8iqS)
+[倾城极速 - 畅游世界，高速互联](https://x7a4ds7s.wcnmdmht.biz/#/register?code=prbbRzx9)
