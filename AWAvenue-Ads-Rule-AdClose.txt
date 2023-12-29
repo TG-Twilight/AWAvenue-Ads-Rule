@@ -1,6 +1,6 @@
 // Title: [-AWAvenue 秋风广告规则（AWAvenue-Ads-Rule-AdClose）-]
-// 规则版本: 1.2.6
-// 更新时间: 2023.12.21
+// 规则版本: 1.2.7
+// 更新时间: 2023.12.29
 // AWAvenue-Ads-Rule-AdClose
 // 
 // 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -277,6 +277,7 @@ logservice.hicloud.com
 logservice1.hicloud.com
 logtj.kugou.com
 logupdate.avlyun.sec.miui.com
+m.client.10010.com
 m.kubiqq.com
 masdkv6.3g.qq.com
 mdp-usertrace-cn.heytapmobi.com
@@ -374,6 +375,7 @@ service.vmos.cn/vmospro/api/ad
 sf16-static.i18n-pglstatp.com
 skdisplay.jd.com
 slb-p2p.vcloud.ks-live.com
+smartad.10010.com
 smetrics.samsung.com
 sms.ads.oppomobile.com
 sngmta.qq.com
