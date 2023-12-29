@@ -1,0 +1,80 @@
+[-AWAvenue 秋风广告规则（AWAvenue-Ads-Rule-Strict）-]
+! Title: [-AWAvenue 秋风广告规则（AWAvenue-Ads-Rule-Strict）-]
+! 规则版本: 0.0.5-dev
+! 更新时间: 2023.12.11
+! AWAvenue-Ads-Rule-Strict
+! 
+! 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+! 
+! 如果需要在其它规则中混合此规则，请在您的规则显眼处注明本规则的出处，谢谢！
+! 加入Telegram群组 秋風がく山道 (@AWAvenueAdsChat) 与编写者交流，期待着您的到来！
+! 群组链接：https://t.me/AWAvenueAdsChat
+! 
+! 订阅Telegram频道 AWAvenue Ads Rule (@AWAvenueAdsRule) 获取最新公告，期待着您的订阅！
+! 频道链接：https://t.me/AWAvenueAdsRule
+! 
+! 本项目遵循 署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0) 许可。
+! This project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
+!
+! Regex 部分
+/-ad-/
+/-ad/
+/.*log(s)?\.[a-z0-9.]*/
+/.+(\.)log\.aliyuncs\.com/
+/\.ad\./
+/^ad(s)?.*/
+/admarvel.*/
+/admaster.*/
+/adsage.*/
+/adsensor.*/
+/adsmogo.*/
+/adsrvmedia.*/
+/adsserving.*/
+/adsystem.*/
+/adwords.*/
+/applovin.*/
+/appsflyer.*/
+/domob.*/
+/duomeng.*/
+/dwtrack.*/
+/guanggao.*/
+/omgmta.*/
+/omniture.*/
+/openx.*/
+/pangolin-sdk.*/
+/partnerad.*/
+/pglstatp-toutiao.*/
+/pingfore.*/
+/snssdk.*/
+/socdm.*/
+/supersonicads.*/
+/umeng.*/
+/wlmonitor.*/
+/zjtoolbar.*/
+! Domains 部分
+||macpaw.com^
+! 360
+||360.cn^
+||360safe.com^
+||qihucdn.com^
+||360totalsecurity.com^
+||yunpan.com^
+||so.com^
+||qhimg.com^
+||qihu.com^
+||qihucdn.com^
+! 2345
+||2345.com^
+||2345.cn^
+||2345.cc^
+||keansoft.cn^
+! 金山毒霸
+||ijinshan.com^
+||liebao.cn^
+||duba.net^
+||duba.com^
+||drivergenius.com^
+! 百度百家号
+||baijiahao.baidu.com
+! 元梦之星
+||ymzx.qq.com^
