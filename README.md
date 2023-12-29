@@ -1,7 +1,7 @@
 <div align="left">
 <a href="/README.md">中文</a>&nbsp;|&nbsp;
-<a href="/README_en-US.md">English</a> &nbsp;|&nbsp;
-<a href="/README_Update.md">更新日志</a> 
+<a href="/Files/README_en-US.md">English</a> &nbsp;|&nbsp;
+<a href="/Files/README_Update.md">更新日志</a> 
 </div>
 
 
