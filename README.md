@@ -89,4 +89,4 @@
 
 ## 赞助商 | Special sponsors
 
-虚位以待 | The seat is still warm...
+[贤者Cloud - 畅游世界，高速互联](https://xianzhey01.top/#/register?code=lalF8iqS)
