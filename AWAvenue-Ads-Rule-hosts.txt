@@ -280,6 +280,7 @@
 127.0.0.1 logservice1.hicloud.com
 127.0.0.1 logtj.kugou.com
 127.0.0.1 logupdate.avlyun.sec.miui.com
+127.0.0.1 m.client.10010.com
 127.0.0.1 m.kubiqq.com
 127.0.0.1 masdkv6.3g.qq.com
 127.0.0.1 mdp-usertrace-cn.heytapmobi.com
@@ -377,6 +378,7 @@
 127.0.0.1 sf16-static.i18n-pglstatp.com
 127.0.0.1 skdisplay.jd.com
 127.0.0.1 slb-p2p.vcloud.ks-live.com
+127.0.0.1 smartad.10010.com
 127.0.0.1 smetrics.samsung.com
 127.0.0.1 sms.ads.oppomobile.com
 127.0.0.1 sngmta.qq.com
