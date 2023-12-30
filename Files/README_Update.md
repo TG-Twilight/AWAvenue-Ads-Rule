@@ -131,6 +131,11 @@
 <br />
 
 ## 1.2.7-release：12月29日，2023年
-历时两个月，秋风广告规则正式加入 [AdGuard](https://github.com/AdguardTeam)官方的“[HostlistsRegistry](https://github.com/AdguardTeam/HostlistsRegistry)”从今天开始，你可以直接在[AdGuard DNS](https://adguard-dns.io/)的过滤器列表中订阅秋风广告规则！同时，新增 China Unicom APP 广告和 拼夕夕 Ads 拦截
+历时两个月，秋风广告规则正式加入 [AdGuard](https://github.com/AdguardTeam)官方的“[HostlistsRegistry](https://github.com/AdguardTeam/HostlistsRegistry)”从今天开始，你可以直接在[AdGuard DNS](https://adguard-dns.io/)的过滤器列表中订阅秋风广告规则！同时，新增 China Unicom APP 广告和 拼夕夕 Ads 拦截。
+<br />
+<br />
+
+## 1.2.8-release：12月30日，2023年
+新增 乐播投屏 等TV广告拦截，新增更多的 UMENG 封锁，修复对于 China Unicom APP 的一些错误拦截。
 <br />
 <br />
