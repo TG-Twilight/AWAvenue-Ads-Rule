@@ -1,6 +1,6 @@
 # Title: [-AWAvenue 秋风广告规则（AWAvenue-Ads-Rule-hosts）-]
-# 规则版本: 1.2.6
-# 更新时间: 2023.12.21
+# 规则版本: 1.2.8
+# 更新时间: 2023.12.30
 # AWAvenue-Ads-Rule-hosts
 # 
 # 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -8,12 +8,12 @@
 # 如果需要在其它规则中混合此规则，请在您的规则显眼处注明本规则的出处，谢谢！
 # 加入Telegram群组 秋風がく山道 (@AWAvenueAdsChat) 与编写者交流，期待着您的到来！
 # 群组链接：https://t.me/AWAvenueAdsChat
+# 
 # 订阅Telegram频道 AWAvenue Ads Rule (@AWAvenueAdsRule) 获取最新公告，期待着您的订阅！
 # 频道链接：https://t.me/AWAvenueAdsRule
 # 
+# 本项目遵循 署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0) 许可。
 # This project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
-# 
-# 倾城极速 - 畅游世界，高速互联! 官网：https://wcnmdmht.lol/sb/
 #
 127.0.0.1 localhost
 ::1 localhost
@@ -34,6 +34,7 @@
 127.0.0.1 ad.51wnl.com
 127.0.0.1 ad.bwton.com
 127.0.0.1 ad.cyapi.cn
+127.0.0.1 ad.flurry.com
 127.0.0.1 ad.partner.gifshow.com
 127.0.0.1 ad.qingting.fm
 127.0.0.1 ad.qq.com
@@ -47,13 +48,17 @@
 127.0.0.1 adapi.izuiyou.com
 127.0.0.1 adapi.yynetwk.com
 127.0.0.1 adashbc.ut.taobao.com
+127.0.0.1 adc.hpplay.cn
+127.0.0.1 adcdn.hpplay.cn
 127.0.0.1 adcdn.tencentmusic.com
 127.0.0.1 adclick.tencentmusic.com
 127.0.0.1 adcolony.com
+127.0.0.1 adeng.hpplay.cn
 127.0.0.1 adexpo.tencentmusic.com
 127.0.0.1 adfilter.imtt.qq.com
 127.0.0.1 adjust.cn
 127.0.0.1 adkwai.com
+127.0.0.1 adlog.flurry.com
 127.0.0.1 ads*-normal-lq.zijieapi.com
 127.0.0.1 ads-**.tiktok.com
 127.0.0.1 ads-api-o.api.leiniao.com
@@ -63,9 +68,11 @@
 127.0.0.1 ads-video-al.xhscdn.com
 127.0.0.1 ads-video-qc.xhscdn.com
 127.0.0.1 ads.95516.com
+127.0.0.1 ads.flurry.com
 127.0.0.1 ads.google.cn
 127.0.0.1 ads.heytapmobi.com
 127.0.0.1 ads.huan.tv
+127.0.0.1 ads.icloseli.cn
 127.0.0.1 ads.music.126.net
 127.0.0.1 ads.oppomobile.com
 127.0.0.1 ads.service.kugou.com
@@ -80,6 +87,7 @@
 127.0.0.1 adsfilebssdlbig.*.kugou.com
 127.0.0.1 adsfilebssdlbig.ali.kugou.com
 127.0.0.1 adsfileretry.service.kugou.com
+127.0.0.1 adsfs-sdkconfig.heytapimage.com
 127.0.0.1 adsfs.oppomobile.com
 127.0.0.1 adsmind.gdtimg.com
 127.0.0.1 adsmind.ugdtimg.com
@@ -99,11 +107,13 @@
 127.0.0.1 advice-ads.s3.amazonaws.com
 127.0.0.1 adview.cn
 127.0.0.1 adx-cn.anythinktech.com
+127.0.0.1 adx.ads.heytapmobi.com
 127.0.0.1 adx.ads.oppomobile.com
 127.0.0.1 adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn
 127.0.0.1 adxlog-adnet.vivo.com.cn
 127.0.0.1 afs.googlesyndication.com
 127.0.0.1 ali-ad.a.yximgs.com
+127.0.0.1 amdcopen.m.taobao.com
 127.0.0.1 an.facebook.com
 127.0.0.1 analysis.yozocloud.cn
 127.0.0.1 analytics-api.samsunghealthcn.com
@@ -138,7 +148,9 @@
 127.0.0.1 applog.uc.cn
 127.0.0.1 ata-sdk-uuid-report.dreport.meituan.net
 127.0.0.1 audid-api.taobao.com
+127.0.0.1 audid.umeng.com
 127.0.0.1 azr.footprintdns.com
+127.0.0.1 b1-data.ads.heytapmobi.com
 127.0.0.1 bdapi-ads.realmemobile.com
 127.0.0.1 bdapi-in-ads.realmemobile.com
 127.0.0.1 bdapi.ads.oppomobile.com
@@ -156,6 +168,7 @@
 127.0.0.1 c2.gdt.qq.com
 127.0.0.1 catalog.fjwhcbsh.com
 127.0.0.1 catalog.gamepass.com
+127.0.0.1 ccs.umeng.com
 127.0.0.1 cdn-ads.oss-cn-shanghai.aliyuncs.com
 127.0.0.1 cdn.ad.xiaomi.com
 127.0.0.1 cdn.ynuf.aliapp.org
@@ -193,6 +206,7 @@
 127.0.0.1 eclick.baidu.com
 127.0.0.1 ef-dongfeng.tanx.com
 127.0.0.1 entry.baidu.com
+127.0.0.1 errlog.umeng.com
 127.0.0.1 errnewlog.umeng.com
 127.0.0.1 events-drcn.op.dbankcloud.cn
 127.0.0.1 firebaselogging-pa.googleapis.com
@@ -280,8 +294,8 @@
 127.0.0.1 logservice1.hicloud.com
 127.0.0.1 logtj.kugou.com
 127.0.0.1 logupdate.avlyun.sec.miui.com
-127.0.0.1 m.client.10010.com
 127.0.0.1 m.kubiqq.com
+127.0.0.1 m1.ad.10010.com
 127.0.0.1 masdkv6.3g.qq.com
 127.0.0.1 mdp-usertrace-cn.heytapmobi.com
 127.0.0.1 metok.sys.miui.com
@@ -387,6 +401,7 @@
 127.0.0.1 staticsns.cdn.bcebos.com
 127.0.0.1 stats.qiumibao.com
 127.0.0.1 statsigapi.net
+127.0.0.1 stg-data.ads.heytapmobi.com
 127.0.0.1 success.ctobsnssdk.com
 127.0.0.1 t*.a.market.xiaomi.com
 127.0.0.1 t-dsp.pinduoduo.com
@@ -396,6 +411,7 @@
 127.0.0.1 t2.a.market.xiaomi.com
 127.0.0.1 t3.a.market.xiaomi.com
 127.0.0.1 tangram.e.qq.com
+127.0.0.1 tanx.com
 127.0.0.1 tdc.qq.com
 127.0.0.1 tdid.m.qq.com
 127.0.0.1 test.ad.xiaomi.com
@@ -415,6 +431,7 @@
 127.0.0.1 tvuser-ch.cedock.com
 127.0.0.1 tx-ad.a.yximgs.com
 127.0.0.1 tx-kmpaudio.pull.yximgs.com
+127.0.0.1 uapi.ads.heytapmobi.com
 127.0.0.1 uapi.chiq-cloud.com
 127.0.0.1 ucstat.baidu.com
 127.0.0.1 ulog-sdk.gifshow.com
