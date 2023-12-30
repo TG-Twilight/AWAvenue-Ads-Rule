@@ -129,3 +129,8 @@
 新增 lanzou Cloud 追踪参数拦截，加强 WeChat 广告拦截，加强 kuaishou ads 拦截，修正了一些错误。
 <br />
 <br />
+
+## 1.2.7-release：12月29日，2023年
+历时两个月，秋风广告规则正式加入 [AdGuard](https://github.com/AdguardTeam)官方的“[HostlistsRegistry](https://github.com/AdguardTeam/HostlistsRegistry)”从今天开始，你可以直接在[AdGuard DNS](https://adguard-dns.io/)的过滤器列表中订阅秋风广告规则！同时，新增 China Unicom APP 广告和 拼夕夕 Ads 拦截
+<br />
+<br />
