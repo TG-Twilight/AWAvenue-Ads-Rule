@@ -9,7 +9,7 @@
 <h1 align="center">- AWAvenue Ads Rule -</h1>
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Files/AWAvenue-Ads-Rule.png">
+   <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/assets/AWAvenue-Ads-Rule.png">
 </p>
 <p align="center">
  <img src="https://img.shields.io/github/stars/TG-Twilight/AWAvenue-Ads-Rule?style=for-the-badge&colorA=FFEBEB&colorB=FFD9DC&logo=github&logoColor=black">
