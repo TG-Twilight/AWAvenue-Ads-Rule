@@ -366,7 +366,6 @@ sdktmp.hubcloud.com.cn
 sdownload.stargame.com
 search.ixigua.com
 search3-search.ixigua.com
-search4-search.ixigua.com
 search5-search-hl.ixigua.com
 search5-search.ixigua.com
 sensors-log.dongqiudi.com
