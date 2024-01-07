@@ -1,0 +1,58 @@
+name: build Rule
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  execute_python_script:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2.5.0
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+        
+    - name: Execute Python script
+      run: |
+        cd build
+        mkdir out
+        python main.py
+        cd out
+        mkdir Filers
+        mv AWAvenue-Ads-Rule-Adguard.txt AWAvenue-Ads-Rule.txt #历史遗留问题
+        mv AWAvenue-Ads-Rule-* Filers/
+        cd Filers
+        ls
+
+    - name: Git push
+      run: |
+        git clone "https://${{ github.actor }}:${{ secrets.TOKEN }}@github.com/${{ github.repository }}" push
+        cp -Rf build/out/* push/
+        cd push
+        files=$(find . -name '*AWAvenue*')
+        echo $files
+        if [[ -n "$(git diff -- $files)" ]]; then
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add AWAvenue-Ads-Rule.txt
+          cd Filers
+          git add *AWAvenue*
+          git commit -m "github action build rule"
+          git push --set-upstream origin main
+        fi
+
+    - name: Purge jsdelivr CDN
+      run: |
+        cd push
+        files=$(find . -name '*AWAvenue*')
+        if [[ -n "$(git diff -- $files)" ]]; then
+          for file in $(ls); do
+            curl -i "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/${file}"
+          done
+        fi

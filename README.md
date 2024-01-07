@@ -1,16 +1,14 @@
 <div align="left">
 <a href="/README.md">中文</a>&nbsp;|&nbsp;
-<a href="/Files/README_en-US.md">English</a> &nbsp;|&nbsp;
-<a href="/Files/README_Update.md">更新日志</a> 
+<a href="/assets/README_en-US.md">English</a> &nbsp;|&nbsp;
+<a href="/assets/README_Update.md">更新日志</a> 
 </div>
-
-
 
 
 <h1 align="center">-AWAvenue 秋风广告规则 -</h1>
 
 <p align="center">
-   <img src="https://gcore.jsdelivr.net/gh/TG-Twilight/AWAvenue-Ads-Rule@main/Files/AWAvenue-Ads-Rule.png">
+   <img src="https://gcore.jsdelivr.net/gh/TG-Twilight/AWAvenue-Ads-Rule@main/assets/assets.png">
 </p>
 <p align="center">
  <img src="https://img.shields.io/github/stars/TG-Twilight/AWAvenue-Ads-Rule?style=for-the-badge&colorA=FFEBEB&colorB=FFD9DC&logo=github&logoColor=black">
@@ -44,16 +42,6 @@
 - [渺软CDN反代订阅地址](https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Ads-Rule@main/AWAvenue-Ads-Rule.txt)
 - [jsDelivr(gcore)反代订阅地址](https://gcore.jsdelivr.net/gh/TG-Twilight/AWAvenue-Ads-Rule@main/AWAvenue-Ads-Rule.txt)
 - [ghproxy反代订阅地址](https://mirror.ghproxy.com/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
-
-
-激进版（AWAvenue-Ads-Rule-Strict） **不推荐订阅日用**
-- [Github订阅地址](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule-Strict.txt)
-- [渺软CDN反代订阅地址](https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Ads-Rule@main/AWAvenue-Ads-Rule-Strict.txt)
-- [jsDelivr(gcore)反代订阅地址](https://gcore.jsdelivr.net/gh/TG-Twilight/AWAvenue-Ads-Rule@main/AWAvenue-Ads-Rule.txt)
-- [ghproxy反代订阅地址](https://mirror.ghproxy.com/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule-Strict.txt)
- <br />
- 
- *普通用户建议仅订阅普通版(AWAvenue-Ads-Rule)即可，激进版多用于整活/探索，订阅后会对您正常上网产生一定的影响，除非您清楚自己在做什么，否则请不要订阅此规则！*
 
  *若您在订阅本广告规则后，仍发现应用内流氓广告sdk在正常展示广告，欢迎你进群反馈！*
 
