@@ -38,19 +38,15 @@ Using Adblock syntax, it fights (blocks) various rogue ad SDKs in Android apps a
 Compared with other means of removing ads, this way of filtering from the network level is low-cost, easy and quick to use, and has a wide range of benefits (e.g., router deployment). You don't need to set up a separate setup for each app on demand, and it doesn't affect your normal use of the original apps while filtering senselessly.
 <br />
 <br />
-## Subscription Rules
+## Subscription Filters
 - [Github Sub Address](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
 - [Miaoruan CDN Proxy Sub Address](https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Ads-Rule@main/AWAvenue-Ads-Rule.txt)
 - [jsDelivr Proxy Sub Address](https://cdn.jsdelivr.net/gh/TG-Twilight/AWAvenue-Ads-Rule@main/AWAvenue-Ads-Rule.txt)
 - [ghproxy Proxy Sub Address](https://mirror.ghproxy.com/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
 
+## Other Format Filters
 
-Strict version（AWAvenue-Ads-Rule-Strict） I don't recommend you subscribe
-- [Github Sub Address](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule-Strict.txt)
-- [Miaoruan CDN Proxy Sub Address](https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Ads-Rule@main/AWAvenue-Ads-Rule-Strict.txt)
-- [jsDelivr Proxy Sub Address](https://cdn.jsdelivr.net/gh/TG-Twilight/AWAvenue-Ads-Rule@main/AWAvenue-Ads-Rule.txt)
-- [ghproxy Proxy Sub Address](https://mirror.ghproxy.com/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule-Strict.txt)
-
+See[Filters](./Filters)
 
  <br />
  
