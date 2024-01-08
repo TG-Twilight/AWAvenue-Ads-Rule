@@ -46,7 +46,7 @@ Compared with other means of removing ads, this way of filtering from the networ
 
 ## Other Format Filters
 
-See[Filters](./Filters)
+See[Filters](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/tree/main/Filters)
 
  <br />
  
