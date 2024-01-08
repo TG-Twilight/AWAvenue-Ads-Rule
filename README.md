@@ -43,6 +43,10 @@
 - [jsDelivr(gcore)反代订阅地址](https://gcore.jsdelivr.net/gh/TG-Twilight/AWAvenue-Ads-Rule@main/AWAvenue-Ads-Rule.txt)
 - [ghproxy反代订阅地址](https://mirror.ghproxy.com/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
 
+## 其他客户端格式订阅规则 | other Subscription Rules
+
+见[Filters](./Filters)
+
  *若您在订阅本广告规则后，仍发现应用内流氓广告sdk在正常展示广告，欢迎你进群反馈！*
 
 个人项目，随缘维护更新，欢迎issues和Pr，**Pr前请到群里打个招呼**。   [😀加入秋風がく山道](https://t.me/AWAvenueAdsChat)。
