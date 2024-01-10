@@ -24,10 +24,10 @@ jobs:
         mkdir out
         python main.py
         cd out
-        mkdir Filers
+        mkdir Filters
         mv AWAvenue-Ads-Rule-Adguard.txt AWAvenue-Ads-Rule.txt #历史遗留问题
-        mv AWAvenue-Ads-Rule-* Filers/
-        cd Filers
+        mv AWAvenue-Ads-Rule-* Filters/
+        cd Filters
         ls
 
     - name: Git push
@@ -41,7 +41,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add AWAvenue-Ads-Rule.txt
-          cd Filers
+          cd Filters
           git add *AWAvenue*
           git commit -m "github action build rule"
           git push --set-upstream origin main
