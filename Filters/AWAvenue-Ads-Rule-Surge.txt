@@ -1,4 +1,4 @@
-# Title: AWAvenue秋风广告规则
+# Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 # 规则版本: 1.2.9
 # 更新时间: 2024-01-10
 # 
@@ -12,7 +12,8 @@
 # 
 # This project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
 # 
-# 倾城极速 - 畅游世界，高速互联官网：https://wcnmdmht.lol/sb https://panel.qc02.xyz
+# 倾城极速 - 畅游世界，高速互联！官网：https://wcnmdmht.lol/sb 官网2：https://panel.qc02.xyz
+# 
 
 .1010pic.com
 .8le8le.com
