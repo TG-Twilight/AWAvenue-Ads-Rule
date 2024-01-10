@@ -22,8 +22,8 @@
 127.0.0.1 8le8le.com
 127.0.0.1 a0.app.xiaomi.com
 127.0.0.1 acs.m.taobao.com
-127.0.0.1 ad-scope.com.cn
 127.0.0.1 ad-scope.com
+127.0.0.1 ad-scope.com.cn
 127.0.0.1 ad-sdk.huxiu.com
 127.0.0.1 ad.12306.cn
 127.0.0.1 ad.51wnl.com
@@ -102,8 +102,8 @@
 127.0.0.1 adx-drcn.op.dbankcloud.cn
 127.0.0.1 adx.ads.heytapmobi.com
 127.0.0.1 adx.ads.oppomobile.com
-127.0.0.1 adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn
 127.0.0.1 adxlog-adnet.vivo.com.cn
+127.0.0.1 adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn
 127.0.0.1 afs.googlesyndication.com
 127.0.0.1 ali-ad.a.yximgs.com
 127.0.0.1 amdcopen.m.taobao.com
@@ -118,8 +118,8 @@
 127.0.0.1 analytics.tiktok.com
 127.0.0.1 analytics.woozooo.com
 127.0.0.1 analyze.lemurbrowser.com
-127.0.0.1 api-access.pangolin-sdk-toutiao.com3
 127.0.0.1 api-access.pangolin-sdk-toutiao.com
+127.0.0.1 api-access.pangolin-sdk-toutiao.com3
 127.0.0.1 api-access.pangolin-sdk-toutiao1.com
 127.0.0.1 api-access.pangolin-sdk-toutiao2.com
 127.0.0.1 api-access.pangolin-sdk-toutiao3.com
@@ -157,6 +157,7 @@
 127.0.0.1 business-api.tiktok.com
 127.0.0.1 c.evidon.com
 127.0.0.1 c.gj.qq.com
+127.0.0.1 c.kuaiduizuoye.com
 127.0.0.1 c.sayhi.360.cn
 127.0.0.1 c2.gdt.qq.com
 127.0.0.1 catalog.fjwhcbsh.com
@@ -249,8 +250,8 @@
 127.0.0.1 imageplus.baidu.com
 127.0.0.1 images.pinduoduo.com
 127.0.0.1 img-c.heytapimage.com
-127.0.0.1 img.adnyg.com.w.kunlungr.com
 127.0.0.1 img.adnyg.com
+127.0.0.1 img.adnyg.com.w.kunlungr.com
 127.0.0.1 imtmp.net
 127.0.0.1 irc.qubiankeji.com
 127.0.0.1 is.snssdk.com
@@ -271,6 +272,7 @@
 127.0.0.1 log-api-mn.huxiu.com
 127.0.0.1 log-api.huxiu.com
 127.0.0.1 log-api.pangolin-sdk-toutiao-b.com
+127.0.0.1 log-api.pangolin-sdk-toutiao.com
 127.0.0.1 log-sdk.gifshow.com
 127.0.0.1 log-upload-os.hoyoverse.com
 127.0.0.1 log-upload.mihoyo.com
@@ -289,7 +291,6 @@
 127.0.0.1 log.web.kugou.com
 127.0.0.1 log.web.kugou.com
 127.0.0.1 log1.cmpassport.com
-127.0.0.1 log-api.pangolin-sdk-toutiao.com
 127.0.0.1 logbak.hicloud.com
 127.0.0.1 logs.amap.com
 127.0.0.1 logservice.hicloud.com
@@ -404,6 +405,7 @@
 127.0.0.1 stats.qiumibao.com
 127.0.0.1 statsigapi.net
 127.0.0.1 stg-data.ads.heytapmobi.com
+127.0.0.1 storage.moegirl.org.cn
 127.0.0.1 success.ctobsnssdk.com
 127.0.0.1 syh-imp.cdnjtzy.com
 127.0.0.1 t-dsp.pinduoduo.com

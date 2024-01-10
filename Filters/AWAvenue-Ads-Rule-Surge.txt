@@ -18,8 +18,8 @@
 .8le8le.com
 .a0.app.xiaomi.com
 .acs.m.taobao.com
-.ad-scope.com.cn
 .ad-scope.com
+.ad-scope.com.cn
 .ad-sdk.huxiu.com
 .ad.12306.cn
 .ad.51wnl.com
@@ -98,8 +98,8 @@
 .adx-drcn.op.dbankcloud.cn
 .adx.ads.heytapmobi.com
 .adx.ads.oppomobile.com
-.adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn
 .adxlog-adnet.vivo.com.cn
+.adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn
 .afs.googlesyndication.com
 .ali-ad.a.yximgs.com
 .amdcopen.m.taobao.com
@@ -114,8 +114,8 @@
 .analytics.tiktok.com
 .analytics.woozooo.com
 .analyze.lemurbrowser.com
-.api-access.pangolin-sdk-toutiao.com3
 .api-access.pangolin-sdk-toutiao.com
+.api-access.pangolin-sdk-toutiao.com3
 .api-access.pangolin-sdk-toutiao1.com
 .api-access.pangolin-sdk-toutiao2.com
 .api-access.pangolin-sdk-toutiao3.com
@@ -153,6 +153,7 @@
 .business-api.tiktok.com
 .c.evidon.com
 .c.gj.qq.com
+.c.kuaiduizuoye.com
 .c.sayhi.360.cn
 .c2.gdt.qq.com
 .catalog.fjwhcbsh.com
@@ -245,8 +246,8 @@
 .imageplus.baidu.com
 .images.pinduoduo.com
 .img-c.heytapimage.com
-.img.adnyg.com.w.kunlungr.com
 .img.adnyg.com
+.img.adnyg.com.w.kunlungr.com
 .imtmp.net
 .irc.qubiankeji.com
 .is.snssdk.com
@@ -267,6 +268,7 @@
 .log-api-mn.huxiu.com
 .log-api.huxiu.com
 .log-api.pangolin-sdk-toutiao-b.com
+.log-api.pangolin-sdk-toutiao.com
 .log-sdk.gifshow.com
 .log-upload-os.hoyoverse.com
 .log-upload.mihoyo.com
@@ -285,7 +287,6 @@
 .log.web.kugou.com
 .log.web.kugou.com
 .log1.cmpassport.com
-.log-api.pangolin-sdk-toutiao.com
 .logbak.hicloud.com
 .logs.amap.com
 .logservice.hicloud.com
@@ -400,6 +401,7 @@
 .stats.qiumibao.com
 .statsigapi.net
 .stg-data.ads.heytapmobi.com
+.storage.moegirl.org.cn
 .success.ctobsnssdk.com
 .syh-imp.cdnjtzy.com
 .t-dsp.pinduoduo.com
