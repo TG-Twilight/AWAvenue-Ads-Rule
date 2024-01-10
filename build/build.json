@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
+  "version": "1.2.9",
   "out_path": "/out",
   "domain_name": "domain.txt",
   "regex_name": "domain_regex.txt",
-  "title": "Title: AWAvenue秋风广告规则\n规则版本: version\n更新时间: format_time\n\n项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule\n\n如果需要在其它规则中混合此规则，请在您的规则显眼处注明本规则的出处，谢谢！\n加入Telegram群组 秋風がく山道 (@AWAvenueAdsChat) 与编写者交流，期待着您的到来！\n群组链接：https://t.me/AWAvenueAdsChat\n订阅Telegram频道 AWAvenue Ads Rule (@AWAvenueAdsRule) 获取最新公告，期待着您的订阅！\n频道链接：https://t.me/AWAvenueAdsRule\n\nThis project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.\n\n倾城极速 - 畅游世界，高速互联官网：https://wcnmdmht.lol/sb https://panel.qc02.xyz"，
+  "title": "Title: AWAvenue秋风广告规则\n规则版本: version\n更新时间: format_time\n\n项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule\n\n如果需要在其它规则中混合此规则，请在您的规则显眼处注明本规则的出处，谢谢！\n加入Telegram群组 秋風がく山道 (@AWAvenueAdsChat) 与编写者交流，期待着您的到来！\n群组链接：https://t.me/AWAvenueAdsChat\n订阅Telegram频道 AWAvenue Ads Rule (@AWAvenueAdsRule) 获取最新公告，期待着您的订阅！\n频道链接：https://t.me/AWAvenueAdsRule\n\nThis project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.\n\n倾城极速 - 畅游世界，高速互联官网：https://wcnmdmht.lol/sb https://panel.qc02.xyz",
   "suffix": [
     {"name": "AdClose", "suffix": ".txt", "comment": "!"},
     {"name": "Adguard", "suffix": ".txt", "comment": "!"},
