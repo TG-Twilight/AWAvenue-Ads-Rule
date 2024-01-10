@@ -1,5 +1,5 @@
 ! Title: AWAvenue秋风广告规则
-! 规则版本: 1.0.0
+! 规则版本: 1.2.9
 ! 更新时间: 2024-01-10
 ! 
 ! 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
