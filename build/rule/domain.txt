@@ -1,6 +1,7 @@
 1010pic.com
 8le8le.com
 a0.app.xiaomi.com
+aaid.umeng.com
 acs.m.taobao.com
 ad-scope.com
 ad-scope.com.cn
@@ -159,7 +160,6 @@ contentcenter-drcn.dbankcdn.cn
 crashlytics.com
 crashlyticsreports-pa.googleapis.com
 csjplatform.com
-data-sdk-uuid-log.d.meituan.net
 data.ads.oppomobile.com
 data.mistat.india.xiaomi.com
 data.mistat.rus.xiaomi.com
@@ -225,6 +225,7 @@ iad.apple.com
 iadctest.qwapi.com
 iadsdk.apple.com
 iadworkbench.apple.com
+ib.snssdk.com
 ifs.tanx.com
 image-ad.sm.cn
 imageplus.baidu.com
@@ -297,6 +298,7 @@ mobads.baidu.com
 mobilelog.upqzfile.com
 mobileservice.cn
 mon.snssdk.com
+mon.zijieapi.com
 monitor.music.qq.com
 monitor.uu.qq.com
 monsetting.toutiao.com
