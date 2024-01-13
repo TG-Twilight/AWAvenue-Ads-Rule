@@ -8,7 +8,7 @@
     {"name": "AdClose", "suffix": ".txt", "comment": "!"},
     {"name": "Adguard", "suffix": ".txt", "comment": "!"},
     {"name": "Clash", "suffix": ".yaml", "comment": "#"},
-    {"name": "hosts", "suffix": "" , "comment": "#"},
+    {"name": "hosts", "suffix": ".txt" , "comment": "#"},
     {"name": "Surge", "suffix": ".txt" , "comment": "#"}
   ]
 }
