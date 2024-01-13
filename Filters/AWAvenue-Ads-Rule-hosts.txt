@@ -1,35 +1,32 @@
-# Title: [-AWAvenue 秋风广告规则（AWAvenue-Ads-Rule-hosts）-]
-# 规则版本: 1.2.8
-# 更新时间: 2023.12.30
-# AWAvenue-Ads-Rule-hosts
+# Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
+# 规则版本: 1.3.0
+# 更新时间: 2024-01-13
 # 
 # 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 # 
 # 如果需要在其它规则中混合此规则，请在您的规则显眼处注明本规则的出处，谢谢！
 # 加入Telegram群组 秋風がく山道 (@AWAvenueAdsChat) 与编写者交流，期待着您的到来！
 # 群组链接：https://t.me/AWAvenueAdsChat
-# 
 # 订阅Telegram频道 AWAvenue Ads Rule (@AWAvenueAdsRule) 获取最新公告，期待着您的订阅！
 # 频道链接：https://t.me/AWAvenueAdsRule
 # 
-# 本项目遵循 署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0) 许可。
 # This project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
-#
+# 
+# 倾城极速 - 畅游世界，高速互联！官网：https://wcnmdmht.lol/sb 官网2：https://panel.qc02.xyz
+# 
+
 127.0.0.1 localhost
 ::1 localhost
-#本规则不考虑广告奖励等使用情概况，若有需要，请临时禁用本规则！
-127.0.0.1 *-ad-*.byteimg.com
-127.0.0.1 *-ad.sm.cn
-127.0.0.1 *-ad.wtzw.com
-127.0.0.1 *.log.aliyuncs.com
+
+
 127.0.0.1 1010pic.com
 127.0.0.1 8le8le.com
 127.0.0.1 a0.app.xiaomi.com
+127.0.0.1 aaid.umeng.com
 127.0.0.1 acs.m.taobao.com
-127.0.0.1 ad-scope.com.cn
 127.0.0.1 ad-scope.com
+127.0.0.1 ad-scope.com.cn
 127.0.0.1 ad-sdk.huxiu.com
-127.0.0.1 ad.*.xiaomi.com
 127.0.0.1 ad.12306.cn
 127.0.0.1 ad.51wnl.com
 127.0.0.1 ad.bwton.com
@@ -59,8 +56,6 @@
 127.0.0.1 adjust.cn
 127.0.0.1 adkwai.com
 127.0.0.1 adlog.flurry.com
-127.0.0.1 ads*-normal-lq.zijieapi.com
-127.0.0.1 ads-**.tiktok.com
 127.0.0.1 ads-api-o.api.leiniao.com
 127.0.0.1 ads-api.tiktok.com
 127.0.0.1 ads-api.twitter.com
@@ -84,7 +79,6 @@
 127.0.0.1 adserviceretry.kugou.com
 127.0.0.1 adsfile.bssdlbig.kugou.com
 127.0.0.1 adsfile.bssdlbig.kugou.com
-127.0.0.1 adsfilebssdlbig.*.kugou.com
 127.0.0.1 adsfilebssdlbig.ali.kugou.com
 127.0.0.1 adsfileretry.service.kugou.com
 127.0.0.1 adsfs-sdkconfig.heytapimage.com
@@ -107,10 +101,11 @@
 127.0.0.1 advice-ads.s3.amazonaws.com
 127.0.0.1 adview.cn
 127.0.0.1 adx-cn.anythinktech.com
+127.0.0.1 adx-drcn.op.dbankcloud.cn
 127.0.0.1 adx.ads.heytapmobi.com
 127.0.0.1 adx.ads.oppomobile.com
-127.0.0.1 adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn
 127.0.0.1 adxlog-adnet.vivo.com.cn
+127.0.0.1 adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn
 127.0.0.1 afs.googlesyndication.com
 127.0.0.1 ali-ad.a.yximgs.com
 127.0.0.1 amdcopen.m.taobao.com
@@ -125,9 +120,8 @@
 127.0.0.1 analytics.tiktok.com
 127.0.0.1 analytics.woozooo.com
 127.0.0.1 analyze.lemurbrowser.com
-127.0.0.1 api-access.pangolin-sdk-toutiao*.com
-127.0.0.1 api-access.pangolin-sdk-toutiao.com3
 127.0.0.1 api-access.pangolin-sdk-toutiao.com
+127.0.0.1 api-access.pangolin-sdk-toutiao.com3
 127.0.0.1 api-access.pangolin-sdk-toutiao1.com
 127.0.0.1 api-access.pangolin-sdk-toutiao2.com
 127.0.0.1 api-access.pangolin-sdk-toutiao3.com
@@ -142,6 +136,7 @@
 127.0.0.1 api.installer.xiaomi.com
 127.0.0.1 api.kingdata.ksyun.com
 127.0.0.1 api.statsig.com
+127.0.0.1 api5-normal-quic-lf.ixigua.com
 127.0.0.1 apiyd.my91app.com
 127.0.0.1 app-measurement.com
 127.0.0.1 applog.lc.quark.cn
@@ -164,6 +159,7 @@
 127.0.0.1 business-api.tiktok.com
 127.0.0.1 c.evidon.com
 127.0.0.1 c.gj.qq.com
+127.0.0.1 c.kuaiduizuoye.com
 127.0.0.1 c.sayhi.360.cn
 127.0.0.1 c2.gdt.qq.com
 127.0.0.1 catalog.fjwhcbsh.com
@@ -181,10 +177,10 @@
 127.0.0.1 cn-acs.m.cainiao.com
 127.0.0.1 cnzz.com
 127.0.0.1 collect.kugou.com
+127.0.0.1 contentcenter-drcn.dbankcdn.cn
 127.0.0.1 crashlytics.com
 127.0.0.1 crashlyticsreports-pa.googleapis.com
 127.0.0.1 csjplatform.com
-127.0.0.1 data-sdk-uuid-log.d.meituan.net
 127.0.0.1 data.ads.oppomobile.com
 127.0.0.1 data.mistat.india.xiaomi.com
 127.0.0.1 data.mistat.rus.xiaomi.com
@@ -192,12 +188,15 @@
 127.0.0.1 dataflow.biliapi.com
 127.0.0.1 dc.sigmob.cn
 127.0.0.1 diagnosis.ad.xiaomi.com
+127.0.0.1 dig.bdurl.net
+127.0.0.1 dl.zuimeitianqi.com
 127.0.0.1 dlogs.bwton.com
 127.0.0.1 dm.toutiao.com
 127.0.0.1 doubleclick-cn.net
 127.0.0.1 doubleclick.net
 127.0.0.1 download.changhong.upgrade2.huan.tv
 127.0.0.1 downloadxml.changhong.upgrade2.huan.tv
+127.0.0.1 drcn-weather.cloud.huawei.com
 127.0.0.1 dsp.fcbox.com
 127.0.0.1 dualstack-logs.amap.com
 127.0.0.1 dutils.com
@@ -221,11 +220,14 @@
 127.0.0.1 googletagservices-cn.com
 127.0.0.1 googletagservices.com
 127.0.0.1 gromore.pangolin-sdk-toutiao.com
+127.0.0.1 grs.dbankcloud.com
 127.0.0.1 grs.hicloud.com
 127.0.0.1 h-adashx.ut.taobao.com
 127.0.0.1 h.trace.qq.com
+127.0.0.1 h5hosting.dbankcdn.com
 127.0.0.1 henzanapp.com
 127.0.0.1 hexagon-analytics.com
+127.0.0.1 hiboard-drcn.ai.dbankcloud.cn
 127.0.0.1 hm.baidu.com
 127.0.0.1 hmma.baidu.com
 127.0.0.1 httpdns.bcelive.com
@@ -234,6 +236,8 @@
 127.0.0.1 httpdns.push.oppomobile.com
 127.0.0.1 hugelog.fcbox.com
 127.0.0.1 hw-ot-ad.a.yximgs.com
+127.0.0.1 hw.zuimeitianqi.com
+127.0.0.1 hwpub-s01-drcn.cloud.dbankcloud.cn
 127.0.0.1 hya.comp.360os.com
 127.0.0.1 hye.comp.360os.com
 127.0.0.1 hyt.comp.360os.com
@@ -242,13 +246,14 @@
 127.0.0.1 iadctest.qwapi.com
 127.0.0.1 iadsdk.apple.com
 127.0.0.1 iadworkbench.apple.com
+127.0.0.1 ib.snssdk.com
 127.0.0.1 ifs.tanx.com
 127.0.0.1 image-ad.sm.cn
 127.0.0.1 imageplus.baidu.com
 127.0.0.1 images.pinduoduo.com
 127.0.0.1 img-c.heytapimage.com
-127.0.0.1 img.adnyg.com.w.kunlungr.com
 127.0.0.1 img.adnyg.com
+127.0.0.1 img.adnyg.com.w.kunlungr.com
 127.0.0.1 imtmp.net
 127.0.0.1 irc.qubiankeji.com
 127.0.0.1 is.snssdk.com
@@ -269,6 +274,7 @@
 127.0.0.1 log-api-mn.huxiu.com
 127.0.0.1 log-api.huxiu.com
 127.0.0.1 log-api.pangolin-sdk-toutiao-b.com
+127.0.0.1 log-api.pangolin-sdk-toutiao.com
 127.0.0.1 log-sdk.gifshow.com
 127.0.0.1 log-upload-os.hoyoverse.com
 127.0.0.1 log-upload.mihoyo.com
@@ -289,7 +295,6 @@
 127.0.0.1 log1.cmpassport.com
 127.0.0.1 logbak.hicloud.com
 127.0.0.1 logs.amap.com
-127.0.0.1 logservice*.hicloud.com
 127.0.0.1 logservice.hicloud.com
 127.0.0.1 logservice1.hicloud.com
 127.0.0.1 logtj.kugou.com
@@ -299,7 +304,6 @@
 127.0.0.1 masdkv6.3g.qq.com
 127.0.0.1 mdp-usertrace-cn.heytapmobi.com
 127.0.0.1 metok.sys.miui.com
-127.0.0.1 metrics*.data.hicloud.com
 127.0.0.1 metrics.apple.com
 127.0.0.1 metrics.data.hicloud.com
 127.0.0.1 metrics.icloud.com
@@ -312,18 +316,20 @@
 127.0.0.1 mobads-logs.baidu.com
 127.0.0.1 mobads-pre-config.cdn.bcebos.com
 127.0.0.1 mobads.baidu.com
-127.0.0.1 mobileanalytics.*.amazonaws.com
 127.0.0.1 mobilelog.upqzfile.com
 127.0.0.1 mobileservice.cn
 127.0.0.1 mon.snssdk.com
+127.0.0.1 mon.zijieapi.com
 127.0.0.1 monitor.music.qq.com
 127.0.0.1 monitor.uu.qq.com
+127.0.0.1 monsetting.toutiao.com
 127.0.0.1 mp.weixin.qq.com/mp/getappmsgad
 127.0.0.1 mtj.baidu.com
 127.0.0.1 nmetrics.samsung.com
 127.0.0.1 notes-analytics-events.apple.com
 127.0.0.1 nsclick.baidu.com
 127.0.0.1 o2o.api.xiaomi.com
+127.0.0.1 oauth-login-drcn.platform.dbankcloud.com
 127.0.0.1 offerwall.yandex.net
 127.0.0.1 open.e.kuaishou.cn
 127.0.0.1 open.e.kuaishou.com
@@ -333,10 +339,6 @@
 127.0.0.1 optimus-ads.amap.com
 127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 oth.str.mdt.qq.com
-127.0.0.1 p**-be-pack-sign.pglstatp-toutiao.com
-127.0.0.1 p*-ad-sign.byteimg.com
-127.0.0.1 p*-be-pack-sign.pglstatp-toutiao.com
-127.0.0.1 p*-lm.adkwai.com
 127.0.0.1 p.l.qq.com
 127.0.0.1 p.s.360.cn
 127.0.0.1 p1-be-pack-sign.pglstatp-toutiao.com
@@ -349,10 +351,8 @@
 127.0.0.1 p4-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p5-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p6-be-pack-sign.pglstatp-toutiao.com
-127.0.0.1 pagead*.google.com
 127.0.0.1 pagead2.googleadservices.com
 127.0.0.1 pagead2.googlesyndication.com
-127.0.0.1 pan.baidu.com**.adVideo
 127.0.0.1 pangolin-sdk-toutiao-b.com
 127.0.0.1 pgdt.ugdtimg.com
 127.0.0.1 pglstatp-toutiao.com
@@ -363,11 +363,13 @@
 127.0.0.1 qqdata.ab.qq.com
 127.0.0.1 qwapi.apple.com
 127.0.0.1 qzs.gdtimg.com
+127.0.0.1 recommend-drcn.hms.dbankcloud.cn
 127.0.0.1 res.hubcloud.com.cn
 127.0.0.1 res1.hubcloud.com.cn
 127.0.0.1 res2.hubcloud.com.cn
 127.0.0.1 res3.hubcloud.com.cn
 127.0.0.1 review.gdtimg.com
+127.0.0.1 rms-drcn.platform.dbankcloud.cn
 127.0.0.1 roi.soulapp.cn
 127.0.0.1 rpt.gdt.qq.com
 127.0.0.1 s1.qq.com
@@ -386,6 +388,10 @@
 127.0.0.1 sdkoptedge.chinanetcenter.com
 127.0.0.1 sdktmp.hubcloud.com.cn
 127.0.0.1 sdownload.stargame.com
+127.0.0.1 search.ixigua.com
+127.0.0.1 search3-search.ixigua.com
+127.0.0.1 search5-search-hl.ixigua.com
+127.0.0.1 search5-search.ixigua.com
 127.0.0.1 sensors-log.dongqiudi.com
 127.0.0.1 service.changhong.upgrade2.huan.tv
 127.0.0.1 service.vmos.cn/vmospro/api/ad
@@ -402,8 +408,9 @@
 127.0.0.1 stats.qiumibao.com
 127.0.0.1 statsigapi.net
 127.0.0.1 stg-data.ads.heytapmobi.com
+127.0.0.1 storage.moegirl.org.cn
 127.0.0.1 success.ctobsnssdk.com
-127.0.0.1 t*.a.market.xiaomi.com
+127.0.0.1 syh-imp.cdnjtzy.com
 127.0.0.1 t-dsp.pinduoduo.com
 127.0.0.1 t.l.qq.com
 127.0.0.1 t.track.ad.xiaomi.com
@@ -414,6 +421,7 @@
 127.0.0.1 tanx.com
 127.0.0.1 tdc.qq.com
 127.0.0.1 tdid.m.qq.com
+127.0.0.1 terms-drcn.platform.dbankcloud.cn
 127.0.0.1 test.ad.xiaomi.com
 127.0.0.1 test.e.ad.xiaomi.com
 127.0.0.1 tj.b.qq.com
@@ -444,8 +452,6 @@
 127.0.0.1 union.baidu.com
 127.0.0.1 update.avlyun.sec.miui.com
 127.0.0.1 us.l.qq.com
-127.0.0.1 v*-ad.video.yximgs.com
-127.0.0.1 v*-ad.video.yximgs.com
 127.0.0.1 v.adintl.cn
 127.0.0.1 v.adx.hubcloud.com.cn
 127.0.0.1 v1-ad.video.yximgs.com
@@ -455,7 +461,6 @@
 127.0.0.1 video-dsp.pddpic.com
 127.0.0.1 vlive.qqvideo.tc.qq.com
 127.0.0.1 vungle.com
-127.0.0.1 w*.*skwai.com
 127.0.0.1 w.l.qq.com
 127.0.0.1 w1.askwai.com
 127.0.0.1 w1.bskwai.com
@@ -484,13 +489,13 @@
 127.0.0.1 w1.yskwai.com
 127.0.0.1 w1.zskwai.com
 127.0.0.1 weather-analytics-events.apple.com
+127.0.0.1 weather-community-drcn.weather.dbankcloud.cn
+127.0.0.1 weather-drcn.music.dbankcloud.cn
 127.0.0.1 webstat.qiumibao.com
 127.0.0.1 win.gdt.qq.com
 127.0.0.1 wn.x.jd.com
 127.0.0.1 ws-keyboard.shouji.sogou.com
 127.0.0.1 ws.sj.qq.com
-127.0.0.1 www**.*skwai.com
-127.0.0.1 www**.zskwai.com
 127.0.0.1 www42.zskwai.com
 127.0.0.1 wxa.wxs.qq.com
 127.0.0.1 wxsnsdy.wxs.qq.com
