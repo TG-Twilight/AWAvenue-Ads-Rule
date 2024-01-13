@@ -1,6 +1,6 @@
 # Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 # 规则版本: 1.2.9
-# 更新时间: 2024-01-10
+# 更新时间: 2024-01-13
 # 
 # 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 # 
@@ -22,6 +22,7 @@
 127.0.0.1 1010pic.com
 127.0.0.1 8le8le.com
 127.0.0.1 a0.app.xiaomi.com
+127.0.0.1 aaid.umeng.com
 127.0.0.1 acs.m.taobao.com
 127.0.0.1 ad-scope.com
 127.0.0.1 ad-scope.com.cn
@@ -180,7 +181,6 @@
 127.0.0.1 crashlytics.com
 127.0.0.1 crashlyticsreports-pa.googleapis.com
 127.0.0.1 csjplatform.com
-127.0.0.1 data-sdk-uuid-log.d.meituan.net
 127.0.0.1 data.ads.oppomobile.com
 127.0.0.1 data.mistat.india.xiaomi.com
 127.0.0.1 data.mistat.rus.xiaomi.com
@@ -246,6 +246,7 @@
 127.0.0.1 iadctest.qwapi.com
 127.0.0.1 iadsdk.apple.com
 127.0.0.1 iadworkbench.apple.com
+127.0.0.1 ib.snssdk.com
 127.0.0.1 ifs.tanx.com
 127.0.0.1 image-ad.sm.cn
 127.0.0.1 imageplus.baidu.com
@@ -318,6 +319,7 @@
 127.0.0.1 mobilelog.upqzfile.com
 127.0.0.1 mobileservice.cn
 127.0.0.1 mon.snssdk.com
+127.0.0.1 mon.zijieapi.com
 127.0.0.1 monitor.music.qq.com
 127.0.0.1 monitor.uu.qq.com
 127.0.0.1 monsetting.toutiao.com
