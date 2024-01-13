@@ -66,13 +66,13 @@
 
 - [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)    *安装在路由器，广告过滤工具较为理想的工作位置*
 
-- [AdGuard Home For Magisk](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/releases/tag/%F0%9F%8E%891.2.5-release)   *AdGuard Home的Magisk版本，感谢@heinu123*
+- [AdGuard](https://adguard.com/)    *多端使用，支持Android、Windows、Mac、iOS*
+
+- [AdGuard Home For Magisk](https://t.me/AWAvenueAdsRule/13)   *AdGuard Home的Magisk版本，感谢@heinu123*
 
 - [AdClose（Xposed module）](https://t.me/Reese_XPModule)    *Xposed模块，可以通过hook拦截常见广告，内置秋风广告规则，感谢@zjyzip*
 
-- [uBlock Origin](https://ublockorigin.com/)    *另一款开源而强大的浏览器广告过滤插件*
-
-- [AdGuard](https://adguard.com/)    *多端使用，支持Android、Windows、Mac、iOS*
+- [AdGuard DNS](https://adguard-dns.io/en/welcome.html)    *直接使用自定义的DNS服务器，目前，秋风广告规则已加入AdGuard官方列表，你可以直接在AdGuard DNS Filters中订阅！*
 
 
 ---
