@@ -35,6 +35,8 @@
 使用Adblock语法，从网络层面对抗(拦截)Android应用中的各种流氓广告SDK，阻止其加载，从而达到去广告的目的。
 
 相较于其它去广告的手段，这种从网络层面过滤的方式成本低、使用方便快捷、受益范围广(例如路由器部署)，您无需对每个有需求的app进行单独设置，在无感过滤的同时不影响您正常使用原有的app。
+
+截止目前，我们可以拦截：Chuanshan ads sdk、Txxxxxt ads sdk、kuaishou ads sdk、云猿 ads sdk、WeChat Subscription ads（拦截广告图片加载，广告视频自动下载、广告卡片加载test）Kiwi ads sdk、Ali ads、Xiaomi ads sdk、whyway ads sdk等。
 <br />
 <br />
 ## 订阅规则 | Subscription Rules
