@@ -135,7 +135,6 @@ payload:
   - 'api.statsig.com'
   - 'api5-normal-quic-lf.ixigua.com'
   - 'apiyd.my91app.com'
-  - 'app-measurement.com'
   - 'applog.lc.quark.cn'
   - 'applog.uc.cn'
   - 'ata-sdk-uuid-report.dreport.meituan.net'

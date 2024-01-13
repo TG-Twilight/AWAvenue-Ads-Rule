@@ -138,7 +138,6 @@
 127.0.0.1 api.statsig.com
 127.0.0.1 api5-normal-quic-lf.ixigua.com
 127.0.0.1 apiyd.my91app.com
-127.0.0.1 app-measurement.com
 127.0.0.1 applog.lc.quark.cn
 127.0.0.1 applog.uc.cn
 127.0.0.1 ata-sdk-uuid-report.dreport.meituan.net
