@@ -45,7 +45,7 @@
 
 ## 其他客户端格式订阅规则 | other Subscription Rules
 
-见[Filters](./Filters)
+见[Filters](./Filters)或者是[官方网站](https://awavenue.top/Sub.html)
 
  *若您在订阅本广告规则后，仍发现应用内流氓广告sdk在正常展示广告，欢迎你进群反馈！*
 
