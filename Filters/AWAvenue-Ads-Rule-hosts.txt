@@ -23,7 +23,6 @@
 127.0.0.1 8le8le.com
 127.0.0.1 a0.app.xiaomi.com
 127.0.0.1 aaid.umeng.com
-127.0.0.1 acs.m.taobao.com
 127.0.0.1 ad-scope.com
 127.0.0.1 ad-scope.com.cn
 127.0.0.1 ad-sdk.huxiu.com
@@ -138,6 +137,7 @@
 127.0.0.1 api.statsig.com
 127.0.0.1 api5-normal-quic-lf.ixigua.com
 127.0.0.1 apiyd.my91app.com
+127.0.0.1 app-measurement.com
 127.0.0.1 applog.lc.quark.cn
 127.0.0.1 applog.uc.cn
 127.0.0.1 ata-sdk-uuid-report.dreport.meituan.net
@@ -209,6 +209,9 @@
 127.0.0.1 events-drcn.op.dbankcloud.cn
 127.0.0.1 firebaselogging-pa.googleapis.com
 127.0.0.1 flurry.com
+127.0.0.1 g-staic.ganjingworld.com
+127.0.0.1 g-staic.ganjingworld.com
+127.0.0.1 g2.ganjing.world
 127.0.0.1 game.loveota.com
 127.0.0.1 gdfp.gifshow.com
 127.0.0.1 gemini.yahoo.com
@@ -322,7 +325,6 @@
 127.0.0.1 monitor.music.qq.com
 127.0.0.1 monitor.uu.qq.com
 127.0.0.1 monsetting.toutiao.com
-127.0.0.1 mp.weixin.qq.com/mp/getappmsgad
 127.0.0.1 mtj.baidu.com
 127.0.0.1 nmetrics.samsung.com
 127.0.0.1 notes-analytics-events.apple.com
