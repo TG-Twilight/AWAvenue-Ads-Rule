@@ -52,7 +52,8 @@ jobs:
         cd push
         files=$(find . -name '*AWAvenue*')
         if [[ -n "$(git diff -- $files)" ]]; then
-          for file in $(ls); do
-            curl -i "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/${file}"
+          for file in $files; do
+            url=$(echo $file | sed "s/\.//g")
+            curl -L -v "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/${url}"
           done
         fi
