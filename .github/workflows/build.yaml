@@ -28,7 +28,7 @@ jobs:
         mv AWAvenue-Ads-Rule-Adguard.txt AWAvenue-Ads-Rule.txt #历史遗留问题
         mv AWAvenue-Ads-Rule-* Filters/
         cd Filters
-        wget -O ./sing-box.tar.gz https://github.com/SagerNet/sing-box/releases/download/v1.8.2/sing-box-1.8.2-Android-arm64.tar.gz
+        wget -O ./sing-box.tar.gz https://github.com/SagerNet/sing-box/releases/download/v1.8.2/sing-box-1.8.2-linux-amd64.tar.gz
         tar -xzvf sing-box.tar.gz
         chmod +x */sing-box
         ./*/sing-box rule-set compile AWAvenue-Ads-Rule-Singbox.json
