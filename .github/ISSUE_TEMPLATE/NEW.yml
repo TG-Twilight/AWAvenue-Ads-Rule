@@ -1,0 +1,36 @@
+name: "提交拦截域名"
+description:提交拦截域名
+title: "[enhancement] <提交拦截域名>"
+labels: [
+  "enhancement"
+]
+
+body:
+  - type: textarea
+    id: domain
+    attributes:
+      label: "域名"
+      description: "域名一行一个"
+      placeholder: |
+      xxx.com
+      xxxx.com
+    validations:
+      required: true
+
+  - type: textarea
+    id: illustrate
+    attributes:
+      label: "效果说明"
+      description: "简单说明此域名在哪个网站上 完整广告url为xxxxx"
+      placeholder: xxx.com是abc.com的广告url url为 https://xxx.com/ad.jpg
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: "效果截图"
+      description: 如果可能，请提供效果图片
+      placeholder: "![图片描述](图片链接)"
+    validations:
+      required: false
