@@ -1,6 +1,6 @@
-name: "🐛 Bug"
+name: "Bug(错误拦截)提交"
 description: 问题报告.
-title: "🐛 [BUG] <问题标题>"
+title: "[BUG] <问题标题>"
 labels: [
   "bug"
 ]
@@ -11,7 +11,7 @@ body:
     attributes:
       label: "问题描述"
       description: 请输入简洁且明确的问题描述。
-      placeholder: ...的...功能出现...异常
+      placeholder: 拦截xxx导致...功能出现...异常
     validations:
       required: true
   
