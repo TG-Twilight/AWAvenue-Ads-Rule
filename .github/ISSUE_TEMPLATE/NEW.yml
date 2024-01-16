@@ -11,9 +11,7 @@ body:
     attributes:
       label: "域名"
       description: "域名一行一个"
-      placeholder: |
-      xxx.com
-      xxxx.com
+      placeholder: xxx.com
     validations:
       required: true
 
