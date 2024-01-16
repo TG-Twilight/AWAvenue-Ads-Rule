@@ -18,7 +18,7 @@
 ! 此规则包含了一些较为激进的被拦截域名（激进程度远远不如“AWAvenue-Ads-Rule-Strict激进版”），且每个都配有相关的说明。
 ! 这些域名通常来讲不会太影响你网络的正常使用，但还是为有需要的人提供了一个选择，你可以自由选择是否订阅。
 !
-mp.weixin.qq.com/mp/getappmsgad
+||mp.weixin.qq.com/mp/getappmsgad^
 # 用于拦截 WeChat 的ads请求，开启后对于 WeChat 的订阅号拦截会相当激进。
-acs.m.taobao.com
+||acs.m.taobao.com^
 # 用于拦截 Taobao 的强制更新，开启后部分 Ali 系产品的某些服务可能异常（如Ali Drive的登录验证码之类）。
