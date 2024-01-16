@@ -21,7 +21,6 @@ body:
       label: "复现步骤"
       description: 输入简明的问题复现步骤。
       placeholder: 在xxxx上xxx导致xxx...
-      render: bash
     validations:
       required: false
   
@@ -30,6 +29,6 @@ body:
     attributes:
       label: "问题截图"
       description: 添加问题截图以便我们快速定位.
-      placeholder: ![图片注释](图片链接)
+      placeholder: "![图片描述](图片链接)"
     validations:
       required: false
