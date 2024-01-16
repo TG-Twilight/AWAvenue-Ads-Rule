@@ -49,7 +49,7 @@ jobs:
           git add AWAvenue-Ads-Rule.txt
           cd Filters
           git add *AWAvenue*
-          git commit -m "工作流转换规则: ${{ github.event.head_commit.message }}"
+          git commit -m "[skip ci] 工作流转换规则: ${{ github.event.head_commit.message }}"
           git push --set-upstream origin main
         fi
 
