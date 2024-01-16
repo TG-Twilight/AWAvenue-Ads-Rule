@@ -1,0 +1,37 @@
+name: "🐛 Bug"
+description: 问题报告.
+title: "🐛 [BUG] <问题标题>"
+labels: [
+  "bug"
+]
+
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "问题描述"
+      description: 请输入简洁且明确的问题描述。
+      placeholder: ...的...功能出现...异常
+    validations:
+      required: true
+  
+  - type: textarea
+    id: repord
+    attributes:
+      label: "复现步骤"
+      description: 输入简明的问题复现步骤。
+      value: |
+        在xxxx上xxx导致xxx...
+      render: bash
+    validations:
+      required: false
+  
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: "问题截图"
+      description: 添加问题截图以便我们快速定位.
+      value: |
+        ![图片注释](图片链接)
+    validations:
+      required: false
