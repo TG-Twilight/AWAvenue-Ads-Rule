@@ -11,6 +11,7 @@
     {"name": "hosts", "suffix": ".txt" , "comment": "#"},
     {"name": "Surge", "suffix": ".txt" , "comment": "#"},
     {"name": "Singbox", "suffix": ".json" , "comment": "//"},
-    {"name": "Singbox-regex", "suffix": ".json" , "comment": "//"}
+    {"name": "Singbox-regex", "suffix": ".json" , "comment": "//"},
+    {"name": "QuantumultX", "suffix": ".list" , "comment": "##"}
   ]
 }
