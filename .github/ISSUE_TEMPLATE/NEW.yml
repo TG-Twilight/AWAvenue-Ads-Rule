@@ -6,6 +6,11 @@ labels: [
 ]
 
 body:
+  - type: markdown
+    attributes:
+      value: |
+        提交 Issue 前，还请首先完成文末的自查步骤
+
   - type: textarea
     id: domain
     attributes:
@@ -32,3 +37,16 @@ body:
       placeholder: "![图片描述](图片链接)"
     validations:
       required: false
+
+  - type: checkboxes
+    id: check
+    attributes:
+      label: 自查步骤
+      description: |
+        请确认已经遵守所有必选项，否则不排除将 Close Issue 直至 Ban
+      options:
+        - label: 我确认此拦截域名在本项目最新规则上并不存在，如因网络问题无法获取最新规则者还请自行解决
+          required: true
+
+        - label: 我确认我已经搜索过 [Issue Tracker](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/issues)，且并未查询到提交相同拦截域名的 Issue
+          required: true
