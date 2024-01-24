@@ -141,7 +141,6 @@ c.kuaiduizuoye.com
 c.sayhi.360.cn
 c2.gdt.qq.com
 catalog.fjwhcbsh.com
-catalog.gamepass.com
 ccs.umeng.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
 cdn.ad.xiaomi.com
