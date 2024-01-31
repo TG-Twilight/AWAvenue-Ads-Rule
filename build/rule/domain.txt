@@ -397,7 +397,6 @@ t1.a.market.xiaomi.com
 t2.a.market.xiaomi.com
 t3.a.market.xiaomi.com
 tangram.e.qq.com
-tanx.com
 tdc.qq.com
 tdid.m.qq.com
 terms-drcn.platform.dbankcloud.cn
