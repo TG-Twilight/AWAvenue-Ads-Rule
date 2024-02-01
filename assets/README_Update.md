@@ -157,7 +157,7 @@
 <br />
 <br />
 
-## 1.3.2-release：1月31日，2023年
-修复对 Ali 系产品的错误拦截，感谢 @xunpod 的反馈和配合。
+## 1.3.2-release：2月1日，2023年
+修复对 Ali 系产品、tiktok support chat 的错误拦截，感谢 @xunpod 的反馈和帮助。
 <br />
 <br />
