@@ -298,7 +298,6 @@ mobads-pre-config.cdn.bcebos.com
 mobads.baidu.com
 mobilelog.upqzfile.com
 mobileservice.cn
-mon.snssdk.com
 mon.zijieapi.com
 monitor.music.qq.com
 monitor.uu.qq.com
