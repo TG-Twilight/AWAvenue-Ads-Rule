@@ -20,5 +20,10 @@
 !
 ||mp.weixin.qq.com/mp/getappmsgad^
 # 用于拦截 WeChat 的ads请求，开启后对于 WeChat 的订阅号拦截会相当激进。
+!
 ||acs.m.taobao.com^
 # 用于拦截 Taobao 的强制更新，开启后部分 Ali 系产品的某些服务可能异常（如Ali Drive的登录验证码之类）。
+!
+||contentcenter-drcn.dbankcdn.cn^
+||h5hosting.dbankcdn.com^
+# 用于拦截 Whyway 天气的开屏广告，拦截后，会导致花瓣测速无法获取测速服务器列表、Whyway运动健康图片 资源无法加载等情况。
