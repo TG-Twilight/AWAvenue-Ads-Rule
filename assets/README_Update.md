@@ -151,13 +151,19 @@
 <br />
 
 ## 1.3.1-release：12月15日，2023年
-小修小补，修复对 Ali和 Xbox 的一些错误拦截，新增 干净世界广告规则，感谢@wodedouyin。
+小修小补，修复对 Ali和 Xbox 的一些错误拦截@blueberry-pie-11，新增 干净世界广告规则，感谢@wodedouyin。
 <br />
 新增：“AWAvenue-Ads-Rule-Replenish”，秋风广告规则的补充规则，此规则包含了一些较为激进的被拦截域名（激进程度远远不如“AWAvenue-Ads-Rule-Strict激进版”），且每个都配有相关的说明。这些域名通常来讲不会太影响你网络的正常使用，但还是为有需要的人提供了一个选择，你可以自由选择是否订阅。
 <br />
 <br />
 
-## 1.3.2-release：2月1日，2023年
+## 1.3.2-release：2月1日，2024年
 修复对 Ali 系产品、tiktok support chat 的错误拦截，感谢 @xunpod 的反馈和帮助。
+<br />
+<br />
+
+## 1.3.3-release：2月7日，2024年
+修复对 花瓣测速 的错误拦截，感谢@xunpod的反馈。
+新增更多的 apple、zijie（chanshanjia） 广告拦截，新增对于 Xunfei AI ads（voiceads）的拦截，此部分感谢@wodedouyin的积极提交。
 <br />
 <br />
