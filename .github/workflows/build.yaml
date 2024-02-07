@@ -3,7 +3,7 @@ name: build Rule
 on:
   push:
     branches:
-      - main
+      - build
 
 jobs:
   execute_python_script:
@@ -20,7 +20,6 @@ jobs:
         
     - name: Execute Python script
       run: |
-        cd build
         mkdir out
         python main.py
         cd out
@@ -39,7 +38,7 @@ jobs:
     - name: Git push
       run: |
         git clone "https://${{ github.actor }}:${{ secrets.TOKEN }}@github.com/${{ github.repository }}" push
-        cp -Rf build/out/* push/
+        cp -Rf out/* push/
         cd push
         files=$(find . -name '*AWAvenue*')
         echo $files
@@ -49,17 +48,6 @@ jobs:
           git add AWAvenue-Ads-Rule.txt
           cd Filters
           git add *AWAvenue*
-          git commit -m "[skip ci] 工作流转换规则: ${{ github.event.head_commit.message }}"
+          git commit -m "${{ github.event.head_commit.message }}"
           git push --set-upstream origin main
-        fi
-
-    - name: Purge jsdelivr CDN
-      run: |
-        cd push
-        files=$(find . -name '*AWAvenue*')
-        if [[ -n "$(git diff -- $files)" ]] || [[ "$(echo $(git status) | grep 'Untracked files')" ]]; then
-          for file in $files; do
-            url=$(echo $file | sed "s/\.//g")
-            curl -L -v "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/${url}"
-          done
         fi
