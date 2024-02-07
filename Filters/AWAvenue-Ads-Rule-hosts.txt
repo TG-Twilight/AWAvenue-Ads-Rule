@@ -182,7 +182,6 @@
 127.0.0.1 cn-acs.m.cainiao.com
 127.0.0.1 cnzz.com
 127.0.0.1 collect.kugou.com
-127.0.0.1 contentcenter-drcn.dbankcdn.cn
 127.0.0.1 crashlytics.com
 127.0.0.1 crashlyticsreports-pa.googleapis.com
 127.0.0.1 csjplatform.com
