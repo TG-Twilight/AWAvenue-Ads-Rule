@@ -24,7 +24,7 @@ jobs:
         python main.py
         cd out
         mkdir Filters
-        mv AWAvenue-Ads-Rule-Adguard.txt AWAvenue-Ads-Rule.txt #历史遗留问题
+        cp -Rf AWAvenue-Ads-Rule-Adblock.txt AWAvenue-Ads-Rule.txt #历史遗留问题
         mv AWAvenue-Ads-Rule-* Filters/
         cd Filters
         wget -O ./sing-box.tar.gz https://github.com/SagerNet/sing-box/releases/download/v1.8.2/sing-box-1.8.2-linux-amd64.tar.gz
