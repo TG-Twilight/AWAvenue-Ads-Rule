@@ -546,7 +546,8 @@
         "*-ad.video.yximgs.com",
         "*.*skwai.com",
         "*.*skwai.com",
-        "*.zskwai.com"
+        "*.zskwai.com",
+        "ads*-normal-*.zijieapi.com"
       ],
       "domain_suffix": [
         ".1010pic.com",

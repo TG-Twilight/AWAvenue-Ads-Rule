@@ -540,3 +540,4 @@ DOMAIN-KEYWORD,-ad.video.yximgs.com,reject
 DOMAIN-KEYWORD,.skwai.com,reject
 DOMAIN-KEYWORD,.skwai.com,reject
 DOMAIN-KEYWORD,.zskwai.com,reject
+DOMAIN-KEYWORD,ads-normal-.zijieapi.com,reject

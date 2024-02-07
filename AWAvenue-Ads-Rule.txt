@@ -540,3 +540,4 @@
 /*.*skwai.com/
 /*.*skwai.com/
 /*.zskwai.com/
+/ads*-normal-*.zijieapi.com/
