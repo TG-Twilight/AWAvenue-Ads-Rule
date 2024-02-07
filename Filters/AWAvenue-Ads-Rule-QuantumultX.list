@@ -1,6 +1,6 @@
 ## Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 ## 规则版本: 1.3.2
-## 更新时间: 2024-02-01
+## 更新时间: 2024-02-07
 ## 
 ## 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 ## 
@@ -221,7 +221,6 @@ DOMAIN,grs.dbankcloud.com,reject
 DOMAIN,grs.hicloud.com,reject
 DOMAIN,h-adashx.ut.taobao.com,reject
 DOMAIN,h.trace.qq.com,reject
-DOMAIN,h5hosting.dbankcdn.com,reject
 DOMAIN,henzanapp.com,reject
 DOMAIN,hexagon-analytics.com,reject
 DOMAIN,hiboard-drcn.ai.dbankcloud.cn,reject
@@ -502,6 +501,28 @@ DOMAIN,xlviiirdr.com,reject
 DOMAIN,xlviirdr.com,reject
 DOMAIN,youxi.kugou.com,reject
 DOMAIN,zeus.ad.xiaomi.com,reject
+DOMAIN,event.tradplusad.com,reject
+DOMAIN,mssdk.volces.com,reject
+DOMAIN,log.snssdk.com,reject
+DOMAIN,tnc3-aliec2.bytedance.com,reject
+DOMAIN,tnc3-alisc1.bytedance.com,reject
+DOMAIN,tnc3-bjlgy.bytedance.com,reject
+DOMAIN,tnc3-bjlgy.toutiaoapi.com,reject
+DOMAIN,tnc3-aliec2.toutiaoapi.com,reject
+DOMAIN,tnc3-aliec1.toutiaoapi.com,reject
+DOMAIN,saveu5-normal-lq.zijieapi.com,reject
+DOMAIN,ads3-normal-hl.zijieapi.com,reject
+DOMAIN,ads5-normal-hl.zijieapi.com,reject
+DOMAIN,tz.sec.xiaomi.com,reject
+DOMAIN,securemetrics.apple.com,reject
+DOMAIN,proxy.advp.apple.com,reject
+DOMAIN,applog.zijieapi.com,reject
+DOMAIN,ads5-normal-lq.zijieapi.com,reject
+DOMAIN,ads5-normal-lf.zijieapi.com,reject
+DOMAIN,log.zijieapi.com,reject
+DOMAIN,mssdk.zijieapi.com,reject
+DOMAIN,ads3-normal-lq.zijieapi.com,reject
+DOMAIN,rtb.voiceads.cn,reject
 DOMAIN-KEYWORD,-ad-.byteimg.com,reject
 DOMAIN-KEYWORD,-ad.sm.cn,reject
 DOMAIN-KEYWORD,-ad.wtzw.com,reject

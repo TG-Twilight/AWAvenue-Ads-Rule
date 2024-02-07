@@ -1,6 +1,6 @@
 ! Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 ! 规则版本: 1.3.2
-! 更新时间: 2024-02-01
+! 更新时间: 2024-02-07
 ! 
 ! 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 ! 
@@ -221,7 +221,6 @@
 ||grs.hicloud.com^
 ||h-adashx.ut.taobao.com^
 ||h.trace.qq.com^
-||h5hosting.dbankcdn.com^
 ||henzanapp.com^
 ||hexagon-analytics.com^
 ||hiboard-drcn.ai.dbankcloud.cn^
@@ -502,6 +501,28 @@
 ||xlviirdr.com^
 ||youxi.kugou.com^
 ||zeus.ad.xiaomi.com^
+||event.tradplusad.com^
+||mssdk.volces.com^
+||log.snssdk.com^
+||tnc3-aliec2.bytedance.com^
+||tnc3-alisc1.bytedance.com^
+||tnc3-bjlgy.bytedance.com^
+||tnc3-bjlgy.toutiaoapi.com^
+||tnc3-aliec2.toutiaoapi.com^
+||tnc3-aliec1.toutiaoapi.com^
+||saveu5-normal-lq.zijieapi.com^
+||ads3-normal-hl.zijieapi.com^
+||ads5-normal-hl.zijieapi.com^
+||tz.sec.xiaomi.com^
+||securemetrics.apple.com^
+||proxy.advp.apple.com^
+||applog.zijieapi.com^
+||ads5-normal-lq.zijieapi.com^
+||ads5-normal-lf.zijieapi.com^
+||log.zijieapi.com^
+||mssdk.zijieapi.com^
+||ads3-normal-lq.zijieapi.com^
+||rtb.voiceads.cn^
 /*-ad-*.byteimg.com/
 /*-ad.sm.cn/
 /*-ad.wtzw.com/

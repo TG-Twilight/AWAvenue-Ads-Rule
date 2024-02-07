@@ -1,6 +1,6 @@
 # Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 # 规则版本: 1.3.2
-# 更新时间: 2024-02-01
+# 更新时间: 2024-02-07
 # 
 # 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 # 
@@ -225,7 +225,6 @@
 127.0.0.1 grs.hicloud.com
 127.0.0.1 h-adashx.ut.taobao.com
 127.0.0.1 h.trace.qq.com
-127.0.0.1 h5hosting.dbankcdn.com
 127.0.0.1 henzanapp.com
 127.0.0.1 hexagon-analytics.com
 127.0.0.1 hiboard-drcn.ai.dbankcloud.cn
@@ -506,3 +505,25 @@
 127.0.0.1 xlviirdr.com
 127.0.0.1 youxi.kugou.com
 127.0.0.1 zeus.ad.xiaomi.com
+127.0.0.1 event.tradplusad.com
+127.0.0.1 mssdk.volces.com
+127.0.0.1 log.snssdk.com
+127.0.0.1 tnc3-aliec2.bytedance.com
+127.0.0.1 tnc3-alisc1.bytedance.com
+127.0.0.1 tnc3-bjlgy.bytedance.com
+127.0.0.1 tnc3-bjlgy.toutiaoapi.com
+127.0.0.1 tnc3-aliec2.toutiaoapi.com
+127.0.0.1 tnc3-aliec1.toutiaoapi.com
+127.0.0.1 saveu5-normal-lq.zijieapi.com
+127.0.0.1 ads3-normal-hl.zijieapi.com
+127.0.0.1 ads5-normal-hl.zijieapi.com
+127.0.0.1 tz.sec.xiaomi.com
+127.0.0.1 securemetrics.apple.com
+127.0.0.1 proxy.advp.apple.com
+127.0.0.1 applog.zijieapi.com
+127.0.0.1 ads5-normal-lq.zijieapi.com
+127.0.0.1 ads5-normal-lf.zijieapi.com
+127.0.0.1 log.zijieapi.com
+127.0.0.1 mssdk.zijieapi.com
+127.0.0.1 ads3-normal-lq.zijieapi.com
+127.0.0.1 rtb.voiceads.cn
