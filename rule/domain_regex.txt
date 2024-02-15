@@ -7,7 +7,6 @@
 **-be-pack-sign.pglstatp-toutiao.com
 *-ad-sign.byteimg.com
 *-be-pack-sign.pglstatp-toutiao.com
-i*.snssdk.com
 *-lm.adkwai.com
 *.a.market.xiaomi.com
 *-ad.video.yximgs.com
