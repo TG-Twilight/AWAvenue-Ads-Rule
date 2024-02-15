@@ -27,3 +27,7 @@
 ||contentcenter-drcn.dbankcdn.cn^
 ||h5hosting.dbankcdn.com^
 # 用于拦截 Whyway 天气的开屏广告，拦截后，会导致花瓣测速无法获取测速服务器列表、Whyway运动健康图片 资源无法加载等情况。
+!
+/i*.snssdk.com/
+||i*.snssdk.com^
+# 用于拦截 zijie 系的广告，拦截后，会导致抖音APP的填写学校->学校信息->申报学校信息异常。
