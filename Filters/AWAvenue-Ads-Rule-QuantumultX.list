@@ -1,6 +1,6 @@
 ## Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 ## 规则版本: 1.3.3
-## 更新时间: 2024-02-07
+## 更新时间: 2024-02-15
 ## 
 ## 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 ## 
@@ -532,7 +532,6 @@ DOMAIN-KEYWORD,.data.hicloud.com,reject
 DOMAIN-KEYWORD,-be-pack-sign.pglstatp-toutiao.com,reject
 DOMAIN-KEYWORD,-ad-sign.byteimg.com,reject
 DOMAIN-KEYWORD,-be-pack-sign.pglstatp-toutiao.com,reject
-DOMAIN-KEYWORD,i.snssdk.com,reject
 DOMAIN-KEYWORD,-lm.adkwai.com,reject
 DOMAIN-KEYWORD,.a.market.xiaomi.com,reject
 DOMAIN-KEYWORD,-ad.video.yximgs.com,reject
