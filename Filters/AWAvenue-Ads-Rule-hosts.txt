@@ -1,6 +1,6 @@
 # Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 # 规则版本: 1.3.3
-# 更新时间: 2024-02-15
+# 更新时间: 2024-02-19
 # 
 # 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 # 
@@ -527,3 +527,4 @@
 127.0.0.1 xlviirdr.com
 127.0.0.1 youxi.kugou.com
 127.0.0.1 zeus.ad.xiaomi.com
+127.0.0.1 pixon.ads-pixiv.net
