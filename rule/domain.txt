@@ -493,6 +493,7 @@ webstat.qiumibao.com
 win.gdt.qq.com
 wn.x.jd.com
 ws-keyboard.shouji.sogou.com
+shouji.sogou.com
 ws.sj.qq.com
 www42.zskwai.com
 wxa.wxs.qq.com
