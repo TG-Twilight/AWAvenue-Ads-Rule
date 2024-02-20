@@ -544,3 +544,4 @@ payload:
   - '*.zskwai.com'
   - 'ads*-normal-*.zijieapi.com'
   - '*.shouji.sogou.com'
+  - '*.*.shouji.sogou.com'

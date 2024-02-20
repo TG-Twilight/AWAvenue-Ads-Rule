@@ -549,7 +549,8 @@
         "*.*skwai.com",
         "*.zskwai.com",
         "ads*-normal-*.zijieapi.com",
-        "*.shouji.sogou.com"
+        "*.shouji.sogou.com",
+        "*.*.shouji.sogou.com"
       ],
       "domain_suffix": [
         ".1010pic.com",
