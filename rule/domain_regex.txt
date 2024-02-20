@@ -4,7 +4,7 @@
 *.log.aliyuncs.com
 *-normal-lq.zijieapi.com
 *.data.hicloud.com
-**-be-pack-sign.pglstatp-toutiao.com
+*-be-pack-sign.pglstatp-toutiao.com
 *-ad-sign.byteimg.com
 *-be-pack-sign.pglstatp-toutiao.com
 *-lm.adkwai.com
@@ -15,3 +15,4 @@
 *.*skwai.com
 *.zskwai.com
 ads*-normal-*.zijieapi.com
+*.shouji.sogou.com
