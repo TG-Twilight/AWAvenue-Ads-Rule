@@ -1,5 +1,5 @@
 ## Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
-## 规则版本: 1.3.5
+## 规则版本: 1.3.4
 ## 更新时间: 2024-02-24
 ## 
 ## 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -269,7 +269,6 @@ DOMAIN,jpush.cn,reject
 DOMAIN,jpush.html5.qq.com,reject
 DOMAIN,jpush.io,reject
 DOMAIN,jswebcollects.kugou.com,reject
-DOMAIN,kl.67it.com,reject
 DOMAIN,ks.pull.yximgs.com,reject
 DOMAIN,lf1-cdn-tos.bytegoofy.com,reject
 DOMAIN,lf3-ad-union-sdk.pglstatp-toutiao.com,reject
@@ -363,7 +362,6 @@ DOMAIN,pangolin-sdk-toutiao-b.com,reject
 DOMAIN,pgdt.ugdtimg.com,reject
 DOMAIN,pglstatp-toutiao.com,reject
 DOMAIN,pig.pupuapi.com,reject
-DOMAIN,pixon.ads-pixiv.net,reject
 DOMAIN,policy.video.ptqy.gitv.tv,reject
 DOMAIN,proxy.advp.apple.com,reject
 DOMAIN,public.gdtimg.com,reject
@@ -386,7 +384,6 @@ DOMAIN,s2.qq.com,reject
 DOMAIN,s3.qq.com,reject
 DOMAIN,samsung-com.112.2o7.net,reject
 DOMAIN,samsungads.com,reject
-DOMAIN,sanme2.taisantech.com,reject
 DOMAIN,saveu5-normal-lq.zijieapi.com,reject
 DOMAIN,scdown.qq.com,reject
 DOMAIN,sdk-cache.video.ptqy.gitv.tv,reject
@@ -408,7 +405,6 @@ DOMAIN,sensors-log.dongqiudi.com,reject
 DOMAIN,service.changhong.upgrade2.huan.tv,reject
 DOMAIN,service.vmos.cn/vmospro/api/ad,reject
 DOMAIN,sf16-static.i18n-pglstatp.com,reject
-DOMAIN,shouji.sogou.com,reject
 DOMAIN,skdisplay.jd.com,reject
 DOMAIN,slb-p2p.vcloud.ks-live.com,reject
 DOMAIN,smartad.10010.com,reject
@@ -417,7 +413,6 @@ DOMAIN,sms.ads.oppomobile.com,reject
 DOMAIN,sngmta.qq.com,reject
 DOMAIN,stat.y.qq.com,reject
 DOMAIN,static.ads-twitter.com,reject
-DOMAIN,statics.woozooo.com,reject
 DOMAIN,staticsns.cdn.bcebos.com,reject
 DOMAIN,stats.qiumibao.com,reject
 DOMAIN,statsigapi.net,reject
@@ -515,6 +510,7 @@ DOMAIN,webstat.qiumibao.com,reject
 DOMAIN,win.gdt.qq.com,reject
 DOMAIN,wn.x.jd.com,reject
 DOMAIN,ws-keyboard.shouji.sogou.com,reject
+DOMAIN,shouji.sogou.com,reject
 DOMAIN,ws.sj.qq.com,reject
 DOMAIN,www42.zskwai.com,reject
 DOMAIN,wxa.wxs.qq.com,reject
@@ -528,6 +524,10 @@ DOMAIN,xlviiirdr.com,reject
 DOMAIN,xlviirdr.com,reject
 DOMAIN,youxi.kugou.com,reject
 DOMAIN,zeus.ad.xiaomi.com,reject
+DOMAIN,pixon.ads-pixiv.net,reject
+DOMAIN,statics.woozooo.com,reject
+DOMAIN,sanme2.taisantech.com,reject
+DOMAIN,kl.67it.com,reject
 DOMAIN-KEYWORD,-ad-.byteimg.com,reject
 DOMAIN-KEYWORD,-ad.sm.cn,reject
 DOMAIN-KEYWORD,-ad.wtzw.com,reject

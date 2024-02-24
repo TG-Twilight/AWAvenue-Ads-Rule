@@ -1,5 +1,5 @@
 ! Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
-! 规则版本: 1.3.5
+! 规则版本: 1.3.4
 ! 更新时间: 2024-02-24
 ! 
 ! 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -269,7 +269,6 @@
 ||jpush.html5.qq.com^
 ||jpush.io^
 ||jswebcollects.kugou.com^
-||kl.67it.com^
 ||ks.pull.yximgs.com^
 ||lf1-cdn-tos.bytegoofy.com^
 ||lf3-ad-union-sdk.pglstatp-toutiao.com^
@@ -363,7 +362,6 @@
 ||pgdt.ugdtimg.com^
 ||pglstatp-toutiao.com^
 ||pig.pupuapi.com^
-||pixon.ads-pixiv.net^
 ||policy.video.ptqy.gitv.tv^
 ||proxy.advp.apple.com^
 ||public.gdtimg.com^
@@ -386,7 +384,6 @@
 ||s3.qq.com^
 ||samsung-com.112.2o7.net^
 ||samsungads.com^
-||sanme2.taisantech.com^
 ||saveu5-normal-lq.zijieapi.com^
 ||scdown.qq.com^
 ||sdk-cache.video.ptqy.gitv.tv^
@@ -408,7 +405,6 @@
 ||service.changhong.upgrade2.huan.tv^
 ||service.vmos.cn/vmospro/api/ad^
 ||sf16-static.i18n-pglstatp.com^
-||shouji.sogou.com^
 ||skdisplay.jd.com^
 ||slb-p2p.vcloud.ks-live.com^
 ||smartad.10010.com^
@@ -417,7 +413,6 @@
 ||sngmta.qq.com^
 ||stat.y.qq.com^
 ||static.ads-twitter.com^
-||statics.woozooo.com^
 ||staticsns.cdn.bcebos.com^
 ||stats.qiumibao.com^
 ||statsigapi.net^
@@ -515,6 +510,7 @@
 ||win.gdt.qq.com^
 ||wn.x.jd.com^
 ||ws-keyboard.shouji.sogou.com^
+||shouji.sogou.com^
 ||ws.sj.qq.com^
 ||www42.zskwai.com^
 ||wxa.wxs.qq.com^
@@ -528,6 +524,10 @@
 ||xlviirdr.com^
 ||youxi.kugou.com^
 ||zeus.ad.xiaomi.com^
+||pixon.ads-pixiv.net^
+||statics.woozooo.com^
+||sanme2.taisantech.com^
+||kl.67it.com^
 /*-ad-*.byteimg.com/
 /*-ad.sm.cn/
 /*-ad.wtzw.com/
