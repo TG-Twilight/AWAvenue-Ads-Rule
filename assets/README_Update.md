@@ -167,3 +167,8 @@
 新增更多的 apple、zijie（chanshanjia） 广告拦截，新增对于 Xunfei AI ads（voiceads）的拦截，此部分感谢@wodedouyin的积极提交。
 <br />
 <br />
+
+## 1.3.5-release：2月24日，2024年
+新增 pixiv、Lanzou Cloud、sougou输入法 的部分广告拦截，添加对于 Lanzou Cloud 强制写入粘贴板（主要以写入淘口令为主）的拦截(感谢@kong kong)
+<br />
+<br />
