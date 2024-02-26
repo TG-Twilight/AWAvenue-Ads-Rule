@@ -172,3 +172,9 @@
 新增 pixiv、Lanzou Cloud、sougou输入法 的部分广告拦截，添加对于 Lanzou Cloud 强制写入粘贴板（主要以写入淘口令为主）的拦截(感谢@kong kong)
 <br />
 <br />
+
+## 1.4.0-release：2月26日，2024年
+加强了 chuanshanjia ads sdk 的拦截，新增了更多关于 Txxxxxt Analysis 的拦截
+新增测试功能：对于 云注入(cloudinject) 的拦截，现在已经被添加进了主规则里，理论上你可以直接打开被云注入的apk而不受强制弹窗的影响。
+<br />
+<br />
