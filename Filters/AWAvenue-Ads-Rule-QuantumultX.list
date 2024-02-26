@@ -269,6 +269,7 @@ DOMAIN,jpush.cn,reject
 DOMAIN,jpush.html5.qq.com,reject
 DOMAIN,jpush.io,reject
 DOMAIN,jswebcollects.kugou.com,reject
+DOMAIN,kl.67it.com,reject
 DOMAIN,ks.pull.yximgs.com,reject
 DOMAIN,lf1-cdn-tos.bytegoofy.com,reject
 DOMAIN,lf3-ad-union-sdk.pglstatp-toutiao.com,reject
@@ -278,6 +279,7 @@ DOMAIN,log-api-mn.huxiu.com,reject
 DOMAIN,log-api.huxiu.com,reject
 DOMAIN,log-api.pangolin-sdk-toutiao-b.com,reject
 DOMAIN,log-api.pangolin-sdk-toutiao.com,reject
+DOMAIN,log-report.com,reject
 DOMAIN,log-sdk.gifshow.com,reject
 DOMAIN,log-upload-os.hoyoverse.com,reject
 DOMAIN,log-upload.mihoyo.com,reject
@@ -307,6 +309,7 @@ DOMAIN,logupdate.avlyun.sec.miui.com,reject
 DOMAIN,m.kubiqq.com,reject
 DOMAIN,m1.ad.10010.com,reject
 DOMAIN,masdkv6.3g.qq.com,reject
+DOMAIN,mazu.m.qq.com,reject
 DOMAIN,mdp-usertrace-cn.heytapmobi.com,reject
 DOMAIN,metok.sys.miui.com,reject
 DOMAIN,metrics.apple.com,reject
@@ -316,6 +319,7 @@ DOMAIN,metrics.mzstatic.com,reject
 DOMAIN,metrics2.data.hicloud.com,reject
 DOMAIN,mi.gdt.qq.com,reject
 DOMAIN,miav-cse.avlyun.com,reject
+DOMAIN,mine.baidu.com,reject
 DOMAIN,miui-fxcse.avlyun.com,reject
 DOMAIN,mnqlog.ldmnq.com,reject
 DOMAIN,mobads-logs.baidu.com,reject
@@ -362,6 +366,7 @@ DOMAIN,pangolin-sdk-toutiao-b.com,reject
 DOMAIN,pgdt.ugdtimg.com,reject
 DOMAIN,pglstatp-toutiao.com,reject
 DOMAIN,pig.pupuapi.com,reject
+DOMAIN,pixon.ads-pixiv.net,reject
 DOMAIN,policy.video.ptqy.gitv.tv,reject
 DOMAIN,proxy.advp.apple.com,reject
 DOMAIN,public.gdtimg.com,reject
@@ -384,6 +389,7 @@ DOMAIN,s2.qq.com,reject
 DOMAIN,s3.qq.com,reject
 DOMAIN,samsung-com.112.2o7.net,reject
 DOMAIN,samsungads.com,reject
+DOMAIN,sanme2.taisantech.com,reject
 DOMAIN,saveu5-normal-lq.zijieapi.com,reject
 DOMAIN,scdown.qq.com,reject
 DOMAIN,sdk-cache.video.ptqy.gitv.tv,reject
@@ -405,6 +411,7 @@ DOMAIN,sensors-log.dongqiudi.com,reject
 DOMAIN,service.changhong.upgrade2.huan.tv,reject
 DOMAIN,service.vmos.cn/vmospro/api/ad,reject
 DOMAIN,sf16-static.i18n-pglstatp.com,reject
+DOMAIN,shouji.sogou.com,reject
 DOMAIN,skdisplay.jd.com,reject
 DOMAIN,slb-p2p.vcloud.ks-live.com,reject
 DOMAIN,smartad.10010.com,reject
@@ -413,6 +420,7 @@ DOMAIN,sms.ads.oppomobile.com,reject
 DOMAIN,sngmta.qq.com,reject
 DOMAIN,stat.y.qq.com,reject
 DOMAIN,static.ads-twitter.com,reject
+DOMAIN,statics.woozooo.com,reject
 DOMAIN,staticsns.cdn.bcebos.com,reject
 DOMAIN,stats.qiumibao.com,reject
 DOMAIN,statsigapi.net,reject
@@ -435,7 +443,10 @@ DOMAIN,test.e.ad.xiaomi.com,reject
 DOMAIN,tj.b.qq.com,reject
 DOMAIN,tj.video.qq.com,reject
 DOMAIN,tmead.y.qq.com,reject
+DOMAIN,tmfmazu-wangka.m.qq.com,reject
+DOMAIN,tmfmazu.m.qq.com,reject
 DOMAIN,tmfsdk.m.qq.com,reject
+DOMAIN,tmfsdktcpv4.m.qq.com,reject
 DOMAIN,tnc3-aliec1.toutiaoapi.com,reject
 DOMAIN,tnc3-aliec2.bytedance.com,reject
 DOMAIN,tnc3-aliec2.toutiaoapi.com,reject
@@ -510,7 +521,6 @@ DOMAIN,webstat.qiumibao.com,reject
 DOMAIN,win.gdt.qq.com,reject
 DOMAIN,wn.x.jd.com,reject
 DOMAIN,ws-keyboard.shouji.sogou.com,reject
-DOMAIN,shouji.sogou.com,reject
 DOMAIN,ws.sj.qq.com,reject
 DOMAIN,www42.zskwai.com,reject
 DOMAIN,wxa.wxs.qq.com,reject
@@ -524,29 +534,6 @@ DOMAIN,xlviiirdr.com,reject
 DOMAIN,xlviirdr.com,reject
 DOMAIN,youxi.kugou.com,reject
 DOMAIN,zeus.ad.xiaomi.com,reject
-DOMAIN,pixon.ads-pixiv.net,reject
-DOMAIN,statics.woozooo.com,reject
-DOMAIN,sanme2.taisantech.com,reject
-DOMAIN,kl.67it.com,reject
-DOMAIN,tmfsdktcpv4.m.qq.com,reject
-DOMAIN,tmfmazu.m.qq.com,reject
-DOMAIN,mazu.m.qq.com,reject
-DOMAIN,tmfmazu-wangka.m.qq.com,reject
-DOMAIN,appcfg.v.qq.com,reject
-DOMAIN,smvconf.f.360.cn,reject
-DOMAIN,msch.f.360.cn,reject
-DOMAIN,mine.baidu.com,reject
-DOMAIN,cloudinject140707-dev.s3.ap-northoreast-1.amazonaws.com,reject
-DOMAIN,cloudinject-dev.s3.ap-northoreast-1.amazonaws.com,reject
-DOMAIN,cloud-inject-global.oss-cn-hongkong.aliyuncs.com,reject
-DOMAIN,360stat.org,reject
-DOMAIN,360mixup.com,reject
-DOMAIN,log-report.com,reject
-DOMAIN,gf2022.com,reject
-DOMAIN,gf2022ssl.com,reject
-DOMAIN,ntzbnz.oss-ap-southeast-1.aliyuncs.com,reject
-DOMAIN,xloadu.oss-ap-northeast-1.aliyuncs.com,reject
-DOMAIN,petkvl.oss-cn-hongkong.aliyuncs.com,reject
 DOMAIN-KEYWORD,-ad-.byteimg.com,reject
 DOMAIN-KEYWORD,-ad.sm.cn,reject
 DOMAIN-KEYWORD,-ad.wtzw.com,reject

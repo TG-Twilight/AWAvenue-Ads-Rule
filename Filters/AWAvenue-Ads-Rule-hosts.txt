@@ -273,6 +273,7 @@
 127.0.0.1 jpush.html5.qq.com
 127.0.0.1 jpush.io
 127.0.0.1 jswebcollects.kugou.com
+127.0.0.1 kl.67it.com
 127.0.0.1 ks.pull.yximgs.com
 127.0.0.1 lf1-cdn-tos.bytegoofy.com
 127.0.0.1 lf3-ad-union-sdk.pglstatp-toutiao.com
@@ -282,6 +283,7 @@
 127.0.0.1 log-api.huxiu.com
 127.0.0.1 log-api.pangolin-sdk-toutiao-b.com
 127.0.0.1 log-api.pangolin-sdk-toutiao.com
+127.0.0.1 log-report.com
 127.0.0.1 log-sdk.gifshow.com
 127.0.0.1 log-upload-os.hoyoverse.com
 127.0.0.1 log-upload.mihoyo.com
@@ -311,6 +313,7 @@
 127.0.0.1 m.kubiqq.com
 127.0.0.1 m1.ad.10010.com
 127.0.0.1 masdkv6.3g.qq.com
+127.0.0.1 mazu.m.qq.com
 127.0.0.1 mdp-usertrace-cn.heytapmobi.com
 127.0.0.1 metok.sys.miui.com
 127.0.0.1 metrics.apple.com
@@ -320,6 +323,7 @@
 127.0.0.1 metrics2.data.hicloud.com
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 miav-cse.avlyun.com
+127.0.0.1 mine.baidu.com
 127.0.0.1 miui-fxcse.avlyun.com
 127.0.0.1 mnqlog.ldmnq.com
 127.0.0.1 mobads-logs.baidu.com
@@ -366,6 +370,7 @@
 127.0.0.1 pgdt.ugdtimg.com
 127.0.0.1 pglstatp-toutiao.com
 127.0.0.1 pig.pupuapi.com
+127.0.0.1 pixon.ads-pixiv.net
 127.0.0.1 policy.video.ptqy.gitv.tv
 127.0.0.1 proxy.advp.apple.com
 127.0.0.1 public.gdtimg.com
@@ -388,6 +393,7 @@
 127.0.0.1 s3.qq.com
 127.0.0.1 samsung-com.112.2o7.net
 127.0.0.1 samsungads.com
+127.0.0.1 sanme2.taisantech.com
 127.0.0.1 saveu5-normal-lq.zijieapi.com
 127.0.0.1 scdown.qq.com
 127.0.0.1 sdk-cache.video.ptqy.gitv.tv
@@ -409,6 +415,7 @@
 127.0.0.1 service.changhong.upgrade2.huan.tv
 127.0.0.1 service.vmos.cn/vmospro/api/ad
 127.0.0.1 sf16-static.i18n-pglstatp.com
+127.0.0.1 shouji.sogou.com
 127.0.0.1 skdisplay.jd.com
 127.0.0.1 slb-p2p.vcloud.ks-live.com
 127.0.0.1 smartad.10010.com
@@ -417,6 +424,7 @@
 127.0.0.1 sngmta.qq.com
 127.0.0.1 stat.y.qq.com
 127.0.0.1 static.ads-twitter.com
+127.0.0.1 statics.woozooo.com
 127.0.0.1 staticsns.cdn.bcebos.com
 127.0.0.1 stats.qiumibao.com
 127.0.0.1 statsigapi.net
@@ -439,7 +447,10 @@
 127.0.0.1 tj.b.qq.com
 127.0.0.1 tj.video.qq.com
 127.0.0.1 tmead.y.qq.com
+127.0.0.1 tmfmazu-wangka.m.qq.com
+127.0.0.1 tmfmazu.m.qq.com
 127.0.0.1 tmfsdk.m.qq.com
+127.0.0.1 tmfsdktcpv4.m.qq.com
 127.0.0.1 tnc3-aliec1.toutiaoapi.com
 127.0.0.1 tnc3-aliec2.bytedance.com
 127.0.0.1 tnc3-aliec2.toutiaoapi.com
@@ -514,7 +525,6 @@
 127.0.0.1 win.gdt.qq.com
 127.0.0.1 wn.x.jd.com
 127.0.0.1 ws-keyboard.shouji.sogou.com
-127.0.0.1 shouji.sogou.com
 127.0.0.1 ws.sj.qq.com
 127.0.0.1 www42.zskwai.com
 127.0.0.1 wxa.wxs.qq.com
@@ -528,26 +538,3 @@
 127.0.0.1 xlviirdr.com
 127.0.0.1 youxi.kugou.com
 127.0.0.1 zeus.ad.xiaomi.com
-127.0.0.1 pixon.ads-pixiv.net
-127.0.0.1 statics.woozooo.com
-127.0.0.1 sanme2.taisantech.com
-127.0.0.1 kl.67it.com
-127.0.0.1 tmfsdktcpv4.m.qq.com
-127.0.0.1 tmfmazu.m.qq.com
-127.0.0.1 mazu.m.qq.com
-127.0.0.1 tmfmazu-wangka.m.qq.com
-127.0.0.1 appcfg.v.qq.com
-127.0.0.1 smvconf.f.360.cn
-127.0.0.1 msch.f.360.cn
-127.0.0.1 mine.baidu.com
-127.0.0.1 cloudinject140707-dev.s3.ap-northoreast-1.amazonaws.com
-127.0.0.1 cloudinject-dev.s3.ap-northoreast-1.amazonaws.com
-127.0.0.1 cloud-inject-global.oss-cn-hongkong.aliyuncs.com
-127.0.0.1 360stat.org
-127.0.0.1 360mixup.com
-127.0.0.1 log-report.com
-127.0.0.1 gf2022.com
-127.0.0.1 gf2022ssl.com
-127.0.0.1 ntzbnz.oss-ap-southeast-1.aliyuncs.com
-127.0.0.1 xloadu.oss-ap-northeast-1.aliyuncs.com
-127.0.0.1 petkvl.oss-cn-hongkong.aliyuncs.com
