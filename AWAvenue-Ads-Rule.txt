@@ -550,9 +550,16 @@
 ||ntzbnz.oss-ap-southeast-1.aliyuncs.com^
 ||xloadu.oss-ap-northeast-1.aliyuncs.com^
 ||petkvl.oss-cn-hongkong.aliyuncs.com^
+
+##拦截appcent等统计
+||appcenter.ms^
 ||*.appcenter.ms^
 ||*.applovin.com^
 ||*.applvn.com^
+||mobile.events.data.microsoft.com^
+##v2ex广告
+||wwads.cn^
+||cdn.wwads.cn^
 ##穿山甲通杀
 ||tnc*-bjlgy*.zijieapi^
 ||tnc*-alisc*.zijieapi.com^
