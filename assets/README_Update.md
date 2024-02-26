@@ -157,6 +157,9 @@
 <br />
 <br />
 
+## 1.3.x-Action：1月1-31日，2024年
+用了大概一个月的时间，我们将此仓库进行了自动化重构。感谢 @heinu123 的付出。
+
 ## 1.3.2-release：2月1日，2024年
 修复对 Ali 系产品、tiktok support chat 的错误拦截，感谢 @xunpod 的反馈和帮助。
 <br />
@@ -175,6 +178,7 @@
 
 ## 1.4.0-release：2月26日，2024年
 加强了 chuanshanjia ads sdk 的拦截，新增了更多关于 Txxxxxt Analysis 的拦截
+<br />
 新增测试功能：对于 云注入(cloudinject) 的拦截，现在已经被添加进了主规则里，理论上你可以直接打开被云注入的apk而不受强制弹窗的影响。
 <br />
 <br />
