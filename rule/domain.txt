@@ -252,6 +252,7 @@ jpush.cn
 jpush.html5.qq.com
 jpush.io
 jswebcollects.kugou.com
+kl.67it.com
 ks.pull.yximgs.com
 lf1-cdn-tos.bytegoofy.com
 lf3-ad-union-sdk.pglstatp-toutiao.com
@@ -261,6 +262,7 @@ log-api-mn.huxiu.com
 log-api.huxiu.com
 log-api.pangolin-sdk-toutiao-b.com
 log-api.pangolin-sdk-toutiao.com
+log-report.com
 log-sdk.gifshow.com
 log-upload-os.hoyoverse.com
 log-upload.mihoyo.com
@@ -290,6 +292,7 @@ logupdate.avlyun.sec.miui.com
 m.kubiqq.com
 m1.ad.10010.com
 masdkv6.3g.qq.com
+mazu.m.qq.com
 mdp-usertrace-cn.heytapmobi.com
 metok.sys.miui.com
 metrics.apple.com
@@ -299,6 +302,7 @@ metrics.mzstatic.com
 metrics2.data.hicloud.com
 mi.gdt.qq.com
 miav-cse.avlyun.com
+mine.baidu.com
 miui-fxcse.avlyun.com
 mnqlog.ldmnq.com
 mobads-logs.baidu.com
@@ -345,6 +349,7 @@ pangolin-sdk-toutiao-b.com
 pgdt.ugdtimg.com
 pglstatp-toutiao.com
 pig.pupuapi.com
+pixon.ads-pixiv.net
 policy.video.ptqy.gitv.tv
 proxy.advp.apple.com
 public.gdtimg.com
@@ -367,6 +372,7 @@ s2.qq.com
 s3.qq.com
 samsung-com.112.2o7.net
 samsungads.com
+sanme2.taisantech.com
 saveu5-normal-lq.zijieapi.com
 scdown.qq.com
 sdk-cache.video.ptqy.gitv.tv
@@ -388,6 +394,7 @@ sensors-log.dongqiudi.com
 service.changhong.upgrade2.huan.tv
 service.vmos.cn/vmospro/api/ad
 sf16-static.i18n-pglstatp.com
+shouji.sogou.com
 skdisplay.jd.com
 slb-p2p.vcloud.ks-live.com
 smartad.10010.com
@@ -396,6 +403,7 @@ sms.ads.oppomobile.com
 sngmta.qq.com
 stat.y.qq.com
 static.ads-twitter.com
+statics.woozooo.com
 staticsns.cdn.bcebos.com
 stats.qiumibao.com
 statsigapi.net
@@ -418,7 +426,10 @@ test.e.ad.xiaomi.com
 tj.b.qq.com
 tj.video.qq.com
 tmead.y.qq.com
+tmfmazu-wangka.m.qq.com
+tmfmazu.m.qq.com
 tmfsdk.m.qq.com
+tmfsdktcpv4.m.qq.com
 tnc3-aliec1.toutiaoapi.com
 tnc3-aliec2.bytedance.com
 tnc3-aliec2.toutiaoapi.com
@@ -493,7 +504,6 @@ webstat.qiumibao.com
 win.gdt.qq.com
 wn.x.jd.com
 ws-keyboard.shouji.sogou.com
-shouji.sogou.com
 ws.sj.qq.com
 www42.zskwai.com
 wxa.wxs.qq.com
@@ -507,26 +517,3 @@ xlviiirdr.com
 xlviirdr.com
 youxi.kugou.com
 zeus.ad.xiaomi.com
-pixon.ads-pixiv.net
-statics.woozooo.com
-sanme2.taisantech.com
-kl.67it.com
-tmfsdktcpv4.m.qq.com
-tmfmazu.m.qq.com
-mazu.m.qq.com
-tmfmazu-wangka.m.qq.com
-appcfg.v.qq.com
-smvconf.f.360.cn
-msch.f.360.cn
-mine.baidu.com
-cloudinject140707-dev.s3.ap-northoreast-1.amazonaws.com
-cloudinject-dev.s3.ap-northoreast-1.amazonaws.com
-cloud-inject-global.oss-cn-hongkong.aliyuncs.com
-360stat.org
-360mixup.com
-log-report.com
-gf2022.com
-gf2022ssl.com
-ntzbnz.oss-ap-southeast-1.aliyuncs.com
-xloadu.oss-ap-northeast-1.aliyuncs.com
-petkvl.oss-cn-hongkong.aliyuncs.com
