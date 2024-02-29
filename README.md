@@ -59,7 +59,11 @@
 复制我们的订阅链接，将其导入到 AdGuard/AdGuard Home 的 DNS黑名单 中，即可生效。
 <br />
 <br />
-
+## 如何贡献本项目 | How to contribute to this project
+<br />
+见[build](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/tree/build)分支
+<br />
+<br />
 ## 推荐的广告过滤工具 | Recommended Tools
 
 <br />
