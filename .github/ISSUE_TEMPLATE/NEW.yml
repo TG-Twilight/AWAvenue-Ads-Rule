@@ -10,6 +10,7 @@ body:
     attributes:
       value: |
         提交 Issue 前，还请首先完成文末的自查步骤
+        如果你擅长Pull requests你可以[点击这里提交Pull requests进行贡献](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/tree/build/rule)
 
   - type: textarea
     id: domain
