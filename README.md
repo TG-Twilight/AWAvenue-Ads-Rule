@@ -51,7 +51,6 @@
 
  *若您在订阅本广告规则后，仍发现应用内流氓广告sdk在正常展示广告，欢迎你进群反馈！*
 
-个人项目，随缘维护更新，欢迎issues和Pr，**Pr前请到群里打个招呼**。   [😀加入秋風がく山道](https://t.me/AWAvenueAdsChat)。
 <br />
 <br />
 ## 如何使用 | How to use
@@ -62,6 +61,9 @@
 ## 如何贡献本项目 | How to contribute to this project
 <br />
 见[build](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/tree/build)分支
+
+
+个人项目，随缘维护更新，欢迎issues和Pr，**Pr前请到群里打个招呼**。   [😀加入秋風がく山道](https://t.me/AWAvenueAdsChat)。
 <br />
 <br />
 ## 推荐的广告过滤工具 | Recommended Tools
