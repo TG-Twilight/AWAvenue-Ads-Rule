@@ -58,10 +58,10 @@
 复制我们的订阅链接，将其导入到 AdGuard/AdGuard Home 的 DNS黑名单 中，即可生效。
 <br />
 <br />
-## 如何贡献本项目 | How to contribute to this project
-<br />
-见[build](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/tree/build)分支
 
+## 如何贡献本项目 | How to contribute to this project
+
+见[build](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/tree/build)分支
 
 个人项目，随缘维护更新，欢迎issues和Pr，**Pr前请到群里打个招呼**。   [😀加入秋風がく山道](https://t.me/AWAvenueAdsChat)。
 <br />
