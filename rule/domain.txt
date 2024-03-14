@@ -1,4 +1,5 @@
 1010pic.com
+182.254.116.116
 8le8le.com
 a0.app.xiaomi.com
 aaid.umeng.com
@@ -33,6 +34,7 @@ adexpo.tencentmusic.com
 adfilter.imtt.qq.com
 adjust.cn
 adkwai.com
+adlink-api.huan.tv
 adlog.flurry.com
 ads-api-o.api.leiniao.com
 ads-api.tiktok.com
@@ -258,6 +260,7 @@ lf1-cdn-tos.bytegoofy.com
 lf3-ad-union-sdk.pglstatp-toutiao.com
 liveats-vod.video.ptqy.gitv.tv
 lm10111.jtrincc.cn
+log-alibaba-taobao-douyin.cdn.bcebos.com.a.bdydns.com
 log-api-mn.huxiu.com
 log-api.huxiu.com
 log-api.pangolin-sdk-toutiao-b.com
