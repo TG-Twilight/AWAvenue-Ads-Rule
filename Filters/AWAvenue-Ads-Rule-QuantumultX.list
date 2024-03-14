@@ -1,6 +1,6 @@
 ## Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 ## 规则版本: 1.4.0
-## 更新时间: 2024-02-29
+## 更新时间: 2024-03-14
 ## 
 ## 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 ## 
@@ -16,6 +16,7 @@
 ## 
 
 DOMAIN,1010pic.com,reject
+DOMAIN,182.254.116.116,reject
 DOMAIN,8le8le.com,reject
 DOMAIN,a0.app.xiaomi.com,reject
 DOMAIN,aaid.umeng.com,reject
@@ -50,6 +51,7 @@ DOMAIN,adexpo.tencentmusic.com,reject
 DOMAIN,adfilter.imtt.qq.com,reject
 DOMAIN,adjust.cn,reject
 DOMAIN,adkwai.com,reject
+DOMAIN,adlink-api.huan.tv,reject
 DOMAIN,adlog.flurry.com,reject
 DOMAIN,ads-api-o.api.leiniao.com,reject
 DOMAIN,ads-api.tiktok.com,reject
@@ -275,6 +277,7 @@ DOMAIN,lf1-cdn-tos.bytegoofy.com,reject
 DOMAIN,lf3-ad-union-sdk.pglstatp-toutiao.com,reject
 DOMAIN,liveats-vod.video.ptqy.gitv.tv,reject
 DOMAIN,lm10111.jtrincc.cn,reject
+DOMAIN,log-alibaba-taobao-douyin.cdn.bcebos.com.a.bdydns.com,reject
 DOMAIN,log-api-mn.huxiu.com,reject
 DOMAIN,log-api.huxiu.com,reject
 DOMAIN,log-api.pangolin-sdk-toutiao-b.com,reject
