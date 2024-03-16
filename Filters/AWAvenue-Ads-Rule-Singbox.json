@@ -1,6 +1,6 @@
 // Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 // 规则版本: 1.4.1
-// 更新时间: 2024-03-15
+// 更新时间: 2024-03-16
 // 
 // 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 // 
@@ -69,6 +69,7 @@
         "ads.google.cn",
         "ads.heytapmobi.com",
         "ads.huan.tv",
+        "ads.huantest.com",
         "ads.icloseli.cn",
         "ads.music.126.net",
         "ads.oppomobile.com",
@@ -90,6 +91,7 @@
         "adsfileretry.service.kugou.com",
         "adsfs-sdkconfig.heytapimage.com",
         "adsfs.oppomobile.com",
+        "adsmart.konka.com",
         "adsmind.gdtimg.com",
         "adsmind.ugdtimg.com",
         "adsp.xunlei.com",
@@ -107,6 +109,7 @@
         "advertising.yandex.ru",
         "advice-ads.s3.amazonaws.com",
         "adview.cn",
+        "adx-ad.smart-tv.cn",
         "adx-cn.anythinktech.com",
         "adx-drcn.op.dbankcloud.cn",
         "adx.ads.heytapmobi.com",
@@ -336,6 +339,7 @@
         "mobilelog.upqzfile.com",
         "mobileservice.cn",
         "mon.zijieapi.com",
+        "monitor-ads-test.huan.tv",
         "monitor.music.qq.com",
         "monitor.uu.qq.com",
         "monsetting.toutiao.com",
@@ -594,6 +598,7 @@
         ".ads.google.cn",
         ".ads.heytapmobi.com",
         ".ads.huan.tv",
+        ".ads.huantest.com",
         ".ads.icloseli.cn",
         ".ads.music.126.net",
         ".ads.oppomobile.com",
@@ -615,6 +620,7 @@
         ".adsfileretry.service.kugou.com",
         ".adsfs-sdkconfig.heytapimage.com",
         ".adsfs.oppomobile.com",
+        ".adsmart.konka.com",
         ".adsmind.gdtimg.com",
         ".adsmind.ugdtimg.com",
         ".adsp.xunlei.com",
@@ -632,6 +638,7 @@
         ".advertising.yandex.ru",
         ".advice-ads.s3.amazonaws.com",
         ".adview.cn",
+        ".adx-ad.smart-tv.cn",
         ".adx-cn.anythinktech.com",
         ".adx-drcn.op.dbankcloud.cn",
         ".adx.ads.heytapmobi.com",
@@ -861,6 +868,7 @@
         ".mobilelog.upqzfile.com",
         ".mobileservice.cn",
         ".mon.zijieapi.com",
+        ".monitor-ads-test.huan.tv",
         ".monitor.music.qq.com",
         ".monitor.uu.qq.com",
         ".monsetting.toutiao.com",

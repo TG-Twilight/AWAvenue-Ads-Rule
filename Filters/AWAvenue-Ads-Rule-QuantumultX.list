@@ -1,6 +1,6 @@
 ## Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 ## 规则版本: 1.4.1
-## 更新时间: 2024-03-15
+## 更新时间: 2024-03-16
 ## 
 ## 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 ## 
@@ -64,6 +64,7 @@ DOMAIN,ads.flurry.com,reject
 DOMAIN,ads.google.cn,reject
 DOMAIN,ads.heytapmobi.com,reject
 DOMAIN,ads.huan.tv,reject
+DOMAIN,ads.huantest.com,reject
 DOMAIN,ads.icloseli.cn,reject
 DOMAIN,ads.music.126.net,reject
 DOMAIN,ads.oppomobile.com,reject
@@ -85,6 +86,7 @@ DOMAIN,adsfilebssdlbig.ali.kugou.com,reject
 DOMAIN,adsfileretry.service.kugou.com,reject
 DOMAIN,adsfs-sdkconfig.heytapimage.com,reject
 DOMAIN,adsfs.oppomobile.com,reject
+DOMAIN,adsmart.konka.com,reject
 DOMAIN,adsmind.gdtimg.com,reject
 DOMAIN,adsmind.ugdtimg.com,reject
 DOMAIN,adsp.xunlei.com,reject
@@ -102,6 +104,7 @@ DOMAIN,advertising.yahoo.com,reject
 DOMAIN,advertising.yandex.ru,reject
 DOMAIN,advice-ads.s3.amazonaws.com,reject
 DOMAIN,adview.cn,reject
+DOMAIN,adx-ad.smart-tv.cn,reject
 DOMAIN,adx-cn.anythinktech.com,reject
 DOMAIN,adx-drcn.op.dbankcloud.cn,reject
 DOMAIN,adx.ads.heytapmobi.com,reject
@@ -331,6 +334,7 @@ DOMAIN,mobads.baidu.com,reject
 DOMAIN,mobilelog.upqzfile.com,reject
 DOMAIN,mobileservice.cn,reject
 DOMAIN,mon.zijieapi.com,reject
+DOMAIN,monitor-ads-test.huan.tv,reject
 DOMAIN,monitor.music.qq.com,reject
 DOMAIN,monitor.uu.qq.com,reject
 DOMAIN,monsetting.toutiao.com,reject

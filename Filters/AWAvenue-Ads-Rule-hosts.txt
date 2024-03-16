@@ -1,6 +1,6 @@
 # Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 # 规则版本: 1.4.1
-# 更新时间: 2024-03-15
+# 更新时间: 2024-03-16
 # 
 # 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 # 
@@ -68,6 +68,7 @@
 127.0.0.1 ads.google.cn
 127.0.0.1 ads.heytapmobi.com
 127.0.0.1 ads.huan.tv
+127.0.0.1 ads.huantest.com
 127.0.0.1 ads.icloseli.cn
 127.0.0.1 ads.music.126.net
 127.0.0.1 ads.oppomobile.com
@@ -89,6 +90,7 @@
 127.0.0.1 adsfileretry.service.kugou.com
 127.0.0.1 adsfs-sdkconfig.heytapimage.com
 127.0.0.1 adsfs.oppomobile.com
+127.0.0.1 adsmart.konka.com
 127.0.0.1 adsmind.gdtimg.com
 127.0.0.1 adsmind.ugdtimg.com
 127.0.0.1 adsp.xunlei.com
@@ -106,6 +108,7 @@
 127.0.0.1 advertising.yandex.ru
 127.0.0.1 advice-ads.s3.amazonaws.com
 127.0.0.1 adview.cn
+127.0.0.1 adx-ad.smart-tv.cn
 127.0.0.1 adx-cn.anythinktech.com
 127.0.0.1 adx-drcn.op.dbankcloud.cn
 127.0.0.1 adx.ads.heytapmobi.com
@@ -335,6 +338,7 @@
 127.0.0.1 mobilelog.upqzfile.com
 127.0.0.1 mobileservice.cn
 127.0.0.1 mon.zijieapi.com
+127.0.0.1 monitor-ads-test.huan.tv
 127.0.0.1 monitor.music.qq.com
 127.0.0.1 monitor.uu.qq.com
 127.0.0.1 monsetting.toutiao.com
