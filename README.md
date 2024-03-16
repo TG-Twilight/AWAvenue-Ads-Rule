@@ -32,18 +32,32 @@
 
 ## 关于此广告规则 | About
 
-使用Adblock语法，从网络层面对抗(拦截)Android应用中的各种流氓广告SDK，阻止其加载，从而达到去广告的目的。
+开源社区中最优秀的广告过滤器列表之一，实现了最优秀的广告拦截、隐私保护和流量节省。支持各种常见的网络层广告拦截工具和代理工具等¹，与其它动辄成千上万条的广告规则相比，秋风广告规则有着极致的体积控制、超高的命中率和极低的硬件要求。
+
+订阅本规则后，您明显可以感受到烦人的摇一摇广告不见了，订阅号列表和文中文末的广告流无法加载，自动播放的广告视频直接绝迹，电视盒子/智能电视的开机广告消失，同时手机的剩余空间也多了一些（因为阻止了广告文件的下发）
 
 相较于其它去广告的手段，这种从网络层面过滤的方式成本低、使用方便快捷、受益范围广(例如路由器部署)，您无需对每个有需求的app进行单独设置，在无感过滤的同时不影响您正常使用原有的app。
 
 截止2024年3月，我们可以拦截提瓦特大陆现有九成以上的广告sdk。
+
 <br />
+
+## 工作原理 | Work Principle
+
+使用使用Adblock语法，从网络层面对抗(拦截)Android应用中的各种流氓广告SDK，阻止其加载，从而达到去广告的目的。<br />
 <br />
+
 ## 订阅规则 | Subscription Rules
+
 - [Github订阅地址](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
 - [渺软CDN反代订阅地址](https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Ads-Rule@main/AWAvenue-Ads-Rule.txt)
 - [jsDelivr(gcore)反代订阅地址](https://gcore.jsdelivr.net/gh/TG-Twilight/AWAvenue-Ads-Rule@main/AWAvenue-Ads-Rule.txt)
 - [ghproxy反代订阅地址](https://mirror.ghproxy.com/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
+
+*截止2024年3月，我们官方支持的工具/格式有：
+AdGuard Home、ClashMeta、QuantumultX、Surge、hosts格式、AdGuard DNS、Surfboard、Singbox、AdClose、AdGuard、大圣净化、广告屏蔽大师Plus+、DNS去广告。*
+
+<br />
 
 ## 其他客户端格式订阅规则 | other Subscription Rules
 
@@ -77,12 +91,11 @@
 
 - [AdGuard](https://adguard.com/)    *多端使用，支持Android、Windows、Mac、iOS*
 
-- [AdGuard Home For Magisk](https://t.me/AWAvenueAdsRule/13)   *AdGuard Home的Magisk版本，感谢@heinu123*
+- [AdGuard Home For Magisk](https://github.com/twoone-3/AdGuardHomeForMagisk)   *AdGuard Home的Magisk版本，感谢 @twoone-3*
 
 - [AdClose（Xposed module）](https://t.me/AdClose)    *Xposed模块，可以通过hook拦截常见广告，内置秋风广告规则，感谢@zjyzip*
 
 - [AdGuard DNS](https://adguard-dns.io/en/welcome.html)    *直接使用自定义的DNS服务器，目前，秋风广告规则已加入AdGuard官方列表，你可以直接在AdGuard DNS Filters中订阅！*
-
 
 ---
 
