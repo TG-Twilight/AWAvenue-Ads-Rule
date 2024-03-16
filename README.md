@@ -38,7 +38,7 @@
 
 相较于其它去广告的手段，这种从网络层面过滤的方式成本低、使用方便快捷、受益范围广(例如路由器部署)，您无需对每个有需求的app进行单独设置，在无感过滤的同时不影响您正常使用原有的app。
 
-截止2024年3月，我们可以拦截提瓦特大陆现有九成以上的广告sdk。
+*截止2024年3月，我们可以拦截提瓦特大陆现有九成以上的广告sdk。*
 
 <br />
 
@@ -54,7 +54,7 @@
 - [jsDelivr(gcore)反代订阅地址](https://gcore.jsdelivr.net/gh/TG-Twilight/AWAvenue-Ads-Rule@main/AWAvenue-Ads-Rule.txt)
 - [ghproxy反代订阅地址](https://mirror.ghproxy.com/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
 
-*截止2024年3月，我们官方支持的工具/格式有：
+*¹截止2024年3月，我们官方支持的工具/格式有：
 AdGuard Home、ClashMeta、QuantumultX、Surge、hosts格式、AdGuard DNS、Surfboard、Singbox、AdClose、AdGuard、大圣净化、广告屏蔽大师Plus+、DNS去广告。*
 
 <br />
