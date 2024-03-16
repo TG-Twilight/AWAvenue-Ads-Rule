@@ -281,7 +281,6 @@ DOMAIN,lf1-cdn-tos.bytegoofy.com,reject
 DOMAIN,lf3-ad-union-sdk.pglstatp-toutiao.com,reject
 DOMAIN,liveats-vod.video.ptqy.gitv.tv,reject
 DOMAIN,lm10111.jtrincc.cn,reject
-DOMAIN,log-alibaba-taobao-douyin.cdn.bcebos.com.a.bdydns.com,reject
 DOMAIN,log-api-mn.huxiu.com,reject
 DOMAIN,log-api.huxiu.com,reject
 DOMAIN,log-api.pangolin-sdk-toutiao-b.com,reject
