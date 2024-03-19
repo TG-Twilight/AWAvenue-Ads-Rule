@@ -1,6 +1,6 @@
 # Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 # 规则版本: 1.4.1
-# 更新时间: 2024-03-16
+# 更新时间: 2024-03-19
 # 
 # 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 # 
@@ -153,6 +153,7 @@
 127.0.0.1 applog.lc.quark.cn
 127.0.0.1 applog.uc.cn
 127.0.0.1 applog.zijieapi.com
+127.0.0.1 appcloud2.in.zhihu.com
 127.0.0.1 ata-sdk-uuid-report.dreport.meituan.net
 127.0.0.1 audid-api.taobao.com
 127.0.0.1 audid.umeng.com
@@ -236,6 +237,7 @@
 127.0.0.1 gromore.pangolin-sdk-toutiao.com
 127.0.0.1 grs.dbankcloud.com
 127.0.0.1 grs.hicloud.com
+127.0.0.1 grs.platform.dbankcloud.ru
 127.0.0.1 h-adashx.ut.taobao.com
 127.0.0.1 h.trace.qq.com
 127.0.0.1 henzanapp.com
@@ -472,7 +474,6 @@
 127.0.0.1 tracker.gitee.com
 127.0.0.1 tracking.miui.com
 127.0.0.1 tracking.rus.miui.com
-127.0.0.1 tvuser-ch.cedock.com
 127.0.0.1 tx-ad.a.yximgs.com
 127.0.0.1 tx-kmpaudio.pull.yximgs.com
 127.0.0.1 tz.sec.xiaomi.com
