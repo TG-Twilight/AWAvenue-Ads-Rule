@@ -132,6 +132,7 @@ app-measurement.com
 applog.lc.quark.cn
 applog.uc.cn
 applog.zijieapi.com
+appcloud2.in.zhihu.com
 ata-sdk-uuid-report.dreport.meituan.net
 audid-api.taobao.com
 audid.umeng.com
@@ -215,6 +216,7 @@ googletagservices.com
 gromore.pangolin-sdk-toutiao.com
 grs.dbankcloud.com
 grs.hicloud.com
+grs.platform.dbankcloud.ru
 h-adashx.ut.taobao.com
 h.trace.qq.com
 henzanapp.com
@@ -451,7 +453,6 @@ tracker.ai.xiaomi.com
 tracker.gitee.com
 tracking.miui.com
 tracking.rus.miui.com
-tvuser-ch.cedock.com
 tx-ad.a.yximgs.com
 tx-kmpaudio.pull.yximgs.com
 tz.sec.xiaomi.com
