@@ -1,6 +1,6 @@
 ## Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 ## 规则版本: 1.4.1
-## 更新时间: 2024-03-19
+## 更新时间: 2024-03-20
 ## 
 ## 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 ## 
@@ -32,6 +32,7 @@ DOMAIN,ad.flurry.com,reject
 DOMAIN,ad.partner.gifshow.com,reject
 DOMAIN,ad.qingting.fm,reject
 DOMAIN,ad.qq.com,reject
+DOMAIN,ad.richmob.cn,reject
 DOMAIN,ad.tencentmusic.com,reject
 DOMAIN,ad.toutiao.com,reject
 DOMAIN,ad.winrar.com.cn,reject
@@ -146,10 +147,10 @@ DOMAIN,api5-normal-quic-lf.ixigua.com,reject
 DOMAIN,apiyd.my91app.com,reject
 DOMAIN,apks.webxiaobai.top,reject
 DOMAIN,app-measurement.com,reject
+DOMAIN,appcloud2.in.zhihu.com,reject
 DOMAIN,applog.lc.quark.cn,reject
 DOMAIN,applog.uc.cn,reject
 DOMAIN,applog.zijieapi.com,reject
-DOMAIN,appcloud2.in.zhihu.com,reject
 DOMAIN,ata-sdk-uuid-report.dreport.meituan.net,reject
 DOMAIN,audid-api.taobao.com,reject
 DOMAIN,audid.umeng.com,reject
@@ -204,6 +205,7 @@ DOMAIN,doubleclick.net,reject
 DOMAIN,download.changhong.upgrade2.huan.tv,reject
 DOMAIN,downloadxml.changhong.upgrade2.huan.tv,reject
 DOMAIN,drcn-weather.cloud.huawei.com,reject
+DOMAIN,dsp-x.jd.com,reject
 DOMAIN,dsp.fcbox.com,reject
 DOMAIN,dualstack-logs.amap.com,reject
 DOMAIN,dutils.com,reject
@@ -277,7 +279,9 @@ DOMAIN,jpush.cn,reject
 DOMAIN,jpush.html5.qq.com,reject
 DOMAIN,jpush.io,reject
 DOMAIN,jswebcollects.kugou.com,reject
+DOMAIN,kepler.jd.com,reject
 DOMAIN,kl.67it.com,reject
+DOMAIN,knicks.jd.com,reject
 DOMAIN,ks.pull.yximgs.com,reject
 DOMAIN,lf1-cdn-tos.bytegoofy.com,reject
 DOMAIN,lf3-ad-union-sdk.pglstatp-toutiao.com,reject
@@ -316,6 +320,7 @@ DOMAIN,logtj.kugou.com,reject
 DOMAIN,logupdate.avlyun.sec.miui.com,reject
 DOMAIN,m.kubiqq.com,reject
 DOMAIN,m1.ad.10010.com,reject
+DOMAIN,mapi.m.jd.com,reject
 DOMAIN,masdkv6.3g.qq.com,reject
 DOMAIN,mazu.m.qq.com,reject
 DOMAIN,mdp-usertrace-cn.heytapmobi.com,reject
@@ -355,6 +360,7 @@ DOMAIN,open.kuaishouzt.com,reject
 DOMAIN,open.kwaishouzt.com,reject
 DOMAIN,open.kwaizt.com,reject
 DOMAIN,optimus-ads.amap.com,reject
+DOMAIN,orbit.jd.com,reject
 DOMAIN,oth.eve.mdt.qq.com,reject
 DOMAIN,oth.str.mdt.qq.com,reject
 DOMAIN,p.l.qq.com,reject
@@ -371,6 +377,7 @@ DOMAIN,p5-be-pack-sign.pglstatp-toutiao.com,reject
 DOMAIN,p6-be-pack-sign.pglstatp-toutiao.com,reject
 DOMAIN,pagead2.googleadservices.com,reject
 DOMAIN,pagead2.googlesyndication.com,reject
+DOMAIN,panglelog.gz.bcebos.com,reject
 DOMAIN,pangolin-sdk-toutiao-b.com,reject
 DOMAIN,pgdt.ugdtimg.com,reject
 DOMAIN,pglstatp-toutiao.com,reject
@@ -420,6 +427,7 @@ DOMAIN,sensors-log.dongqiudi.com,reject
 DOMAIN,service.changhong.upgrade2.huan.tv,reject
 DOMAIN,service.vmos.cn,reject
 DOMAIN,sf16-static.i18n-pglstatp.com,reject
+DOMAIN,sf3-fe-tos.pglstatp-toutiao.com,reject
 DOMAIN,shouji.sogou.com,reject
 DOMAIN,skdisplay.jd.com,reject
 DOMAIN,slb-p2p.vcloud.ks-live.com,reject
@@ -460,8 +468,11 @@ DOMAIN,tnc3-aliec1.toutiaoapi.com,reject
 DOMAIN,tnc3-aliec2.bytedance.com,reject
 DOMAIN,tnc3-aliec2.toutiaoapi.com,reject
 DOMAIN,tnc3-alisc1.bytedance.com,reject
+DOMAIN,tnc3-alisc1.zijieapi.com,reject
+DOMAIN,tnc3-alisc2.zijieapi.com,reject
 DOMAIN,tnc3-bjlgy.bytedance.com,reject
 DOMAIN,tnc3-bjlgy.toutiaoapi.com,reject
+DOMAIN,tnc3-bjlgy.zijieapi.com,reject
 DOMAIN,toblog.ctobsnssdk.com,reject
 DOMAIN,trace.qq.com,reject
 DOMAIN,track.lc.quark.cn,reject

@@ -1,6 +1,6 @@
 # Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 # 规则版本: 1.4.1
-# 更新时间: 2024-03-19
+# 更新时间: 2024-03-20
 # 
 # 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 # 
@@ -36,6 +36,7 @@
 127.0.0.1 ad.partner.gifshow.com
 127.0.0.1 ad.qingting.fm
 127.0.0.1 ad.qq.com
+127.0.0.1 ad.richmob.cn
 127.0.0.1 ad.tencentmusic.com
 127.0.0.1 ad.toutiao.com
 127.0.0.1 ad.winrar.com.cn
@@ -150,10 +151,10 @@
 127.0.0.1 apiyd.my91app.com
 127.0.0.1 apks.webxiaobai.top
 127.0.0.1 app-measurement.com
+127.0.0.1 appcloud2.in.zhihu.com
 127.0.0.1 applog.lc.quark.cn
 127.0.0.1 applog.uc.cn
 127.0.0.1 applog.zijieapi.com
-127.0.0.1 appcloud2.in.zhihu.com
 127.0.0.1 ata-sdk-uuid-report.dreport.meituan.net
 127.0.0.1 audid-api.taobao.com
 127.0.0.1 audid.umeng.com
@@ -208,6 +209,7 @@
 127.0.0.1 download.changhong.upgrade2.huan.tv
 127.0.0.1 downloadxml.changhong.upgrade2.huan.tv
 127.0.0.1 drcn-weather.cloud.huawei.com
+127.0.0.1 dsp-x.jd.com
 127.0.0.1 dsp.fcbox.com
 127.0.0.1 dualstack-logs.amap.com
 127.0.0.1 dutils.com
@@ -281,7 +283,9 @@
 127.0.0.1 jpush.html5.qq.com
 127.0.0.1 jpush.io
 127.0.0.1 jswebcollects.kugou.com
+127.0.0.1 kepler.jd.com
 127.0.0.1 kl.67it.com
+127.0.0.1 knicks.jd.com
 127.0.0.1 ks.pull.yximgs.com
 127.0.0.1 lf1-cdn-tos.bytegoofy.com
 127.0.0.1 lf3-ad-union-sdk.pglstatp-toutiao.com
@@ -320,6 +324,7 @@
 127.0.0.1 logupdate.avlyun.sec.miui.com
 127.0.0.1 m.kubiqq.com
 127.0.0.1 m1.ad.10010.com
+127.0.0.1 mapi.m.jd.com
 127.0.0.1 masdkv6.3g.qq.com
 127.0.0.1 mazu.m.qq.com
 127.0.0.1 mdp-usertrace-cn.heytapmobi.com
@@ -359,6 +364,7 @@
 127.0.0.1 open.kwaishouzt.com
 127.0.0.1 open.kwaizt.com
 127.0.0.1 optimus-ads.amap.com
+127.0.0.1 orbit.jd.com
 127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 oth.str.mdt.qq.com
 127.0.0.1 p.l.qq.com
@@ -375,6 +381,7 @@
 127.0.0.1 p6-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 pagead2.googleadservices.com
 127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 panglelog.gz.bcebos.com
 127.0.0.1 pangolin-sdk-toutiao-b.com
 127.0.0.1 pgdt.ugdtimg.com
 127.0.0.1 pglstatp-toutiao.com
@@ -424,6 +431,7 @@
 127.0.0.1 service.changhong.upgrade2.huan.tv
 127.0.0.1 service.vmos.cn
 127.0.0.1 sf16-static.i18n-pglstatp.com
+127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
 127.0.0.1 shouji.sogou.com
 127.0.0.1 skdisplay.jd.com
 127.0.0.1 slb-p2p.vcloud.ks-live.com
@@ -464,8 +472,11 @@
 127.0.0.1 tnc3-aliec2.bytedance.com
 127.0.0.1 tnc3-aliec2.toutiaoapi.com
 127.0.0.1 tnc3-alisc1.bytedance.com
+127.0.0.1 tnc3-alisc1.zijieapi.com
+127.0.0.1 tnc3-alisc2.zijieapi.com
 127.0.0.1 tnc3-bjlgy.bytedance.com
 127.0.0.1 tnc3-bjlgy.toutiaoapi.com
+127.0.0.1 tnc3-bjlgy.zijieapi.com
 127.0.0.1 toblog.ctobsnssdk.com
 127.0.0.1 trace.qq.com
 127.0.0.1 track.lc.quark.cn
