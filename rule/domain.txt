@@ -15,6 +15,7 @@ ad.flurry.com
 ad.partner.gifshow.com
 ad.qingting.fm
 ad.qq.com
+ad.richmob.cn
 ad.tencentmusic.com
 ad.toutiao.com
 ad.winrar.com.cn
@@ -129,10 +130,10 @@ api5-normal-quic-lf.ixigua.com
 apiyd.my91app.com
 apks.webxiaobai.top
 app-measurement.com
+appcloud2.in.zhihu.com
 applog.lc.quark.cn
 applog.uc.cn
 applog.zijieapi.com
-appcloud2.in.zhihu.com
 ata-sdk-uuid-report.dreport.meituan.net
 audid-api.taobao.com
 audid.umeng.com
@@ -187,6 +188,7 @@ doubleclick.net
 download.changhong.upgrade2.huan.tv
 downloadxml.changhong.upgrade2.huan.tv
 drcn-weather.cloud.huawei.com
+dsp-x.jd.com
 dsp.fcbox.com
 dualstack-logs.amap.com
 dutils.com
@@ -260,7 +262,9 @@ jpush.cn
 jpush.html5.qq.com
 jpush.io
 jswebcollects.kugou.com
+kepler.jd.com
 kl.67it.com
+knicks.jd.com
 ks.pull.yximgs.com
 lf1-cdn-tos.bytegoofy.com
 lf3-ad-union-sdk.pglstatp-toutiao.com
@@ -299,6 +303,7 @@ logtj.kugou.com
 logupdate.avlyun.sec.miui.com
 m.kubiqq.com
 m1.ad.10010.com
+mapi.m.jd.com
 masdkv6.3g.qq.com
 mazu.m.qq.com
 mdp-usertrace-cn.heytapmobi.com
@@ -338,6 +343,7 @@ open.kuaishouzt.com
 open.kwaishouzt.com
 open.kwaizt.com
 optimus-ads.amap.com
+orbit.jd.com
 oth.eve.mdt.qq.com
 oth.str.mdt.qq.com
 p.l.qq.com
@@ -354,6 +360,7 @@ p5-be-pack-sign.pglstatp-toutiao.com
 p6-be-pack-sign.pglstatp-toutiao.com
 pagead2.googleadservices.com
 pagead2.googlesyndication.com
+panglelog.gz.bcebos.com
 pangolin-sdk-toutiao-b.com
 pgdt.ugdtimg.com
 pglstatp-toutiao.com
@@ -403,6 +410,7 @@ sensors-log.dongqiudi.com
 service.changhong.upgrade2.huan.tv
 service.vmos.cn
 sf16-static.i18n-pglstatp.com
+sf3-fe-tos.pglstatp-toutiao.com
 shouji.sogou.com
 skdisplay.jd.com
 slb-p2p.vcloud.ks-live.com
@@ -443,8 +451,11 @@ tnc3-aliec1.toutiaoapi.com
 tnc3-aliec2.bytedance.com
 tnc3-aliec2.toutiaoapi.com
 tnc3-alisc1.bytedance.com
+tnc3-alisc1.zijieapi.com
+tnc3-alisc2.zijieapi.com
 tnc3-bjlgy.bytedance.com
 tnc3-bjlgy.toutiaoapi.com
+tnc3-bjlgy.zijieapi.com
 toblog.ctobsnssdk.com
 trace.qq.com
 track.lc.quark.cn
