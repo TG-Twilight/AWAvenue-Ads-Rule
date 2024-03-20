@@ -24,10 +24,6 @@
 <p align="center"><b>干掉所有无良广告<br>Eliminate All Malicious Ads</b></p>
 <br />
 <br />
-
-### 建议使用 [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)、[AdGuard DNS](https://adguard-dns.io/zh_cn/welcome.html)来订阅本规则，以达到最佳的广告过滤效果！🐼
-
-<br />
 <br />
 
 ## 关于此广告规则 | About
