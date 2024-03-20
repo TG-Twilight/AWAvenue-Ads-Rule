@@ -166,7 +166,6 @@ chc.ads.huan.tv
 ck.ads.oppomobile.com
 clog.miguvideo.com
 cm.bilibili.com
-cn-acs.m.cainiao.com
 cnzz.com
 collect.kugou.com
 crashlytics.com
