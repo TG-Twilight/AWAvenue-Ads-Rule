@@ -1,6 +1,6 @@
 # Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 # 规则版本: 1.4.2
-# 更新时间: 2024-03-20
+# 更新时间: 2024-03-22
 # 
 # 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 # 
@@ -132,7 +132,6 @@
 127.0.0.1 analytics.woozooo.com
 127.0.0.1 analyze.lemurbrowser.com
 127.0.0.1 api-access.pangolin-sdk-toutiao.com
-127.0.0.1 api-access.pangolin-sdk-toutiao.com3
 127.0.0.1 api-access.pangolin-sdk-toutiao1.com
 127.0.0.1 api-access.pangolin-sdk-toutiao2.com
 127.0.0.1 api-access.pangolin-sdk-toutiao3.com
@@ -168,6 +167,7 @@
 127.0.0.1 beacons.gvt2.com
 127.0.0.1 beizi.biz
 127.0.0.1 bingads.microsoft.com
+127.0.0.1 bj.ad.track.66mobi.com
 127.0.0.1 books-analytics-events.apple.com
 127.0.0.1 bugly.qq.com
 127.0.0.1 business-api.tiktok.com
@@ -411,9 +411,12 @@
 127.0.0.1 sanme2.taisantech.com
 127.0.0.1 saveu5-normal-lq.zijieapi.com
 127.0.0.1 scdown.qq.com
+127.0.0.1 sdk-ab-config.qquanquan.com
 127.0.0.1 sdk-cache.video.ptqy.gitv.tv
 127.0.0.1 sdk.beizi.biz
 127.0.0.1 sdk.e.qq.com
+127.0.0.1 sdk.hzsanjiaomao.com
+127.0.0.1 sdk.mobads.adwangmai.com
 127.0.0.1 sdkconf.avlyun.com
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
@@ -457,6 +460,8 @@
 127.0.0.1 tangram.e.qq.com
 127.0.0.1 tdc.qq.com
 127.0.0.1 tdid.m.qq.com
+127.0.0.1 tdsdk.cpatrk.net
+127.0.0.1 tdsdk.xdrig.com
 127.0.0.1 terms-drcn.platform.dbankcloud.cn
 127.0.0.1 test.ad.xiaomi.com
 127.0.0.1 test.e.ad.xiaomi.com
@@ -478,12 +483,14 @@
 127.0.0.1 tnc3-bjlgy.zijieapi.com
 127.0.0.1 toblog.ctobsnssdk.com
 127.0.0.1 trace.qq.com
+127.0.0.1 tracelog-debug.qquanquan.com
 127.0.0.1 track.lc.quark.cn
 127.0.0.1 track.uc.cn
 127.0.0.1 tracker.ai.xiaomi.com
 127.0.0.1 tracker.gitee.com
 127.0.0.1 tracking.miui.com
 127.0.0.1 tracking.rus.miui.com
+127.0.0.1 tvuser-ch.cedock.com
 127.0.0.1 tx-ad.a.yximgs.com
 127.0.0.1 tx-kmpaudio.pull.yximgs.com
 127.0.0.1 tz.sec.xiaomi.com

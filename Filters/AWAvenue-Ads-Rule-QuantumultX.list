@@ -1,6 +1,6 @@
 ## Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 ## 规则版本: 1.4.2
-## 更新时间: 2024-03-20
+## 更新时间: 2024-03-22
 ## 
 ## 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 ## 
@@ -128,7 +128,6 @@ DOMAIN,analytics.tiktok.com,reject
 DOMAIN,analytics.woozooo.com,reject
 DOMAIN,analyze.lemurbrowser.com,reject
 DOMAIN,api-access.pangolin-sdk-toutiao.com,reject
-DOMAIN,api-access.pangolin-sdk-toutiao.com3,reject
 DOMAIN,api-access.pangolin-sdk-toutiao1.com,reject
 DOMAIN,api-access.pangolin-sdk-toutiao2.com,reject
 DOMAIN,api-access.pangolin-sdk-toutiao3.com,reject
@@ -164,6 +163,7 @@ DOMAIN,beacon.qq.com,reject
 DOMAIN,beacons.gvt2.com,reject
 DOMAIN,beizi.biz,reject
 DOMAIN,bingads.microsoft.com,reject
+DOMAIN,bj.ad.track.66mobi.com,reject
 DOMAIN,books-analytics-events.apple.com,reject
 DOMAIN,bugly.qq.com,reject
 DOMAIN,business-api.tiktok.com,reject
@@ -407,9 +407,12 @@ DOMAIN,samsungads.com,reject
 DOMAIN,sanme2.taisantech.com,reject
 DOMAIN,saveu5-normal-lq.zijieapi.com,reject
 DOMAIN,scdown.qq.com,reject
+DOMAIN,sdk-ab-config.qquanquan.com,reject
 DOMAIN,sdk-cache.video.ptqy.gitv.tv,reject
 DOMAIN,sdk.beizi.biz,reject
 DOMAIN,sdk.e.qq.com,reject
+DOMAIN,sdk.hzsanjiaomao.com,reject
+DOMAIN,sdk.mobads.adwangmai.com,reject
 DOMAIN,sdkconf.avlyun.com,reject
 DOMAIN,sdkconfig.ad.intl.xiaomi.com,reject
 DOMAIN,sdkconfig.ad.xiaomi.com,reject
@@ -453,6 +456,8 @@ DOMAIN,t3.a.market.xiaomi.com,reject
 DOMAIN,tangram.e.qq.com,reject
 DOMAIN,tdc.qq.com,reject
 DOMAIN,tdid.m.qq.com,reject
+DOMAIN,tdsdk.cpatrk.net,reject
+DOMAIN,tdsdk.xdrig.com,reject
 DOMAIN,terms-drcn.platform.dbankcloud.cn,reject
 DOMAIN,test.ad.xiaomi.com,reject
 DOMAIN,test.e.ad.xiaomi.com,reject
@@ -474,12 +479,14 @@ DOMAIN,tnc3-bjlgy.toutiaoapi.com,reject
 DOMAIN,tnc3-bjlgy.zijieapi.com,reject
 DOMAIN,toblog.ctobsnssdk.com,reject
 DOMAIN,trace.qq.com,reject
+DOMAIN,tracelog-debug.qquanquan.com,reject
 DOMAIN,track.lc.quark.cn,reject
 DOMAIN,track.uc.cn,reject
 DOMAIN,tracker.ai.xiaomi.com,reject
 DOMAIN,tracker.gitee.com,reject
 DOMAIN,tracking.miui.com,reject
 DOMAIN,tracking.rus.miui.com,reject
+DOMAIN,tvuser-ch.cedock.com,reject
 DOMAIN,tx-ad.a.yximgs.com,reject
 DOMAIN,tx-kmpaudio.pull.yximgs.com,reject
 DOMAIN,tz.sec.xiaomi.com,reject
