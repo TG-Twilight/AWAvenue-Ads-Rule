@@ -184,9 +184,23 @@
 <br />
 
 ## 1.4.1-release：3月16日，2024年
-拦截了更多的电视广告域名，加强了对于某平台日志上传的封锁。
+拦截了更多的电视广告域名，加强了对于某平台日志上传的封锁同时到
 <br />
 修复了对于sougou输入法跨屏输入的错误拦截，更新了一下README，没了。
 <br />
 <br />
 
+## 1.4.2-release：3月20日，2024年
+加强了对于更 zijie、jingdong 的拦截，感谢 @wodedouyin。
+<br />
+新增了对于 Hms Core 的一些无用请求，感谢 @merrkry。
+<br />
+<br />
+即日起，本规则的 “[推荐的工具](https://github.com/TG-Twilight/AWAvenue-Ads-Rule?tab=readme-ov-file#%E6%8E%A8%E8%8D%90%E7%9A%84%E5%B9%BF%E5%91%8A%E8%BF%87%E6%BB%A4%E5%B7%A5%E5%85%B7--recommended-tools)” 一栏中，“AdGuard Home for Magisk/KernelSU” 将更改为@twoone-3的“[AdGuardHomeForMagisk](https://github.com/twoone-3/AdGuardHomeForMagisk)”，同时，该项目将受到规则官方的支持，公告频道与反馈交流群也将会合并至[AWAvenue Ads Rule](@AWAvenueAdsRule)和[秋風がく山道](@AWAvenueAdsChat)。
+<br />
+<br />
+
+## 1.4.3-release：3月22日，2024年
+新增了一个电视的广告域名  ~~maybe~~
+<br />
+新增拦截：TalkingData的各种数据统计与日志上传；拦截了更多的Txxxxxt的广告域名，拦截了更多来自sanjiaocat ads sdk的域名。
