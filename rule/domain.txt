@@ -60,6 +60,7 @@ ads3-normal-lq.zijieapi.com
 ads5-normal-hl.zijieapi.com
 ads5-normal-lf.zijieapi.com
 ads5-normal-lq.zijieapi.com
+ads5-normal.zijieapi.com
 adsense.google.cn
 adservice.google.cn
 adservice.google.com
