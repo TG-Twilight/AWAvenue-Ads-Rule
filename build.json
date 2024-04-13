@@ -1,5 +1,5 @@
 {
-  "version": "1.4.3",
+  "version": "1.4.4",
   "out_path": "/out",
   "domain_name": "domain.txt",
   "regex_name": "domain_regex.txt",
