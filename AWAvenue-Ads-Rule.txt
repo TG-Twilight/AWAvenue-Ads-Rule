@@ -1,6 +1,6 @@
 ! Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 ! 规则版本: 1.4.4
-! 更新时间: 2024-04-13
+! 更新时间: 2024-04-14
 ! 
 ! 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 ! 
@@ -154,6 +154,7 @@
 ||ata-sdk-uuid-report.dreport.meituan.net^
 ||audid-api.taobao.com^
 ||audid.umeng.com^
+||authenticate.chiq-cloud.com^
 ||azr.footprintdns.com^
 ||b1-data.ads.heytapmobi.com^
 ||bdapi-ads.realmemobile.com^
@@ -180,16 +181,18 @@
 ||cdn.ynuf.aliapp.org^
 ||cfg.imtt.qq.com^
 ||chat1.jd.com^
-||chc.ads.huan.tv^
 ||ck.ads.oppomobile.com^
 ||clog.miguvideo.com^
 ||cm.bilibili.com^
 ||cnzz.com^
 ||collect.kugou.com^
+||commdata.v.qq.com^
+||config.chsmarttv.com^
 ||crashlytics.com^
 ||crashlyticsreports-pa.googleapis.com^
 ||csjplatform.com^
 ||data.ads.oppomobile.com^
+||data.chsmarttv.com^
 ||data.mistat.india.xiaomi.com^
 ||data.mistat.rus.xiaomi.com^
 ||data.mistat.xiaomi.com^
@@ -200,6 +203,7 @@
 ||dl.zuimeitianqi.com^
 ||dlogs.bwton.com^
 ||dm.toutiao.com^
+||domain.aishengji.com^
 ||doubleclick-cn.net^
 ||doubleclick.net^
 ||download.changhong.upgrade2.huan.tv^
@@ -259,7 +263,6 @@
 ||iadctest.qwapi.com^
 ||iadsdk.apple.com^
 ||iadworkbench.apple.com^
-||ib.snssdk.com^
 ||ifs.tanx.com^
 ||image-ad.sm.cn^
 ||imageplus.baidu.com^
@@ -283,9 +286,12 @@
 ||kl.67it.com^
 ||knicks.jd.com^
 ||ks.pull.yximgs.com^
+||launcher.smart-tv.cn^
+||launcherimg.smart-tv.cn^
 ||lf1-cdn-tos.bytegoofy.com^
 ||lf3-ad-union-sdk.pglstatp-toutiao.com^
 ||liveats-vod.video.ptqy.gitv.tv^
+||livemonitor.huan.tv^
 ||lm10111.jtrincc.cn^
 ||log-api-mn.huxiu.com^
 ||log-api.huxiu.com^
@@ -297,6 +303,7 @@
 ||log-upload.mihoyo.com^
 ||log.ad.xiaomi.com^
 ||log.aispeech.com^
+||log.appstore3.huan.tv^
 ||log.avlyun.com^
 ||log.avlyun.sec.intl.miui.com^
 ||log.byteoversea.com^
@@ -333,6 +340,7 @@
 ||mi.gdt.qq.com^
 ||miav-cse.avlyun.com^
 ||mine.baidu.com^
+||mission-pub.smart-tv.cn^
 ||miui-fxcse.avlyun.com^
 ||mnqlog.ldmnq.com^
 ||mobads-logs.baidu.com^
@@ -348,6 +356,7 @@
 ||mssdk.volces.com^
 ||mssdk.zijieapi.com^
 ||mtj.baidu.com^
+||newvoice.chiq5.smart-tv.cn^
 ||nmetrics.samsung.com^
 ||notes-analytics-events.apple.com^
 ||nsclick.baidu.com^
@@ -503,6 +512,7 @@
 ||umsns.com^
 ||union.baidu.com^
 ||update.avlyun.sec.miui.com^
+||update.lejiao.tv^
 ||us.l.qq.com^
 ||v.adintl.cn^
 ||v.adx.hubcloud.com.cn^

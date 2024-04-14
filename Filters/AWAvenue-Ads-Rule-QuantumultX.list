@@ -1,6 +1,6 @@
 ## Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 ## 规则版本: 1.4.4
-## 更新时间: 2024-04-13
+## 更新时间: 2024-04-14
 ## 
 ## 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 ## 
@@ -154,6 +154,7 @@ DOMAIN,applog.zijieapi.com,reject
 DOMAIN,ata-sdk-uuid-report.dreport.meituan.net,reject
 DOMAIN,audid-api.taobao.com,reject
 DOMAIN,audid.umeng.com,reject
+DOMAIN,authenticate.chiq-cloud.com,reject
 DOMAIN,azr.footprintdns.com,reject
 DOMAIN,b1-data.ads.heytapmobi.com,reject
 DOMAIN,bdapi-ads.realmemobile.com,reject
@@ -180,16 +181,18 @@ DOMAIN,cdn.ad.xiaomi.com,reject
 DOMAIN,cdn.ynuf.aliapp.org,reject
 DOMAIN,cfg.imtt.qq.com,reject
 DOMAIN,chat1.jd.com,reject
-DOMAIN,chc.ads.huan.tv,reject
 DOMAIN,ck.ads.oppomobile.com,reject
 DOMAIN,clog.miguvideo.com,reject
 DOMAIN,cm.bilibili.com,reject
 DOMAIN,cnzz.com,reject
 DOMAIN,collect.kugou.com,reject
+DOMAIN,commdata.v.qq.com,reject
+DOMAIN,config.chsmarttv.com,reject
 DOMAIN,crashlytics.com,reject
 DOMAIN,crashlyticsreports-pa.googleapis.com,reject
 DOMAIN,csjplatform.com,reject
 DOMAIN,data.ads.oppomobile.com,reject
+DOMAIN,data.chsmarttv.com,reject
 DOMAIN,data.mistat.india.xiaomi.com,reject
 DOMAIN,data.mistat.rus.xiaomi.com,reject
 DOMAIN,data.mistat.xiaomi.com,reject
@@ -200,6 +203,7 @@ DOMAIN,dig.bdurl.net,reject
 DOMAIN,dl.zuimeitianqi.com,reject
 DOMAIN,dlogs.bwton.com,reject
 DOMAIN,dm.toutiao.com,reject
+DOMAIN,domain.aishengji.com,reject
 DOMAIN,doubleclick-cn.net,reject
 DOMAIN,doubleclick.net,reject
 DOMAIN,download.changhong.upgrade2.huan.tv,reject
@@ -259,7 +263,6 @@ DOMAIN,iad.apple.com,reject
 DOMAIN,iadctest.qwapi.com,reject
 DOMAIN,iadsdk.apple.com,reject
 DOMAIN,iadworkbench.apple.com,reject
-DOMAIN,ib.snssdk.com,reject
 DOMAIN,ifs.tanx.com,reject
 DOMAIN,image-ad.sm.cn,reject
 DOMAIN,imageplus.baidu.com,reject
@@ -283,9 +286,12 @@ DOMAIN,kepler.jd.com,reject
 DOMAIN,kl.67it.com,reject
 DOMAIN,knicks.jd.com,reject
 DOMAIN,ks.pull.yximgs.com,reject
+DOMAIN,launcher.smart-tv.cn,reject
+DOMAIN,launcherimg.smart-tv.cn,reject
 DOMAIN,lf1-cdn-tos.bytegoofy.com,reject
 DOMAIN,lf3-ad-union-sdk.pglstatp-toutiao.com,reject
 DOMAIN,liveats-vod.video.ptqy.gitv.tv,reject
+DOMAIN,livemonitor.huan.tv,reject
 DOMAIN,lm10111.jtrincc.cn,reject
 DOMAIN,log-api-mn.huxiu.com,reject
 DOMAIN,log-api.huxiu.com,reject
@@ -297,6 +303,7 @@ DOMAIN,log-upload-os.hoyoverse.com,reject
 DOMAIN,log-upload.mihoyo.com,reject
 DOMAIN,log.ad.xiaomi.com,reject
 DOMAIN,log.aispeech.com,reject
+DOMAIN,log.appstore3.huan.tv,reject
 DOMAIN,log.avlyun.com,reject
 DOMAIN,log.avlyun.sec.intl.miui.com,reject
 DOMAIN,log.byteoversea.com,reject
@@ -333,6 +340,7 @@ DOMAIN,metrics2.data.hicloud.com,reject
 DOMAIN,mi.gdt.qq.com,reject
 DOMAIN,miav-cse.avlyun.com,reject
 DOMAIN,mine.baidu.com,reject
+DOMAIN,mission-pub.smart-tv.cn,reject
 DOMAIN,miui-fxcse.avlyun.com,reject
 DOMAIN,mnqlog.ldmnq.com,reject
 DOMAIN,mobads-logs.baidu.com,reject
@@ -348,6 +356,7 @@ DOMAIN,monsetting.toutiao.com,reject
 DOMAIN,mssdk.volces.com,reject
 DOMAIN,mssdk.zijieapi.com,reject
 DOMAIN,mtj.baidu.com,reject
+DOMAIN,newvoice.chiq5.smart-tv.cn,reject
 DOMAIN,nmetrics.samsung.com,reject
 DOMAIN,notes-analytics-events.apple.com,reject
 DOMAIN,nsclick.baidu.com,reject
@@ -503,6 +512,7 @@ DOMAIN,umengjmacs.m.taobao.com,reject
 DOMAIN,umsns.com,reject
 DOMAIN,union.baidu.com,reject
 DOMAIN,update.avlyun.sec.miui.com,reject
+DOMAIN,update.lejiao.tv,reject
 DOMAIN,us.l.qq.com,reject
 DOMAIN,v.adintl.cn,reject
 DOMAIN,v.adx.hubcloud.com.cn,reject

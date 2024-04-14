@@ -1,6 +1,6 @@
 # Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 # 规则版本: 1.4.4
-# 更新时间: 2024-04-13
+# 更新时间: 2024-04-14
 # 
 # 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 # 
@@ -158,6 +158,7 @@
 127.0.0.1 ata-sdk-uuid-report.dreport.meituan.net
 127.0.0.1 audid-api.taobao.com
 127.0.0.1 audid.umeng.com
+127.0.0.1 authenticate.chiq-cloud.com
 127.0.0.1 azr.footprintdns.com
 127.0.0.1 b1-data.ads.heytapmobi.com
 127.0.0.1 bdapi-ads.realmemobile.com
@@ -184,16 +185,18 @@
 127.0.0.1 cdn.ynuf.aliapp.org
 127.0.0.1 cfg.imtt.qq.com
 127.0.0.1 chat1.jd.com
-127.0.0.1 chc.ads.huan.tv
 127.0.0.1 ck.ads.oppomobile.com
 127.0.0.1 clog.miguvideo.com
 127.0.0.1 cm.bilibili.com
 127.0.0.1 cnzz.com
 127.0.0.1 collect.kugou.com
+127.0.0.1 commdata.v.qq.com
+127.0.0.1 config.chsmarttv.com
 127.0.0.1 crashlytics.com
 127.0.0.1 crashlyticsreports-pa.googleapis.com
 127.0.0.1 csjplatform.com
 127.0.0.1 data.ads.oppomobile.com
+127.0.0.1 data.chsmarttv.com
 127.0.0.1 data.mistat.india.xiaomi.com
 127.0.0.1 data.mistat.rus.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
@@ -204,6 +207,7 @@
 127.0.0.1 dl.zuimeitianqi.com
 127.0.0.1 dlogs.bwton.com
 127.0.0.1 dm.toutiao.com
+127.0.0.1 domain.aishengji.com
 127.0.0.1 doubleclick-cn.net
 127.0.0.1 doubleclick.net
 127.0.0.1 download.changhong.upgrade2.huan.tv
@@ -263,7 +267,6 @@
 127.0.0.1 iadctest.qwapi.com
 127.0.0.1 iadsdk.apple.com
 127.0.0.1 iadworkbench.apple.com
-127.0.0.1 ib.snssdk.com
 127.0.0.1 ifs.tanx.com
 127.0.0.1 image-ad.sm.cn
 127.0.0.1 imageplus.baidu.com
@@ -287,9 +290,12 @@
 127.0.0.1 kl.67it.com
 127.0.0.1 knicks.jd.com
 127.0.0.1 ks.pull.yximgs.com
+127.0.0.1 launcher.smart-tv.cn
+127.0.0.1 launcherimg.smart-tv.cn
 127.0.0.1 lf1-cdn-tos.bytegoofy.com
 127.0.0.1 lf3-ad-union-sdk.pglstatp-toutiao.com
 127.0.0.1 liveats-vod.video.ptqy.gitv.tv
+127.0.0.1 livemonitor.huan.tv
 127.0.0.1 lm10111.jtrincc.cn
 127.0.0.1 log-api-mn.huxiu.com
 127.0.0.1 log-api.huxiu.com
@@ -301,6 +307,7 @@
 127.0.0.1 log-upload.mihoyo.com
 127.0.0.1 log.ad.xiaomi.com
 127.0.0.1 log.aispeech.com
+127.0.0.1 log.appstore3.huan.tv
 127.0.0.1 log.avlyun.com
 127.0.0.1 log.avlyun.sec.intl.miui.com
 127.0.0.1 log.byteoversea.com
@@ -337,6 +344,7 @@
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 miav-cse.avlyun.com
 127.0.0.1 mine.baidu.com
+127.0.0.1 mission-pub.smart-tv.cn
 127.0.0.1 miui-fxcse.avlyun.com
 127.0.0.1 mnqlog.ldmnq.com
 127.0.0.1 mobads-logs.baidu.com
@@ -352,6 +360,7 @@
 127.0.0.1 mssdk.volces.com
 127.0.0.1 mssdk.zijieapi.com
 127.0.0.1 mtj.baidu.com
+127.0.0.1 newvoice.chiq5.smart-tv.cn
 127.0.0.1 nmetrics.samsung.com
 127.0.0.1 notes-analytics-events.apple.com
 127.0.0.1 nsclick.baidu.com
@@ -507,6 +516,7 @@
 127.0.0.1 umsns.com
 127.0.0.1 union.baidu.com
 127.0.0.1 update.avlyun.sec.miui.com
+127.0.0.1 update.lejiao.tv
 127.0.0.1 us.l.qq.com
 127.0.0.1 v.adintl.cn
 127.0.0.1 v.adx.hubcloud.com.cn
