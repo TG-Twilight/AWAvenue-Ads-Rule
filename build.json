@@ -14,6 +14,6 @@
     {"name": "Singbox", "suffix": ".json" , "comment": "//"},
     {"name": "Singbox-regex", "suffix": ".json" , "comment": "//"},
     {"name": "QuantumultX", "suffix": ".list" , "comment": "##"},
-    {"name": "RouterOS-0.0.0.0", "suffix": ".txt" , "comment": "#"}
+    {"name": "RouterOS-Adlist", "suffix": ".txt" , "comment": "#"}
   ]
 }
