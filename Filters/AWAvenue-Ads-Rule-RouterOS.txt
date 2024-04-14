@@ -465,6 +465,7 @@ ip dns static add address=240.0.0.1 name=t.track.ad.xiaomi.com
 ip dns static add address=240.0.0.1 name=t1.a.market.xiaomi.com
 ip dns static add address=240.0.0.1 name=t2.a.market.xiaomi.com
 ip dns static add address=240.0.0.1 name=t3.a.market.xiaomi.com
+ip dns static add address=240.0.0.1 name=t4.a.market.xiaomi.com
 ip dns static add address=240.0.0.1 name=tangram.e.qq.com
 ip dns static add address=240.0.0.1 name=tdc.qq.com
 ip dns static add address=240.0.0.1 name=tdid.m.qq.com

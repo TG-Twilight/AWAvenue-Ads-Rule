@@ -469,6 +469,7 @@
 127.0.0.1 t1.a.market.xiaomi.com
 127.0.0.1 t2.a.market.xiaomi.com
 127.0.0.1 t3.a.market.xiaomi.com
+127.0.0.1 t4.a.market.xiaomi.com
 127.0.0.1 tangram.e.qq.com
 127.0.0.1 tdc.qq.com
 127.0.0.1 tdid.m.qq.com

@@ -465,6 +465,7 @@ t.track.ad.xiaomi.com
 t1.a.market.xiaomi.com
 t2.a.market.xiaomi.com
 t3.a.market.xiaomi.com
+t4.a.market.xiaomi.com
 tangram.e.qq.com
 tdc.qq.com
 tdid.m.qq.com
