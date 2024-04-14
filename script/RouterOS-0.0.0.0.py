@@ -1,7 +1,7 @@
 import json
 
 def format_domain(domain_file):
-    domain = []
+    domain = ["0.0.0.0 local"，"", ""]
     with open(domain_file, 'r') as file:
         lines = file.readlines()
     
