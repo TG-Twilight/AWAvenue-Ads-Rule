@@ -15,7 +15,10 @@
 # 倾城极速 - 畅游世界，高速互联！官网：https://wcnmdmht.lol/sb 官网2：https://panel.qc02.xyz
 # 
 
-0.0.0.0 local
+0.0.0.0 localhost
+::1 localhost
+
+
 0.0.0.0 1010pic.com
 0.0.0.0 123.56.23.22
 0.0.0.0 182.254.116.116
