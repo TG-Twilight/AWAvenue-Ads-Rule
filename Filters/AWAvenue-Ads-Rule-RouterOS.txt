@@ -441,7 +441,7 @@ ip dns static add address=240.0.0.1 name=service.vmos.cn
 ip dns static add address=240.0.0.1 name=sf16-static.i18n-pglstatp.com
 ip dns static add address=240.0.0.1 name=sf3-fe-tos.pglstatp-toutiao.com
 ip dns static add address=240.0.0.1 name=shouji.sogou.com
-ip dns static add address=240.0.0.1 name=sigmob.c0m
+ip dns static add address=240.0.0.1 name=sigmob.com
 ip dns static add address=240.0.0.1 name=sigmob.cn
 ip dns static add address=240.0.0.1 name=skdisplay.jd.com
 ip dns static add address=240.0.0.1 name=slb-p2p.vcloud.ks-live.com
