@@ -597,6 +597,7 @@
         "*.log.aliyuncs.com",
         "*.shouji.sogou.com",
         "*.zskwai.com",
+        "ads*-normal.zijieapi.com",
         "ads*-normal-*.zijieapi.com",
         "cloud-inject-global.oss-cn-hongkong.aliyuncs.com",
         "cloudinject*-dev.*.*-*-*.amazonaws.com",

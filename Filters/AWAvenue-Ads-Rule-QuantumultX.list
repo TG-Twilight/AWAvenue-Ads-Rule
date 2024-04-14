@@ -590,6 +590,7 @@ DOMAIN-KEYWORD,.data.hicloud.com,reject
 DOMAIN-KEYWORD,.log.aliyuncs.com,reject
 DOMAIN-KEYWORD,.shouji.sogou.com,reject
 DOMAIN-KEYWORD,.zskwai.com,reject
+DOMAIN-KEYWORD,ads-normal.zijieapi.com,reject
 DOMAIN-KEYWORD,ads-normal-.zijieapi.com,reject
 DOMAIN-KEYWORD,cloud-inject-global.oss-cn-hongkong.aliyuncs.com,reject
 DOMAIN-KEYWORD,cloudinject-dev..--.amazonaws.com,reject
