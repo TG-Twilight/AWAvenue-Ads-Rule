@@ -17,6 +17,7 @@
 
 payload:
   - '1010pic.com'
+  - '123.56.23.22'
   - '182.254.116.116'
   - '203.205.137.89'
   - '8le8le.com'
@@ -82,7 +83,6 @@ payload:
   - 'adsense.google.cn'
   - 'adservice.google.cn'
   - 'adservice.google.com'
-  - 'adservice.sigmob.cn'
   - 'adserviceretry.kugou.com'
   - 'adsfile.bssdlbig.kugou.com'
   - 'adsfile.bssdlbig.kugou.com'
@@ -198,7 +198,6 @@ payload:
   - 'data.mistat.rus.xiaomi.com'
   - 'data.mistat.xiaomi.com'
   - 'dataflow.biliapi.com'
-  - 'dc.sigmob.cn'
   - 'diagnosis.ad.xiaomi.com'
   - 'dig.bdurl.net'
   - 'dl.zuimeitianqi.com'
@@ -442,6 +441,8 @@ payload:
   - 'sf16-static.i18n-pglstatp.com'
   - 'sf3-fe-tos.pglstatp-toutiao.com'
   - 'shouji.sogou.com'
+  - 'sigmob.c0m'
+  - 'sigmob.cn'
   - 'skdisplay.jd.com'
   - 'slb-p2p.vcloud.ks-live.com'
   - 'smartad.10010.com'

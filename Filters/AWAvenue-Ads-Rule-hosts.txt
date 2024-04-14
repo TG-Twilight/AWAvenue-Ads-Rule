@@ -20,6 +20,7 @@
 
 
 127.0.0.1 1010pic.com
+127.0.0.1 123.56.23.22
 127.0.0.1 182.254.116.116
 127.0.0.1 203.205.137.89
 127.0.0.1 8le8le.com
@@ -85,7 +86,6 @@
 127.0.0.1 adsense.google.cn
 127.0.0.1 adservice.google.cn
 127.0.0.1 adservice.google.com
-127.0.0.1 adservice.sigmob.cn
 127.0.0.1 adserviceretry.kugou.com
 127.0.0.1 adsfile.bssdlbig.kugou.com
 127.0.0.1 adsfile.bssdlbig.kugou.com
@@ -201,7 +201,6 @@
 127.0.0.1 data.mistat.rus.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 dataflow.biliapi.com
-127.0.0.1 dc.sigmob.cn
 127.0.0.1 diagnosis.ad.xiaomi.com
 127.0.0.1 dig.bdurl.net
 127.0.0.1 dl.zuimeitianqi.com
@@ -445,6 +444,8 @@
 127.0.0.1 sf16-static.i18n-pglstatp.com
 127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
 127.0.0.1 shouji.sogou.com
+127.0.0.1 sigmob.c0m
+127.0.0.1 sigmob.cn
 127.0.0.1 skdisplay.jd.com
 127.0.0.1 slb-p2p.vcloud.ks-live.com
 127.0.0.1 smartad.10010.com

@@ -16,6 +16,7 @@
 ## 
 
 DOMAIN,1010pic.com,reject
+DOMAIN,123.56.23.22,reject
 DOMAIN,182.254.116.116,reject
 DOMAIN,203.205.137.89,reject
 DOMAIN,8le8le.com,reject
@@ -81,7 +82,6 @@ DOMAIN,ads5-normal.zijieapi.com,reject
 DOMAIN,adsense.google.cn,reject
 DOMAIN,adservice.google.cn,reject
 DOMAIN,adservice.google.com,reject
-DOMAIN,adservice.sigmob.cn,reject
 DOMAIN,adserviceretry.kugou.com,reject
 DOMAIN,adsfile.bssdlbig.kugou.com,reject
 DOMAIN,adsfile.bssdlbig.kugou.com,reject
@@ -197,7 +197,6 @@ DOMAIN,data.mistat.india.xiaomi.com,reject
 DOMAIN,data.mistat.rus.xiaomi.com,reject
 DOMAIN,data.mistat.xiaomi.com,reject
 DOMAIN,dataflow.biliapi.com,reject
-DOMAIN,dc.sigmob.cn,reject
 DOMAIN,diagnosis.ad.xiaomi.com,reject
 DOMAIN,dig.bdurl.net,reject
 DOMAIN,dl.zuimeitianqi.com,reject
@@ -441,6 +440,8 @@ DOMAIN,service.vmos.cn,reject
 DOMAIN,sf16-static.i18n-pglstatp.com,reject
 DOMAIN,sf3-fe-tos.pglstatp-toutiao.com,reject
 DOMAIN,shouji.sogou.com,reject
+DOMAIN,sigmob.c0m,reject
+DOMAIN,sigmob.cn,reject
 DOMAIN,skdisplay.jd.com,reject
 DOMAIN,slb-p2p.vcloud.ks-live.com,reject
 DOMAIN,smartad.10010.com,reject

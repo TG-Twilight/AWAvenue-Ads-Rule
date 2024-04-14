@@ -16,6 +16,7 @@
 # 
 
 ip dns static add address=240.0.0.1 name=1010pic.com
+ip dns static add address=240.0.0.1 name=123.56.23.22
 ip dns static add address=240.0.0.1 name=182.254.116.116
 ip dns static add address=240.0.0.1 name=203.205.137.89
 ip dns static add address=240.0.0.1 name=8le8le.com
@@ -81,7 +82,6 @@ ip dns static add address=240.0.0.1 name=ads5-normal.zijieapi.com
 ip dns static add address=240.0.0.1 name=adsense.google.cn
 ip dns static add address=240.0.0.1 name=adservice.google.cn
 ip dns static add address=240.0.0.1 name=adservice.google.com
-ip dns static add address=240.0.0.1 name=adservice.sigmob.cn
 ip dns static add address=240.0.0.1 name=adserviceretry.kugou.com
 ip dns static add address=240.0.0.1 name=adsfile.bssdlbig.kugou.com
 ip dns static add address=240.0.0.1 name=adsfile.bssdlbig.kugou.com
@@ -197,7 +197,6 @@ ip dns static add address=240.0.0.1 name=data.mistat.india.xiaomi.com
 ip dns static add address=240.0.0.1 name=data.mistat.rus.xiaomi.com
 ip dns static add address=240.0.0.1 name=data.mistat.xiaomi.com
 ip dns static add address=240.0.0.1 name=dataflow.biliapi.com
-ip dns static add address=240.0.0.1 name=dc.sigmob.cn
 ip dns static add address=240.0.0.1 name=diagnosis.ad.xiaomi.com
 ip dns static add address=240.0.0.1 name=dig.bdurl.net
 ip dns static add address=240.0.0.1 name=dl.zuimeitianqi.com
@@ -441,6 +440,8 @@ ip dns static add address=240.0.0.1 name=service.vmos.cn
 ip dns static add address=240.0.0.1 name=sf16-static.i18n-pglstatp.com
 ip dns static add address=240.0.0.1 name=sf3-fe-tos.pglstatp-toutiao.com
 ip dns static add address=240.0.0.1 name=shouji.sogou.com
+ip dns static add address=240.0.0.1 name=sigmob.c0m
+ip dns static add address=240.0.0.1 name=sigmob.cn
 ip dns static add address=240.0.0.1 name=skdisplay.jd.com
 ip dns static add address=240.0.0.1 name=slb-p2p.vcloud.ks-live.com
 ip dns static add address=240.0.0.1 name=smartad.10010.com
