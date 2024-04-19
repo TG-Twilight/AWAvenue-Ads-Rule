@@ -1,6 +1,6 @@
 # Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 # 规则版本: 1.4.5
-# 更新时间: 2024-04-14
+# 更新时间: 2024-04-19
 # 
 # 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 # 
@@ -77,9 +77,9 @@
 127.0.0.1 ads.oppomobile.com
 127.0.0.1 ads.service.kugou.com
 127.0.0.1 ads.service.kugou.com
-127.0.0.1 ads3-normal.zijieapi.com
 127.0.0.1 ads3-normal-hl.zijieapi.com
 127.0.0.1 ads3-normal-lq.zijieapi.com
+127.0.0.1 ads3-normal.zijieapi.com
 127.0.0.1 ads5-normal-hl.zijieapi.com
 127.0.0.1 ads5-normal-lf.zijieapi.com
 127.0.0.1 ads5-normal-lq.zijieapi.com
@@ -121,6 +121,7 @@
 127.0.0.1 adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn
 127.0.0.1 afs.googlesyndication.com
 127.0.0.1 ali-ad.a.yximgs.com
+127.0.0.1 alog.umeng.com
 127.0.0.1 amdcopen.m.taobao.com
 127.0.0.1 an.facebook.com
 127.0.0.1 analysis.yozocloud.cn
@@ -133,6 +134,7 @@
 127.0.0.1 analytics.tiktok.com
 127.0.0.1 analytics.woozooo.com
 127.0.0.1 analyze.lemurbrowser.com
+127.0.0.1 apd-pcdnwxlogin.teg.tencent-cloud.net
 127.0.0.1 api-access.pangolin-sdk-toutiao.com
 127.0.0.1 api-access.pangolin-sdk-toutiao1.com
 127.0.0.1 api-access.pangolin-sdk-toutiao2.com
@@ -193,6 +195,8 @@
 127.0.0.1 collect.kugou.com
 127.0.0.1 commdata.v.qq.com
 127.0.0.1 config.chsmarttv.com
+127.0.0.1 conn-service-cn-04.allawntech.com
+127.0.0.1 conn-service-cn-05.allawntech.com
 127.0.0.1 crashlytics.com
 127.0.0.1 crashlyticsreports-pa.googleapis.com
 127.0.0.1 csjplatform.com
@@ -201,7 +205,6 @@
 127.0.0.1 data.mistat.india.xiaomi.com
 127.0.0.1 data.mistat.rus.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
-127.0.0.1 dataflow.biliapi.com
 127.0.0.1 diagnosis.ad.xiaomi.com
 127.0.0.1 dig.bdurl.net
 127.0.0.1 dl.zuimeitianqi.com
@@ -244,6 +247,7 @@
 127.0.0.1 grs.dbankcloud.com
 127.0.0.1 grs.hicloud.com
 127.0.0.1 grs.platform.dbankcloud.ru
+127.0.0.1 gslb.hpplay.cn
 127.0.0.1 h-adashx.ut.taobao.com
 127.0.0.1 h.trace.qq.com
 127.0.0.1 henzanapp.com
@@ -277,6 +281,7 @@
 127.0.0.1 imtmp.net
 127.0.0.1 irc.qubiankeji.com
 127.0.0.1 is.snssdk.com
+127.0.0.1 itv2-up.openspeech.cn
 127.0.0.1 ixav-cse.avlyun.com
 127.0.0.1 iyfbodn.com
 127.0.0.1 janapi.jd.com
@@ -307,6 +312,7 @@
 127.0.0.1 log-upload.mihoyo.com
 127.0.0.1 log.ad.xiaomi.com
 127.0.0.1 log.aispeech.com
+127.0.0.1 log.amemv.com
 127.0.0.1 log.appstore3.huan.tv
 127.0.0.1 log.avlyun.com
 127.0.0.1 log.avlyun.sec.intl.miui.com
@@ -334,6 +340,7 @@
 127.0.0.1 mapi.m.jd.com
 127.0.0.1 masdkv6.3g.qq.com
 127.0.0.1 mazu.m.qq.com
+127.0.0.1 mdp-appconf-in.heytapdl.com
 127.0.0.1 mdp-usertrace-cn.heytapmobi.com
 127.0.0.1 metok.sys.miui.com
 127.0.0.1 metrics.apple.com
@@ -343,6 +350,7 @@
 127.0.0.1 metrics2.data.hicloud.com
 127.0.0.1 mi.gdt.qq.com
 127.0.0.1 miav-cse.avlyun.com
+127.0.0.1 mime.baidu.com
 127.0.0.1 mine.baidu.com
 127.0.0.1 mission-pub.smart-tv.cn
 127.0.0.1 miui-fxcse.avlyun.com
@@ -392,6 +400,7 @@
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 panglelog.gz.bcebos.com
 127.0.0.1 pangolin-sdk-toutiao-b.com
+127.0.0.1 pay.sboot.cn
 127.0.0.1 pgdt.ugdtimg.com
 127.0.0.1 pglstatp-toutiao.com
 127.0.0.1 pig.pupuapi.com
@@ -411,6 +420,7 @@
 127.0.0.1 review.gdtimg.com
 127.0.0.1 rms-drcn.platform.dbankcloud.cn
 127.0.0.1 roi.soulapp.cn
+127.0.0.1 rp.hpplay.cn
 127.0.0.1 rpt.gdt.qq.com
 127.0.0.1 rtb.voiceads.cn
 127.0.0.1 s1.qq.com
@@ -421,12 +431,14 @@
 127.0.0.1 sanme2.taisantech.com
 127.0.0.1 saveu5-normal-lq.zijieapi.com
 127.0.0.1 scdown.qq.com
+127.0.0.1 scs.openspeech.cn
 127.0.0.1 sdk-ab-config.qquanquan.com
 127.0.0.1 sdk-cache.video.ptqy.gitv.tv
 127.0.0.1 sdk.beizi.biz
 127.0.0.1 sdk.e.qq.com
 127.0.0.1 sdk.hzsanjiaomao.com
 127.0.0.1 sdk.mobads.adwangmai.com
+127.0.0.1 sdkauth.hpplay.cn
 127.0.0.1 sdkconf.avlyun.com
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
@@ -445,10 +457,11 @@
 127.0.0.1 sf16-static.i18n-pglstatp.com
 127.0.0.1 sf3-fe-tos.pglstatp-toutiao.com
 127.0.0.1 shouji.sogou.com
-127.0.0.1 sigmob.com
 127.0.0.1 sigmob.cn
+127.0.0.1 sigmob.com
 127.0.0.1 skdisplay.jd.com
 127.0.0.1 slb-p2p.vcloud.ks-live.com
+127.0.0.1 smart-tv.cn
 127.0.0.1 smartad.10010.com
 127.0.0.1 smetrics.samsung.com
 127.0.0.1 sms.ads.oppomobile.com
@@ -466,6 +479,7 @@
 127.0.0.1 t-dsp.pinduoduo.com
 127.0.0.1 t.l.qq.com
 127.0.0.1 t.track.ad.xiaomi.com
+127.0.0.1 t002.ottcn.com
 127.0.0.1 t1.a.market.xiaomi.com
 127.0.0.1 t2.a.market.xiaomi.com
 127.0.0.1 t3.a.market.xiaomi.com
@@ -502,6 +516,7 @@
 127.0.0.1 tracker.gitee.com
 127.0.0.1 tracking.miui.com
 127.0.0.1 tracking.rus.miui.com
+127.0.0.1 tvapp.hpplay.cn
 127.0.0.1 tvuser-ch.cedock.com
 127.0.0.1 tx-ad.a.yximgs.com
 127.0.0.1 tx-kmpaudio.pull.yximgs.com
@@ -527,6 +542,7 @@
 127.0.0.1 v2.gdt.qq.com
 127.0.0.1 v3-ad.video.yximgs.com
 127.0.0.1 video-dsp.pddpic.com
+127.0.0.1 virusinfo-cloudscan-cn.heytapmobi.com
 127.0.0.1 vlive.qqvideo.tc.qq.com
 127.0.0.1 vungle.com
 127.0.0.1 w.l.qq.com
