@@ -464,7 +464,6 @@ t2.a.market.xiaomi.com
 t3.a.market.xiaomi.com
 tangram.e.qq.com
 tdc.qq.com
-tdid.m.qq.com
 tdsdk.cpatrk.net
 tdsdk.xdrig.com
 terms-drcn.platform.dbankcloud.cn
