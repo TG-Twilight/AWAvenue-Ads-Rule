@@ -1,6 +1,6 @@
 # Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 # 规则版本: 1.4.6
-# 更新时间: 2024-04-22
+# 更新时间: 2024-04-28
 # 
 # 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 # 
@@ -469,7 +469,6 @@ ip dns static add address=240.0.0.1 name=staticsns.cdn.bcebos.com
 ip dns static add address=240.0.0.1 name=stats.qiumibao.com
 ip dns static add address=240.0.0.1 name=statsigapi.net
 ip dns static add address=240.0.0.1 name=stg-data.ads.heytapmobi.com
-ip dns static add address=240.0.0.1 name=storage.moegirl.org.cn
 ip dns static add address=240.0.0.1 name=success.ctobsnssdk.com
 ip dns static add address=240.0.0.1 name=syh-imp.cdnjtzy.com
 ip dns static add address=240.0.0.1 name=t-dsp.pinduoduo.com

@@ -1,6 +1,6 @@
 # Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 # 规则版本: 1.4.6
-# 更新时间: 2024-04-22
+# 更新时间: 2024-04-28
 # 
 # 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 # 
@@ -473,7 +473,6 @@
 0.0.0.0 stats.qiumibao.com
 0.0.0.0 statsigapi.net
 0.0.0.0 stg-data.ads.heytapmobi.com
-0.0.0.0 storage.moegirl.org.cn
 0.0.0.0 success.ctobsnssdk.com
 0.0.0.0 syh-imp.cdnjtzy.com
 0.0.0.0 t-dsp.pinduoduo.com
