@@ -452,7 +452,6 @@ staticsns.cdn.bcebos.com
 stats.qiumibao.com
 statsigapi.net
 stg-data.ads.heytapmobi.com
-storage.moegirl.org.cn
 success.ctobsnssdk.com
 syh-imp.cdnjtzy.com
 t-dsp.pinduoduo.com
