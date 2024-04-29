@@ -1,6 +1,6 @@
 # Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 # 规则版本: 1.4.6
-# 更新时间: 2024-04-28
+# 更新时间: 2024-04-29
 # 
 # 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 # 
@@ -191,8 +191,6 @@ ip dns static add address=240.0.0.1 name=cnzz.com
 ip dns static add address=240.0.0.1 name=collect.kugou.com
 ip dns static add address=240.0.0.1 name=commdata.v.qq.com
 ip dns static add address=240.0.0.1 name=config.chsmarttv.com
-ip dns static add address=240.0.0.1 name=conn-service-cn-04.allawntech.com
-ip dns static add address=240.0.0.1 name=conn-service-cn-05.allawntech.com
 ip dns static add address=240.0.0.1 name=crashlytics.com
 ip dns static add address=240.0.0.1 name=crashlyticsreports-pa.googleapis.com
 ip dns static add address=240.0.0.1 name=csjplatform.com
@@ -252,9 +250,7 @@ ip dns static add address=240.0.0.1 name=hiboard-drcn.ai.dbankcloud.cn
 ip dns static add address=240.0.0.1 name=hm.baidu.com
 ip dns static add address=240.0.0.1 name=hmma.baidu.com
 ip dns static add address=240.0.0.1 name=httpdns.bcelive.com
-ip dns static add address=240.0.0.1 name=httpdns.huaweicloud.com
 ip dns static add address=240.0.0.1 name=httpdns.ocloud.oppomobile.com
-ip dns static add address=240.0.0.1 name=httpdns.push.oppomobile.com
 ip dns static add address=240.0.0.1 name=hugelog.fcbox.com
 ip dns static add address=240.0.0.1 name=hw-ot-ad.a.yximgs.com
 ip dns static add address=240.0.0.1 name=hw.zuimeitianqi.com
@@ -336,8 +332,6 @@ ip dns static add address=240.0.0.1 name=m1.ad.10010.com
 ip dns static add address=240.0.0.1 name=mapi.m.jd.com
 ip dns static add address=240.0.0.1 name=masdkv6.3g.qq.com
 ip dns static add address=240.0.0.1 name=mazu.m.qq.com
-ip dns static add address=240.0.0.1 name=mdp-appconf-in.heytapdl.com
-ip dns static add address=240.0.0.1 name=mdp-usertrace-cn.heytapmobi.com
 ip dns static add address=240.0.0.1 name=metok.sys.miui.com
 ip dns static add address=240.0.0.1 name=metrics.apple.com
 ip dns static add address=240.0.0.1 name=metrics.data.hicloud.com

@@ -1,6 +1,6 @@
 # Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 # 规则版本: 1.4.6
-# 更新时间: 2024-04-28
+# 更新时间: 2024-04-29
 # 
 # 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 # 
@@ -195,8 +195,6 @@
 127.0.0.1 collect.kugou.com
 127.0.0.1 commdata.v.qq.com
 127.0.0.1 config.chsmarttv.com
-127.0.0.1 conn-service-cn-04.allawntech.com
-127.0.0.1 conn-service-cn-05.allawntech.com
 127.0.0.1 crashlytics.com
 127.0.0.1 crashlyticsreports-pa.googleapis.com
 127.0.0.1 csjplatform.com
@@ -256,9 +254,7 @@
 127.0.0.1 hm.baidu.com
 127.0.0.1 hmma.baidu.com
 127.0.0.1 httpdns.bcelive.com
-127.0.0.1 httpdns.huaweicloud.com
 127.0.0.1 httpdns.ocloud.oppomobile.com
-127.0.0.1 httpdns.push.oppomobile.com
 127.0.0.1 hugelog.fcbox.com
 127.0.0.1 hw-ot-ad.a.yximgs.com
 127.0.0.1 hw.zuimeitianqi.com
@@ -340,8 +336,6 @@
 127.0.0.1 mapi.m.jd.com
 127.0.0.1 masdkv6.3g.qq.com
 127.0.0.1 mazu.m.qq.com
-127.0.0.1 mdp-appconf-in.heytapdl.com
-127.0.0.1 mdp-usertrace-cn.heytapmobi.com
 127.0.0.1 metok.sys.miui.com
 127.0.0.1 metrics.apple.com
 127.0.0.1 metrics.data.hicloud.com

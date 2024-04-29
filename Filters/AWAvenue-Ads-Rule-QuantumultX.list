@@ -1,6 +1,6 @@
 ## Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 ## 规则版本: 1.4.6
-## 更新时间: 2024-04-28
+## 更新时间: 2024-04-29
 ## 
 ## 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 ## 
@@ -191,8 +191,6 @@ DOMAIN,cnzz.com,reject
 DOMAIN,collect.kugou.com,reject
 DOMAIN,commdata.v.qq.com,reject
 DOMAIN,config.chsmarttv.com,reject
-DOMAIN,conn-service-cn-04.allawntech.com,reject
-DOMAIN,conn-service-cn-05.allawntech.com,reject
 DOMAIN,crashlytics.com,reject
 DOMAIN,crashlyticsreports-pa.googleapis.com,reject
 DOMAIN,csjplatform.com,reject
@@ -252,9 +250,7 @@ DOMAIN,hiboard-drcn.ai.dbankcloud.cn,reject
 DOMAIN,hm.baidu.com,reject
 DOMAIN,hmma.baidu.com,reject
 DOMAIN,httpdns.bcelive.com,reject
-DOMAIN,httpdns.huaweicloud.com,reject
 DOMAIN,httpdns.ocloud.oppomobile.com,reject
-DOMAIN,httpdns.push.oppomobile.com,reject
 DOMAIN,hugelog.fcbox.com,reject
 DOMAIN,hw-ot-ad.a.yximgs.com,reject
 DOMAIN,hw.zuimeitianqi.com,reject
@@ -336,8 +332,6 @@ DOMAIN,m1.ad.10010.com,reject
 DOMAIN,mapi.m.jd.com,reject
 DOMAIN,masdkv6.3g.qq.com,reject
 DOMAIN,mazu.m.qq.com,reject
-DOMAIN,mdp-appconf-in.heytapdl.com,reject
-DOMAIN,mdp-usertrace-cn.heytapmobi.com,reject
 DOMAIN,metok.sys.miui.com,reject
 DOMAIN,metrics.apple.com,reject
 DOMAIN,metrics.data.hicloud.com,reject
