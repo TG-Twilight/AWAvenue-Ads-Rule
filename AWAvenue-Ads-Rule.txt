@@ -254,7 +254,6 @@
 ||httpdns.bcelive.com^
 ||httpdns.huaweicloud.com^
 ||httpdns.ocloud.oppomobile.com^
-||httpdns.push.oppomobile.com^
 ||hugelog.fcbox.com^
 ||hw-ot-ad.a.yximgs.com^
 ||hw.zuimeitianqi.com^
