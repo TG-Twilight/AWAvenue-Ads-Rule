@@ -252,7 +252,6 @@
 ||hm.baidu.com^
 ||hmma.baidu.com^
 ||httpdns.bcelive.com^
-||httpdns.huaweicloud.com^
 ||httpdns.ocloud.oppomobile.com^
 ||httpdns.push.oppomobile.com^
 ||hugelog.fcbox.com^
