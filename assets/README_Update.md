@@ -222,7 +222,7 @@ Twilight于4月14日补充：网站已经更新完力！😋
 <br />
 
 ## 1.4.6-release：4月19日，2024年
-新增更多的来自oddo的ads域名，新增tiktok的弹幕日志上传拦截；修复对于bilibili manga的错误拦截。
+新增更多的来自oddo的ads域名，新增tiktok的弹幕日志上传拦截；修复对于bilibili manga的错误拦截；修复多个问题，主要是oddo系列，感谢 @phplearner123 的积极反馈。
 <br />
 <br />
 **经过长时间的考察与慎重考虑，我们认为 CHANGHONG 是一家打着军工企业胡作非为的流氓公司，故对 CHANGHONG SmartTV 的绝大部分域名进行了封锁拦截，包括但不限于：所有经由域名请求的广告域、欢视商店的检测更新api、主页推送api、全局弹出式banner api（包含广告消息推送）、更新检测api、欢付api、不明意义的上传api 等。在拦截后， CHANGHONG SmartTV 的基本功能不会受到影响，可以正常使用。**
