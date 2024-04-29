@@ -336,7 +336,6 @@
 ||mapi.m.jd.com^
 ||masdkv6.3g.qq.com^
 ||mazu.m.qq.com^
-||mdp-appconf-in.heytapdl.com^
 ||mdp-usertrace-cn.heytapmobi.com^
 ||metok.sys.miui.com^
 ||metrics.apple.com^
