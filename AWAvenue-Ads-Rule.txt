@@ -191,8 +191,6 @@
 ||collect.kugou.com^
 ||commdata.v.qq.com^
 ||config.chsmarttv.com^
-||conn-service-cn-04.allawntech.com^
-||conn-service-cn-05.allawntech.com^
 ||crashlytics.com^
 ||crashlyticsreports-pa.googleapis.com^
 ||csjplatform.com^
