@@ -241,3 +241,8 @@ rp.hpplay.cn  |  tvapp.hpplay.cn
 t002.ottcn.com  |  smart-tv.cn
 <br />
 <br />
+
+## 1.4.6-fix：5月2日，2024年
+做减法，去重#64 和修复#65，感谢 @vcdriy 和 @MkQtS 提供的[广告规则去重查询网站](https://adblockplus.org/zh_CN/redundancy_check)
+<br />
+<br />
