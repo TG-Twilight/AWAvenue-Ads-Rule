@@ -1,6 +1,6 @@
 # Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 # 规则版本: 1.4.6
-# 更新时间: 2024-04-29
+# 更新时间: 2024-05-02
 # 
 # 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 # 
@@ -33,7 +33,6 @@
 0.0.0.0 ad.51wnl.com
 0.0.0.0 ad.bwton.com
 0.0.0.0 ad.cyapi.cn
-0.0.0.0 ad.flurry.com
 0.0.0.0 ad.partner.gifshow.com
 0.0.0.0 ad.qingting.fm
 0.0.0.0 ad.qq.com
@@ -59,7 +58,6 @@
 0.0.0.0 adjust.cn
 0.0.0.0 adkwai.com
 0.0.0.0 adlink-api.huan.tv
-0.0.0.0 adlog.flurry.com
 0.0.0.0 ads-api-o.api.leiniao.com
 0.0.0.0 ads-api.tiktok.com
 0.0.0.0 ads-api.twitter.com
@@ -67,7 +65,6 @@
 0.0.0.0 ads-video-al.xhscdn.com
 0.0.0.0 ads-video-qc.xhscdn.com
 0.0.0.0 ads.95516.com
-0.0.0.0 ads.flurry.com
 0.0.0.0 ads.google.cn
 0.0.0.0 ads.heytapmobi.com
 0.0.0.0 ads.huan.tv
@@ -392,7 +389,6 @@
 0.0.0.0 p6-be-pack-sign.pglstatp-toutiao.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 panglelog.gz.bcebos.com
 0.0.0.0 pangolin-sdk-toutiao-b.com
 0.0.0.0 pay.sboot.cn
 0.0.0.0 pgdt.ugdtimg.com

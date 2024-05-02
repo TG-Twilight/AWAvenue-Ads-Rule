@@ -1,6 +1,6 @@
 ## Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 ## 规则版本: 1.4.6
-## 更新时间: 2024-04-29
+## 更新时间: 2024-05-02
 ## 
 ## 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 ## 
@@ -29,7 +29,6 @@ DOMAIN,ad.12306.cn,reject
 DOMAIN,ad.51wnl.com,reject
 DOMAIN,ad.bwton.com,reject
 DOMAIN,ad.cyapi.cn,reject
-DOMAIN,ad.flurry.com,reject
 DOMAIN,ad.partner.gifshow.com,reject
 DOMAIN,ad.qingting.fm,reject
 DOMAIN,ad.qq.com,reject
@@ -55,7 +54,6 @@ DOMAIN,adfilter.imtt.qq.com,reject
 DOMAIN,adjust.cn,reject
 DOMAIN,adkwai.com,reject
 DOMAIN,adlink-api.huan.tv,reject
-DOMAIN,adlog.flurry.com,reject
 DOMAIN,ads-api-o.api.leiniao.com,reject
 DOMAIN,ads-api.tiktok.com,reject
 DOMAIN,ads-api.twitter.com,reject
@@ -63,7 +61,6 @@ DOMAIN,ads-img-qc.xhscdn.com,reject
 DOMAIN,ads-video-al.xhscdn.com,reject
 DOMAIN,ads-video-qc.xhscdn.com,reject
 DOMAIN,ads.95516.com,reject
-DOMAIN,ads.flurry.com,reject
 DOMAIN,ads.google.cn,reject
 DOMAIN,ads.heytapmobi.com,reject
 DOMAIN,ads.huan.tv,reject
@@ -388,7 +385,6 @@ DOMAIN,p5-be-pack-sign.pglstatp-toutiao.com,reject
 DOMAIN,p6-be-pack-sign.pglstatp-toutiao.com,reject
 DOMAIN,pagead2.googleadservices.com,reject
 DOMAIN,pagead2.googlesyndication.com,reject
-DOMAIN,panglelog.gz.bcebos.com,reject
 DOMAIN,pangolin-sdk-toutiao-b.com,reject
 DOMAIN,pay.sboot.cn,reject
 DOMAIN,pgdt.ugdtimg.com,reject

@@ -1,6 +1,6 @@
 # Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 # 规则版本: 1.4.6
-# 更新时间: 2024-04-29
+# 更新时间: 2024-05-02
 # 
 # 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 # 
@@ -29,7 +29,6 @@ ip dns static add address=240.0.0.1 name=ad.12306.cn
 ip dns static add address=240.0.0.1 name=ad.51wnl.com
 ip dns static add address=240.0.0.1 name=ad.bwton.com
 ip dns static add address=240.0.0.1 name=ad.cyapi.cn
-ip dns static add address=240.0.0.1 name=ad.flurry.com
 ip dns static add address=240.0.0.1 name=ad.partner.gifshow.com
 ip dns static add address=240.0.0.1 name=ad.qingting.fm
 ip dns static add address=240.0.0.1 name=ad.qq.com
@@ -55,7 +54,6 @@ ip dns static add address=240.0.0.1 name=adfilter.imtt.qq.com
 ip dns static add address=240.0.0.1 name=adjust.cn
 ip dns static add address=240.0.0.1 name=adkwai.com
 ip dns static add address=240.0.0.1 name=adlink-api.huan.tv
-ip dns static add address=240.0.0.1 name=adlog.flurry.com
 ip dns static add address=240.0.0.1 name=ads-api-o.api.leiniao.com
 ip dns static add address=240.0.0.1 name=ads-api.tiktok.com
 ip dns static add address=240.0.0.1 name=ads-api.twitter.com
@@ -63,7 +61,6 @@ ip dns static add address=240.0.0.1 name=ads-img-qc.xhscdn.com
 ip dns static add address=240.0.0.1 name=ads-video-al.xhscdn.com
 ip dns static add address=240.0.0.1 name=ads-video-qc.xhscdn.com
 ip dns static add address=240.0.0.1 name=ads.95516.com
-ip dns static add address=240.0.0.1 name=ads.flurry.com
 ip dns static add address=240.0.0.1 name=ads.google.cn
 ip dns static add address=240.0.0.1 name=ads.heytapmobi.com
 ip dns static add address=240.0.0.1 name=ads.huan.tv
@@ -388,7 +385,6 @@ ip dns static add address=240.0.0.1 name=p5-be-pack-sign.pglstatp-toutiao.com
 ip dns static add address=240.0.0.1 name=p6-be-pack-sign.pglstatp-toutiao.com
 ip dns static add address=240.0.0.1 name=pagead2.googleadservices.com
 ip dns static add address=240.0.0.1 name=pagead2.googlesyndication.com
-ip dns static add address=240.0.0.1 name=panglelog.gz.bcebos.com
 ip dns static add address=240.0.0.1 name=pangolin-sdk-toutiao-b.com
 ip dns static add address=240.0.0.1 name=pay.sboot.cn
 ip dns static add address=240.0.0.1 name=pgdt.ugdtimg.com
