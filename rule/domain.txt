@@ -541,7 +541,6 @@ w1.yskwai.com
 w1.zskwai.com
 weather-analytics-events.apple.com
 weather-community-drcn.weather.dbankcloud.cn
-weather-drcn.music.dbankcloud.cn
 webstat.qiumibao.com
 win.gdt.qq.com
 wn.x.jd.com
