@@ -1,6 +1,6 @@
 ## Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 ## 规则版本: 1.4.6-fix
-## 更新时间: 2024-05-02
+## 更新时间: 2024-05-03
 ## 
 ## 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 ## 
@@ -558,7 +558,6 @@ DOMAIN,w1.yskwai.com,reject
 DOMAIN,w1.zskwai.com,reject
 DOMAIN,weather-analytics-events.apple.com,reject
 DOMAIN,weather-community-drcn.weather.dbankcloud.cn,reject
-DOMAIN,weather-drcn.music.dbankcloud.cn,reject
 DOMAIN,webstat.qiumibao.com,reject
 DOMAIN,win.gdt.qq.com,reject
 DOMAIN,wn.x.jd.com,reject

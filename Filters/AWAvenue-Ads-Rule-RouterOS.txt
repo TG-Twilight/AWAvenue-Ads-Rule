@@ -1,6 +1,6 @@
 # Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 # 规则版本: 1.4.6-fix
-# 更新时间: 2024-05-02
+# 更新时间: 2024-05-03
 # 
 # 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 # 
@@ -558,7 +558,6 @@ ip dns static add address=240.0.0.1 name=w1.yskwai.com
 ip dns static add address=240.0.0.1 name=w1.zskwai.com
 ip dns static add address=240.0.0.1 name=weather-analytics-events.apple.com
 ip dns static add address=240.0.0.1 name=weather-community-drcn.weather.dbankcloud.cn
-ip dns static add address=240.0.0.1 name=weather-drcn.music.dbankcloud.cn
 ip dns static add address=240.0.0.1 name=webstat.qiumibao.com
 ip dns static add address=240.0.0.1 name=win.gdt.qq.com
 ip dns static add address=240.0.0.1 name=wn.x.jd.com
