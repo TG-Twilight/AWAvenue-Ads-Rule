@@ -31,3 +31,6 @@
 /i*.snssdk.com/
 ||i*.snssdk.com^
 # 用于拦截 zijie 系的广告，拦截后，会导致抖音APP的填写学校->学校信息->申报学校信息异常。
+!
+||weather-drcn.music.dbankcloud.cn^
+# 用于拦截 Whyway 天气的开屏广告，拦截后，可能会导致 更多天气加载失败 等情况。
