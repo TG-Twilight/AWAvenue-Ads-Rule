@@ -22,11 +22,8 @@
 
 
 <p align="center"><b>干掉所有无良广告<br>Eliminate All Malicious Ads</b></p>
-<br />
-<br />
-<br />
 
-## 关于此广告规则 | About
+## 🍁关于此广告规则 | About
 
 开源社区中最优秀的广告过滤器列表之一，实现了最优秀的广告拦截、隐私保护和流量节省。支持各种常见的网络层广告拦截工具和代理工具等¹，与其它动辄成千上万条的广告规则相比，秋风广告规则有着极致的体积控制、超高的命中率和极低的硬件要求。
 
@@ -34,71 +31,85 @@
 
 相较于其它去广告的手段，这种从网络层面过滤的方式成本低、使用方便快捷、受益范围广(例如路由器部署)，您无需对每个有需求的app进行单独设置，在无感过滤的同时不影响您正常使用原有的app。
 
-*截止2024年3月，我们可以拦截提瓦特大陆现有九成以上的广告sdk。*
+*截止2024年5月，我们可以拦截提瓦特大陆现有九成以上的广告sdk。*
 
-<br />
+---
 
-## 工作原理 | Work Principle
+## 🍁工作原理 | Work Principle
 
 使用使用Adblock语法，从网络层面对抗(拦截)Android应用中的各种流氓广告SDK，阻止其加载，从而达到去广告的目的。<br />
-<br />
 
-## 订阅规则 | Subscription Rules
+---
+
+## 🍁订阅规则 | Subscription Rules
+
+适用于AdGuard Home、AdGuard、AdGuard DNS 等支持Adblock语法广告过滤工具的规则
 
 - [Github订阅地址](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
 - [渺软CDN反代订阅地址](https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Ads-Rule@main/AWAvenue-Ads-Rule.txt)
 - [jsDelivr(gcore)反代订阅地址](https://gcore.jsdelivr.net/gh/TG-Twilight/AWAvenue-Ads-Rule@main/AWAvenue-Ads-Rule.txt)
 - [ghproxy反代订阅地址](https://mirror.ghproxy.com/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
 
+其他格式见[官方网站-订阅规则](https://awavenue.top/Sub.html)
+
 *¹截止2024年3月，我们官方支持的工具/格式有：
 AdGuard Home、ClashMeta、QuantumultX、Surge、hosts格式、AdGuard DNS、Surfboard、Singbox、AdClose、AdGuard、大圣净化、广告屏蔽大师Plus+、DNS去广告。*
 
-<br />
-
-## 其他客户端格式订阅规则 | other Subscription Rules
-
-见[官方网站-订阅规则](https://awavenue.top/Sub.html)
-
  *若您在订阅本广告规则后，发现应用内流氓广告sdk仍在正常展示广告/出现误杀，欢迎反馈！*
 
-<br />
-<br />
+---
 
-## 如何使用 | How to use
-复制我们的订阅链接，将其导入到 AdGuard/AdGuard Home 的 DNS黑名单 中，即可生效。
+## 🍁如何使用 | How to use
+请查看我们的[官方教程](https://awavenue.top/Knowledge.html)
 
-<br />
-<br />
+个人项目，随缘维护更新，欢迎issues和Pr。   [😀加入秋風がく山道](https://t.me/AWAvenueAdsChat)。
 
-## 如何贡献本项目 | How to contribute to this project
+---
 
-见[build](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/tree/build)分支
+<details>
+  <summary>推荐的广告过滤工具</summary>
 
-个人项目，随缘维护更新，欢迎issues和Pr，**Pr前请到群里打个招呼**。   [😀加入秋風がく山道](https://t.me/AWAvenueAdsChat)。
-
-<br />
-<br />
-
-## 推荐的广告过滤工具 | Recommended Tools
-
-<br />
-
-- [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)    *安装在路由器，广告过滤工具较为理想的工作位置*
+- [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)    *安装在路由器，广告过滤工具较为理想的工作位置*，目前，秋风广告规则已加入AdGuard官方列表，你可以直接在 “从列表中选择” 订阅！
 
 - [AdGuard](https://adguard.com/)    *多端使用，支持Android、Windows、Mac、iOS*
 
-- [AdGuard Home For Magisk](https://github.com/twoone-3/AdGuardHomeForMagisk)   *AdGuard Home的Magisk版本，感谢 @twoone-3*
+- [AdGuard Home For Magisk](https://github.com/twoone-3/AdGuardHomeForMagisk)   *AdGuard Home的Magisk版本*
 
 - [AdClose（Xposed module）](https://t.me/AdClose)    *Xposed模块，可以通过hook拦截常见广告，内置秋风广告规则，感谢@zjyzip*
 
 - [AdGuard DNS](https://adguard-dns.io/en/welcome.html)    *直接使用自定义的DNS服务器，目前，秋风广告规则已加入AdGuard官方列表，你可以直接在AdGuard DNS Filters中订阅！*
 
+</details>
+
+---
+
+## 🍁赞助商 | Special sponsors
+
+[倾城极速 - 畅游世界，高速互联](https://x7a4ds7s.wcnmdmht.biz/#/register?code=prbbRzx9)
+
+---
+
+## 🍁贡献者 | Contributors
+
+<p align="left"><a href="https://github.com/TG-Twilight/AWAvenue-Ads-Rule/graphs/contributors"><img src="https://contrib.rocks/image?repo=TG-Twilight/AWAvenue-Ads-Rule&max=50" /></a></p>
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=TG-Twilight/AWAvenue-Ads-Rule&type=Date)](https://star-history.com/#TG-Twilight/AWAvenue-Ads-Rule&Date)
+
+---
+
+### ***Keep the internet clean!***
+
+---
+
+[![https://gafam.info](https://ptrace.gafam.info/unofficial/img/color/lqdn-gafam-poster-en-color-5x1-2560x.png)](https://gafam.info)
+
+---
+![:访问数](https://moe-counter.glitch.me/get/@TG-Twiligh?theme=gelbooru)
+2024.5.5开始统计......
 ---
 
 > [@Github](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) · [@Telegram Channel](https://t.me/AWAvenueAdsRule) · [@Telegram Group](https://t.me/AWAvenueAdsChat)
-
-<br />
-
-## 赞助商 | Special sponsors
-
-[倾城极速 - 畅游世界，高速互联](https://x7a4ds7s.wcnmdmht.biz/#/register?code=prbbRzx9)
