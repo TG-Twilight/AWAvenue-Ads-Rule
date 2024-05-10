@@ -1,6 +1,6 @@
 ## Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 ## 规则版本: 1.4.7
-## 更新时间: 2024-05-04
+## 更新时间: 2024-05-10
 ## 
 ## 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 ## 
@@ -43,12 +43,9 @@ DOMAIN,ad.zijieapi.com,reject
 DOMAIN,adapi.izuiyou.com,reject
 DOMAIN,adapi.yynetwk.com,reject
 DOMAIN,adashbc.ut.taobao.com,reject
-DOMAIN,adc.hpplay.cn,reject
-DOMAIN,adcdn.hpplay.cn,reject
 DOMAIN,adcdn.tencentmusic.com,reject
 DOMAIN,adclick.tencentmusic.com,reject
 DOMAIN,adcolony.com,reject
-DOMAIN,adeng.hpplay.cn,reject
 DOMAIN,adexpo.tencentmusic.com,reject
 DOMAIN,adfilter.imtt.qq.com,reject
 DOMAIN,adjust.cn,reject
@@ -154,7 +151,6 @@ DOMAIN,applog.zijieapi.com,reject
 DOMAIN,ata-sdk-uuid-report.dreport.meituan.net,reject
 DOMAIN,audid-api.taobao.com,reject
 DOMAIN,audid.umeng.com,reject
-DOMAIN,authenticate.chiq-cloud.com,reject
 DOMAIN,azr.footprintdns.com,reject
 DOMAIN,b1-data.ads.heytapmobi.com,reject
 DOMAIN,bdapi-ads.realmemobile.com,reject
@@ -181,6 +177,7 @@ DOMAIN,cdn.ad.xiaomi.com,reject
 DOMAIN,cdn.ynuf.aliapp.org,reject
 DOMAIN,cfg.imtt.qq.com,reject
 DOMAIN,chat1.jd.com,reject
+DOMAIN,chiq-cloud.com,reject
 DOMAIN,ck.ads.oppomobile.com,reject
 DOMAIN,clog.miguvideo.com,reject
 DOMAIN,cm.bilibili.com,reject
@@ -238,7 +235,6 @@ DOMAIN,gromore.pangolin-sdk-toutiao.com,reject
 DOMAIN,grs.dbankcloud.com,reject
 DOMAIN,grs.hicloud.com,reject
 DOMAIN,grs.platform.dbankcloud.ru,reject
-DOMAIN,gslb.hpplay.cn,reject
 DOMAIN,h-adashx.ut.taobao.com,reject
 DOMAIN,h.trace.qq.com,reject
 DOMAIN,henzanapp.com,reject
@@ -246,6 +242,7 @@ DOMAIN,hexagon-analytics.com,reject
 DOMAIN,hiboard-drcn.ai.dbankcloud.cn,reject
 DOMAIN,hm.baidu.com,reject
 DOMAIN,hmma.baidu.com,reject
+DOMAIN,hpplay.cn,reject
 DOMAIN,httpdns.bcelive.com,reject
 DOMAIN,httpdns.ocloud.oppomobile.com,reject
 DOMAIN,hugelog.fcbox.com,reject
@@ -274,7 +271,6 @@ DOMAIN,itv2-up.openspeech.cn,reject
 DOMAIN,ixav-cse.avlyun.com,reject
 DOMAIN,iyfbodn.com,reject
 DOMAIN,janapi.jd.com,reject
-DOMAIN,jfapi.chiq-cloud.com,reject
 DOMAIN,jiguang.cn,reject
 DOMAIN,jpush.cn,reject
 DOMAIN,jpush.html5.qq.com,reject
@@ -329,6 +325,7 @@ DOMAIN,m1.ad.10010.com,reject
 DOMAIN,mapi.m.jd.com,reject
 DOMAIN,masdkv6.3g.qq.com,reject
 DOMAIN,mazu.m.qq.com,reject
+DOMAIN,mcdn.bilivideo.cn,reject
 DOMAIN,metok.sys.miui.com,reject
 DOMAIN,metrics.apple.com,reject
 DOMAIN,metrics.data.hicloud.com,reject
@@ -406,7 +403,6 @@ DOMAIN,res3.hubcloud.com.cn,reject
 DOMAIN,review.gdtimg.com,reject
 DOMAIN,rms-drcn.platform.dbankcloud.cn,reject
 DOMAIN,roi.soulapp.cn,reject
-DOMAIN,rp.hpplay.cn,reject
 DOMAIN,rpt.gdt.qq.com,reject
 DOMAIN,rtb.voiceads.cn,reject
 DOMAIN,s1.qq.com,reject
@@ -424,7 +420,6 @@ DOMAIN,sdk.beizi.biz,reject
 DOMAIN,sdk.e.qq.com,reject
 DOMAIN,sdk.hzsanjiaomao.com,reject
 DOMAIN,sdk.mobads.adwangmai.com,reject
-DOMAIN,sdkauth.hpplay.cn,reject
 DOMAIN,sdkconf.avlyun.com,reject
 DOMAIN,sdkconfig.ad.intl.xiaomi.com,reject
 DOMAIN,sdkconfig.ad.xiaomi.com,reject
@@ -500,14 +495,11 @@ DOMAIN,tracker.ai.xiaomi.com,reject
 DOMAIN,tracker.gitee.com,reject
 DOMAIN,tracking.miui.com,reject
 DOMAIN,tracking.rus.miui.com,reject
-DOMAIN,tvapp.hpplay.cn,reject
 DOMAIN,tvuser-ch.cedock.com,reject
 DOMAIN,tx-ad.a.yximgs.com,reject
 DOMAIN,tx-kmpaudio.pull.yximgs.com,reject
 DOMAIN,tz.sec.xiaomi.com,reject
 DOMAIN,uapi.ads.heytapmobi.com,reject
-DOMAIN,uapi.chiq-cloud.com,reject
-DOMAIN,ucstat.baidu.com,reject
 DOMAIN,ulog-sdk.gifshow.com,reject
 DOMAIN,ulogjs.gifshow.com,reject
 DOMAIN,ulogs.umeng.com,reject

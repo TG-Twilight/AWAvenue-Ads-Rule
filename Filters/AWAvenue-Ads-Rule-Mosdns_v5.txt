@@ -1,6 +1,6 @@
 # Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 # 规则版本: 1.4.7
-# 更新时间: 2024-05-04
+# 更新时间: 2024-05-10
 # 
 # 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 # 
@@ -43,12 +43,9 @@ domain:ad.zijieapi.com
 domain:adapi.izuiyou.com
 domain:adapi.yynetwk.com
 domain:adashbc.ut.taobao.com
-domain:adc.hpplay.cn
-domain:adcdn.hpplay.cn
 domain:adcdn.tencentmusic.com
 domain:adclick.tencentmusic.com
 domain:adcolony.com
-domain:adeng.hpplay.cn
 domain:adexpo.tencentmusic.com
 domain:adfilter.imtt.qq.com
 domain:adjust.cn
@@ -154,7 +151,6 @@ domain:applog.zijieapi.com
 domain:ata-sdk-uuid-report.dreport.meituan.net
 domain:audid-api.taobao.com
 domain:audid.umeng.com
-domain:authenticate.chiq-cloud.com
 domain:azr.footprintdns.com
 domain:b1-data.ads.heytapmobi.com
 domain:bdapi-ads.realmemobile.com
@@ -181,6 +177,7 @@ domain:cdn.ad.xiaomi.com
 domain:cdn.ynuf.aliapp.org
 domain:cfg.imtt.qq.com
 domain:chat1.jd.com
+domain:chiq-cloud.com
 domain:ck.ads.oppomobile.com
 domain:clog.miguvideo.com
 domain:cm.bilibili.com
@@ -238,7 +235,6 @@ domain:gromore.pangolin-sdk-toutiao.com
 domain:grs.dbankcloud.com
 domain:grs.hicloud.com
 domain:grs.platform.dbankcloud.ru
-domain:gslb.hpplay.cn
 domain:h-adashx.ut.taobao.com
 domain:h.trace.qq.com
 domain:henzanapp.com
@@ -246,6 +242,7 @@ domain:hexagon-analytics.com
 domain:hiboard-drcn.ai.dbankcloud.cn
 domain:hm.baidu.com
 domain:hmma.baidu.com
+domain:hpplay.cn
 domain:httpdns.bcelive.com
 domain:httpdns.ocloud.oppomobile.com
 domain:hugelog.fcbox.com
@@ -274,7 +271,6 @@ domain:itv2-up.openspeech.cn
 domain:ixav-cse.avlyun.com
 domain:iyfbodn.com
 domain:janapi.jd.com
-domain:jfapi.chiq-cloud.com
 domain:jiguang.cn
 domain:jpush.cn
 domain:jpush.html5.qq.com
@@ -329,6 +325,7 @@ domain:m1.ad.10010.com
 domain:mapi.m.jd.com
 domain:masdkv6.3g.qq.com
 domain:mazu.m.qq.com
+domain:mcdn.bilivideo.cn
 domain:metok.sys.miui.com
 domain:metrics.apple.com
 domain:metrics.data.hicloud.com
@@ -406,7 +403,6 @@ domain:res3.hubcloud.com.cn
 domain:review.gdtimg.com
 domain:rms-drcn.platform.dbankcloud.cn
 domain:roi.soulapp.cn
-domain:rp.hpplay.cn
 domain:rpt.gdt.qq.com
 domain:rtb.voiceads.cn
 domain:s1.qq.com
@@ -424,7 +420,6 @@ domain:sdk.beizi.biz
 domain:sdk.e.qq.com
 domain:sdk.hzsanjiaomao.com
 domain:sdk.mobads.adwangmai.com
-domain:sdkauth.hpplay.cn
 domain:sdkconf.avlyun.com
 domain:sdkconfig.ad.intl.xiaomi.com
 domain:sdkconfig.ad.xiaomi.com
@@ -500,14 +495,11 @@ domain:tracker.ai.xiaomi.com
 domain:tracker.gitee.com
 domain:tracking.miui.com
 domain:tracking.rus.miui.com
-domain:tvapp.hpplay.cn
 domain:tvuser-ch.cedock.com
 domain:tx-ad.a.yximgs.com
 domain:tx-kmpaudio.pull.yximgs.com
 domain:tz.sec.xiaomi.com
 domain:uapi.ads.heytapmobi.com
-domain:uapi.chiq-cloud.com
-domain:ucstat.baidu.com
 domain:ulog-sdk.gifshow.com
 domain:ulogjs.gifshow.com
 domain:ulogs.umeng.com

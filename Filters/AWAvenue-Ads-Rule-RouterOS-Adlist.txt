@@ -1,6 +1,6 @@
 # Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 # 规则版本: 1.4.7
-# 更新时间: 2024-05-04
+# 更新时间: 2024-05-10
 # 
 # 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 # 
@@ -47,12 +47,9 @@
 0.0.0.0 adapi.izuiyou.com
 0.0.0.0 adapi.yynetwk.com
 0.0.0.0 adashbc.ut.taobao.com
-0.0.0.0 adc.hpplay.cn
-0.0.0.0 adcdn.hpplay.cn
 0.0.0.0 adcdn.tencentmusic.com
 0.0.0.0 adclick.tencentmusic.com
 0.0.0.0 adcolony.com
-0.0.0.0 adeng.hpplay.cn
 0.0.0.0 adexpo.tencentmusic.com
 0.0.0.0 adfilter.imtt.qq.com
 0.0.0.0 adjust.cn
@@ -158,7 +155,6 @@
 0.0.0.0 ata-sdk-uuid-report.dreport.meituan.net
 0.0.0.0 audid-api.taobao.com
 0.0.0.0 audid.umeng.com
-0.0.0.0 authenticate.chiq-cloud.com
 0.0.0.0 azr.footprintdns.com
 0.0.0.0 b1-data.ads.heytapmobi.com
 0.0.0.0 bdapi-ads.realmemobile.com
@@ -185,6 +181,7 @@
 0.0.0.0 cdn.ynuf.aliapp.org
 0.0.0.0 cfg.imtt.qq.com
 0.0.0.0 chat1.jd.com
+0.0.0.0 chiq-cloud.com
 0.0.0.0 ck.ads.oppomobile.com
 0.0.0.0 clog.miguvideo.com
 0.0.0.0 cm.bilibili.com
@@ -242,7 +239,6 @@
 0.0.0.0 grs.dbankcloud.com
 0.0.0.0 grs.hicloud.com
 0.0.0.0 grs.platform.dbankcloud.ru
-0.0.0.0 gslb.hpplay.cn
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 h.trace.qq.com
 0.0.0.0 henzanapp.com
@@ -250,6 +246,7 @@
 0.0.0.0 hiboard-drcn.ai.dbankcloud.cn
 0.0.0.0 hm.baidu.com
 0.0.0.0 hmma.baidu.com
+0.0.0.0 hpplay.cn
 0.0.0.0 httpdns.bcelive.com
 0.0.0.0 httpdns.ocloud.oppomobile.com
 0.0.0.0 hugelog.fcbox.com
@@ -278,7 +275,6 @@
 0.0.0.0 ixav-cse.avlyun.com
 0.0.0.0 iyfbodn.com
 0.0.0.0 janapi.jd.com
-0.0.0.0 jfapi.chiq-cloud.com
 0.0.0.0 jiguang.cn
 0.0.0.0 jpush.cn
 0.0.0.0 jpush.html5.qq.com
@@ -333,6 +329,7 @@
 0.0.0.0 mapi.m.jd.com
 0.0.0.0 masdkv6.3g.qq.com
 0.0.0.0 mazu.m.qq.com
+0.0.0.0 mcdn.bilivideo.cn
 0.0.0.0 metok.sys.miui.com
 0.0.0.0 metrics.apple.com
 0.0.0.0 metrics.data.hicloud.com
@@ -410,7 +407,6 @@
 0.0.0.0 review.gdtimg.com
 0.0.0.0 rms-drcn.platform.dbankcloud.cn
 0.0.0.0 roi.soulapp.cn
-0.0.0.0 rp.hpplay.cn
 0.0.0.0 rpt.gdt.qq.com
 0.0.0.0 rtb.voiceads.cn
 0.0.0.0 s1.qq.com
@@ -428,7 +424,6 @@
 0.0.0.0 sdk.e.qq.com
 0.0.0.0 sdk.hzsanjiaomao.com
 0.0.0.0 sdk.mobads.adwangmai.com
-0.0.0.0 sdkauth.hpplay.cn
 0.0.0.0 sdkconf.avlyun.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
@@ -504,14 +499,11 @@
 0.0.0.0 tracker.gitee.com
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.rus.miui.com
-0.0.0.0 tvapp.hpplay.cn
 0.0.0.0 tvuser-ch.cedock.com
 0.0.0.0 tx-ad.a.yximgs.com
 0.0.0.0 tx-kmpaudio.pull.yximgs.com
 0.0.0.0 tz.sec.xiaomi.com
 0.0.0.0 uapi.ads.heytapmobi.com
-0.0.0.0 uapi.chiq-cloud.com
-0.0.0.0 ucstat.baidu.com
 0.0.0.0 ulog-sdk.gifshow.com
 0.0.0.0 ulogjs.gifshow.com
 0.0.0.0 ulogs.umeng.com

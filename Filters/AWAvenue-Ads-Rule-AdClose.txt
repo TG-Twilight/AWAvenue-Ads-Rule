@@ -1,6 +1,6 @@
 ! Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 ! 规则版本: 1.4.7
-! 更新时间: 2024-05-04
+! 更新时间: 2024-05-10
 ! 
 ! 项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 ! 
@@ -43,12 +43,9 @@ ad.zijieapi.com
 adapi.izuiyou.com
 adapi.yynetwk.com
 adashbc.ut.taobao.com
-adc.hpplay.cn
-adcdn.hpplay.cn
 adcdn.tencentmusic.com
 adclick.tencentmusic.com
 adcolony.com
-adeng.hpplay.cn
 adexpo.tencentmusic.com
 adfilter.imtt.qq.com
 adjust.cn
@@ -154,7 +151,6 @@ applog.zijieapi.com
 ata-sdk-uuid-report.dreport.meituan.net
 audid-api.taobao.com
 audid.umeng.com
-authenticate.chiq-cloud.com
 azr.footprintdns.com
 b1-data.ads.heytapmobi.com
 bdapi-ads.realmemobile.com
@@ -181,6 +177,7 @@ cdn.ad.xiaomi.com
 cdn.ynuf.aliapp.org
 cfg.imtt.qq.com
 chat1.jd.com
+chiq-cloud.com
 ck.ads.oppomobile.com
 clog.miguvideo.com
 cm.bilibili.com
@@ -238,7 +235,6 @@ gromore.pangolin-sdk-toutiao.com
 grs.dbankcloud.com
 grs.hicloud.com
 grs.platform.dbankcloud.ru
-gslb.hpplay.cn
 h-adashx.ut.taobao.com
 h.trace.qq.com
 henzanapp.com
@@ -246,6 +242,7 @@ hexagon-analytics.com
 hiboard-drcn.ai.dbankcloud.cn
 hm.baidu.com
 hmma.baidu.com
+hpplay.cn
 httpdns.bcelive.com
 httpdns.ocloud.oppomobile.com
 hugelog.fcbox.com
@@ -274,7 +271,6 @@ itv2-up.openspeech.cn
 ixav-cse.avlyun.com
 iyfbodn.com
 janapi.jd.com
-jfapi.chiq-cloud.com
 jiguang.cn
 jpush.cn
 jpush.html5.qq.com
@@ -329,6 +325,7 @@ m1.ad.10010.com
 mapi.m.jd.com
 masdkv6.3g.qq.com
 mazu.m.qq.com
+mcdn.bilivideo.cn
 metok.sys.miui.com
 metrics.apple.com
 metrics.data.hicloud.com
@@ -406,7 +403,6 @@ res3.hubcloud.com.cn
 review.gdtimg.com
 rms-drcn.platform.dbankcloud.cn
 roi.soulapp.cn
-rp.hpplay.cn
 rpt.gdt.qq.com
 rtb.voiceads.cn
 s1.qq.com
@@ -424,7 +420,6 @@ sdk.beizi.biz
 sdk.e.qq.com
 sdk.hzsanjiaomao.com
 sdk.mobads.adwangmai.com
-sdkauth.hpplay.cn
 sdkconf.avlyun.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
@@ -500,14 +495,11 @@ tracker.ai.xiaomi.com
 tracker.gitee.com
 tracking.miui.com
 tracking.rus.miui.com
-tvapp.hpplay.cn
 tvuser-ch.cedock.com
 tx-ad.a.yximgs.com
 tx-kmpaudio.pull.yximgs.com
 tz.sec.xiaomi.com
 uapi.ads.heytapmobi.com
-uapi.chiq-cloud.com
-ucstat.baidu.com
 ulog-sdk.gifshow.com
 ulogjs.gifshow.com
 ulogs.umeng.com
