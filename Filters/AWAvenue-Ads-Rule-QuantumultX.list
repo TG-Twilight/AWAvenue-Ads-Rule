@@ -68,6 +68,7 @@ DOMAIN,ads.oppomobile.com,reject
 DOMAIN,ads.service.kugou.com,reject
 DOMAIN,ads.service.kugou.com,reject
 DOMAIN,ads3-normal-hl.zijieapi.com,reject
+DOMAIN,ads3-normal-lf.zijieapi.com,reject
 DOMAIN,ads3-normal-lq.zijieapi.com,reject
 DOMAIN,ads3-normal.zijieapi.com,reject
 DOMAIN,ads5-normal-hl.zijieapi.com,reject

@@ -72,6 +72,7 @@
 127.0.0.1 ads.service.kugou.com
 127.0.0.1 ads.service.kugou.com
 127.0.0.1 ads3-normal-hl.zijieapi.com
+127.0.0.1 ads3-normal-lf.zijieapi.com
 127.0.0.1 ads3-normal-lq.zijieapi.com
 127.0.0.1 ads3-normal.zijieapi.com
 127.0.0.1 ads5-normal-hl.zijieapi.com

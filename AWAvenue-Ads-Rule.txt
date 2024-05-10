@@ -68,6 +68,7 @@
 ||ads.service.kugou.com^
 ||ads.service.kugou.com^
 ||ads3-normal-hl.zijieapi.com^
+||ads3-normal-lf.zijieapi.com^
 ||ads3-normal-lq.zijieapi.com^
 ||ads3-normal.zijieapi.com^
 ||ads5-normal-hl.zijieapi.com^

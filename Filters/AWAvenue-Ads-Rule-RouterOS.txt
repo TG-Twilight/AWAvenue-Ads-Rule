@@ -68,6 +68,7 @@ ip dns static add address=240.0.0.1 name=ads.oppomobile.com
 ip dns static add address=240.0.0.1 name=ads.service.kugou.com
 ip dns static add address=240.0.0.1 name=ads.service.kugou.com
 ip dns static add address=240.0.0.1 name=ads3-normal-hl.zijieapi.com
+ip dns static add address=240.0.0.1 name=ads3-normal-lf.zijieapi.com
 ip dns static add address=240.0.0.1 name=ads3-normal-lq.zijieapi.com
 ip dns static add address=240.0.0.1 name=ads3-normal.zijieapi.com
 ip dns static add address=240.0.0.1 name=ads5-normal-hl.zijieapi.com

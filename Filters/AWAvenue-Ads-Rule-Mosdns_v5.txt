@@ -68,6 +68,7 @@ domain:ads.oppomobile.com
 domain:ads.service.kugou.com
 domain:ads.service.kugou.com
 domain:ads3-normal-hl.zijieapi.com
+domain:ads3-normal-lf.zijieapi.com
 domain:ads3-normal-lq.zijieapi.com
 domain:ads3-normal.zijieapi.com
 domain:ads5-normal-hl.zijieapi.com

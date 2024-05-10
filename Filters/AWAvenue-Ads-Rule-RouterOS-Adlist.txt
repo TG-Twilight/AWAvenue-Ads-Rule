@@ -72,6 +72,7 @@
 0.0.0.0 ads.service.kugou.com
 0.0.0.0 ads.service.kugou.com
 0.0.0.0 ads3-normal-hl.zijieapi.com
+0.0.0.0 ads3-normal-lf.zijieapi.com
 0.0.0.0 ads3-normal-lq.zijieapi.com
 0.0.0.0 ads3-normal.zijieapi.com
 0.0.0.0 ads5-normal-hl.zijieapi.com
