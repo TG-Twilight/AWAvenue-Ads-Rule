@@ -246,3 +246,13 @@ t002.ottcn.com  |  smart-tv.cn
 做减法，去重#64 和修复#65，感谢 @vcdriy 和 @MkQtS 提供的[广告规则去重查询网站](https://adblockplus.org/zh_CN/redundancy_check)
 <br />
 <br />
+
+## 1.4.7：5月5日，2024年
+新增Mosdns V5规则，大改仓库README。
+<br />
+<br />
+
+## 1.4.8：5月10日，2024年
+新增bili pcdn上传拦截；更加彻底地拦截来自 CHANGHONG 的业务域名，添加了一个zijie的广告域名。
+<br />
+<br />
