@@ -1,15 +1,12 @@
 import json
 
-def format_domain(domain_file):
+def format_domain(List):
     domain = []
-    with open(domain_file, 'r') as file:
-        lines = file.readlines()
-    
-    for line in lines:
+    for line in List:
         domain_lines = f"domain:{line.strip()}"
         domain.append(domain_lines)
     return domain
 
 
-def build(domain_file, regex_file):
-    return format_domain(domain_file)
+def build(rule):
+    return format_domain(rule.domain_list), ".txt"

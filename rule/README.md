@@ -6,4 +6,6 @@ fork本分支，修改本目录的文件
 
 `domain.txt` 文件为域名列表 一行一个 不会匹配子域名
 
-`domain_regex.txt` 文件为`domain.txt`的正则表达式版本
+`domain_regex.txt` 文件为`domain.txt`的正则表达式版本(并不是所有插件都会调用此规则)
+
+`ip.txt` 文件为ip列表(并不是所有插件都会调用此规则)

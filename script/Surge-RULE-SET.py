@@ -1,4 +1,3 @@
-
 def format_domain(List):
     domain = []
     for line in List:
