@@ -1,6 +1,6 @@
-IP-CIDR,123.56.23.22,reject
-IP-CIDR,182.254.116.116,reject
-IP-CIDR,203.205.137.89,reject
+IP-CIDR,123.56.23.22/32,reject
+IP-CIDR,182.254.116.116/32,reject
+IP-CIDR,203.205.137.89/32,reject
 DOMAIN,1010pic.com,reject
 DOMAIN,8le8le.com,reject
 DOMAIN,a0.app.xiaomi.com,reject
