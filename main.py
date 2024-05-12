@@ -18,7 +18,7 @@ if not os.path.exists(OUT_PATH):
     sys.exit(1)
 
 class RuleList:
-    def __init__(self, domain_file, regex_file, ip_file):
+    def __init__(self, domain_file, regex_file, ip_file, ip6_file):
         with open(domain_file, 'r') as file:
             self.domain_list = file.readlines()
         with open(regex_file, 'r') as file:
