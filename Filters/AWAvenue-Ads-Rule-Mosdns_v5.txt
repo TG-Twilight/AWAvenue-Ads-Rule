@@ -161,7 +161,6 @@ domain:chat1.jd.com
 domain:chiq-cloud.com
 domain:ck.ads.oppomobile.com
 domain:clog.miguvideo.com
-domain:cm.bilibili.com
 domain:cnzz.com
 domain:collect.kugou.com
 domain:commdata.v.qq.com
