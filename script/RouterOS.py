@@ -8,4 +8,4 @@ def format_domain(List):
     return domain
 
 def build(rule):
-    return format_domain(rule.regex_list), ".txt"
+    return format_domain(rule.regex_list), ".txt", "#"

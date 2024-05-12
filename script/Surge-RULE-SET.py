@@ -20,4 +20,4 @@ def format_ip(List):
     return ip
 
 def build(rule):
-    return format_ip(rule.ip_list) + format_domain(rule.domain_list) + format_regex(rule.regex_list), ".list"
+    return format_ip(rule.ip_list) + format_domain(rule.domain_list) + format_regex(rule.regex_list), ".list", "#"

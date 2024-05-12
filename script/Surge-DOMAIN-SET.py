@@ -7,4 +7,4 @@ def format_domain(List):
 
 def build(rule):
     surge_list = format_domain(rule.domain_list)
-    return surge_list, ".list"
+    return surge_list, ".list", "#"

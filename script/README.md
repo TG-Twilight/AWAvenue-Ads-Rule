@@ -7,9 +7,9 @@
 `Adguard.py`:
 
 ```python
-["||xxx.com^","||xxx.cc^"], ".txt"
+["||xxx.com^","||xxx.cc^"], ".txt", "!"
 ```
-> **有两个返回值**
+> **有三个返回值**
 
 API:
 - rule.domain_list(获取域名列表)
@@ -23,6 +23,6 @@ API:
 # 主函数并且引入rule(对象)
 def build(rule):
     list = rule.domain_list + rule.regex_list + rule.ip_list
-    return list, ".yaml" # 返回处理后的列表和文件后缀名
+    return list, ".yaml", "#" # 返回处理后的列表和文件后缀名和文件注释符号
 ```
 > 输出文件名=插件名

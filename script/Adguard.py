@@ -15,4 +15,4 @@ def format_regex(List):
 
 def build(rule):
     Adguard_list = format_domain(rule.domain_list) + format_regex(rule.regex_list)
-    return Adguard_list, ".txt"
+    return Adguard_list, ".txt", "!"
