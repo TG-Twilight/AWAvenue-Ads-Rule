@@ -20,6 +20,7 @@ jobs:
         
     - name: Execute Python script
       run: |
+        git clone "https://${{ github.actor }}:${{ secrets.TOKEN }}@github.com/${{ github.repository }}" push && cd push
         mkdir out
         python main.py
         cd out
@@ -37,8 +38,7 @@ jobs:
 
     - name: Git push
       run: |
-        git clone "https://${{ github.actor }}:${{ secrets.TOKEN }}@github.com/${{ github.repository }}" push
-        cp -Rf out/* push/
+        cp -Rf push/out/* push/
         cd push
         files=$(find . -name '*AWAvenue*')
         echo $files
