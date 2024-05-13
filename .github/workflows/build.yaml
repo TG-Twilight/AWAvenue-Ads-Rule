@@ -20,7 +20,8 @@ jobs:
         
     - name: Execute Python script
       run: |
-        git clone "https://${{ github.actor }}:${{ secrets.TOKEN }}@github.com/${{ github.repository }}" push && cd push
+        git clone "https://${{ github.actor }}:${{ secrets.TOKEN }}@github.com/${{ github.repository }}" push
+        cd push
         mkdir out
         python main.py
         cd out
