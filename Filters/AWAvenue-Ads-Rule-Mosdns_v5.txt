@@ -54,6 +54,9 @@ domain:ads-api-o.api.leiniao.com
 domain:ads-api.tiktok.com
 domain:ads-api.twitter.com
 domain:ads-img-qc.xhscdn.com
+domain:ads-jp.tiktok.com
+domain:ads-sg.tiktok.com
+domain:ads-us.tiktok.com
 domain:ads-video-al.xhscdn.com
 domain:ads-video-qc.xhscdn.com
 domain:ads.95516.com
@@ -64,6 +67,7 @@ domain:ads.huantest.com
 domain:ads.icloseli.cn
 domain:ads.music.126.net
 domain:ads.oppomobile.com
+domain:ads.pinterest.com
 domain:ads.service.kugou.com
 domain:ads.service.kugou.com
 domain:ads3-normal-hl.zijieapi.com
@@ -120,6 +124,7 @@ domain:analytics.126.net
 domain:analytics.95516.com
 domain:analytics.google.com
 domain:analytics.pinterest.com
+domain:analytics.query.yahoo.com
 domain:analytics.rayjump.com
 domain:analytics.tiktok.com
 domain:analytics.woozooo.com
@@ -224,6 +229,7 @@ domain:g2.ganjing.world
 domain:game.loveota.com
 domain:gdfp.gifshow.com
 domain:gemini.yahoo.com
+domain:geo.yahoo.com
 domain:globalapi.ad.xiaomi.com
 domain:google-analytics.com
 domain:googleadservices-cn.com
@@ -303,6 +309,7 @@ domain:log.avlyun.sec.intl.miui.com
 domain:log.byteoversea.com
 domain:log.fc.yahoo.com
 domain:log.kuwo.cn
+domain:log.pinterest.com
 domain:log.snssdk.com
 domain:log.stat.kugou.com
 domain:log.stat.kugou.com
@@ -331,6 +338,7 @@ domain:metrics.data.hicloud.com
 domain:metrics.icloud.com
 domain:metrics.mzstatic.com
 domain:metrics2.data.hicloud.com
+domain:metrika.yandex.ru
 domain:mi.gdt.qq.com
 domain:miav-cse.avlyun.com
 domain:mime.baidu.com
@@ -499,6 +507,8 @@ domain:tx-ad.a.yximgs.com
 domain:tx-kmpaudio.pull.yximgs.com
 domain:tz.sec.xiaomi.com
 domain:uapi.ads.heytapmobi.com
+domain:udc.yahoo.com
+domain:udcm.yahoo.com
 domain:ulog-sdk.gifshow.com
 domain:ulogjs.gifshow.com
 domain:ulogs.umeng.com
@@ -550,6 +560,7 @@ domain:w1.zskwai.com
 domain:weather-analytics-events.apple.com
 domain:weather-community-drcn.weather.dbankcloud.cn
 domain:webstat.qiumibao.com
+domain:widgets.pinterest.com
 domain:win.gdt.qq.com
 domain:wn.x.jd.com
 domain:ws-keyboard.shouji.sogou.com

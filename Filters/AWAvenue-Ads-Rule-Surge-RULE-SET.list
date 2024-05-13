@@ -57,6 +57,9 @@ DOMAIN,ads-api-o.api.leiniao.com,reject
 DOMAIN,ads-api.tiktok.com,reject
 DOMAIN,ads-api.twitter.com,reject
 DOMAIN,ads-img-qc.xhscdn.com,reject
+DOMAIN,ads-jp.tiktok.com,reject
+DOMAIN,ads-sg.tiktok.com,reject
+DOMAIN,ads-us.tiktok.com,reject
 DOMAIN,ads-video-al.xhscdn.com,reject
 DOMAIN,ads-video-qc.xhscdn.com,reject
 DOMAIN,ads.95516.com,reject
@@ -67,6 +70,7 @@ DOMAIN,ads.huantest.com,reject
 DOMAIN,ads.icloseli.cn,reject
 DOMAIN,ads.music.126.net,reject
 DOMAIN,ads.oppomobile.com,reject
+DOMAIN,ads.pinterest.com,reject
 DOMAIN,ads.service.kugou.com,reject
 DOMAIN,ads.service.kugou.com,reject
 DOMAIN,ads3-normal-hl.zijieapi.com,reject
@@ -123,6 +127,7 @@ DOMAIN,analytics.126.net,reject
 DOMAIN,analytics.95516.com,reject
 DOMAIN,analytics.google.com,reject
 DOMAIN,analytics.pinterest.com,reject
+DOMAIN,analytics.query.yahoo.com,reject
 DOMAIN,analytics.rayjump.com,reject
 DOMAIN,analytics.tiktok.com,reject
 DOMAIN,analytics.woozooo.com,reject
@@ -227,6 +232,7 @@ DOMAIN,g2.ganjing.world,reject
 DOMAIN,game.loveota.com,reject
 DOMAIN,gdfp.gifshow.com,reject
 DOMAIN,gemini.yahoo.com,reject
+DOMAIN,geo.yahoo.com,reject
 DOMAIN,globalapi.ad.xiaomi.com,reject
 DOMAIN,google-analytics.com,reject
 DOMAIN,googleadservices-cn.com,reject
@@ -306,6 +312,7 @@ DOMAIN,log.avlyun.sec.intl.miui.com,reject
 DOMAIN,log.byteoversea.com,reject
 DOMAIN,log.fc.yahoo.com,reject
 DOMAIN,log.kuwo.cn,reject
+DOMAIN,log.pinterest.com,reject
 DOMAIN,log.snssdk.com,reject
 DOMAIN,log.stat.kugou.com,reject
 DOMAIN,log.stat.kugou.com,reject
@@ -334,6 +341,7 @@ DOMAIN,metrics.data.hicloud.com,reject
 DOMAIN,metrics.icloud.com,reject
 DOMAIN,metrics.mzstatic.com,reject
 DOMAIN,metrics2.data.hicloud.com,reject
+DOMAIN,metrika.yandex.ru,reject
 DOMAIN,mi.gdt.qq.com,reject
 DOMAIN,miav-cse.avlyun.com,reject
 DOMAIN,mime.baidu.com,reject
@@ -502,6 +510,8 @@ DOMAIN,tx-ad.a.yximgs.com,reject
 DOMAIN,tx-kmpaudio.pull.yximgs.com,reject
 DOMAIN,tz.sec.xiaomi.com,reject
 DOMAIN,uapi.ads.heytapmobi.com,reject
+DOMAIN,udc.yahoo.com,reject
+DOMAIN,udcm.yahoo.com,reject
 DOMAIN,ulog-sdk.gifshow.com,reject
 DOMAIN,ulogjs.gifshow.com,reject
 DOMAIN,ulogs.umeng.com,reject
@@ -553,6 +563,7 @@ DOMAIN,w1.zskwai.com,reject
 DOMAIN,weather-analytics-events.apple.com,reject
 DOMAIN,weather-community-drcn.weather.dbankcloud.cn,reject
 DOMAIN,webstat.qiumibao.com,reject
+DOMAIN,widgets.pinterest.com,reject
 DOMAIN,win.gdt.qq.com,reject
 DOMAIN,wn.x.jd.com,reject
 DOMAIN,ws-keyboard.shouji.sogou.com,reject

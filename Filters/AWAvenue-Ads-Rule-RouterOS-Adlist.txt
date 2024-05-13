@@ -58,6 +58,9 @@
 0.0.0.0 ads-api.tiktok.com
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 ads-img-qc.xhscdn.com
+0.0.0.0 ads-jp.tiktok.com
+0.0.0.0 ads-sg.tiktok.com
+0.0.0.0 ads-us.tiktok.com
 0.0.0.0 ads-video-al.xhscdn.com
 0.0.0.0 ads-video-qc.xhscdn.com
 0.0.0.0 ads.95516.com
@@ -68,6 +71,7 @@
 0.0.0.0 ads.icloseli.cn
 0.0.0.0 ads.music.126.net
 0.0.0.0 ads.oppomobile.com
+0.0.0.0 ads.pinterest.com
 0.0.0.0 ads.service.kugou.com
 0.0.0.0 ads.service.kugou.com
 0.0.0.0 ads3-normal-hl.zijieapi.com
@@ -124,6 +128,7 @@
 0.0.0.0 analytics.95516.com
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.pinterest.com
+0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 analytics.rayjump.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.woozooo.com
@@ -228,6 +233,7 @@
 0.0.0.0 game.loveota.com
 0.0.0.0 gdfp.gifshow.com
 0.0.0.0 gemini.yahoo.com
+0.0.0.0 geo.yahoo.com
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 google-analytics.com
 0.0.0.0 googleadservices-cn.com
@@ -307,6 +313,7 @@
 0.0.0.0 log.byteoversea.com
 0.0.0.0 log.fc.yahoo.com
 0.0.0.0 log.kuwo.cn
+0.0.0.0 log.pinterest.com
 0.0.0.0 log.snssdk.com
 0.0.0.0 log.stat.kugou.com
 0.0.0.0 log.stat.kugou.com
@@ -335,6 +342,7 @@
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.mzstatic.com
 0.0.0.0 metrics2.data.hicloud.com
+0.0.0.0 metrika.yandex.ru
 0.0.0.0 mi.gdt.qq.com
 0.0.0.0 miav-cse.avlyun.com
 0.0.0.0 mime.baidu.com
@@ -503,6 +511,8 @@
 0.0.0.0 tx-kmpaudio.pull.yximgs.com
 0.0.0.0 tz.sec.xiaomi.com
 0.0.0.0 uapi.ads.heytapmobi.com
+0.0.0.0 udc.yahoo.com
+0.0.0.0 udcm.yahoo.com
 0.0.0.0 ulog-sdk.gifshow.com
 0.0.0.0 ulogjs.gifshow.com
 0.0.0.0 ulogs.umeng.com
@@ -554,6 +564,7 @@
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 weather-community-drcn.weather.dbankcloud.cn
 0.0.0.0 webstat.qiumibao.com
+0.0.0.0 widgets.pinterest.com
 0.0.0.0 win.gdt.qq.com
 0.0.0.0 wn.x.jd.com
 0.0.0.0 ws-keyboard.shouji.sogou.com
