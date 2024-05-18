@@ -312,7 +312,6 @@ m1.ad.10010.com
 mapi.m.jd.com
 masdkv6.3g.qq.com
 mazu.m.qq.com
-mcdn.bilivideo.cn
 metok.sys.miui.com
 metrics.apple.com
 metrics.data.hicloud.com
