@@ -1,7 +1,7 @@
 #Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 
 #版本号: 1.4.8-release
-#上次更新日期: 2024-05-13
+#上次更新日期: 2024-05-18
 
 #项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 
@@ -334,7 +334,6 @@ DOMAIN,m1.ad.10010.com,reject
 DOMAIN,mapi.m.jd.com,reject
 DOMAIN,masdkv6.3g.qq.com,reject
 DOMAIN,mazu.m.qq.com,reject
-DOMAIN,mcdn.bilivideo.cn,reject
 DOMAIN,metok.sys.miui.com,reject
 DOMAIN,metrics.apple.com,reject
 DOMAIN,metrics.data.hicloud.com,reject
