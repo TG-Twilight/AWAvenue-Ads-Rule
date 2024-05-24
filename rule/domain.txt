@@ -268,7 +268,6 @@ knicks.jd.com
 ks.pull.yximgs.com
 launcher.smart-tv.cn
 launcherimg.smart-tv.cn
-lf1-cdn-tos.bytegoofy.com
 lf3-ad-union-sdk.pglstatp-toutiao.com
 liveats-vod.video.ptqy.gitv.tv
 livemonitor.huan.tv
