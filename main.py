@@ -25,13 +25,18 @@ if not os.path.exists(OUT_PATH):
 class RuleList:
     def __init__(self, domain_file, regex_file, ip_file, ip6_file):
         with open(domain_file, 'r') as file:
-            self.domain_list = file.readlines()
+            lines = file.read().splitlines()
+            self.domain_list = sorted(set(lines))
         with open(regex_file, 'r') as file:
-            self.regex_list = file.readlines()
+            lines = file.read().splitlines()
+            self.regex_list = sorted(set(lines))
         with open(ip_file, 'r') as file:
-            self.ip_list = file.readlines()
+            lines = file.read().splitlines()
+            self.ip_list = sorted(set(lines))
         with open(ip6_file, 'r') as file:
-            self.ip6_list = file.readlines()
+            lines = file.read().splitlines()
+            self.ip6_list = sorted(set(lines))
+
 
 rule = RuleList(domain_file, regex_file, ip_file, ip6_file)
 
