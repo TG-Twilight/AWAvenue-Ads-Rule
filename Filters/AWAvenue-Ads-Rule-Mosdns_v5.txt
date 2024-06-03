@@ -69,7 +69,6 @@ domain:ads.music.126.net
 domain:ads.oppomobile.com
 domain:ads.pinterest.com
 domain:ads.service.kugou.com
-domain:ads.service.kugou.com
 domain:ads3-normal-hl.zijieapi.com
 domain:ads3-normal-lf.zijieapi.com
 domain:ads3-normal-lq.zijieapi.com
@@ -82,7 +81,6 @@ domain:adsense.google.cn
 domain:adservice.google.cn
 domain:adservice.google.com
 domain:adserviceretry.kugou.com
-domain:adsfile.bssdlbig.kugou.com
 domain:adsfile.bssdlbig.kugou.com
 domain:adsfilebssdlbig.ali.kugou.com
 domain:adsfileretry.service.kugou.com
@@ -224,7 +222,6 @@ domain:events-drcn.op.dbankcloud.cn
 domain:firebaselogging-pa.googleapis.com
 domain:flurry.com
 domain:g-staic.ganjingworld.com
-domain:g-staic.ganjingworld.com
 domain:g2.ganjing.world
 domain:game.loveota.com
 domain:gdfp.gifshow.com
@@ -311,11 +308,9 @@ domain:log.kuwo.cn
 domain:log.pinterest.com
 domain:log.snssdk.com
 domain:log.stat.kugou.com
-domain:log.stat.kugou.com
 domain:log.tagtic.cn
 domain:log.tbs.qq.com
 domain:log.vcgame.cn
-domain:log.web.kugou.com
 domain:log.web.kugou.com
 domain:log.zijieapi.com
 domain:log1.cmpassport.com
@@ -575,13 +570,3 @@ domain:xlviiirdr.com
 domain:xlviirdr.com
 domain:youxi.kugou.com
 domain:zeus.ad.xiaomi.com
-domain:adservice.google.com
-domain:adtago.s3.amazonaws.com
-domain:advice-ads.s3.amazonaws.com
-domain:static.ads-twitter.com
-domain:ads-api.twitter.com
-domain:sdkconfig.ad.intl.xiaomi.com
-domain:adx.ads.oppomobile.com
-domain:ck.ads.oppomobile.com
-domain:data.ads.oppomobile.com
-domain:adsfs.oppomobile.com

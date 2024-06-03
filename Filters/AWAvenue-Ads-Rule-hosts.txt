@@ -73,7 +73,6 @@
 127.0.0.1 ads.oppomobile.com
 127.0.0.1 ads.pinterest.com
 127.0.0.1 ads.service.kugou.com
-127.0.0.1 ads.service.kugou.com
 127.0.0.1 ads3-normal-hl.zijieapi.com
 127.0.0.1 ads3-normal-lf.zijieapi.com
 127.0.0.1 ads3-normal-lq.zijieapi.com
@@ -86,7 +85,6 @@
 127.0.0.1 adservice.google.cn
 127.0.0.1 adservice.google.com
 127.0.0.1 adserviceretry.kugou.com
-127.0.0.1 adsfile.bssdlbig.kugou.com
 127.0.0.1 adsfile.bssdlbig.kugou.com
 127.0.0.1 adsfilebssdlbig.ali.kugou.com
 127.0.0.1 adsfileretry.service.kugou.com
@@ -228,7 +226,6 @@
 127.0.0.1 firebaselogging-pa.googleapis.com
 127.0.0.1 flurry.com
 127.0.0.1 g-staic.ganjingworld.com
-127.0.0.1 g-staic.ganjingworld.com
 127.0.0.1 g2.ganjing.world
 127.0.0.1 game.loveota.com
 127.0.0.1 gdfp.gifshow.com
@@ -315,11 +312,9 @@
 127.0.0.1 log.pinterest.com
 127.0.0.1 log.snssdk.com
 127.0.0.1 log.stat.kugou.com
-127.0.0.1 log.stat.kugou.com
 127.0.0.1 log.tagtic.cn
 127.0.0.1 log.tbs.qq.com
 127.0.0.1 log.vcgame.cn
-127.0.0.1 log.web.kugou.com
 127.0.0.1 log.web.kugou.com
 127.0.0.1 log.zijieapi.com
 127.0.0.1 log1.cmpassport.com
@@ -579,13 +574,3 @@
 127.0.0.1 xlviirdr.com
 127.0.0.1 youxi.kugou.com
 127.0.0.1 zeus.ad.xiaomi.com
-127.0.0.1 adservice.google.com
-127.0.0.1 adtago.s3.amazonaws.com
-127.0.0.1 advice-ads.s3.amazonaws.com
-127.0.0.1 static.ads-twitter.com
-127.0.0.1 ads-api.twitter.com
-127.0.0.1 sdkconfig.ad.intl.xiaomi.com
-127.0.0.1 adx.ads.oppomobile.com
-127.0.0.1 ck.ads.oppomobile.com
-127.0.0.1 data.ads.oppomobile.com
-127.0.0.1 adsfs.oppomobile.com

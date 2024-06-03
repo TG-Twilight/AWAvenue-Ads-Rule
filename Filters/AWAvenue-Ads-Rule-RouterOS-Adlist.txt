@@ -73,7 +73,6 @@
 0.0.0.0 ads.oppomobile.com
 0.0.0.0 ads.pinterest.com
 0.0.0.0 ads.service.kugou.com
-0.0.0.0 ads.service.kugou.com
 0.0.0.0 ads3-normal-hl.zijieapi.com
 0.0.0.0 ads3-normal-lf.zijieapi.com
 0.0.0.0 ads3-normal-lq.zijieapi.com
@@ -86,7 +85,6 @@
 0.0.0.0 adservice.google.cn
 0.0.0.0 adservice.google.com
 0.0.0.0 adserviceretry.kugou.com
-0.0.0.0 adsfile.bssdlbig.kugou.com
 0.0.0.0 adsfile.bssdlbig.kugou.com
 0.0.0.0 adsfilebssdlbig.ali.kugou.com
 0.0.0.0 adsfileretry.service.kugou.com
@@ -228,7 +226,6 @@
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 flurry.com
 0.0.0.0 g-staic.ganjingworld.com
-0.0.0.0 g-staic.ganjingworld.com
 0.0.0.0 g2.ganjing.world
 0.0.0.0 game.loveota.com
 0.0.0.0 gdfp.gifshow.com
@@ -315,11 +312,9 @@
 0.0.0.0 log.pinterest.com
 0.0.0.0 log.snssdk.com
 0.0.0.0 log.stat.kugou.com
-0.0.0.0 log.stat.kugou.com
 0.0.0.0 log.tagtic.cn
 0.0.0.0 log.tbs.qq.com
 0.0.0.0 log.vcgame.cn
-0.0.0.0 log.web.kugou.com
 0.0.0.0 log.web.kugou.com
 0.0.0.0 log.zijieapi.com
 0.0.0.0 log1.cmpassport.com
@@ -579,13 +574,3 @@
 0.0.0.0 xlviirdr.com
 0.0.0.0 youxi.kugou.com
 0.0.0.0 zeus.ad.xiaomi.com
-0.0.0.0 adservice.google.com
-0.0.0.0 adtago.s3.amazonaws.com
-0.0.0.0 advice-ads.s3.amazonaws.com
-0.0.0.0 static.ads-twitter.com
-0.0.0.0 ads-api.twitter.com
-0.0.0.0 sdkconfig.ad.intl.xiaomi.com
-0.0.0.0 adx.ads.oppomobile.com
-0.0.0.0 ck.ads.oppomobile.com
-0.0.0.0 data.ads.oppomobile.com
-0.0.0.0 adsfs.oppomobile.com
