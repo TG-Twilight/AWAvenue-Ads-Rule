@@ -1,7 +1,7 @@
 #Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 
 #版本号: 1.4.8-release
-#上次更新日期: 2024-05-27
+#上次更新日期: 2024-06-03
 
 #项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 
@@ -575,3 +575,10 @@ domain:xlviiirdr.com
 domain:xlviirdr.com
 domain:youxi.kugou.com
 domain:zeus.ad.xiaomi.com
+domain:adservice.google.com
+domain:adtago.s3.amazonaws.com
+domain:advice-ads.s3.amazonaws.com
+domain:static.ads-twitter.com
+domain:ads-api.twitter.com
+domain:sdkconfig.ad.intl.xiaomi.com
+domain:
