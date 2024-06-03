@@ -556,3 +556,10 @@ xlviiirdr.com
 xlviirdr.com
 youxi.kugou.com
 zeus.ad.xiaomi.com
+adservice.google.com
+adtago.s3.amazonaws.com
+advice-ads.s3.amazonaws.com
+static.ads-twitter.com
+ads-api.twitter.com
+sdkconfig.ad.intl.xiaomi.com
+
