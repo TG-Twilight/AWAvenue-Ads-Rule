@@ -584,7 +584,10 @@ DOMAIN,advice-ads.s3.amazonaws.com,reject
 DOMAIN,static.ads-twitter.com,reject
 DOMAIN,ads-api.twitter.com,reject
 DOMAIN,sdkconfig.ad.intl.xiaomi.com,reject
-DOMAIN,,reject
+DOMAIN,adx.ads.oppomobile.com,reject
+DOMAIN,ck.ads.oppomobile.com,reject
+DOMAIN,data.ads.oppomobile.com,reject
+DOMAIN,adsfs.oppomobile.com,reject
 DOMAIN-KEYWORD,-ad-.byteimg.com,reject
 DOMAIN-KEYWORD,-ad-sign.byteimg.com,reject
 DOMAIN-KEYWORD,-ad.sm.cn,reject

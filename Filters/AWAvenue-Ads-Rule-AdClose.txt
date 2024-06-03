@@ -581,7 +581,10 @@ advice-ads.s3.amazonaws.com
 static.ads-twitter.com
 ads-api.twitter.com
 sdkconfig.ad.intl.xiaomi.com
-
+adx.ads.oppomobile.com
+ck.ads.oppomobile.com
+data.ads.oppomobile.com
+adsfs.oppomobile.com
 *-ad-*.byteimg.com
 *-ad-sign.byteimg.com
 *-ad.sm.cn

@@ -585,4 +585,7 @@
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
-0.0.0.0 
+0.0.0.0 adx.ads.oppomobile.com
+0.0.0.0 ck.ads.oppomobile.com
+0.0.0.0 data.ads.oppomobile.com
+0.0.0.0 adsfs.oppomobile.com

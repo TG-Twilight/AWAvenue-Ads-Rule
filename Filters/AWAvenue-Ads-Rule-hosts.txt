@@ -585,4 +585,7 @@
 127.0.0.1 static.ads-twitter.com
 127.0.0.1 ads-api.twitter.com
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
-127.0.0.1 
+127.0.0.1 adx.ads.oppomobile.com
+127.0.0.1 ck.ads.oppomobile.com
+127.0.0.1 data.ads.oppomobile.com
+127.0.0.1 adsfs.oppomobile.com

@@ -581,4 +581,7 @@ domain:advice-ads.s3.amazonaws.com
 domain:static.ads-twitter.com
 domain:ads-api.twitter.com
 domain:sdkconfig.ad.intl.xiaomi.com
-domain:
+domain:adx.ads.oppomobile.com
+domain:ck.ads.oppomobile.com
+domain:data.ads.oppomobile.com
+domain:adsfs.oppomobile.com
