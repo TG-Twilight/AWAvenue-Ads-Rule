@@ -1,7 +1,7 @@
 #Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 
 #版本号: 1.4.8-release
-#上次更新日期: 2024-06-03
+#上次更新日期: 2024-06-16
 
 #项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 
@@ -18,9 +18,6 @@
 
 
 payload:
-  - '123.56.23.22/32'
-  - '182.254.116.116/32'
-  - '203.205.137.89/32'
   - '1010pic.com'
   - '8le8le.com'
   - 'a0.app.xiaomi.com'
