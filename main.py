@@ -43,7 +43,7 @@ rule = RuleList(domain_file, regex_file, ip_file, ip6_file)
 def WriteFile(name, text, suffix, comment):
     try:
         with open(OUT_PATH + "/AWAvenue-Ads-Rule-" + name + suffix, 'w', encoding="utf-8") as file:
-            file.write(f"{comment}Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）\n\n{comment}版本号: {tag}\n{comment}上次更新日期: {format_time}\n\n{comment}项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule\n\n{comment}如果需要在其它规则中混合此规则，请在您的规则显眼处注明本规则的出处，谢谢！\n{comment}加入Telegram群组 秋風がく山道 (@AWAvenueAdsChat) 与编写者交流，期待着您的到来！\n{comment}群组链接：https://t.me/AWAvenueAdsChat\n{comment}订阅Telegram频道 AWAvenue Ads Rule (@AWAvenueAdsRule) 获取最新公告，期待着您的订阅！\n{comment}频道链接：https://t.me/AWAvenueAdsRule\n\n{comment}This project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.\n\n{comment}AD:\n{comment}倾城极速 - 畅游世界，高速互联！官网：https://wcnmdmht.lol/sb 官网2：https://panel.qc02.xyz\n\n\n")
+            file.write(f"{comment}Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）\n\n{comment}版本号: 1.4.9-release\n{comment}上次更新日期: {format_time}\n\n{comment}项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule\n\n{comment}如果需要在其它规则中混合此规则，请在您的规则显眼处注明本规则的出处，谢谢！\n{comment}加入Telegram群组 秋風がく山道 (@AWAvenueAdsChat) 与编写者交流，期待着您的到来！\n{comment}群组链接：https://t.me/AWAvenueAdsChat\n{comment}订阅Telegram频道 AWAvenue Ads Rule (@AWAvenueAdsRule) 获取最新公告，期待着您的订阅！\n{comment}频道链接：https://t.me/AWAvenueAdsRule\n\n{comment}This project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.\n\n{comment}AD:\n{comment}倾城极速 - 畅游世界，高速互联！官网：https://wcnmdmht.lol/sb 官网2：https://panel.qc02.xyz\n\n\n")
             for line in text:
                 file.write(line + "\n")
     except Exception as e:
