@@ -256,3 +256,9 @@ t002.ottcn.com  |  smart-tv.cn
 新增bili pcdn上传拦截；更加彻底地拦截来自 CHANGHONG 的业务域名，添加了一个zijie的广告域名。
 <br />
 <br />
+
+## 1.4.9：6月22日，2024年
+新增 youku、CNTV、Funshion、migu、MG 等一众视频网站的广告过滤；加强了对于Txxxxxt Videos的广告拦截。
+仓库脚本第二次重构，针对IP和个别工具进行了优化。
+<br />
+<br />
