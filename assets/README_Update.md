@@ -259,6 +259,7 @@ t002.ottcn.com  |  smart-tv.cn
 
 ## 1.4.9：6月22日，2024年
 新增 youku、CNTV、Funshion、migu、MG 等一众视频网站的广告过滤；加强了对于Txxxxxt Videos的广告拦截。
+<br />
 仓库脚本第二次重构，针对IP和个别工具进行了优化。
 <br />
 <br />
