@@ -1,7 +1,7 @@
 #Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 
 #版本号: 1.4.8-release
-#上次更新日期: 2024-06-16
+#上次更新日期: 2024-06-22
 
 #项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 
@@ -24,12 +24,15 @@ DOMAIN,1010pic.com,reject
 DOMAIN,8le8le.com,reject
 DOMAIN,a0.app.xiaomi.com,reject
 DOMAIN,aaid.umeng.com,reject
+DOMAIN,ad-cache.dopool.com,reject
+DOMAIN,ad-cdn.qingting.fm,reject
 DOMAIN,ad-scope.com,reject
 DOMAIN,ad-scope.com.cn,reject
 DOMAIN,ad-sdk.huxiu.com,reject
 DOMAIN,ad.12306.cn,reject
 DOMAIN,ad.51wnl.com,reject
 DOMAIN,ad.bwton.com,reject
+DOMAIN,ad.cctv.com,reject
 DOMAIN,ad.cyapi.cn,reject
 DOMAIN,ad.partner.gifshow.com,reject
 DOMAIN,ad.qingting.fm,reject
@@ -50,9 +53,11 @@ DOMAIN,adclick.tencentmusic.com,reject
 DOMAIN,adcolony.com,reject
 DOMAIN,adexpo.tencentmusic.com,reject
 DOMAIN,adfilter.imtt.qq.com,reject
+DOMAIN,adguanggao.eee114.com,reject
 DOMAIN,adjust.cn,reject
 DOMAIN,adkwai.com,reject
 DOMAIN,adlink-api.huan.tv,reject
+DOMAIN,adm.funshion.com,reject
 DOMAIN,ads-api-o.api.leiniao.com,reject
 DOMAIN,ads-api.tiktok.com,reject
 DOMAIN,ads-api.twitter.com,reject
@@ -94,10 +99,13 @@ DOMAIN,adsmind.gdtimg.com,reject
 DOMAIN,adsmind.ugdtimg.com,reject
 DOMAIN,adsp.xunlei.com,reject
 DOMAIN,adstats.tencentmusic.com,reject
+DOMAIN,adstore-1252524079.file.myqcloud.com,reject
+DOMAIN,adstore-index-1252524079.file.myqcloud.com,reject
 DOMAIN,adtago.s3.amazonaws.com,reject
 DOMAIN,adtech.yahooinc.com,reject
 DOMAIN,adtrack.quark.cn,reject
 DOMAIN,adukwai.com,reject
+DOMAIN,adv.fjtv.net,reject
 DOMAIN,adv.sec.intl.miui.com,reject
 DOMAIN,adv.sec.miui.com,reject
 DOMAIN,advertiseonbing.azureedge.net,reject
@@ -110,11 +118,14 @@ DOMAIN,adview.cn,reject
 DOMAIN,adx-ad.smart-tv.cn,reject
 DOMAIN,adx-cn.anythinktech.com,reject
 DOMAIN,adx-drcn.op.dbankcloud.cn,reject
+DOMAIN,adx-open-service.youku.com,reject
 DOMAIN,adx.ads.heytapmobi.com,reject
 DOMAIN,adx.ads.oppomobile.com,reject
 DOMAIN,adxlog-adnet.vivo.com.cn,reject
 DOMAIN,adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn,reject
+DOMAIN,adxserver.ad.cmvideo.cn,reject
 DOMAIN,afs.googlesyndication.com,reject
+DOMAIN,aiseet.aa.atianqi.com,reject
 DOMAIN,ali-ad.a.yximgs.com,reject
 DOMAIN,alog.umeng.com,reject
 DOMAIN,amdcopen.m.taobao.com,reject
@@ -130,6 +141,7 @@ DOMAIN,analytics.rayjump.com,reject
 DOMAIN,analytics.tiktok.com,reject
 DOMAIN,analytics.woozooo.com,reject
 DOMAIN,analyze.lemurbrowser.com,reject
+DOMAIN,andrqd.play.aiseet.atianqi.com,reject
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net,reject
 DOMAIN,api-access.pangolin-sdk-toutiao.com,reject
 DOMAIN,api-access.pangolin-sdk-toutiao1.com,reject
@@ -178,6 +190,7 @@ DOMAIN,c.sayhi.360.cn,reject
 DOMAIN,c2.gdt.qq.com,reject
 DOMAIN,catalog.fjwhcbsh.com,reject
 DOMAIN,ccs.umeng.com,reject
+DOMAIN,cctv.adsunion.com,reject
 DOMAIN,cdn-ads.oss-cn-shanghai.aliyuncs.com,reject
 DOMAIN,cdn.ad.xiaomi.com,reject
 DOMAIN,cdn.ynuf.aliapp.org,reject
@@ -193,6 +206,7 @@ DOMAIN,config.chsmarttv.com,reject
 DOMAIN,crashlytics.com,reject
 DOMAIN,crashlyticsreports-pa.googleapis.com,reject
 DOMAIN,csjplatform.com,reject
+DOMAIN,cws-cctv.conviva.com,reject
 DOMAIN,data.ads.oppomobile.com,reject
 DOMAIN,data.chsmarttv.com,reject
 DOMAIN,data.mistat.india.xiaomi.com,reject
@@ -230,6 +244,9 @@ DOMAIN,game.loveota.com,reject
 DOMAIN,gdfp.gifshow.com,reject
 DOMAIN,gemini.yahoo.com,reject
 DOMAIN,geo.yahoo.com,reject
+DOMAIN,ggx.cmvideo.cn,reject
+DOMAIN,ggx01.miguvideo.com,reject
+DOMAIN,ggx03.miguvideo.com,reject
 DOMAIN,globalapi.ad.xiaomi.com,reject
 DOMAIN,google-analytics.com,reject
 DOMAIN,googleadservices-cn.com,reject
@@ -251,6 +268,7 @@ DOMAIN,hpplay.cn,reject
 DOMAIN,httpdns.bcelive.com,reject
 DOMAIN,httpdns.ocloud.oppomobile.com,reject
 DOMAIN,hugelog.fcbox.com,reject
+DOMAIN,huichuan.sm.cn,reject
 DOMAIN,hw-ot-ad.a.yximgs.com,reject
 DOMAIN,hw.zuimeitianqi.com,reject
 DOMAIN,hwpub-s01-drcn.cloud.dbankcloud.cn,reject
@@ -262,6 +280,7 @@ DOMAIN,iad.apple.com,reject
 DOMAIN,iadctest.qwapi.com,reject
 DOMAIN,iadsdk.apple.com,reject
 DOMAIN,iadworkbench.apple.com,reject
+DOMAIN,ifacelog.iqiyi.com,reject
 DOMAIN,ifs.tanx.com,reject
 DOMAIN,image-ad.sm.cn,reject
 DOMAIN,imageplus.baidu.com,reject
@@ -290,6 +309,9 @@ DOMAIN,launcherimg.smart-tv.cn,reject
 DOMAIN,lf3-ad-union-sdk.pglstatp-toutiao.com,reject
 DOMAIN,liveats-vod.video.ptqy.gitv.tv,reject
 DOMAIN,livemonitor.huan.tv,reject
+DOMAIN,livep.l.aiseet.atianqi.com,reject
+DOMAIN,lives.l.aiseet.atianqi.com,reject
+DOMAIN,lives.l.ott.video.qq.com,reject
 DOMAIN,lm10111.jtrincc.cn,reject
 DOMAIN,log-api-mn.huxiu.com,reject
 DOMAIN,log-api.huxiu.com,reject
@@ -323,11 +345,13 @@ DOMAIN,logservice.hicloud.com,reject
 DOMAIN,logservice1.hicloud.com,reject
 DOMAIN,logtj.kugou.com,reject
 DOMAIN,logupdate.avlyun.sec.miui.com,reject
+DOMAIN,m.atm.youku.com,reject
 DOMAIN,m.kubiqq.com,reject
 DOMAIN,m1.ad.10010.com,reject
 DOMAIN,mapi.m.jd.com,reject
 DOMAIN,masdkv6.3g.qq.com,reject
 DOMAIN,mazu.m.qq.com,reject
+DOMAIN,mbdlog.iqiyi.com,reject
 DOMAIN,metok.sys.miui.com,reject
 DOMAIN,metrics.apple.com,reject
 DOMAIN,metrics.data.hicloud.com,reject
@@ -345,10 +369,12 @@ DOMAIN,mnqlog.ldmnq.com,reject
 DOMAIN,mobads-logs.baidu.com,reject
 DOMAIN,mobads-pre-config.cdn.bcebos.com,reject
 DOMAIN,mobads.baidu.com,reject
+DOMAIN,mobile.da.mgtv.com,reject
 DOMAIN,mobilelog.upqzfile.com,reject
 DOMAIN,mobileservice.cn,reject
 DOMAIN,mon.zijieapi.com,reject
 DOMAIN,monitor-ads-test.huan.tv,reject
+DOMAIN,monitor-uu.play.aiseet.atianqi.com,reject
 DOMAIN,monitor.music.qq.com,reject
 DOMAIN,monitor.uu.qq.com,reject
 DOMAIN,monsetting.toutiao.com,reject
@@ -362,6 +388,7 @@ DOMAIN,nsclick.baidu.com,reject
 DOMAIN,o2o.api.xiaomi.com,reject
 DOMAIN,oauth-login-drcn.platform.dbankcloud.com,reject
 DOMAIN,offerwall.yandex.net,reject
+DOMAIN,omgmta.play.aiseet.atianqi.com,reject
 DOMAIN,open.e.kuaishou.cn,reject
 DOMAIN,open.e.kuaishou.com,reject
 DOMAIN,open.kuaishouzt.com,reject
@@ -371,6 +398,7 @@ DOMAIN,optimus-ads.amap.com,reject
 DOMAIN,orbit.jd.com,reject
 DOMAIN,oth.eve.mdt.qq.com,reject
 DOMAIN,oth.str.mdt.qq.com,reject
+DOMAIN,otheve.play.aiseet.atianqi.com,reject
 DOMAIN,p.l.qq.com,reject
 DOMAIN,p.s.360.cn,reject
 DOMAIN,p1-be-pack-sign.pglstatp-toutiao.com,reject
@@ -420,12 +448,14 @@ DOMAIN,scs.openspeech.cn,reject
 DOMAIN,sdk-ab-config.qquanquan.com,reject
 DOMAIN,sdk-cache.video.ptqy.gitv.tv,reject
 DOMAIN,sdk.beizi.biz,reject
+DOMAIN,sdk.cferw.com,reject
 DOMAIN,sdk.e.qq.com,reject
 DOMAIN,sdk.hzsanjiaomao.com,reject
 DOMAIN,sdk.mobads.adwangmai.com,reject
 DOMAIN,sdkconf.avlyun.com,reject
 DOMAIN,sdkconfig.ad.intl.xiaomi.com,reject
 DOMAIN,sdkconfig.ad.xiaomi.com,reject
+DOMAIN,sdkconfig.play.aiseet.atianqi.com,reject
 DOMAIN,sdkconfig.video.qq.com,reject
 DOMAIN,sdkoptedge.chinanetcenter.com,reject
 DOMAIN,sdktmp.hubcloud.com.cn,reject
@@ -470,6 +500,7 @@ DOMAIN,tangram.e.qq.com,reject
 DOMAIN,tdc.qq.com,reject
 DOMAIN,tdsdk.cpatrk.net,reject
 DOMAIN,tdsdk.xdrig.com,reject
+DOMAIN,tencent-dtv.m.cn.miaozhen.com,reject
 DOMAIN,terms-drcn.platform.dbankcloud.cn,reject
 DOMAIN,test.ad.xiaomi.com,reject
 DOMAIN,test.e.ad.xiaomi.com,reject
@@ -522,6 +553,7 @@ DOMAIN,v1-ad.video.yximgs.com,reject
 DOMAIN,v2-ad.video.yximgs.com,reject
 DOMAIN,v2.gdt.qq.com,reject
 DOMAIN,v3-ad.video.yximgs.com,reject
+DOMAIN,video-ad.sm.cn,reject
 DOMAIN,video-dsp.pddpic.com,reject
 DOMAIN,virusinfo-cloudscan-cn.heytapmobi.com,reject
 DOMAIN,vlive.qqvideo.tc.qq.com,reject
@@ -563,14 +595,20 @@ DOMAIN,ws-keyboard.shouji.sogou.com,reject
 DOMAIN,ws.sj.qq.com,reject
 DOMAIN,www42.zskwai.com,reject
 DOMAIN,wxa.wxs.qq.com,reject
+DOMAIN,wxsnsad.tc.qq.com,reject
 DOMAIN,wxsnsdy.wxs.qq.com,reject
 DOMAIN,wxsnsdythumb.wxs.qq.com,reject
 DOMAIN,xc.gdt.qq.com,reject
+DOMAIN,xiaomi-dtv.m.cn.miaozhen.com,reject
 DOMAIN,xlivrdr.com,reject
 DOMAIN,xlmzc.cnjp-exp.com,reject
 DOMAIN,xlog.jd.com,reject
 DOMAIN,xlviiirdr.com,reject
 DOMAIN,xlviirdr.com,reject
+DOMAIN,yk-ssp.ad.youku.com,reject
+DOMAIN,ykad-data.youku.com,reject
+DOMAIN,ykad-gateway.youku.com,reject
+DOMAIN,youku-acs.m.taobao.com,reject
 DOMAIN,youxi.kugou.com,reject
 DOMAIN,zeus.ad.xiaomi.com,reject
 DOMAIN-KEYWORD,-ad-.byteimg.com,reject

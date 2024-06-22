@@ -1,7 +1,7 @@
 #Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 
 #版本号: 1.4.8-release
-#上次更新日期: 2024-06-16
+#上次更新日期: 2024-06-22
 
 #项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 
@@ -21,12 +21,15 @@ domain:1010pic.com
 domain:8le8le.com
 domain:a0.app.xiaomi.com
 domain:aaid.umeng.com
+domain:ad-cache.dopool.com
+domain:ad-cdn.qingting.fm
 domain:ad-scope.com
 domain:ad-scope.com.cn
 domain:ad-sdk.huxiu.com
 domain:ad.12306.cn
 domain:ad.51wnl.com
 domain:ad.bwton.com
+domain:ad.cctv.com
 domain:ad.cyapi.cn
 domain:ad.partner.gifshow.com
 domain:ad.qingting.fm
@@ -47,9 +50,11 @@ domain:adclick.tencentmusic.com
 domain:adcolony.com
 domain:adexpo.tencentmusic.com
 domain:adfilter.imtt.qq.com
+domain:adguanggao.eee114.com
 domain:adjust.cn
 domain:adkwai.com
 domain:adlink-api.huan.tv
+domain:adm.funshion.com
 domain:ads-api-o.api.leiniao.com
 domain:ads-api.tiktok.com
 domain:ads-api.twitter.com
@@ -91,10 +96,13 @@ domain:adsmind.gdtimg.com
 domain:adsmind.ugdtimg.com
 domain:adsp.xunlei.com
 domain:adstats.tencentmusic.com
+domain:adstore-1252524079.file.myqcloud.com
+domain:adstore-index-1252524079.file.myqcloud.com
 domain:adtago.s3.amazonaws.com
 domain:adtech.yahooinc.com
 domain:adtrack.quark.cn
 domain:adukwai.com
+domain:adv.fjtv.net
 domain:adv.sec.intl.miui.com
 domain:adv.sec.miui.com
 domain:advertiseonbing.azureedge.net
@@ -107,11 +115,14 @@ domain:adview.cn
 domain:adx-ad.smart-tv.cn
 domain:adx-cn.anythinktech.com
 domain:adx-drcn.op.dbankcloud.cn
+domain:adx-open-service.youku.com
 domain:adx.ads.heytapmobi.com
 domain:adx.ads.oppomobile.com
 domain:adxlog-adnet.vivo.com.cn
 domain:adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn
+domain:adxserver.ad.cmvideo.cn
 domain:afs.googlesyndication.com
+domain:aiseet.aa.atianqi.com
 domain:ali-ad.a.yximgs.com
 domain:alog.umeng.com
 domain:amdcopen.m.taobao.com
@@ -127,6 +138,7 @@ domain:analytics.rayjump.com
 domain:analytics.tiktok.com
 domain:analytics.woozooo.com
 domain:analyze.lemurbrowser.com
+domain:andrqd.play.aiseet.atianqi.com
 domain:apd-pcdnwxlogin.teg.tencent-cloud.net
 domain:api-access.pangolin-sdk-toutiao.com
 domain:api-access.pangolin-sdk-toutiao1.com
@@ -175,6 +187,7 @@ domain:c.sayhi.360.cn
 domain:c2.gdt.qq.com
 domain:catalog.fjwhcbsh.com
 domain:ccs.umeng.com
+domain:cctv.adsunion.com
 domain:cdn-ads.oss-cn-shanghai.aliyuncs.com
 domain:cdn.ad.xiaomi.com
 domain:cdn.ynuf.aliapp.org
@@ -190,6 +203,7 @@ domain:config.chsmarttv.com
 domain:crashlytics.com
 domain:crashlyticsreports-pa.googleapis.com
 domain:csjplatform.com
+domain:cws-cctv.conviva.com
 domain:data.ads.oppomobile.com
 domain:data.chsmarttv.com
 domain:data.mistat.india.xiaomi.com
@@ -227,6 +241,9 @@ domain:game.loveota.com
 domain:gdfp.gifshow.com
 domain:gemini.yahoo.com
 domain:geo.yahoo.com
+domain:ggx.cmvideo.cn
+domain:ggx01.miguvideo.com
+domain:ggx03.miguvideo.com
 domain:globalapi.ad.xiaomi.com
 domain:google-analytics.com
 domain:googleadservices-cn.com
@@ -248,6 +265,7 @@ domain:hpplay.cn
 domain:httpdns.bcelive.com
 domain:httpdns.ocloud.oppomobile.com
 domain:hugelog.fcbox.com
+domain:huichuan.sm.cn
 domain:hw-ot-ad.a.yximgs.com
 domain:hw.zuimeitianqi.com
 domain:hwpub-s01-drcn.cloud.dbankcloud.cn
@@ -259,6 +277,7 @@ domain:iad.apple.com
 domain:iadctest.qwapi.com
 domain:iadsdk.apple.com
 domain:iadworkbench.apple.com
+domain:ifacelog.iqiyi.com
 domain:ifs.tanx.com
 domain:image-ad.sm.cn
 domain:imageplus.baidu.com
@@ -287,6 +306,9 @@ domain:launcherimg.smart-tv.cn
 domain:lf3-ad-union-sdk.pglstatp-toutiao.com
 domain:liveats-vod.video.ptqy.gitv.tv
 domain:livemonitor.huan.tv
+domain:livep.l.aiseet.atianqi.com
+domain:lives.l.aiseet.atianqi.com
+domain:lives.l.ott.video.qq.com
 domain:lm10111.jtrincc.cn
 domain:log-api-mn.huxiu.com
 domain:log-api.huxiu.com
@@ -320,11 +342,13 @@ domain:logservice.hicloud.com
 domain:logservice1.hicloud.com
 domain:logtj.kugou.com
 domain:logupdate.avlyun.sec.miui.com
+domain:m.atm.youku.com
 domain:m.kubiqq.com
 domain:m1.ad.10010.com
 domain:mapi.m.jd.com
 domain:masdkv6.3g.qq.com
 domain:mazu.m.qq.com
+domain:mbdlog.iqiyi.com
 domain:metok.sys.miui.com
 domain:metrics.apple.com
 domain:metrics.data.hicloud.com
@@ -342,10 +366,12 @@ domain:mnqlog.ldmnq.com
 domain:mobads-logs.baidu.com
 domain:mobads-pre-config.cdn.bcebos.com
 domain:mobads.baidu.com
+domain:mobile.da.mgtv.com
 domain:mobilelog.upqzfile.com
 domain:mobileservice.cn
 domain:mon.zijieapi.com
 domain:monitor-ads-test.huan.tv
+domain:monitor-uu.play.aiseet.atianqi.com
 domain:monitor.music.qq.com
 domain:monitor.uu.qq.com
 domain:monsetting.toutiao.com
@@ -359,6 +385,7 @@ domain:nsclick.baidu.com
 domain:o2o.api.xiaomi.com
 domain:oauth-login-drcn.platform.dbankcloud.com
 domain:offerwall.yandex.net
+domain:omgmta.play.aiseet.atianqi.com
 domain:open.e.kuaishou.cn
 domain:open.e.kuaishou.com
 domain:open.kuaishouzt.com
@@ -368,6 +395,7 @@ domain:optimus-ads.amap.com
 domain:orbit.jd.com
 domain:oth.eve.mdt.qq.com
 domain:oth.str.mdt.qq.com
+domain:otheve.play.aiseet.atianqi.com
 domain:p.l.qq.com
 domain:p.s.360.cn
 domain:p1-be-pack-sign.pglstatp-toutiao.com
@@ -417,12 +445,14 @@ domain:scs.openspeech.cn
 domain:sdk-ab-config.qquanquan.com
 domain:sdk-cache.video.ptqy.gitv.tv
 domain:sdk.beizi.biz
+domain:sdk.cferw.com
 domain:sdk.e.qq.com
 domain:sdk.hzsanjiaomao.com
 domain:sdk.mobads.adwangmai.com
 domain:sdkconf.avlyun.com
 domain:sdkconfig.ad.intl.xiaomi.com
 domain:sdkconfig.ad.xiaomi.com
+domain:sdkconfig.play.aiseet.atianqi.com
 domain:sdkconfig.video.qq.com
 domain:sdkoptedge.chinanetcenter.com
 domain:sdktmp.hubcloud.com.cn
@@ -467,6 +497,7 @@ domain:tangram.e.qq.com
 domain:tdc.qq.com
 domain:tdsdk.cpatrk.net
 domain:tdsdk.xdrig.com
+domain:tencent-dtv.m.cn.miaozhen.com
 domain:terms-drcn.platform.dbankcloud.cn
 domain:test.ad.xiaomi.com
 domain:test.e.ad.xiaomi.com
@@ -519,6 +550,7 @@ domain:v1-ad.video.yximgs.com
 domain:v2-ad.video.yximgs.com
 domain:v2.gdt.qq.com
 domain:v3-ad.video.yximgs.com
+domain:video-ad.sm.cn
 domain:video-dsp.pddpic.com
 domain:virusinfo-cloudscan-cn.heytapmobi.com
 domain:vlive.qqvideo.tc.qq.com
@@ -560,13 +592,19 @@ domain:ws-keyboard.shouji.sogou.com
 domain:ws.sj.qq.com
 domain:www42.zskwai.com
 domain:wxa.wxs.qq.com
+domain:wxsnsad.tc.qq.com
 domain:wxsnsdy.wxs.qq.com
 domain:wxsnsdythumb.wxs.qq.com
 domain:xc.gdt.qq.com
+domain:xiaomi-dtv.m.cn.miaozhen.com
 domain:xlivrdr.com
 domain:xlmzc.cnjp-exp.com
 domain:xlog.jd.com
 domain:xlviiirdr.com
 domain:xlviirdr.com
+domain:yk-ssp.ad.youku.com
+domain:ykad-data.youku.com
+domain:ykad-gateway.youku.com
+domain:youku-acs.m.taobao.com
 domain:youxi.kugou.com
 domain:zeus.ad.xiaomi.com

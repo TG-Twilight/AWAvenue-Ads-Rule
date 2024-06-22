@@ -1,7 +1,7 @@
 !Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 
 !版本号: 1.4.8-release
-!上次更新日期: 2024-06-16
+!上次更新日期: 2024-06-22
 
 !项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 
@@ -25,12 +25,15 @@
 127.0.0.1 8le8le.com
 127.0.0.1 a0.app.xiaomi.com
 127.0.0.1 aaid.umeng.com
+127.0.0.1 ad-cache.dopool.com
+127.0.0.1 ad-cdn.qingting.fm
 127.0.0.1 ad-scope.com
 127.0.0.1 ad-scope.com.cn
 127.0.0.1 ad-sdk.huxiu.com
 127.0.0.1 ad.12306.cn
 127.0.0.1 ad.51wnl.com
 127.0.0.1 ad.bwton.com
+127.0.0.1 ad.cctv.com
 127.0.0.1 ad.cyapi.cn
 127.0.0.1 ad.partner.gifshow.com
 127.0.0.1 ad.qingting.fm
@@ -51,9 +54,11 @@
 127.0.0.1 adcolony.com
 127.0.0.1 adexpo.tencentmusic.com
 127.0.0.1 adfilter.imtt.qq.com
+127.0.0.1 adguanggao.eee114.com
 127.0.0.1 adjust.cn
 127.0.0.1 adkwai.com
 127.0.0.1 adlink-api.huan.tv
+127.0.0.1 adm.funshion.com
 127.0.0.1 ads-api-o.api.leiniao.com
 127.0.0.1 ads-api.tiktok.com
 127.0.0.1 ads-api.twitter.com
@@ -95,10 +100,13 @@
 127.0.0.1 adsmind.ugdtimg.com
 127.0.0.1 adsp.xunlei.com
 127.0.0.1 adstats.tencentmusic.com
+127.0.0.1 adstore-1252524079.file.myqcloud.com
+127.0.0.1 adstore-index-1252524079.file.myqcloud.com
 127.0.0.1 adtago.s3.amazonaws.com
 127.0.0.1 adtech.yahooinc.com
 127.0.0.1 adtrack.quark.cn
 127.0.0.1 adukwai.com
+127.0.0.1 adv.fjtv.net
 127.0.0.1 adv.sec.intl.miui.com
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 advertiseonbing.azureedge.net
@@ -111,11 +119,14 @@
 127.0.0.1 adx-ad.smart-tv.cn
 127.0.0.1 adx-cn.anythinktech.com
 127.0.0.1 adx-drcn.op.dbankcloud.cn
+127.0.0.1 adx-open-service.youku.com
 127.0.0.1 adx.ads.heytapmobi.com
 127.0.0.1 adx.ads.oppomobile.com
 127.0.0.1 adxlog-adnet.vivo.com.cn
 127.0.0.1 adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn
+127.0.0.1 adxserver.ad.cmvideo.cn
 127.0.0.1 afs.googlesyndication.com
+127.0.0.1 aiseet.aa.atianqi.com
 127.0.0.1 ali-ad.a.yximgs.com
 127.0.0.1 alog.umeng.com
 127.0.0.1 amdcopen.m.taobao.com
@@ -131,6 +142,7 @@
 127.0.0.1 analytics.tiktok.com
 127.0.0.1 analytics.woozooo.com
 127.0.0.1 analyze.lemurbrowser.com
+127.0.0.1 andrqd.play.aiseet.atianqi.com
 127.0.0.1 apd-pcdnwxlogin.teg.tencent-cloud.net
 127.0.0.1 api-access.pangolin-sdk-toutiao.com
 127.0.0.1 api-access.pangolin-sdk-toutiao1.com
@@ -179,6 +191,7 @@
 127.0.0.1 c2.gdt.qq.com
 127.0.0.1 catalog.fjwhcbsh.com
 127.0.0.1 ccs.umeng.com
+127.0.0.1 cctv.adsunion.com
 127.0.0.1 cdn-ads.oss-cn-shanghai.aliyuncs.com
 127.0.0.1 cdn.ad.xiaomi.com
 127.0.0.1 cdn.ynuf.aliapp.org
@@ -194,6 +207,7 @@
 127.0.0.1 crashlytics.com
 127.0.0.1 crashlyticsreports-pa.googleapis.com
 127.0.0.1 csjplatform.com
+127.0.0.1 cws-cctv.conviva.com
 127.0.0.1 data.ads.oppomobile.com
 127.0.0.1 data.chsmarttv.com
 127.0.0.1 data.mistat.india.xiaomi.com
@@ -231,6 +245,9 @@
 127.0.0.1 gdfp.gifshow.com
 127.0.0.1 gemini.yahoo.com
 127.0.0.1 geo.yahoo.com
+127.0.0.1 ggx.cmvideo.cn
+127.0.0.1 ggx01.miguvideo.com
+127.0.0.1 ggx03.miguvideo.com
 127.0.0.1 globalapi.ad.xiaomi.com
 127.0.0.1 google-analytics.com
 127.0.0.1 googleadservices-cn.com
@@ -252,6 +269,7 @@
 127.0.0.1 httpdns.bcelive.com
 127.0.0.1 httpdns.ocloud.oppomobile.com
 127.0.0.1 hugelog.fcbox.com
+127.0.0.1 huichuan.sm.cn
 127.0.0.1 hw-ot-ad.a.yximgs.com
 127.0.0.1 hw.zuimeitianqi.com
 127.0.0.1 hwpub-s01-drcn.cloud.dbankcloud.cn
@@ -263,6 +281,7 @@
 127.0.0.1 iadctest.qwapi.com
 127.0.0.1 iadsdk.apple.com
 127.0.0.1 iadworkbench.apple.com
+127.0.0.1 ifacelog.iqiyi.com
 127.0.0.1 ifs.tanx.com
 127.0.0.1 image-ad.sm.cn
 127.0.0.1 imageplus.baidu.com
@@ -291,6 +310,9 @@
 127.0.0.1 lf3-ad-union-sdk.pglstatp-toutiao.com
 127.0.0.1 liveats-vod.video.ptqy.gitv.tv
 127.0.0.1 livemonitor.huan.tv
+127.0.0.1 livep.l.aiseet.atianqi.com
+127.0.0.1 lives.l.aiseet.atianqi.com
+127.0.0.1 lives.l.ott.video.qq.com
 127.0.0.1 lm10111.jtrincc.cn
 127.0.0.1 log-api-mn.huxiu.com
 127.0.0.1 log-api.huxiu.com
@@ -324,11 +346,13 @@
 127.0.0.1 logservice1.hicloud.com
 127.0.0.1 logtj.kugou.com
 127.0.0.1 logupdate.avlyun.sec.miui.com
+127.0.0.1 m.atm.youku.com
 127.0.0.1 m.kubiqq.com
 127.0.0.1 m1.ad.10010.com
 127.0.0.1 mapi.m.jd.com
 127.0.0.1 masdkv6.3g.qq.com
 127.0.0.1 mazu.m.qq.com
+127.0.0.1 mbdlog.iqiyi.com
 127.0.0.1 metok.sys.miui.com
 127.0.0.1 metrics.apple.com
 127.0.0.1 metrics.data.hicloud.com
@@ -346,10 +370,12 @@
 127.0.0.1 mobads-logs.baidu.com
 127.0.0.1 mobads-pre-config.cdn.bcebos.com
 127.0.0.1 mobads.baidu.com
+127.0.0.1 mobile.da.mgtv.com
 127.0.0.1 mobilelog.upqzfile.com
 127.0.0.1 mobileservice.cn
 127.0.0.1 mon.zijieapi.com
 127.0.0.1 monitor-ads-test.huan.tv
+127.0.0.1 monitor-uu.play.aiseet.atianqi.com
 127.0.0.1 monitor.music.qq.com
 127.0.0.1 monitor.uu.qq.com
 127.0.0.1 monsetting.toutiao.com
@@ -363,6 +389,7 @@
 127.0.0.1 o2o.api.xiaomi.com
 127.0.0.1 oauth-login-drcn.platform.dbankcloud.com
 127.0.0.1 offerwall.yandex.net
+127.0.0.1 omgmta.play.aiseet.atianqi.com
 127.0.0.1 open.e.kuaishou.cn
 127.0.0.1 open.e.kuaishou.com
 127.0.0.1 open.kuaishouzt.com
@@ -372,6 +399,7 @@
 127.0.0.1 orbit.jd.com
 127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 oth.str.mdt.qq.com
+127.0.0.1 otheve.play.aiseet.atianqi.com
 127.0.0.1 p.l.qq.com
 127.0.0.1 p.s.360.cn
 127.0.0.1 p1-be-pack-sign.pglstatp-toutiao.com
@@ -421,12 +449,14 @@
 127.0.0.1 sdk-ab-config.qquanquan.com
 127.0.0.1 sdk-cache.video.ptqy.gitv.tv
 127.0.0.1 sdk.beizi.biz
+127.0.0.1 sdk.cferw.com
 127.0.0.1 sdk.e.qq.com
 127.0.0.1 sdk.hzsanjiaomao.com
 127.0.0.1 sdk.mobads.adwangmai.com
 127.0.0.1 sdkconf.avlyun.com
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 sdkconfig.play.aiseet.atianqi.com
 127.0.0.1 sdkconfig.video.qq.com
 127.0.0.1 sdkoptedge.chinanetcenter.com
 127.0.0.1 sdktmp.hubcloud.com.cn
@@ -471,6 +501,7 @@
 127.0.0.1 tdc.qq.com
 127.0.0.1 tdsdk.cpatrk.net
 127.0.0.1 tdsdk.xdrig.com
+127.0.0.1 tencent-dtv.m.cn.miaozhen.com
 127.0.0.1 terms-drcn.platform.dbankcloud.cn
 127.0.0.1 test.ad.xiaomi.com
 127.0.0.1 test.e.ad.xiaomi.com
@@ -523,6 +554,7 @@
 127.0.0.1 v2-ad.video.yximgs.com
 127.0.0.1 v2.gdt.qq.com
 127.0.0.1 v3-ad.video.yximgs.com
+127.0.0.1 video-ad.sm.cn
 127.0.0.1 video-dsp.pddpic.com
 127.0.0.1 virusinfo-cloudscan-cn.heytapmobi.com
 127.0.0.1 vlive.qqvideo.tc.qq.com
@@ -564,13 +596,19 @@
 127.0.0.1 ws.sj.qq.com
 127.0.0.1 www42.zskwai.com
 127.0.0.1 wxa.wxs.qq.com
+127.0.0.1 wxsnsad.tc.qq.com
 127.0.0.1 wxsnsdy.wxs.qq.com
 127.0.0.1 wxsnsdythumb.wxs.qq.com
 127.0.0.1 xc.gdt.qq.com
+127.0.0.1 xiaomi-dtv.m.cn.miaozhen.com
 127.0.0.1 xlivrdr.com
 127.0.0.1 xlmzc.cnjp-exp.com
 127.0.0.1 xlog.jd.com
 127.0.0.1 xlviiirdr.com
 127.0.0.1 xlviirdr.com
+127.0.0.1 yk-ssp.ad.youku.com
+127.0.0.1 ykad-data.youku.com
+127.0.0.1 ykad-gateway.youku.com
+127.0.0.1 youku-acs.m.taobao.com
 127.0.0.1 youxi.kugou.com
 127.0.0.1 zeus.ad.xiaomi.com
