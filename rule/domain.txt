@@ -578,6 +578,7 @@ ws-keyboard.shouji.sogou.com
 ws.sj.qq.com
 www42.zskwai.com
 wxa.wxs.qq.com
+wximg.wxs.qq.com
 wxsnsad.tc.qq.com
 wxsnsdy.wxs.qq.com
 wxsnsdythumb.wxs.qq.com
@@ -594,3 +595,5 @@ ykad-gateway.youku.com
 youku-acs.m.taobao.com
 youxi.kugou.com
 zeus.ad.xiaomi.com
+apd-pcdnwxnat.teg.tencent-cloud.net
+apd-pcdnwxstat.teg.tencent-cloud.net
