@@ -33,6 +33,7 @@ adexpo.tencentmusic.com
 adfilter.imtt.qq.com
 adguanggao.eee114.com
 adjust.cn
+adjust.com
 adkwai.com
 adlink-api.huan.tv
 adm.funshion.com
@@ -90,6 +91,8 @@ adv.sec.intl.miui.com
 adv.sec.miui.com
 advertiseonbing.azureedge.net
 advertising-api-eu.amazon.com
+advertising-api-fe.amazon.com
+advertising-api.amazon.com
 advertising.apple.com
 advertising.yahoo.com
 advertising.yandex.ru
@@ -160,11 +163,13 @@ beacon-api.aliyuncs.com
 beacon.qq.com
 beacons.gvt2.com
 beizi.biz
+bianxian.com
 bingads.microsoft.com
 bj.ad.track.66mobi.com
 books-analytics-events.apple.com
 bugly.qq.com
 business-api.tiktok.com
+c.bidtoolads.com
 c.evidon.com
 c.gj.qq.com
 c.kuaiduizuoye.com
@@ -248,6 +253,7 @@ grs.hicloud.com
 grs.platform.dbankcloud.ru
 h-adashx.ut.taobao.com
 h.trace.qq.com
+hanlanad.com
 henzanapp.com
 hexagon-analytics.com
 hiboard-drcn.ai.dbankcloud.cn
@@ -296,6 +302,7 @@ ks.pull.yximgs.com
 launcher.smart-tv.cn
 launcherimg.smart-tv.cn
 lf3-ad-union-sdk.pglstatp-toutiao.com
+litchiads.com
 liveats-vod.video.ptqy.gitv.tv
 livemonitor.huan.tv
 livep.l.aiseet.atianqi.com
@@ -442,6 +449,7 @@ sdk.beizi.biz
 sdk.cferw.com
 sdk.e.qq.com
 sdk.hzsanjiaomao.com
+sdk.markmedia.com.cn
 sdk.mobads.adwangmai.com
 sdkconf.avlyun.com
 sdkconfig.ad.intl.xiaomi.com
@@ -520,6 +528,7 @@ tracker.ai.xiaomi.com
 tracker.gitee.com
 tracking.miui.com
 tracking.rus.miui.com
+tsvrv.com
 tvuser-ch.cedock.com
 tx-ad.a.yximgs.com
 tx-kmpaudio.pull.yximgs.com
@@ -603,12 +612,3 @@ ykad-gateway.youku.com
 youku-acs.m.taobao.com
 youxi.kugou.com
 zeus.ad.xiaomi.com
-sdk.markmedia.com.cn
-advertising-api.amazon.com
-advertising-api-fe.amazon.com
-litchiads.com
-c.bidtoolads.com
-adjust.com
-hanlanad.com
-bianxian.com
-tsvrv.com
