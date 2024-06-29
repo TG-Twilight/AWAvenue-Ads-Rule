@@ -56,6 +56,7 @@
 127.0.0.1 adfilter.imtt.qq.com
 127.0.0.1 adguanggao.eee114.com
 127.0.0.1 adjust.cn
+127.0.0.1 adjust.com
 127.0.0.1 adkwai.com
 127.0.0.1 adlink-api.huan.tv
 127.0.0.1 adm.funshion.com
@@ -111,6 +112,8 @@
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 advertiseonbing.azureedge.net
 127.0.0.1 advertising-api-eu.amazon.com
+127.0.0.1 advertising-api-fe.amazon.com
+127.0.0.1 advertising-api.amazon.com
 127.0.0.1 advertising.apple.com
 127.0.0.1 advertising.yahoo.com
 127.0.0.1 advertising.yandex.ru
@@ -181,11 +184,13 @@
 127.0.0.1 beacon.qq.com
 127.0.0.1 beacons.gvt2.com
 127.0.0.1 beizi.biz
+127.0.0.1 bianxian.com
 127.0.0.1 bingads.microsoft.com
 127.0.0.1 bj.ad.track.66mobi.com
 127.0.0.1 books-analytics-events.apple.com
 127.0.0.1 bugly.qq.com
 127.0.0.1 business-api.tiktok.com
+127.0.0.1 c.bidtoolads.com
 127.0.0.1 c.evidon.com
 127.0.0.1 c.gj.qq.com
 127.0.0.1 c.kuaiduizuoye.com
@@ -268,6 +273,7 @@
 127.0.0.1 grs.platform.dbankcloud.ru
 127.0.0.1 h-adashx.ut.taobao.com
 127.0.0.1 h.trace.qq.com
+127.0.0.1 hanlanad.com
 127.0.0.1 henzanapp.com
 127.0.0.1 hexagon-analytics.com
 127.0.0.1 hiboard-drcn.ai.dbankcloud.cn
@@ -316,6 +322,7 @@
 127.0.0.1 launcher.smart-tv.cn
 127.0.0.1 launcherimg.smart-tv.cn
 127.0.0.1 lf3-ad-union-sdk.pglstatp-toutiao.com
+127.0.0.1 litchiads.com
 127.0.0.1 liveats-vod.video.ptqy.gitv.tv
 127.0.0.1 livemonitor.huan.tv
 127.0.0.1 livep.l.aiseet.atianqi.com
@@ -460,6 +467,7 @@
 127.0.0.1 sdk.cferw.com
 127.0.0.1 sdk.e.qq.com
 127.0.0.1 sdk.hzsanjiaomao.com
+127.0.0.1 sdk.markmedia.com.cn
 127.0.0.1 sdk.mobads.adwangmai.com
 127.0.0.1 sdkconf.avlyun.com
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
@@ -538,6 +546,7 @@
 127.0.0.1 tracker.gitee.com
 127.0.0.1 tracking.miui.com
 127.0.0.1 tracking.rus.miui.com
+127.0.0.1 tsvrv.com
 127.0.0.1 tvuser-ch.cedock.com
 127.0.0.1 tx-ad.a.yximgs.com
 127.0.0.1 tx-kmpaudio.pull.yximgs.com

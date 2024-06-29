@@ -56,6 +56,7 @@ payload:
   - DOMAIN,adfilter.imtt.qq.com
   - DOMAIN,adguanggao.eee114.com
   - DOMAIN,adjust.cn
+  - DOMAIN,adjust.com
   - DOMAIN,adkwai.com
   - DOMAIN,adlink-api.huan.tv
   - DOMAIN,adm.funshion.com
@@ -111,6 +112,8 @@ payload:
   - DOMAIN,adv.sec.miui.com
   - DOMAIN,advertiseonbing.azureedge.net
   - DOMAIN,advertising-api-eu.amazon.com
+  - DOMAIN,advertising-api-fe.amazon.com
+  - DOMAIN,advertising-api.amazon.com
   - DOMAIN,advertising.apple.com
   - DOMAIN,advertising.yahoo.com
   - DOMAIN,advertising.yandex.ru
@@ -181,11 +184,13 @@ payload:
   - DOMAIN,beacon.qq.com
   - DOMAIN,beacons.gvt2.com
   - DOMAIN,beizi.biz
+  - DOMAIN,bianxian.com
   - DOMAIN,bingads.microsoft.com
   - DOMAIN,bj.ad.track.66mobi.com
   - DOMAIN,books-analytics-events.apple.com
   - DOMAIN,bugly.qq.com
   - DOMAIN,business-api.tiktok.com
+  - DOMAIN,c.bidtoolads.com
   - DOMAIN,c.evidon.com
   - DOMAIN,c.gj.qq.com
   - DOMAIN,c.kuaiduizuoye.com
@@ -268,6 +273,7 @@ payload:
   - DOMAIN,grs.platform.dbankcloud.ru
   - DOMAIN,h-adashx.ut.taobao.com
   - DOMAIN,h.trace.qq.com
+  - DOMAIN,hanlanad.com
   - DOMAIN,henzanapp.com
   - DOMAIN,hexagon-analytics.com
   - DOMAIN,hiboard-drcn.ai.dbankcloud.cn
@@ -316,6 +322,7 @@ payload:
   - DOMAIN,launcher.smart-tv.cn
   - DOMAIN,launcherimg.smart-tv.cn
   - DOMAIN,lf3-ad-union-sdk.pglstatp-toutiao.com
+  - DOMAIN,litchiads.com
   - DOMAIN,liveats-vod.video.ptqy.gitv.tv
   - DOMAIN,livemonitor.huan.tv
   - DOMAIN,livep.l.aiseet.atianqi.com
@@ -460,6 +467,7 @@ payload:
   - DOMAIN,sdk.cferw.com
   - DOMAIN,sdk.e.qq.com
   - DOMAIN,sdk.hzsanjiaomao.com
+  - DOMAIN,sdk.markmedia.com.cn
   - DOMAIN,sdk.mobads.adwangmai.com
   - DOMAIN,sdkconf.avlyun.com
   - DOMAIN,sdkconfig.ad.intl.xiaomi.com
@@ -538,6 +546,7 @@ payload:
   - DOMAIN,tracker.gitee.com
   - DOMAIN,tracking.miui.com
   - DOMAIN,tracking.rus.miui.com
+  - DOMAIN,tsvrv.com
   - DOMAIN,tvuser-ch.cedock.com
   - DOMAIN,tx-ad.a.yximgs.com
   - DOMAIN,tx-kmpaudio.pull.yximgs.com

@@ -52,6 +52,7 @@ domain:adexpo.tencentmusic.com
 domain:adfilter.imtt.qq.com
 domain:adguanggao.eee114.com
 domain:adjust.cn
+domain:adjust.com
 domain:adkwai.com
 domain:adlink-api.huan.tv
 domain:adm.funshion.com
@@ -107,6 +108,8 @@ domain:adv.sec.intl.miui.com
 domain:adv.sec.miui.com
 domain:advertiseonbing.azureedge.net
 domain:advertising-api-eu.amazon.com
+domain:advertising-api-fe.amazon.com
+domain:advertising-api.amazon.com
 domain:advertising.apple.com
 domain:advertising.yahoo.com
 domain:advertising.yandex.ru
@@ -177,11 +180,13 @@ domain:beacon-api.aliyuncs.com
 domain:beacon.qq.com
 domain:beacons.gvt2.com
 domain:beizi.biz
+domain:bianxian.com
 domain:bingads.microsoft.com
 domain:bj.ad.track.66mobi.com
 domain:books-analytics-events.apple.com
 domain:bugly.qq.com
 domain:business-api.tiktok.com
+domain:c.bidtoolads.com
 domain:c.evidon.com
 domain:c.gj.qq.com
 domain:c.kuaiduizuoye.com
@@ -264,6 +269,7 @@ domain:grs.hicloud.com
 domain:grs.platform.dbankcloud.ru
 domain:h-adashx.ut.taobao.com
 domain:h.trace.qq.com
+domain:hanlanad.com
 domain:henzanapp.com
 domain:hexagon-analytics.com
 domain:hiboard-drcn.ai.dbankcloud.cn
@@ -312,6 +318,7 @@ domain:ks.pull.yximgs.com
 domain:launcher.smart-tv.cn
 domain:launcherimg.smart-tv.cn
 domain:lf3-ad-union-sdk.pglstatp-toutiao.com
+domain:litchiads.com
 domain:liveats-vod.video.ptqy.gitv.tv
 domain:livemonitor.huan.tv
 domain:livep.l.aiseet.atianqi.com
@@ -456,6 +463,7 @@ domain:sdk.beizi.biz
 domain:sdk.cferw.com
 domain:sdk.e.qq.com
 domain:sdk.hzsanjiaomao.com
+domain:sdk.markmedia.com.cn
 domain:sdk.mobads.adwangmai.com
 domain:sdkconf.avlyun.com
 domain:sdkconfig.ad.intl.xiaomi.com
@@ -534,6 +542,7 @@ domain:tracker.ai.xiaomi.com
 domain:tracker.gitee.com
 domain:tracking.miui.com
 domain:tracking.rus.miui.com
+domain:tsvrv.com
 domain:tvuser-ch.cedock.com
 domain:tx-ad.a.yximgs.com
 domain:tx-kmpaudio.pull.yximgs.com

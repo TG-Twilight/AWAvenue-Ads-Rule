@@ -55,6 +55,7 @@ DOMAIN,adexpo.tencentmusic.com,reject
 DOMAIN,adfilter.imtt.qq.com,reject
 DOMAIN,adguanggao.eee114.com,reject
 DOMAIN,adjust.cn,reject
+DOMAIN,adjust.com,reject
 DOMAIN,adkwai.com,reject
 DOMAIN,adlink-api.huan.tv,reject
 DOMAIN,adm.funshion.com,reject
@@ -110,6 +111,8 @@ DOMAIN,adv.sec.intl.miui.com,reject
 DOMAIN,adv.sec.miui.com,reject
 DOMAIN,advertiseonbing.azureedge.net,reject
 DOMAIN,advertising-api-eu.amazon.com,reject
+DOMAIN,advertising-api-fe.amazon.com,reject
+DOMAIN,advertising-api.amazon.com,reject
 DOMAIN,advertising.apple.com,reject
 DOMAIN,advertising.yahoo.com,reject
 DOMAIN,advertising.yandex.ru,reject
@@ -180,11 +183,13 @@ DOMAIN,beacon-api.aliyuncs.com,reject
 DOMAIN,beacon.qq.com,reject
 DOMAIN,beacons.gvt2.com,reject
 DOMAIN,beizi.biz,reject
+DOMAIN,bianxian.com,reject
 DOMAIN,bingads.microsoft.com,reject
 DOMAIN,bj.ad.track.66mobi.com,reject
 DOMAIN,books-analytics-events.apple.com,reject
 DOMAIN,bugly.qq.com,reject
 DOMAIN,business-api.tiktok.com,reject
+DOMAIN,c.bidtoolads.com,reject
 DOMAIN,c.evidon.com,reject
 DOMAIN,c.gj.qq.com,reject
 DOMAIN,c.kuaiduizuoye.com,reject
@@ -267,6 +272,7 @@ DOMAIN,grs.hicloud.com,reject
 DOMAIN,grs.platform.dbankcloud.ru,reject
 DOMAIN,h-adashx.ut.taobao.com,reject
 DOMAIN,h.trace.qq.com,reject
+DOMAIN,hanlanad.com,reject
 DOMAIN,henzanapp.com,reject
 DOMAIN,hexagon-analytics.com,reject
 DOMAIN,hiboard-drcn.ai.dbankcloud.cn,reject
@@ -315,6 +321,7 @@ DOMAIN,ks.pull.yximgs.com,reject
 DOMAIN,launcher.smart-tv.cn,reject
 DOMAIN,launcherimg.smart-tv.cn,reject
 DOMAIN,lf3-ad-union-sdk.pglstatp-toutiao.com,reject
+DOMAIN,litchiads.com,reject
 DOMAIN,liveats-vod.video.ptqy.gitv.tv,reject
 DOMAIN,livemonitor.huan.tv,reject
 DOMAIN,livep.l.aiseet.atianqi.com,reject
@@ -459,6 +466,7 @@ DOMAIN,sdk.beizi.biz,reject
 DOMAIN,sdk.cferw.com,reject
 DOMAIN,sdk.e.qq.com,reject
 DOMAIN,sdk.hzsanjiaomao.com,reject
+DOMAIN,sdk.markmedia.com.cn,reject
 DOMAIN,sdk.mobads.adwangmai.com,reject
 DOMAIN,sdkconf.avlyun.com,reject
 DOMAIN,sdkconfig.ad.intl.xiaomi.com,reject
@@ -537,6 +545,7 @@ DOMAIN,tracker.ai.xiaomi.com,reject
 DOMAIN,tracker.gitee.com,reject
 DOMAIN,tracking.miui.com,reject
 DOMAIN,tracking.rus.miui.com,reject
+DOMAIN,tsvrv.com,reject
 DOMAIN,tvuser-ch.cedock.com,reject
 DOMAIN,tx-ad.a.yximgs.com,reject
 DOMAIN,tx-kmpaudio.pull.yximgs.com,reject
