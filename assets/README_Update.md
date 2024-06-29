@@ -265,4 +265,9 @@ t002.ottcn.com  |  smart-tv.cn
 <br />
 
 ## 1.5.0：6月30日，2024年
-加强了对于 Txxxxxt pcdn 的拦截，加强了对于 WeChat 订阅号中，文章及末尾的广告拦截。
+加强了对于 Txxxxxt pcdn 的拦截，以及对于 oddo 的追踪拦截；
+<br />
+修复 WeChat 订阅号中，文章及末尾的广告拦截。
+<br />
+<br />
+<br />
