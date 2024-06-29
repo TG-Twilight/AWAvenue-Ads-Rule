@@ -247,27 +247,27 @@ t002.ottcn.com  |  smart-tv.cn
 <br />
 <br />
 
-## 1.4.7：5月5日，2024年
+## 1.4.7-release：5月5日，2024年
 新增Mosdns V5规则，大改仓库README。
 <br />
 <br />
 
-## 1.4.8：5月10日，2024年
+## 1.4.8-release：5月10日，2024年
 新增bili pcdn上传拦截；更加彻底地拦截来自 CHANGHONG 的业务域名，添加了一个zijie的广告域名。
 <br />
 <br />
 
-## 1.4.9：6月22日，2024年
+## 1.4.9-release：6月22日，2024年
 新增 youku、CNTV、Funshion、migu、MG 等一众视频网站的广告过滤；加强了对于Txxxxxt Videos的广告拦截。
 <br />
 仓库脚本第二次重构，针对IP和个别工具进行了优化。
 <br />
 <br />
 
-## 1.5.0：6月30日，2024年
+## 1.5.0-release：6月30日，2024年
 加强了对于 Txxxxxt pcdn 的拦截，以及对于 oddo 的追踪拦截；
 <br />
-修复 WeChat 订阅号中，文章及末尾的广告拦截。
+修复 WeChat 订阅号中，文章及末尾的广告拦截。修复本更新日志的部分格式错误。
 <br />
 <br />
 <br />
