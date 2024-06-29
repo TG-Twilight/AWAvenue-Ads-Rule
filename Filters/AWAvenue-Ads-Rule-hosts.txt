@@ -206,6 +206,9 @@
 127.0.0.1 collect.kugou.com
 127.0.0.1 commdata.v.qq.com
 127.0.0.1 config.chsmarttv.com
+127.0.0.1 conn-service-in-03.allawnos.com
+127.0.0.1 conn-service-in-04.allawnos.com
+127.0.0.1 conn-service-in-05.allawnos.com
 127.0.0.1 crashlytics.com
 127.0.0.1 crashlyticsreports-pa.googleapis.com
 127.0.0.1 csjplatform.com

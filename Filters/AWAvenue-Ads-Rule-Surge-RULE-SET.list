@@ -205,6 +205,9 @@ DOMAIN,cnzz.com,reject
 DOMAIN,collect.kugou.com,reject
 DOMAIN,commdata.v.qq.com,reject
 DOMAIN,config.chsmarttv.com,reject
+DOMAIN,conn-service-in-03.allawnos.com,reject
+DOMAIN,conn-service-in-04.allawnos.com,reject
+DOMAIN,conn-service-in-05.allawnos.com,reject
 DOMAIN,crashlytics.com,reject
 DOMAIN,crashlyticsreports-pa.googleapis.com,reject
 DOMAIN,csjplatform.com,reject
