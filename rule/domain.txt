@@ -603,3 +603,12 @@ ykad-gateway.youku.com
 youku-acs.m.taobao.com
 youxi.kugou.com
 zeus.ad.xiaomi.com
+sdk.markmedia.com.cn
+advertising-api.amazon.com
+advertising-api-fe.amazon.com
+litchiads.com
+c.bidtoolads.com
+adjust.com
+hanlanad.com
+bianxian.com
+tsvrv.com
