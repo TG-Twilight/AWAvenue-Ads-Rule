@@ -205,6 +205,9 @@ DOMAIN,cnzz.com,reject
 DOMAIN,collect.kugou.com,reject
 DOMAIN,commdata.v.qq.com,reject
 DOMAIN,config.chsmarttv.com,reject
+DOMAIN,conn-service-cn-03.allawntech.com,reject
+DOMAIN,conn-service-cn-04.allawntech.com,reject
+DOMAIN,conn-service-cn-05.allawntech.com,reject
 DOMAIN,conn-service-in-03.allawnos.com,reject
 DOMAIN,conn-service-in-04.allawnos.com,reject
 DOMAIN,conn-service-in-05.allawnos.com,reject

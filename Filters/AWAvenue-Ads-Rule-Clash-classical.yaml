@@ -206,6 +206,9 @@ payload:
   - DOMAIN,collect.kugou.com
   - DOMAIN,commdata.v.qq.com
   - DOMAIN,config.chsmarttv.com
+  - DOMAIN,conn-service-cn-03.allawntech.com
+  - DOMAIN,conn-service-cn-04.allawntech.com
+  - DOMAIN,conn-service-cn-05.allawntech.com
   - DOMAIN,conn-service-in-03.allawnos.com
   - DOMAIN,conn-service-in-04.allawnos.com
   - DOMAIN,conn-service-in-05.allawnos.com

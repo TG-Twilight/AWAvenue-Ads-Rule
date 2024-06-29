@@ -206,6 +206,9 @@
 0.0.0.0 collect.kugou.com
 0.0.0.0 commdata.v.qq.com
 0.0.0.0 config.chsmarttv.com
+0.0.0.0 conn-service-cn-03.allawntech.com
+0.0.0.0 conn-service-cn-04.allawntech.com
+0.0.0.0 conn-service-cn-05.allawntech.com
 0.0.0.0 conn-service-in-03.allawnos.com
 0.0.0.0 conn-service-in-04.allawnos.com
 0.0.0.0 conn-service-in-05.allawnos.com

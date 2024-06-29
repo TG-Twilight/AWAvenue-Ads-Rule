@@ -202,6 +202,9 @@ domain:cnzz.com
 domain:collect.kugou.com
 domain:commdata.v.qq.com
 domain:config.chsmarttv.com
+domain:conn-service-cn-03.allawntech.com
+domain:conn-service-cn-04.allawntech.com
+domain:conn-service-cn-05.allawntech.com
 domain:conn-service-in-03.allawnos.com
 domain:conn-service-in-04.allawnos.com
 domain:conn-service-in-05.allawnos.com
