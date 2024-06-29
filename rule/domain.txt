@@ -123,6 +123,8 @@ analytics.woozooo.com
 analyze.lemurbrowser.com
 andrqd.play.aiseet.atianqi.com
 apd-pcdnwxlogin.teg.tencent-cloud.net
+apd-pcdnwxnat.teg.tencent-cloud.net
+apd-pcdnwxstat.teg.tencent-cloud.net
 api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao1.com
 api-access.pangolin-sdk-toutiao2.com
@@ -595,5 +597,3 @@ ykad-gateway.youku.com
 youku-acs.m.taobao.com
 youxi.kugou.com
 zeus.ad.xiaomi.com
-apd-pcdnwxnat.teg.tencent-cloud.net
-apd-pcdnwxstat.teg.tencent-cloud.net
