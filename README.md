@@ -33,11 +33,13 @@
 
 *截止2024年5月，我们可以拦截提瓦特大陆现有九成以上的广告sdk。*
 
+### *如果您对本规则的内容有意见或建议，在提交issue/进群反馈前，请您务必查看我们的[常见问题](https://awavenue.top/Knowledge.html)部分*
+
 ---
 
 ## 🍁工作原理 | Work Principle
 
-使用使用Adblock语法，从网络层面对抗(拦截)Android应用中的各种流氓广告SDK，阻止其加载，从而达到去广告的目的。<br />
+使用Adblock语法，从网络层面对抗(拦截)Android应用中的各种流氓广告SDK，阻止其加载，从而达到去广告的目的。<br />
 
 ---
 
@@ -52,7 +54,7 @@
 
 其他格式见[官方网站-订阅规则](https://awavenue.top/Sub.html)
 
-*¹截止2024年3月，我们官方支持的工具/格式有：
+*¹截止2024年7月，我们官方支持的工具/格式有：
 AdGuard Home、ClashMeta、QuantumultX、Surge、hosts格式、AdGuard DNS、Surfboard、Singbox、AdClose、AdGuard、大圣净化、广告屏蔽大师Plus+、DNS去广告。*
 
  *若您在订阅本广告规则后，发现应用内流氓广告sdk仍在正常展示广告/出现误杀，欢迎反馈！*
@@ -73,9 +75,9 @@ AdGuard Home、ClashMeta、QuantumultX、Surge、hosts格式、AdGuard DNS、Sur
 
 - [AdGuard](https://adguard.com/)    *多端使用，支持Android、Windows、Mac、iOS*
 
-- [AdGuard Home For Magisk](https://github.com/twoone-3/AdGuardHomeForMagisk)   *AdGuard Home的Magisk版本*
-
 - [AdClose（Xposed module）](https://t.me/AdClose)    *Xposed模块，可以通过hook拦截常见广告，内置秋风广告规则，感谢@zjyzip*
+
+- [AdGuard Home For Magisk](https://github.com/twoone-3/AdGuardHomeForMagisk)   *AdGuard Home的Magisk版本*
 
 - [AdGuard DNS](https://adguard-dns.io/en/welcome.html)    *直接使用自定义的DNS服务器，目前，秋风广告规则已加入AdGuard官方列表，你可以直接在AdGuard DNS Filters中订阅！*
 
@@ -109,7 +111,7 @@ AdGuard Home、ClashMeta、QuantumultX、Surge、hosts格式、AdGuard DNS、Sur
 
 ---
 ![:访问数](https://moe-counter.glitch.me/get/@TG-Twiligh?theme=gelbooru)
-2024.5.5开始统计......
+2024年6月 开始统计......
 ---
 
-> [@Github](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) · [@Telegram Channel](https://t.me/AWAvenueAdsRule) · [@Telegram Group](https://t.me/AWAvenueAdsChat)
+> [@Github](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) · [@Telegram Channel](https://t.me/AWAvenueAdsRule) · [@Telegram Group](https://t.me/AWAvenueAdsChat) · [Official WebSite](https://awavenue.top/)
