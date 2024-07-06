@@ -272,3 +272,13 @@ t002.ottcn.com  |  smart-tv.cn
 修复 WeChat 订阅号中，文章及末尾的广告拦截。修复本更新日志的部分格式错误。
 <br />
 <br />
+
+## 1.5.0-release-Patch：7月6日，2024年
+加强了对于 WeChat Applets 的视频ads拦截，例如 乘车码。
+<br />
+更新了我们的官方网站，增加了“[常见问题与答疑板块](https://awavenue.top/Knowledge.html#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98-%E4%B8%8E%E7%AD%94%E7%96%91)”板块，新增 SingBox 懒人规则（群内不讨论）
+<br />
+完善了我们的 [aifadian](https://afdian.net/a/AdsRule?utm_source=leaflet) 页面，现在，您可以通过这个平台对我们进行赞助和激励！
+<br />
+<br />
+Tips：之后的每次更新（指发 release）均会提供当前日期下最新的 AdGuard Home Kernel linux arm64 的 upx best 压缩包。
