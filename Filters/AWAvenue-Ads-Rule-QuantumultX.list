@@ -1,7 +1,7 @@
 #Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 
 #版本号: 1.5.0-release-Patch
-#上次更新日期: 2024-07-06
+#上次更新日期: 2024-07-09
 
 #项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 
@@ -612,7 +612,6 @@ DOMAIN,ws-keyboard.shouji.sogou.com,reject
 DOMAIN,ws.sj.qq.com,reject
 DOMAIN,www42.zskwai.com,reject
 DOMAIN,wxa.wxs.qq.com,reject
-DOMAIN,wxapp.tc.qq.com,reject
 DOMAIN,wximg.wxs.qq.com,reject
 DOMAIN,wxsmw.wxs.qq.com,reject
 DOMAIN,wxsnsad.tc.qq.com,reject
