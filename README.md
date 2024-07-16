@@ -99,7 +99,7 @@ AdGuard Home、ClashMeta、QuantumultX、Surge、hosts格式、AdGuard DNS、Sur
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=TG-Twilight/AWAvenue-Ads-Rule&type=Date)](https://star-history.com/#TG-Twilight/AWAvenue-Ads-Rule&Date)
+[![Stargazers over time](https://starchart.cc/TG-Twilight/AWAvenue-Ads-Rule.svg?variant=adaptive)](https://starchart.cc/TG-Twilight/AWAvenue-Ads-Rule)
 
 ---
 
