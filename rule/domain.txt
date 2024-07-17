@@ -445,6 +445,7 @@ scdown.qq.com
 scs.openspeech.cn
 sdk-ab-config.qquanquan.com
 sdk-cache.video.ptqy.gitv.tv
+sdk.1rtb.net
 sdk.beizi.biz
 sdk.cferw.com
 sdk.e.qq.com
