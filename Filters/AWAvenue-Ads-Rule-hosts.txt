@@ -1,7 +1,7 @@
 !Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 
 !版本号: 1.5.0-release-Patch
-!上次更新日期: 2024-07-17
+!上次更新日期: 2024-07-18
 
 !项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 
@@ -305,7 +305,6 @@
 127.0.0.1 img.adnyg.com.w.kunlungr.com
 127.0.0.1 imtmp.net
 127.0.0.1 irc.qubiankeji.com
-127.0.0.1 is.snssdk.com
 127.0.0.1 itv2-up.openspeech.cn
 127.0.0.1 ixav-cse.avlyun.com
 127.0.0.1 iyfbodn.com
