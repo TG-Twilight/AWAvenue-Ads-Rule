@@ -387,3 +387,9 @@ Tips：之后的每次更新（指发 release）均会提供当前日期下最�
 修复对于WeChat表情包的错误拦截（感谢@cream00000），修复对于dailytopic搜索结果的错误拦截（感谢@maoxiaoyu）。
 <br />
 <br />
+更改README中，更改Star History的统计提供方。
+<br />
+<br />
+
+---
+
