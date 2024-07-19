@@ -382,8 +382,8 @@ Tips：之后的每次更新（指发 release）均会提供当前日期下最�
 ---
 
 ## 1.5.0-release-Patch-2：7月17日，2024年
-新增对于外卖优惠app开屏联盟广告的拦截。
+新增对于外卖优惠app开屏联盟广告的拦截（感谢@thesadp）；新增对于netase Mail Mnaager ads的封锁（感谢@thesadp）。
 <br />
-修复对于WeChat表情包的错误拦截，修复对于dailytopic搜索结果的错误拦截。
+修复对于WeChat表情包的错误拦截（感谢@cream00000），修复对于dailytopic搜索结果的错误拦截（感谢@maoxiaoyu）。
 <br />
 <br />
