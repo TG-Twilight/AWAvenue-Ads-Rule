@@ -1,7 +1,7 @@
 #Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）
 
 #版本号: 1.5.0-release-Patch
-#上次更新日期: 2024-07-18
+#上次更新日期: 2024-07-19
 
 #项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 
@@ -267,6 +267,7 @@ payload:
   - DOMAIN,googleadservices.com
   - DOMAIN,googletagservices-cn.com
   - DOMAIN,googletagservices.com
+  - DOMAIN,gorgon.youdao.com
   - DOMAIN,gromore.pangolin-sdk-toutiao.com
   - DOMAIN,grs.dbankcloud.com
   - DOMAIN,grs.hicloud.com
