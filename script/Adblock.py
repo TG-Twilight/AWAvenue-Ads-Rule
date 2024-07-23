@@ -15,4 +15,4 @@ def format_regex(List):
 
 def build(rule):
     Adblock_list = format_domain(rule.domain_list) + format_regex(rule.regex_list)
-    return Adblock_list, ".txt", "!"
+    return Adblock_list, ".txt", "!", len(Adblock_list)

@@ -29,5 +29,5 @@ def build(rule):
         ]
     }
     
-    json_data = json.dumps(List, indent=2)
-    return [json_data], ".json", "//"
+    json_data = [json.dumps(List, indent=2)]
+    return json_data, ".json", "//", len(json_data)

@@ -3,7 +3,7 @@ import sys
 import json
 import importlib
 import subprocess
-from datetime import datetime
+import datetime
 
 SCRIPT_PATH = os.path.join(os.getcwd(), "script")
 RULE_PATH = os.path.join(os.getcwd(), "rule")
@@ -12,8 +12,8 @@ domain_file=RULE_PATH + "/domain.txt"
 regex_file=RULE_PATH + "/domain_regex.txt"
 ip_file=RULE_PATH + "/ip.txt"
 ip6_file=RULE_PATH + "/ip6.txt"
-current_time = datetime.now()
-format_time = current_time.strftime("%Y-%m-%d")
+current_time = datetime.datetime.now(datetime.timezone.utc)
+format_time = current_time.isoformat()
 process = subprocess.Popen('git tag | tail -1', stdout=subprocess.PIPE, shell=True)
 output, error = process.communicate()
 tag = output.decode().strip()
@@ -21,6 +21,7 @@ tag = output.decode().strip()
 if not os.path.exists(OUT_PATH):
     print(f"{OUT_PATH} 目录不存在!")
     sys.exit(1)
+
 
 class RuleList:
     def __init__(self, domain_file, regex_file, ip_file, ip6_file):
@@ -40,10 +41,21 @@ class RuleList:
 
 rule = RuleList(domain_file, regex_file, ip_file, ip6_file)
 
-def WriteFile(name, text, suffix, comment):
+def WriteFile(name, text, suffix, comment, module_total):
     try:
         with open(OUT_PATH + "/AWAvenue-Ads-Rule-" + name + suffix, 'w', encoding="utf-8") as file:
-            file.write(f"{comment}Title: AWAvenue 秋风广告规则（AWAvenue-Ads-Rule）\n\n{comment}版本号: {tag}\n{comment}上次更新日期: {format_time}\n\n{comment}项目地址：https://github.com/TG-Twilight/AWAvenue-Ads-Rule\n\n{comment}如果需要在其它规则中混合此规则，请在您的规则显眼处注明本规则的出处，谢谢！\n{comment}加入Telegram群组 秋風がく山道 (@AWAvenueAdsChat) 与编写者交流，期待着您的到来！\n{comment}群组链接：https://t.me/AWAvenueAdsChat\n{comment}订阅Telegram频道 AWAvenue Ads Rule (@AWAvenueAdsRule) 获取最新公告，期待着您的订阅！\n{comment}频道链接：https://t.me/AWAvenueAdsRule\n\n{comment}This project is licensed under the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.\n\n{comment}AD:\n{comment}倾城极速 - 畅游世界，高速互联！官网：https://panel.qqcjs.top 官网2：https://n3b53vrt.wcnmdmht.biz\n\n\n")
+            title = f"""{comment}Title: AWAvenue Ads Rule
+{comment}Last modified: {format_time}
+{comment}--------------------------------------
+{comment}Total lines: {module_total}
+{comment}Version: 1.5.0-release-Patch-2
+
+{comment}Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+{comment}License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
+
+
+"""
+            file.write(title)
             for line in text:
                 file.write(line + "\n")
     except Exception as e:
@@ -56,8 +68,8 @@ def RunScript():
             full_module_name = f"script.{module_name}"
             try:
                 module = importlib.import_module(full_module_name)
-                module_list, module_suffix, module_comment = module.build(rule)
-                WriteFile(module_name, module_list, module_suffix, module_comment)
+                module_list, module_suffix, module_comment, module_total = module.build(rule)
+                WriteFile(module_name, module_list, module_suffix, module_comment, str(module_total))
             except Exception as e:
                 print(f"转换插件:{module_name}执行失败: {e}")
 

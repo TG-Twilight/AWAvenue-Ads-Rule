@@ -22,4 +22,4 @@ def format_ip(List):
 
 def build(rule):
     clash_list = ["payload:"] + format_ip(rule.ip_list) + format_domain(rule.domain_list) + format_regex(rule.regex_list)
-    return clash_list, ".yaml", "#"
+    return clash_list, ".yaml", "#", len(clash_list)
