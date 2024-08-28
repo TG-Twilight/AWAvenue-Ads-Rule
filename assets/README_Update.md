@@ -393,3 +393,14 @@ Tips：之后的每次更新（指发 release）均会提供当前日期下最�
 
 ---
 
+## 1.5.1-release：8月28日，2024年
+新增对于懂球帝app部分广告的拦截（感谢TG反馈群用户@wuiiled），增加更多来自于 Txxxxxt 的ads（感谢TG反馈群用户@alevxkevin）。
+<br />
+修复对于 baidu Netdisk 部分资源的错误拦截（经核实，该[域名](staticsns.cdn.bcebos.com)为正常内容与广告内容混用链接），故决定将该域名迁移至“秋风广告规则补充规则（AWAvenue-Ads-Rule-Replenish）”中 #79（感谢 @xunpod、@Sponge_bob）。
+<br />
+<br />
+同步更新了我们的官方网站之信息。
+<br />
+<br />
+
+---
