@@ -14,9 +14,7 @@ ip_file=RULE_PATH + "/ip.txt"
 ip6_file=RULE_PATH + "/ip6.txt"
 current_time = datetime.datetime.now(datetime.timezone.utc)
 format_time = current_time.isoformat()
-process = subprocess.Popen('git tag | tail -1', stdout=subprocess.PIPE, shell=True)
-output, error = process.communicate()
-tag = output.decode().strip()
+
 
 if not os.path.exists(OUT_PATH):
     print(f"{OUT_PATH} 目录不存在!")
@@ -41,6 +39,15 @@ class RuleList:
 
 rule = RuleList(domain_file, regex_file, ip_file, ip6_file)
 
+def get_latest_git_tag():
+    process = subprocess.Popen('git tag', stdout=subprocess.PIPE, shell=True)
+    output, error = process.communicate()
+    tags = output.decode().strip().split('\n')
+    if tags:
+        return tags[-1]
+    else:
+        return None
+
 def WriteFile(name, text, suffix, comment, module_total):
     try:
         with open(OUT_PATH + "/AWAvenue-Ads-Rule-" + name + suffix, 'w', encoding="utf-8") as file:
@@ -48,7 +55,7 @@ def WriteFile(name, text, suffix, comment, module_total):
 {comment}Last modified: {format_time}
 {comment}--------------------------------------
 {comment}Total lines: {module_total}
-{comment}Version: 1.5.0-release-Patch-2
+{comment}Version: {get_latest_git_tag()}
 
 {comment}Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 {comment}License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
