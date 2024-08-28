@@ -37,3 +37,6 @@
 !
 ||mcdn.bilivideo.cn^
 # 用于拦截睿站的pcdn上传行为，启用后将会使用bilibili自己的视频cdn节点，但同时可能会导致视频播放时弹出验证码等诸如此类的情况。
+!
+||staticsns.cdn.bcebos.com^
+# 用于拦截 baidu Netdisk 部分资源的错误拦截（经核实，该域名为正常内容与广告内容混用链接）。
