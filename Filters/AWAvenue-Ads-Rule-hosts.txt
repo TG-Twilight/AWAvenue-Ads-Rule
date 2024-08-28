@@ -1,7 +1,7 @@
 !Title: AWAvenue Ads Rule
-!Last modified: 2024-08-28T08:06:29.355206+00:00
+!Last modified: 2024-08-28T08:30:47.537343+00:00
 !--------------------------------------
-!Total lines: 612
+!Total lines: 618
 !Version: 1.5.0-release-Patch-2
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -119,6 +119,7 @@
 127.0.0.1 adxlog-adnet.vivo.com.cn
 127.0.0.1 adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn
 127.0.0.1 adxserver.ad.cmvideo.cn
+127.0.0.1 aegis.qq.com
 127.0.0.1 afs.googlesyndication.com
 127.0.0.1 aiseet.aa.atianqi.com
 127.0.0.1 ali-ad.a.yximgs.com
@@ -174,12 +175,14 @@
 127.0.0.1 bdapi.ads.oppomobile.com
 127.0.0.1 beacon-api.aliyuncs.com
 127.0.0.1 beacon.qq.com
+127.0.0.1 beaconcdn.qq.com
 127.0.0.1 beacons.gvt2.com
 127.0.0.1 beizi.biz
 127.0.0.1 bianxian.com
 127.0.0.1 bingads.microsoft.com
 127.0.0.1 bj.ad.track.66mobi.com
 127.0.0.1 books-analytics-events.apple.com
+127.0.0.1 bsrv.qq.com
 127.0.0.1 bugly.qq.com
 127.0.0.1 business-api.tiktok.com
 127.0.0.1 c.bidtoolads.com
@@ -427,6 +430,7 @@
 127.0.0.1 pglstatp-toutiao.com
 127.0.0.1 pig.pupuapi.com
 127.0.0.1 pixon.ads-pixiv.net
+127.0.0.1 pms.mb.qq.com
 127.0.0.1 policy.video.ptqy.gitv.tv
 127.0.0.1 proxy.advp.apple.com
 127.0.0.1 public.gdtimg.com
@@ -435,6 +439,7 @@
 127.0.0.1 qwapi.apple.com
 127.0.0.1 qzs.gdtimg.com
 127.0.0.1 recommend-drcn.hms.dbankcloud.cn
+127.0.0.1 report.tv.kohesport.qq.com
 127.0.0.1 res.hubcloud.com.cn
 127.0.0.1 res1.hubcloud.com.cn
 127.0.0.1 res2.hubcloud.com.cn
@@ -566,6 +571,7 @@
 127.0.0.1 v3-ad.video.yximgs.com
 127.0.0.1 video-ad.sm.cn
 127.0.0.1 video-dsp.pddpic.com
+127.0.0.1 video.dispatch.tc.qq.com
 127.0.0.1 virusinfo-cloudscan-cn.heytapmobi.com
 127.0.0.1 vlive.qqvideo.tc.qq.com
 127.0.0.1 vungle.com

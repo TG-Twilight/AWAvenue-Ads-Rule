@@ -1,7 +1,7 @@
 #Title: AWAvenue Ads Rule
-#Last modified: 2024-08-28T08:06:29.355206+00:00
+#Last modified: 2024-08-28T08:30:47.537343+00:00
 #--------------------------------------
-#Total lines: 630
+#Total lines: 636
 #Version: 1.5.0-release-Patch-2
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -118,6 +118,7 @@ DOMAIN,adx.ads.oppomobile.com,reject
 DOMAIN,adxlog-adnet.vivo.com.cn,reject
 DOMAIN,adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn,reject
 DOMAIN,adxserver.ad.cmvideo.cn,reject
+DOMAIN,aegis.qq.com,reject
 DOMAIN,afs.googlesyndication.com,reject
 DOMAIN,aiseet.aa.atianqi.com,reject
 DOMAIN,ali-ad.a.yximgs.com,reject
@@ -173,12 +174,14 @@ DOMAIN,bdapi-in-ads.realmemobile.com,reject
 DOMAIN,bdapi.ads.oppomobile.com,reject
 DOMAIN,beacon-api.aliyuncs.com,reject
 DOMAIN,beacon.qq.com,reject
+DOMAIN,beaconcdn.qq.com,reject
 DOMAIN,beacons.gvt2.com,reject
 DOMAIN,beizi.biz,reject
 DOMAIN,bianxian.com,reject
 DOMAIN,bingads.microsoft.com,reject
 DOMAIN,bj.ad.track.66mobi.com,reject
 DOMAIN,books-analytics-events.apple.com,reject
+DOMAIN,bsrv.qq.com,reject
 DOMAIN,bugly.qq.com,reject
 DOMAIN,business-api.tiktok.com,reject
 DOMAIN,c.bidtoolads.com,reject
@@ -426,6 +429,7 @@ DOMAIN,pgdt.ugdtimg.com,reject
 DOMAIN,pglstatp-toutiao.com,reject
 DOMAIN,pig.pupuapi.com,reject
 DOMAIN,pixon.ads-pixiv.net,reject
+DOMAIN,pms.mb.qq.com,reject
 DOMAIN,policy.video.ptqy.gitv.tv,reject
 DOMAIN,proxy.advp.apple.com,reject
 DOMAIN,public.gdtimg.com,reject
@@ -434,6 +438,7 @@ DOMAIN,qqdata.ab.qq.com,reject
 DOMAIN,qwapi.apple.com,reject
 DOMAIN,qzs.gdtimg.com,reject
 DOMAIN,recommend-drcn.hms.dbankcloud.cn,reject
+DOMAIN,report.tv.kohesport.qq.com,reject
 DOMAIN,res.hubcloud.com.cn,reject
 DOMAIN,res1.hubcloud.com.cn,reject
 DOMAIN,res2.hubcloud.com.cn,reject
@@ -565,6 +570,7 @@ DOMAIN,v2.gdt.qq.com,reject
 DOMAIN,v3-ad.video.yximgs.com,reject
 DOMAIN,video-ad.sm.cn,reject
 DOMAIN,video-dsp.pddpic.com,reject
+DOMAIN,video.dispatch.tc.qq.com,reject
 DOMAIN,virusinfo-cloudscan-cn.heytapmobi.com,reject
 DOMAIN,vlive.qqvideo.tc.qq.com,reject
 DOMAIN,vungle.com,reject

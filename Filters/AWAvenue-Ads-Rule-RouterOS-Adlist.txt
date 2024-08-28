@@ -1,7 +1,7 @@
 #Title: AWAvenue Ads Rule
-#Last modified: 2024-08-28T08:06:29.355206+00:00
+#Last modified: 2024-08-28T08:30:47.537343+00:00
 #--------------------------------------
-#Total lines: 612
+#Total lines: 618
 #Version: 1.5.0-release-Patch-2
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -119,6 +119,7 @@
 0.0.0.0 adxlog-adnet.vivo.com.cn
 0.0.0.0 adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn
 0.0.0.0 adxserver.ad.cmvideo.cn
+0.0.0.0 aegis.qq.com
 0.0.0.0 afs.googlesyndication.com
 0.0.0.0 aiseet.aa.atianqi.com
 0.0.0.0 ali-ad.a.yximgs.com
@@ -174,12 +175,14 @@
 0.0.0.0 bdapi.ads.oppomobile.com
 0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 beacon.qq.com
+0.0.0.0 beaconcdn.qq.com
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 beizi.biz
 0.0.0.0 bianxian.com
 0.0.0.0 bingads.microsoft.com
 0.0.0.0 bj.ad.track.66mobi.com
 0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 bsrv.qq.com
 0.0.0.0 bugly.qq.com
 0.0.0.0 business-api.tiktok.com
 0.0.0.0 c.bidtoolads.com
@@ -427,6 +430,7 @@
 0.0.0.0 pglstatp-toutiao.com
 0.0.0.0 pig.pupuapi.com
 0.0.0.0 pixon.ads-pixiv.net
+0.0.0.0 pms.mb.qq.com
 0.0.0.0 policy.video.ptqy.gitv.tv
 0.0.0.0 proxy.advp.apple.com
 0.0.0.0 public.gdtimg.com
@@ -435,6 +439,7 @@
 0.0.0.0 qwapi.apple.com
 0.0.0.0 qzs.gdtimg.com
 0.0.0.0 recommend-drcn.hms.dbankcloud.cn
+0.0.0.0 report.tv.kohesport.qq.com
 0.0.0.0 res.hubcloud.com.cn
 0.0.0.0 res1.hubcloud.com.cn
 0.0.0.0 res2.hubcloud.com.cn
@@ -566,6 +571,7 @@
 0.0.0.0 v3-ad.video.yximgs.com
 0.0.0.0 video-ad.sm.cn
 0.0.0.0 video-dsp.pddpic.com
+0.0.0.0 video.dispatch.tc.qq.com
 0.0.0.0 virusinfo-cloudscan-cn.heytapmobi.com
 0.0.0.0 vlive.qqvideo.tc.qq.com
 0.0.0.0 vungle.com

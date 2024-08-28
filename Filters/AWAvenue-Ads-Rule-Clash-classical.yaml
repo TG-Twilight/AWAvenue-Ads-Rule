@@ -1,7 +1,7 @@
 #Title: AWAvenue Ads Rule
-#Last modified: 2024-08-28T08:06:29.355206+00:00
+#Last modified: 2024-08-28T08:30:47.537343+00:00
 #--------------------------------------
-#Total lines: 631
+#Total lines: 637
 #Version: 1.5.0-release-Patch-2
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -119,6 +119,7 @@ payload:
   - DOMAIN,adxlog-adnet.vivo.com.cn
   - DOMAIN,adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn
   - DOMAIN,adxserver.ad.cmvideo.cn
+  - DOMAIN,aegis.qq.com
   - DOMAIN,afs.googlesyndication.com
   - DOMAIN,aiseet.aa.atianqi.com
   - DOMAIN,ali-ad.a.yximgs.com
@@ -174,12 +175,14 @@ payload:
   - DOMAIN,bdapi.ads.oppomobile.com
   - DOMAIN,beacon-api.aliyuncs.com
   - DOMAIN,beacon.qq.com
+  - DOMAIN,beaconcdn.qq.com
   - DOMAIN,beacons.gvt2.com
   - DOMAIN,beizi.biz
   - DOMAIN,bianxian.com
   - DOMAIN,bingads.microsoft.com
   - DOMAIN,bj.ad.track.66mobi.com
   - DOMAIN,books-analytics-events.apple.com
+  - DOMAIN,bsrv.qq.com
   - DOMAIN,bugly.qq.com
   - DOMAIN,business-api.tiktok.com
   - DOMAIN,c.bidtoolads.com
@@ -427,6 +430,7 @@ payload:
   - DOMAIN,pglstatp-toutiao.com
   - DOMAIN,pig.pupuapi.com
   - DOMAIN,pixon.ads-pixiv.net
+  - DOMAIN,pms.mb.qq.com
   - DOMAIN,policy.video.ptqy.gitv.tv
   - DOMAIN,proxy.advp.apple.com
   - DOMAIN,public.gdtimg.com
@@ -435,6 +439,7 @@ payload:
   - DOMAIN,qwapi.apple.com
   - DOMAIN,qzs.gdtimg.com
   - DOMAIN,recommend-drcn.hms.dbankcloud.cn
+  - DOMAIN,report.tv.kohesport.qq.com
   - DOMAIN,res.hubcloud.com.cn
   - DOMAIN,res1.hubcloud.com.cn
   - DOMAIN,res2.hubcloud.com.cn
@@ -566,6 +571,7 @@ payload:
   - DOMAIN,v3-ad.video.yximgs.com
   - DOMAIN,video-ad.sm.cn
   - DOMAIN,video-dsp.pddpic.com
+  - DOMAIN,video.dispatch.tc.qq.com
   - DOMAIN,virusinfo-cloudscan-cn.heytapmobi.com
   - DOMAIN,vlive.qqvideo.tc.qq.com
   - DOMAIN,vungle.com

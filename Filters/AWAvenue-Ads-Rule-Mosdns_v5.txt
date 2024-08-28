@@ -1,7 +1,7 @@
 #Title: AWAvenue Ads Rule
-#Last modified: 2024-08-28T08:06:29.355206+00:00
+#Last modified: 2024-08-28T08:30:47.537343+00:00
 #--------------------------------------
-#Total lines: 612
+#Total lines: 618
 #Version: 1.5.0-release-Patch-2
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -115,6 +115,7 @@ domain:adx.ads.oppomobile.com
 domain:adxlog-adnet.vivo.com.cn
 domain:adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn
 domain:adxserver.ad.cmvideo.cn
+domain:aegis.qq.com
 domain:afs.googlesyndication.com
 domain:aiseet.aa.atianqi.com
 domain:ali-ad.a.yximgs.com
@@ -170,12 +171,14 @@ domain:bdapi-in-ads.realmemobile.com
 domain:bdapi.ads.oppomobile.com
 domain:beacon-api.aliyuncs.com
 domain:beacon.qq.com
+domain:beaconcdn.qq.com
 domain:beacons.gvt2.com
 domain:beizi.biz
 domain:bianxian.com
 domain:bingads.microsoft.com
 domain:bj.ad.track.66mobi.com
 domain:books-analytics-events.apple.com
+domain:bsrv.qq.com
 domain:bugly.qq.com
 domain:business-api.tiktok.com
 domain:c.bidtoolads.com
@@ -423,6 +426,7 @@ domain:pgdt.ugdtimg.com
 domain:pglstatp-toutiao.com
 domain:pig.pupuapi.com
 domain:pixon.ads-pixiv.net
+domain:pms.mb.qq.com
 domain:policy.video.ptqy.gitv.tv
 domain:proxy.advp.apple.com
 domain:public.gdtimg.com
@@ -431,6 +435,7 @@ domain:qqdata.ab.qq.com
 domain:qwapi.apple.com
 domain:qzs.gdtimg.com
 domain:recommend-drcn.hms.dbankcloud.cn
+domain:report.tv.kohesport.qq.com
 domain:res.hubcloud.com.cn
 domain:res1.hubcloud.com.cn
 domain:res2.hubcloud.com.cn
@@ -562,6 +567,7 @@ domain:v2.gdt.qq.com
 domain:v3-ad.video.yximgs.com
 domain:video-ad.sm.cn
 domain:video-dsp.pddpic.com
+domain:video.dispatch.tc.qq.com
 domain:virusinfo-cloudscan-cn.heytapmobi.com
 domain:vlive.qqvideo.tc.qq.com
 domain:vungle.com
