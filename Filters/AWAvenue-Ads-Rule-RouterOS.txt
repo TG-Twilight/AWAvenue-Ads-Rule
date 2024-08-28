@@ -1,5 +1,5 @@
 #Title: AWAvenue Ads Rule
-#Last modified: 2024-08-28T10:01:09.238158+00:00
+#Last modified: 2024-08-28T10:03:07.980291+00:00
 #--------------------------------------
 #Total lines: 15
 #Version: 1.5.1-release
