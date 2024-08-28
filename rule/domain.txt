@@ -616,3 +616,9 @@ ykad-gateway.youku.com
 youku-acs.m.taobao.com
 youxi.kugou.com
 zeus.ad.xiaomi.com
+aegis.qq.com
+beaconcdn.qq.com
+bsrv.qq.com
+report.tv.kohesport.qq.com
+pms.mb.qq.com
+video.dispatch.tc.qq.com
