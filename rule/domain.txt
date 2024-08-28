@@ -107,6 +107,7 @@ adx.ads.oppomobile.com
 adxlog-adnet.vivo.com.cn
 adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn
 adxserver.ad.cmvideo.cn
+aegis.qq.com
 afs.googlesyndication.com
 aiseet.aa.atianqi.com
 ali-ad.a.yximgs.com
@@ -162,12 +163,14 @@ bdapi-in-ads.realmemobile.com
 bdapi.ads.oppomobile.com
 beacon-api.aliyuncs.com
 beacon.qq.com
+beaconcdn.qq.com
 beacons.gvt2.com
 beizi.biz
 bianxian.com
 bingads.microsoft.com
 bj.ad.track.66mobi.com
 books-analytics-events.apple.com
+bsrv.qq.com
 bugly.qq.com
 business-api.tiktok.com
 c.bidtoolads.com
@@ -418,6 +421,7 @@ pgdt.ugdtimg.com
 pglstatp-toutiao.com
 pig.pupuapi.com
 pixon.ads-pixiv.net
+pms.mb.qq.com
 policy.video.ptqy.gitv.tv
 proxy.advp.apple.com
 public.gdtimg.com
@@ -426,6 +430,7 @@ qqdata.ab.qq.com
 qwapi.apple.com
 qzs.gdtimg.com
 recommend-drcn.hms.dbankcloud.cn
+report.tv.kohesport.qq.com
 res.hubcloud.com.cn
 res1.hubcloud.com.cn
 res2.hubcloud.com.cn
@@ -483,6 +488,7 @@ smetrics.samsung.com
 sms.ads.oppomobile.com
 sngmta.qq.com
 stat.dongqiudi.com
+stat.y.qq.com
 stat.y.qq.com
 static.ads-twitter.com
 statics.woozooo.com
@@ -558,6 +564,7 @@ v2.gdt.qq.com
 v3-ad.video.yximgs.com
 video-ad.sm.cn
 video-dsp.pddpic.com
+video.dispatch.tc.qq.com
 virusinfo-cloudscan-cn.heytapmobi.com
 vlive.qqvideo.tc.qq.com
 vungle.com
@@ -616,9 +623,3 @@ ykad-gateway.youku.com
 youku-acs.m.taobao.com
 youxi.kugou.com
 zeus.ad.xiaomi.com
-aegis.qq.com
-beaconcdn.qq.com
-bsrv.qq.com
-report.tv.kohesport.qq.com
-pms.mb.qq.com
-video.dispatch.tc.qq.com
