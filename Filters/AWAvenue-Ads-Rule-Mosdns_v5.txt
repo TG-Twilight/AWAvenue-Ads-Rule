@@ -1,7 +1,7 @@
 #Title: AWAvenue Ads Rule
-#Last modified: 2024-07-23T09:36:03.160610+00:00
+#Last modified: 2024-08-28T08:06:29.355206+00:00
 #--------------------------------------
-#Total lines: 611
+#Total lines: 612
 #Version: 1.5.0-release-Patch-2
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -133,6 +133,7 @@ domain:analytics.tiktok.com
 domain:analytics.woozooo.com
 domain:analyze.lemurbrowser.com
 domain:andrqd.play.aiseet.atianqi.com
+domain:ap.dongqiudi.com
 domain:apd-pcdnwxlogin.teg.tencent-cloud.net
 domain:apd-pcdnwxnat.teg.tencent-cloud.net
 domain:apd-pcdnwxstat.teg.tencent-cloud.net
@@ -485,10 +486,10 @@ domain:smartad.10010.com
 domain:smetrics.samsung.com
 domain:sms.ads.oppomobile.com
 domain:sngmta.qq.com
+domain:stat.dongqiudi.com
 domain:stat.y.qq.com
 domain:static.ads-twitter.com
 domain:statics.woozooo.com
-domain:staticsns.cdn.bcebos.com
 domain:stats.qiumibao.com
 domain:statsigapi.net
 domain:stg-data.ads.heytapmobi.com

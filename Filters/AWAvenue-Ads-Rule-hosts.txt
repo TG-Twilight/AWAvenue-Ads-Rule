@@ -1,7 +1,7 @@
 !Title: AWAvenue Ads Rule
-!Last modified: 2024-07-23T09:36:03.160610+00:00
+!Last modified: 2024-08-28T08:06:29.355206+00:00
 !--------------------------------------
-!Total lines: 611
+!Total lines: 612
 !Version: 1.5.0-release-Patch-2
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -137,6 +137,7 @@
 127.0.0.1 analytics.woozooo.com
 127.0.0.1 analyze.lemurbrowser.com
 127.0.0.1 andrqd.play.aiseet.atianqi.com
+127.0.0.1 ap.dongqiudi.com
 127.0.0.1 apd-pcdnwxlogin.teg.tencent-cloud.net
 127.0.0.1 apd-pcdnwxnat.teg.tencent-cloud.net
 127.0.0.1 apd-pcdnwxstat.teg.tencent-cloud.net
@@ -489,10 +490,10 @@
 127.0.0.1 smetrics.samsung.com
 127.0.0.1 sms.ads.oppomobile.com
 127.0.0.1 sngmta.qq.com
+127.0.0.1 stat.dongqiudi.com
 127.0.0.1 stat.y.qq.com
 127.0.0.1 static.ads-twitter.com
 127.0.0.1 statics.woozooo.com
-127.0.0.1 staticsns.cdn.bcebos.com
 127.0.0.1 stats.qiumibao.com
 127.0.0.1 statsigapi.net
 127.0.0.1 stg-data.ads.heytapmobi.com
