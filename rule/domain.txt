@@ -125,6 +125,7 @@ analytics.tiktok.com
 analytics.woozooo.com
 analyze.lemurbrowser.com
 andrqd.play.aiseet.atianqi.com
+ap.dongqiudi.com
 apd-pcdnwxlogin.teg.tencent-cloud.net
 apd-pcdnwxnat.teg.tencent-cloud.net
 apd-pcdnwxstat.teg.tencent-cloud.net
@@ -466,6 +467,7 @@ search5-search-hl.ixigua.com
 search5-search.ixigua.com
 securemetrics.apple.com
 sensors-log.dongqiudi.com
+sensors-log.dongqiudi.com
 service.changhong.upgrade2.huan.tv
 service.vmos.cn
 sf16-static.i18n-pglstatp.com
@@ -480,10 +482,10 @@ smartad.10010.com
 smetrics.samsung.com
 sms.ads.oppomobile.com
 sngmta.qq.com
+stat.dongqiudi.com
 stat.y.qq.com
 static.ads-twitter.com
 statics.woozooo.com
-staticsns.cdn.bcebos.com
 stats.qiumibao.com
 statsigapi.net
 stg-data.ads.heytapmobi.com
