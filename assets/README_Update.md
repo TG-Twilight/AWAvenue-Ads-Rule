@@ -410,6 +410,8 @@ Tips：之后的每次更新（指发 release）均会提供当前日期下最�
 <br />
 更多的 baidu ads 拦截、Txxxxxt ads 拦截、getui ads、更多的小说类app ads拦截、kwai ads拦截、更多的漫画类app ads拦截、Goole负一屏信息流中各大新闻媒体的页面广告、更多的 umeng analytics 拦截。
 <br />
+感谢反馈群的群友们积极反馈！
+<br />
 <br />
 
 ---
