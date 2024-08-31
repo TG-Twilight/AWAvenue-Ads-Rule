@@ -1,4 +1,6 @@
 1010pic.com
+16dd-advertise-1252317822.file.myqcloud.com
+16dd-advertise-1252317822.image.myqcloud.com
 8le8le.com
 a0.app.xiaomi.com
 aaid.umeng.com
@@ -18,6 +20,7 @@ ad.qq.com
 ad.richmob.cn
 ad.tencentmusic.com
 ad.toutiao.com
+ad.v3mh.com
 ad.winrar.com.cn
 ad.xelements.cn
 ad.xiaomi.com
@@ -57,6 +60,7 @@ ads.oppomobile.com
 ads.pinterest.com
 ads.service.kugou.com
 ads.service.kugou.com
+ads.v3mh.com
 ads3-normal-hl.zijieapi.com
 ads3-normal-lf.zijieapi.com
 ads3-normal-lq.zijieapi.com
@@ -112,6 +116,7 @@ afs.googlesyndication.com
 aiseet.aa.atianqi.com
 ali-ad.a.yximgs.com
 alog.umeng.com
+als.baidu.com
 amdcopen.m.taobao.com
 an.facebook.com
 analysis.yozocloud.cn
@@ -140,9 +145,11 @@ api-ad-product.huxiu.com
 api-adservices.apple.com
 api-htp.beizi.biz
 api.ad.xiaomi.com
+api.e.kuaishou.com
 api.htp.hubcloud.com.cn
 api.hzsanjiaomao.com
 api.installer.xiaomi.com
+api.jietuhb.com
 api.kingdata.ksyun.com
 api.statsig.com
 api5-normal-quic-lf.ixigua.com
@@ -166,10 +173,12 @@ beacon.qq.com
 beaconcdn.qq.com
 beacons.gvt2.com
 beizi.biz
+bgg.baidu.com
 bianxian.com
 bingads.microsoft.com
 bj.ad.track.66mobi.com
 books-analytics-events.apple.com
+bossaudioandcomic-1252317822.image.myqcloud.com
 bsrv.qq.com
 bugly.qq.com
 business-api.tiktok.com
@@ -182,12 +191,14 @@ c2.gdt.qq.com
 catalog.fjwhcbsh.com
 ccs.umeng.com
 cctv.adsunion.com
+cdn-ad.wtzw.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
 cdn.ad.xiaomi.com
 cdn.ynuf.aliapp.org
 cfg.imtt.qq.com
 chat1.jd.com
 chiq-cloud.com
+cj.qidian.com
 ck.ads.oppomobile.com
 clog.miguvideo.com
 cnzz.com
@@ -242,6 +253,7 @@ game.loveota.com
 gdfp.gifshow.com
 gemini.yahoo.com
 geo.yahoo.com
+getui.com
 ggx.cmvideo.cn
 ggx01.miguvideo.com
 ggx03.miguvideo.com
@@ -264,6 +276,7 @@ hexagon-analytics.com
 hiboard-drcn.ai.dbankcloud.cn
 hm.baidu.com
 hmma.baidu.com
+houyi.kkmh.com
 hpplay.cn
 httpdns.bcelive.com
 httpdns.ocloud.oppomobile.com
@@ -282,13 +295,18 @@ iadsdk.apple.com
 iadworkbench.apple.com
 ifacelog.iqiyi.com
 ifs.tanx.com
+ii.gdt.qq.com
+imag8.pubmatic.com
+imag86.pubmatic.com
 image-ad.sm.cn
 imageplus.baidu.com
+images.outbrainimg.com
 images.pinduoduo.com
 img-c.heytapimage.com
 img.adnyg.com
 img.adnyg.com.w.kunlungr.com
 imtmp.net
+ipv4.kkmh.com
 irc.qubiankeji.com
 itv2-up.openspeech.cn
 ixav-cse.avlyun.com
@@ -347,9 +365,12 @@ logservice.hicloud.com
 logservice1.hicloud.com
 logtj.kugou.com
 logupdate.avlyun.sec.miui.com
+m.ad.zhangyue.com
 m.atm.youku.com
 m.kubiqq.com
 m1.ad.10010.com
+magev6.if.qidian.com
+manhua.acimg.cn
 mapi.m.jd.com
 masdkv6.3g.qq.com
 mazu.m.qq.com
@@ -415,12 +436,15 @@ p5-be-pack-sign.pglstatp-toutiao.com
 p6-be-pack-sign.pglstatp-toutiao.com
 pagead2.googleadservices.com
 pagead2.googlesyndication.com
+pagead2.googlesyndication.com
 pangolin-sdk-toutiao-b.com
 pay.sboot.cn
+pgdt.ugdtimg.com
 pgdt.ugdtimg.com
 pglstatp-toutiao.com
 pig.pupuapi.com
 pixon.ads-pixiv.net
+plbslog.umeng.com
 pms.mb.qq.com
 policy.video.ptqy.gitv.tv
 proxy.advp.apple.com
@@ -443,6 +467,7 @@ rtb.voiceads.cn
 s1.qq.com
 s2.qq.com
 s3.qq.com
+saad.ms.zhangyue.net
 samsung-com.112.2o7.net
 samsungads.com
 sanme2.taisantech.com
@@ -471,6 +496,7 @@ search3-search.ixigua.com
 search5-search-hl.ixigua.com
 search5-search.ixigua.com
 securemetrics.apple.com
+securepubads.g.doubleclick.net
 sensors-log.dongqiudi.com
 sensors-log.dongqiudi.com
 service.changhong.upgrade2.huan.tv
@@ -482,11 +508,13 @@ sigmob.cn
 sigmob.com
 skdisplay.jd.com
 slb-p2p.vcloud.ks-live.com
+smad.ms.zhangyue.net
 smart-tv.cn
 smartad.10010.com
 smetrics.samsung.com
 sms.ads.oppomobile.com
 sngmta.qq.com
+snowflake.qq.com
 stat.dongqiudi.com
 stat.y.qq.com
 stat.y.qq.com
@@ -515,6 +543,7 @@ test.e.ad.xiaomi.com
 tj.b.qq.com
 tj.video.qq.com
 tmead.y.qq.com
+tmeadcomm.y.qq.com
 tmfmazu-wangka.m.qq.com
 tmfmazu.m.qq.com
 tmfsdk.m.qq.com
@@ -545,6 +574,7 @@ tz.sec.xiaomi.com
 uapi.ads.heytapmobi.com
 udc.yahoo.com
 udcm.yahoo.com
+uedas.qidian.com
 ulog-sdk.gifshow.com
 ulogjs.gifshow.com
 ulogs.umeng.com
@@ -552,6 +582,7 @@ ulogs.umengcloud.com
 umengacs.m.taobao.com
 umengjmacs.m.taobao.com
 umsns.com
+union.baidu.cn
 union.baidu.com
 update.avlyun.sec.miui.com
 update.lejiao.tv
@@ -598,8 +629,10 @@ w1.zskwai.com
 weather-analytics-events.apple.com
 weather-community-drcn.weather.dbankcloud.cn
 webstat.qiumibao.com
+widgets.outbrain.com
 widgets.pinterest.com
 win.gdt.qq.com
+wn.pos.baidu.com
 wn.x.jd.com
 ws-keyboard.shouji.sogou.com
 ws.sj.qq.com
@@ -612,6 +645,7 @@ wxsnsdy.wxs.qq.com
 wxsnsdythumb.wxs.qq.com
 xc.gdt.qq.com
 xiaomi-dtv.m.cn.miaozhen.com
+xiaoshuo.wtzw.com
 xlivrdr.com
 xlmzc.cnjp-exp.com
 xlog.jd.com
