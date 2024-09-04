@@ -103,11 +103,11 @@ AdGuard Home、ClashMeta、QuantumultX、Surge、hosts格式、AdGuard DNS、Sur
 
 ---
 
-### ***Keep the internet clean!***
+### ***保持互联网清洁！***
 
 ---
 
-[![https://gafam.info](https://ptrace.gafam.info/unofficial/img/color/lqdn-gafam-poster-en-color-5x1-2560x.png)](https://gafam.info)
+[![https://gafam.info](https://ptrace.gafam.info/unofficial/img/color/lqdn-gafam-poster-zh-color-5x1-2560x.png)](https://gafam.info)
 
 ---
 ![:访问数](https://moe-counter.glitch.me/get/@TG-Twiligh?theme=gelbooru)
