@@ -58,6 +58,7 @@ ads.icloseli.cn
 ads.music.126.net
 ads.oppomobile.com
 ads.pinterest.com
+ads.servebom.com
 ads.service.kugou.com
 ads.service.kugou.com
 ads.v3mh.com
@@ -369,7 +370,6 @@ m.ad.zhangyue.com
 m.atm.youku.com
 m.kubiqq.com
 m1.ad.10010.com
-magev6.if.qidian.com
 manhua.acimg.cn
 mapi.m.jd.com
 masdkv6.3g.qq.com
@@ -422,6 +422,7 @@ orbit.jd.com
 oth.eve.mdt.qq.com
 oth.str.mdt.qq.com
 otheve.play.aiseet.atianqi.com
+outlookads.live.com
 p.l.qq.com
 p.s.360.cn
 p1-be-pack-sign.pglstatp-toutiao.com
@@ -626,6 +627,8 @@ w1.wskwai.com
 w1.xskwai.com
 w1.yskwai.com
 w1.zskwai.com
+watson.microsoft.com
+watson.telemetry.microsoft.com
 weather-analytics-events.apple.com
 weather-community-drcn.weather.dbankcloud.cn
 webstat.qiumibao.com
