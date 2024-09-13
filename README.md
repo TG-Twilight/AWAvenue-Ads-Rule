@@ -91,6 +91,8 @@ AdGuard Home、ClashMeta、QuantumultX、Surge、hosts格式、AdGuard DNS、Sur
 
 [倾城极速 - 畅游世界，高速互联](https://panel.qqcjs.top/#/register?code=prbbRzx9)
 
+[画境播放器 - 海外正版流媒体播放器](https://video.iamok.in/)
+
 ---
 
 ## 🍁贡献者 | Contributors
