@@ -1,25 +1,25 @@
-#Title: AWAvenue Ads Rule
-#Last modified: 2024-09-08T06:51:15.735734+00:00
-#--------------------------------------
-#Total lines: 15
-#Version: 1.5.2-release
+!Title: AWAvenue Ads Rule
+!Last modified: 2024-09-14T11:05:44.387641+00:00
+!--------------------------------------
+!Total lines: 15
+!Version: 1.5.2-release
 
-#Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
-#License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
+!Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+!License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
 
 
-ip dns static add address=240.0.0.1 name=*.*.shouji.sogou.com
-ip dns static add address=240.0.0.1 name=*.[a-zA-Z0-9.-]skwai.com
-ip dns static add address=240.0.0.1 name=*.a.market.xiaomi.com
-ip dns static add address=240.0.0.1 name=*.data.hicloud.com
-ip dns static add address=240.0.0.1 name=*.log.aliyuncs.com
-ip dns static add address=240.0.0.1 name=*.shouji.sogou.com
-ip dns static add address=240.0.0.1 name=[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*.byteimg.com
-ip dns static add address=240.0.0.1 name=[a-zA-Z0-9.-]*-ad.sm.cn
-ip dns static add address=240.0.0.1 name=[a-zA-Z0-9.-]*-ad.video.yximgs.com
-ip dns static add address=240.0.0.1 name=[a-zA-Z0-9.-]*-ad.wtzw.com
-ip dns static add address=240.0.0.1 name=[a-zA-Z0-9.-]*-be-pack-sign.pglstatp-toutiao.com
-ip dns static add address=240.0.0.1 name=[a-zA-Z0-9.-]*-lm.adkwai.com
-ip dns static add address=240.0.0.1 name=[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*.zijieapi.com
-ip dns static add address=240.0.0.1 name=[a-zA-Z0-9.-]*-normal.zijieapi.com
-ip dns static add address=240.0.0.1 name=cloudinject[a-zA-Z0-9.-]*-dev.*.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*.amazonaws.com
+ip dns static add address=240.0.0.1 name=*\.*\.shouji\.sogou\.com
+ip dns static add address=240.0.0.1 name=*\.[a-zA-Z0-9.-]skwai\.com
+ip dns static add address=240.0.0.1 name=*\.a\.market\.xiaomi\.com
+ip dns static add address=240.0.0.1 name=*\.data\.hicloud\.com
+ip dns static add address=240.0.0.1 name=*\.log\.aliyuncs\.com
+ip dns static add address=240.0.0.1 name=*\.shouji\.sogou\.com
+ip dns static add address=240.0.0.1 name=[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*\.byteimg\.com
+ip dns static add address=240.0.0.1 name=[a-zA-Z0-9.-]*-ad\.sm\.cn
+ip dns static add address=240.0.0.1 name=[a-zA-Z0-9.-]*-ad\.video\.yximgs\.com
+ip dns static add address=240.0.0.1 name=[a-zA-Z0-9.-]*-ad\.wtzw\.com
+ip dns static add address=240.0.0.1 name=[a-zA-Z0-9.-]*-be-pack-sign\.pglstatp-toutiao\.com
+ip dns static add address=240.0.0.1 name=[a-zA-Z0-9.-]*-lm\.adkwai\.com
+ip dns static add address=240.0.0.1 name=[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com
+ip dns static add address=240.0.0.1 name=[a-zA-Z0-9.-]*-normal\.zijieapi\.com
+ip dns static add address=240.0.0.1 name=cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com
