@@ -66,7 +66,7 @@ def WriteFile(name, text, suffix, comment, module_total):
             for line in text:
                 file.write(line + "\n")
     except Exception as e:
-        print(f"写入插件:{module_name}执行失败: {e}")
+        print(f"写入插件:{name}执行失败: {e}")
 
 def RunScript():
     for filename in os.listdir(SCRIPT_PATH):
