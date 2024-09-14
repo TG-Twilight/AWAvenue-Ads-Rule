@@ -11,7 +11,7 @@ def format_domain(List):
 def format_regex(List):
     regex = []
     for line in List:
-        regex_lines = f"{line.strip()}"
+        regex_lines = f"{line.strip()}".replace("\\.",".")
         regex.append(regex_lines)
     return regex
 
