@@ -9,7 +9,7 @@ def format_domain(List):
 def format_regex(List):
     regex = []
     for line in List:
-        regex_lines = f"  - DOMAIN-REGEX,'{line.strip()}'"
+        regex_lines = f"  - DOMAIN-REGEX,^{line.strip()}$"
         regex.append(regex_lines)
     return regex
 
