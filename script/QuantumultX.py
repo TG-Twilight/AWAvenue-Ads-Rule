@@ -21,5 +21,5 @@ def format_ip(List):
     return ip
 
 def build(rule):
-    quantumultx_list = format_ip(rule.ip_list) + format_domain(rule.domain_list) + format_regex(rule.regex_list)
-    return quantumultx_list, ".list", "#", len(quantumultx_list)
+    list = format_ip(rule.ip_list) + format_domain(rule.domain_list) + format_regex(rule.regex_list)
+    return {'list': list, 'suffix': '.list', 'comment': '#', 'total': len(list)}

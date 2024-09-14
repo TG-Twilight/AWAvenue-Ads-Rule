@@ -14,5 +14,5 @@ def format_regex(List):
     return regex
 
 def build(rule):
-    Adclose_list = format_domain(rule.domain_list) + format_regex(rule.regex_list)
-    return Adclose_list, ".txt", "!", len(Adclose_list)
+    list = format_domain(rule.domain_list) + format_regex(rule.regex_list)
+    return {'list': list, 'suffix': '.txt', 'comment': '!', 'total': len(list)}

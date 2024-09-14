@@ -6,5 +6,5 @@ def format_domain(List):
     return domain
 
 def build(rule):
-    surge_list = format_domain(rule.domain_list)
-    return surge_list, ".list", "#", len(surge_list)
+    list = format_domain(rule.domain_list)
+    return {'list': list, 'suffix': '.list', 'comment': '#', 'total': len(list)}

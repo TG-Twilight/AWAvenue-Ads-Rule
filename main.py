@@ -71,14 +71,17 @@ def WriteFile(name, text, suffix, comment, module_total):
 def RunScript():
     for filename in os.listdir(SCRIPT_PATH):
         if filename.endswith(".py"):
-            module_name = filename[:-3]
-            full_module_name = f"script.{module_name}"
+            plugins_name = filename[:-3]
+            full_plugins_name = f"script.{plugins_name}"
             try:
-                module = importlib.import_module(full_module_name)
-                module_list, module_suffix, module_comment, module_total = module.build(rule)
-                WriteFile(module_name, module_list, module_suffix, module_comment, str(module_total))
+                plugins = importlib.import_module(full_plugins_name).build(rule)
+                if plugins['list'] and plugins['total'] and plugins['suffix'] and plugins['comment']:
+                    WriteFile(plugins_name, plugins['list'], plugins['suffix'], plugins['comment'], str(plugins['total']))
+                else:
+                    print(f"转换插件:{plugins_name}执行失败: 无数据")
+                
             except Exception as e:
-                print(f"转换插件:{module_name}执行失败: {e}")
+                print(f"转换插件:{plugins_name}执行失败: {e}")
 
 
 if __name__ == "__main__":
