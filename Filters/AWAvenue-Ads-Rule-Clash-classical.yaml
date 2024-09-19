@@ -1,5 +1,5 @@
 #Title: AWAvenue Ads Rule
-#Last modified: 2024-09-14T15:21:22.467301+00:00
+#Last modified: 2024-09-19T05:22:48.042561+00:00
 #--------------------------------------
 #Total lines: 672
 #Version: 1.5.2-release
@@ -9,9 +9,9 @@
 
 
 payload:
-  - IP-CIDR,123.56.23.22/32
-  - IP-CIDR,182.254.116.116/32
-  - IP-CIDR,203.205.137.89/32
+  - IP-CIDR,123.56.23.22/32,no-resolve
+  - IP-CIDR,182.254.116.116/32,no-resolve
+  - IP-CIDR,203.205.137.89/32,no-resolve
   - DOMAIN,1010pic.com
   - DOMAIN,16dd-advertise-1252317822.file.myqcloud.com
   - DOMAIN,16dd-advertise-1252317822.image.myqcloud.com
