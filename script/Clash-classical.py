@@ -16,7 +16,7 @@ def format_regex(List):
 def format_ip(List):
     ip = []
     for line in List:
-        ip_lines = f"  - IP-CIDR,{line.strip()}"
+        ip_lines = f"  - IP-CIDR,{line.strip()},no-resolve"
         ip.append(ip_lines)
     return ip
 
