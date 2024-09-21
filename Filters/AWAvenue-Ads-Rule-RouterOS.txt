@@ -1,5 +1,5 @@
 !Title: AWAvenue Ads Rule
-!Last modified: 2024-09-21T18:08:02.538348+00:00
+!Last modified: 2024-09-21T18:16:11.593443+00:00
 !--------------------------------------
 !Total lines: 15
 !Version: 1.5.2-release
@@ -8,12 +8,12 @@
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
 
 
-ip dns static add address=240.0.0.1 name=*\.*\.shouji\.sogou\.com
-ip dns static add address=240.0.0.1 name=*\.[a-zA-Z0-9.-]skwai\.com
-ip dns static add address=240.0.0.1 name=*\.a\.market\.xiaomi\.com
-ip dns static add address=240.0.0.1 name=*\.data\.hicloud\.com
-ip dns static add address=240.0.0.1 name=*\.log\.aliyuncs\.com
-ip dns static add address=240.0.0.1 name=*\.shouji\.sogou\.com
+ip dns static add address=240.0.0.1 name=.*\..*\.shouji\.sogou\.com
+ip dns static add address=240.0.0.1 name=.*\.[a-zA-Z0-9.-]skwai\.com
+ip dns static add address=240.0.0.1 name=.*\.a\.market\.xiaomi\.com
+ip dns static add address=240.0.0.1 name=.*\.data\.hicloud\.com
+ip dns static add address=240.0.0.1 name=.*\.log\.aliyuncs\.com
+ip dns static add address=240.0.0.1 name=.*\.shouji\.sogou\.com
 ip dns static add address=240.0.0.1 name=[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*\.byteimg\.com
 ip dns static add address=240.0.0.1 name=[a-zA-Z0-9.-]*-ad\.sm\.cn
 ip dns static add address=240.0.0.1 name=[a-zA-Z0-9.-]*-ad\.video\.yximgs\.com

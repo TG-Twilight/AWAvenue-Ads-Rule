@@ -1,5 +1,5 @@
 //Title: AWAvenue Ads Rule
-//Last modified: 2024-09-21T18:08:02.538348+00:00
+//Last modified: 2024-09-21T18:16:11.593443+00:00
 //--------------------------------------
 //Total lines: 1
 //Version: 1.5.2-release
@@ -668,12 +668,12 @@
         "zeus.ad.xiaomi.com"
       ],
       "domain_regex": [
-        "*.*.shouji.sogou.com",
-        "*.[a-zA-Z0-9.-]skwai.com",
-        "*.a.market.xiaomi.com",
-        "*.data.hicloud.com",
-        "*.log.aliyuncs.com",
-        "*.shouji.sogou.com",
+        ".*..*.shouji.sogou.com",
+        ".*.[a-zA-Z0-9.-]skwai.com",
+        ".*.a.market.xiaomi.com",
+        ".*.data.hicloud.com",
+        ".*.log.aliyuncs.com",
+        ".*.shouji.sogou.com",
         "[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*.byteimg.com",
         "[a-zA-Z0-9.-]*-ad.sm.cn",
         "[a-zA-Z0-9.-]*-ad.video.yximgs.com",
