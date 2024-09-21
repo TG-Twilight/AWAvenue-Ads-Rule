@@ -8,7 +8,7 @@ def format_domain(List):
 def format_regex(List):
     regex = []
     for line in List:
-        regex_lines = f"DOMAIN-KEYWORD,{line.strip()},reject".replace("$","").replace("^","").replace("*","").replace("\\.",".")
+        regex_lines = f"DOMAIN-KEYWORD,{line.strip()},reject"
         regex.append(regex_lines)
     return regex
 

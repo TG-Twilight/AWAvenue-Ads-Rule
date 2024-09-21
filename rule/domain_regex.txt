@@ -6,10 +6,10 @@
 [a-zA-Z0-9.-]*-lm\.adkwai\.com
 [a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com
 [a-zA-Z0-9.-]*-normal\.zijieapi\.com
-*\.*\.shouji\.sogou\.com
-*\.a\.market\.xiaomi\.com
-*\.data\.hicloud\.com
-*\.log\.aliyuncs\.com
-*\.shouji\.sogou\.com
-*\.[a-zA-Z0-9.-]skwai\.com
+.*\..*\.shouji\.sogou\.com
+.*\.a\.market\.xiaomi\.com
+.*\.data\.hicloud\.com
+.*\.log\.aliyuncs\.com
+.*\.shouji\.sogou\.com
+.*\.[a-zA-Z0-9.-]skwai\.com
 cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com
