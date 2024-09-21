@@ -1,5 +1,5 @@
 #Title: AWAvenue Ads Rule
-#Last modified: 2024-09-21T18:16:11.593443+00:00
+#Last modified: 2024-09-21T18:20:54.377745+00:00
 #--------------------------------------
 #Total lines: 671
 #Version: 1.5.2-release
@@ -664,18 +664,18 @@ DOMAIN,ykad-gateway.youku.com,reject
 DOMAIN,youku-acs.m.taobao.com,reject
 DOMAIN,youxi.kugou.com,reject
 DOMAIN,zeus.ad.xiaomi.com,reject
-DOMAIN-KEYWORD,....shouji.sogou.com,reject
-DOMAIN-KEYWORD,..[a-zA-Z0-9.-]skwai.com,reject
-DOMAIN-KEYWORD,..a.market.xiaomi.com,reject
-DOMAIN-KEYWORD,..data.hicloud.com,reject
-DOMAIN-KEYWORD,..log.aliyuncs.com,reject
-DOMAIN-KEYWORD,..shouji.sogou.com,reject
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]-ad-[a-zA-Z0-9.-].byteimg.com,reject
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]-ad.sm.cn,reject
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]-ad.video.yximgs.com,reject
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]-ad.wtzw.com,reject
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]-be-pack-sign.pglstatp-toutiao.com,reject
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]-lm.adkwai.com,reject
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]-normal-[a-zA-Z0-9.-].zijieapi.com,reject
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]-normal.zijieapi.com,reject
-DOMAIN-KEYWORD,cloudinject[a-zA-Z0-9.-]-dev..[a-zA-Z0-9.-]-[a-zA-Z0-9.-]-[a-zA-Z0-9.-].amazonaws.com,reject
+DOMAIN-KEYWORD,.*\..*\.shouji\.sogou\.com,reject
+DOMAIN-KEYWORD,.*\.[a-zA-Z0-9.-]skwai\.com,reject
+DOMAIN-KEYWORD,.*\.a\.market\.xiaomi\.com,reject
+DOMAIN-KEYWORD,.*\.data\.hicloud\.com,reject
+DOMAIN-KEYWORD,.*\.log\.aliyuncs\.com,reject
+DOMAIN-KEYWORD,.*\.shouji\.sogou\.com,reject
+DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*\.byteimg\.com,reject
+DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad\.sm\.cn,reject
+DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad\.video\.yximgs\.com,reject
+DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad\.wtzw\.com,reject
+DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-be-pack-sign\.pglstatp-toutiao\.com,reject
+DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-lm\.adkwai\.com,reject
+DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com,reject
+DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-normal\.zijieapi\.com,reject
+DOMAIN-KEYWORD,cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com,reject
