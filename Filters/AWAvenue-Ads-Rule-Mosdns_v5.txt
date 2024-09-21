@@ -1,13 +1,3 @@
-!Title: AWAvenue Ads Rule
-!Last modified: 2024-09-19T05:22:48.042561+00:00
-!--------------------------------------
-!Total lines: 653
-!Version: 1.5.2-release
-
-!Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
-!License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
-
-
 domain:1010pic.com
 domain:16dd-advertise-1252317822.file.myqcloud.com
 domain:16dd-advertise-1252317822.image.myqcloud.com
