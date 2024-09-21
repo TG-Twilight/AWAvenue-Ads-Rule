@@ -12,8 +12,6 @@ domain_file=RULE_PATH + "/domain.txt" # 规则文件
 regex_file=RULE_PATH + "/domain_regex.txt" # 正则规则文件
 ip_file=RULE_PATH + "/ip.txt" # IP规则文件
 ip6_file=RULE_PATH + "/ip6.txt" # IPv6规则文件
-current_time = datetime.datetime.now(datetime.timezone.utc) # 获取当前时间
-format_time = current_time.isoformat()
 
 
 if not os.path.exists(OUT_PATH):
@@ -55,7 +53,6 @@ def WriteFile(name, text, suffix, comment, module_total): # 写入文件
         
             if comment != "":
                 title = f"""{comment}Title: AWAvenue Ads Rule
-{comment}Last modified: {format_time}
 {comment}--------------------------------------
 {comment}Total lines: {module_total}
 {comment}Version: {get_latest_git_tag()}
