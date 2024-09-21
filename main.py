@@ -5,14 +5,14 @@ import importlib
 import subprocess
 import datetime
 
-SCRIPT_PATH = os.path.join(os.getcwd(), "script")
-RULE_PATH = os.path.join(os.getcwd(), "rule")
-OUT_PATH = os.getcwd() + "/out"
-domain_file=RULE_PATH + "/domain.txt"
-regex_file=RULE_PATH + "/domain_regex.txt"
-ip_file=RULE_PATH + "/ip.txt"
-ip6_file=RULE_PATH + "/ip6.txt"
-current_time = datetime.datetime.now(datetime.timezone.utc)
+SCRIPT_PATH = os.path.join(os.getcwd(), "script") # 插件文件夹
+RULE_PATH = os.path.join(os.getcwd(), "rule") # 规则文件夹
+OUT_PATH = os.getcwd() + "/out" # 输出文件夹
+domain_file=RULE_PATH + "/domain.txt" # 规则文件
+regex_file=RULE_PATH + "/domain_regex.txt" # 正则规则文件
+ip_file=RULE_PATH + "/ip.txt" # IP规则文件
+ip6_file=RULE_PATH + "/ip6.txt" # IPv6规则文件
+current_time = datetime.datetime.now(datetime.timezone.utc) # 获取当前时间
 format_time = current_time.isoformat()
 
 
@@ -22,9 +22,10 @@ if not os.path.exists(OUT_PATH):
 
 
 class RuleList:
+    # 初始化规则列表
     def __init__(self, domain_file, regex_file, ip_file, ip6_file):
-        with open(domain_file, 'r') as file:
-            lines = file.read().splitlines()
+        with open(domain_file, 'r') as file: 
+            lines = file.read().splitlines() 
             self.domain_list = sorted(set(lines))
         with open(regex_file, 'r') as file:
             lines = file.read().splitlines()
@@ -39,7 +40,7 @@ class RuleList:
 
 rule = RuleList(domain_file, regex_file, ip_file, ip6_file)
 
-def get_latest_git_tag():
+def get_latest_git_tag(): # 获取最新的git tag
     process = subprocess.Popen('git tag', stdout=subprocess.PIPE, shell=True)
     output, error = process.communicate()
     tags = output.decode().strip().split('\n')
@@ -48,10 +49,12 @@ def get_latest_git_tag():
     else:
         return None
 
-def WriteFile(name, text, suffix, comment, module_total):
+def WriteFile(name, text, suffix, comment, module_total): # 写入文件
     try:
         with open(OUT_PATH + "/AWAvenue-Ads-Rule-" + name + suffix, 'w', encoding="utf-8") as file:
-            title = f"""{comment}Title: AWAvenue Ads Rule
+        
+            if comment != "":
+                title = f"""{comment}Title: AWAvenue Ads Rule
 {comment}Last modified: {format_time}
 {comment}--------------------------------------
 {comment}Total lines: {module_total}
@@ -62,23 +65,29 @@ def WriteFile(name, text, suffix, comment, module_total):
 
 
 """
+            else:
+                title = ""
             file.write(title)
             for line in text:
                 file.write(line + "\n")
     except Exception as e:
         print(f"写入插件:{name}执行失败: {e}")
 
+
 def RunScript():
-    for filename in os.listdir(SCRIPT_PATH):
+    for filename in os.listdir(SCRIPT_PATH): # 遍历script目录下的所有文件
         if filename.endswith(".py"):
             plugins_name = filename[:-3]
-            full_plugins_name = f"script.{plugins_name}"
-            try:
-                plugins = importlib.import_module(full_plugins_name).build(rule)
-                if plugins['list'] and plugins['total'] and plugins['suffix'] and plugins['comment']:
+            full_plugins_name = f"script.{plugins_name}" # 拼接完整的插件名
+
+            try: 
+                plugins = importlib.import_module(full_plugins_name).build(rule) # 传入规则列表(RuleList)类的实例
+
+                # 判断插件是否有list、total、suffix、comment四个属性
+                if len(plugins) == 4:
                     WriteFile(plugins_name, plugins['list'], plugins['suffix'], plugins['comment'], str(plugins['total']))
                 else:
-                    print(f"转换插件:{plugins_name}执行失败: 无数据")
+                    print(f"转换插件:{plugins_name}执行失败: 缺少必要属性")
                 
             except Exception as e:
                 print(f"转换插件:{plugins_name}执行失败: {e}")
