@@ -635,7 +635,6 @@ webstat.qiumibao.com
 widgets.outbrain.com
 widgets.pinterest.com
 win.gdt.qq.com
-wn.pos.baidu.com
 wn.x.jd.com
 ws-keyboard.shouji.sogou.com
 ws.sj.qq.com
@@ -667,3 +666,8 @@ bes-mtj.baidu.com
 lf6-ad-union-sdk.pglstatp-toutiao.com
 v3.gdt.qq.com
 v2mi.gdt.qq.com
+pos.baidu.com
+cbjs.baidu.com
+cpro.baidustatic.com
+bdad.123pan.cn
+umini.shujupie.com
