@@ -1,6 +1,6 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 653
+!Total lines: 660
 !Version: 1.5.2-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -17,6 +17,7 @@
 127.0.0.1 8le8le.com
 127.0.0.1 a0.app.xiaomi.com
 127.0.0.1 aaid.umeng.com
+127.0.0.1 abtest-ch.snssdk.com
 127.0.0.1 ad-cache.dopool.com
 127.0.0.1 ad-cdn.qingting.fm
 127.0.0.1 ad-scope.com
@@ -115,9 +116,11 @@
 127.0.0.1 advice-ads.s3.amazonaws.com
 127.0.0.1 adview.cn
 127.0.0.1 adx-ad.smart-tv.cn
+127.0.0.1 adx-bj.anythinktech.com
 127.0.0.1 adx-cn.anythinktech.com
 127.0.0.1 adx-drcn.op.dbankcloud.cn
 127.0.0.1 adx-open-service.youku.com
+127.0.0.1 adx-os.anythinktech.com
 127.0.0.1 adx.ads.heytapmobi.com
 127.0.0.1 adx.ads.oppomobile.com
 127.0.0.1 adxlog-adnet.vivo.com.cn
@@ -185,6 +188,7 @@
 127.0.0.1 beaconcdn.qq.com
 127.0.0.1 beacons.gvt2.com
 127.0.0.1 beizi.biz
+127.0.0.1 bes-mtj.baidu.com
 127.0.0.1 bgg.baidu.com
 127.0.0.1 bianxian.com
 127.0.0.1 bingads.microsoft.com
@@ -335,6 +339,7 @@
 127.0.0.1 launcher.smart-tv.cn
 127.0.0.1 launcherimg.smart-tv.cn
 127.0.0.1 lf3-ad-union-sdk.pglstatp-toutiao.com
+127.0.0.1 lf6-ad-union-sdk.pglstatp-toutiao.com
 127.0.0.1 litchiads.com
 127.0.0.1 liveats-vod.video.ptqy.gitv.tv
 127.0.0.1 livemonitor.huan.tv
@@ -597,7 +602,9 @@
 127.0.0.1 v1-ad.video.yximgs.com
 127.0.0.1 v2-ad.video.yximgs.com
 127.0.0.1 v2.gdt.qq.com
+127.0.0.1 v2mi.gdt.qq.com
 127.0.0.1 v3-ad.video.yximgs.com
+127.0.0.1 v3.gdt.qq.com
 127.0.0.1 video-ad.sm.cn
 127.0.0.1 video-dsp.pddpic.com
 127.0.0.1 video.dispatch.tc.qq.com

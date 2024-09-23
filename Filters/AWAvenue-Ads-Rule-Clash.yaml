@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 669
+#Total lines: 676
 #Version: 1.5.2-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -14,6 +14,7 @@ payload:
   - '8le8le.com'
   - 'a0.app.xiaomi.com'
   - 'aaid.umeng.com'
+  - 'abtest-ch.snssdk.com'
   - 'ad-cache.dopool.com'
   - 'ad-cdn.qingting.fm'
   - 'ad-scope.com'
@@ -112,9 +113,11 @@ payload:
   - 'advice-ads.s3.amazonaws.com'
   - 'adview.cn'
   - 'adx-ad.smart-tv.cn'
+  - 'adx-bj.anythinktech.com'
   - 'adx-cn.anythinktech.com'
   - 'adx-drcn.op.dbankcloud.cn'
   - 'adx-open-service.youku.com'
+  - 'adx-os.anythinktech.com'
   - 'adx.ads.heytapmobi.com'
   - 'adx.ads.oppomobile.com'
   - 'adxlog-adnet.vivo.com.cn'
@@ -182,6 +185,7 @@ payload:
   - 'beaconcdn.qq.com'
   - 'beacons.gvt2.com'
   - 'beizi.biz'
+  - 'bes-mtj.baidu.com'
   - 'bgg.baidu.com'
   - 'bianxian.com'
   - 'bingads.microsoft.com'
@@ -332,6 +336,7 @@ payload:
   - 'launcher.smart-tv.cn'
   - 'launcherimg.smart-tv.cn'
   - 'lf3-ad-union-sdk.pglstatp-toutiao.com'
+  - 'lf6-ad-union-sdk.pglstatp-toutiao.com'
   - 'litchiads.com'
   - 'liveats-vod.video.ptqy.gitv.tv'
   - 'livemonitor.huan.tv'
@@ -594,7 +599,9 @@ payload:
   - 'v1-ad.video.yximgs.com'
   - 'v2-ad.video.yximgs.com'
   - 'v2.gdt.qq.com'
+  - 'v2mi.gdt.qq.com'
   - 'v3-ad.video.yximgs.com'
+  - 'v3.gdt.qq.com'
   - 'video-ad.sm.cn'
   - 'video-dsp.pddpic.com'
   - 'video.dispatch.tc.qq.com'

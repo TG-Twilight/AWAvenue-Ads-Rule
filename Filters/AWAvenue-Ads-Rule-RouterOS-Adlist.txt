@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 653
+#Total lines: 660
 #Version: 1.5.2-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -17,6 +17,7 @@
 0.0.0.0 8le8le.com
 0.0.0.0 a0.app.xiaomi.com
 0.0.0.0 aaid.umeng.com
+0.0.0.0 abtest-ch.snssdk.com
 0.0.0.0 ad-cache.dopool.com
 0.0.0.0 ad-cdn.qingting.fm
 0.0.0.0 ad-scope.com
@@ -115,9 +116,11 @@
 0.0.0.0 advice-ads.s3.amazonaws.com
 0.0.0.0 adview.cn
 0.0.0.0 adx-ad.smart-tv.cn
+0.0.0.0 adx-bj.anythinktech.com
 0.0.0.0 adx-cn.anythinktech.com
 0.0.0.0 adx-drcn.op.dbankcloud.cn
 0.0.0.0 adx-open-service.youku.com
+0.0.0.0 adx-os.anythinktech.com
 0.0.0.0 adx.ads.heytapmobi.com
 0.0.0.0 adx.ads.oppomobile.com
 0.0.0.0 adxlog-adnet.vivo.com.cn
@@ -185,6 +188,7 @@
 0.0.0.0 beaconcdn.qq.com
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 beizi.biz
+0.0.0.0 bes-mtj.baidu.com
 0.0.0.0 bgg.baidu.com
 0.0.0.0 bianxian.com
 0.0.0.0 bingads.microsoft.com
@@ -335,6 +339,7 @@
 0.0.0.0 launcher.smart-tv.cn
 0.0.0.0 launcherimg.smart-tv.cn
 0.0.0.0 lf3-ad-union-sdk.pglstatp-toutiao.com
+0.0.0.0 lf6-ad-union-sdk.pglstatp-toutiao.com
 0.0.0.0 litchiads.com
 0.0.0.0 liveats-vod.video.ptqy.gitv.tv
 0.0.0.0 livemonitor.huan.tv
@@ -597,7 +602,9 @@
 0.0.0.0 v1-ad.video.yximgs.com
 0.0.0.0 v2-ad.video.yximgs.com
 0.0.0.0 v2.gdt.qq.com
+0.0.0.0 v2mi.gdt.qq.com
 0.0.0.0 v3-ad.video.yximgs.com
+0.0.0.0 v3.gdt.qq.com
 0.0.0.0 video-ad.sm.cn
 0.0.0.0 video-dsp.pddpic.com
 0.0.0.0 video.dispatch.tc.qq.com

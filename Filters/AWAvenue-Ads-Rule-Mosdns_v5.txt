@@ -4,6 +4,7 @@ domain:16dd-advertise-1252317822.image.myqcloud.com
 domain:8le8le.com
 domain:a0.app.xiaomi.com
 domain:aaid.umeng.com
+domain:abtest-ch.snssdk.com
 domain:ad-cache.dopool.com
 domain:ad-cdn.qingting.fm
 domain:ad-scope.com
@@ -102,9 +103,11 @@ domain:advertising.yandex.ru
 domain:advice-ads.s3.amazonaws.com
 domain:adview.cn
 domain:adx-ad.smart-tv.cn
+domain:adx-bj.anythinktech.com
 domain:adx-cn.anythinktech.com
 domain:adx-drcn.op.dbankcloud.cn
 domain:adx-open-service.youku.com
+domain:adx-os.anythinktech.com
 domain:adx.ads.heytapmobi.com
 domain:adx.ads.oppomobile.com
 domain:adxlog-adnet.vivo.com.cn
@@ -172,6 +175,7 @@ domain:beacon.qq.com
 domain:beaconcdn.qq.com
 domain:beacons.gvt2.com
 domain:beizi.biz
+domain:bes-mtj.baidu.com
 domain:bgg.baidu.com
 domain:bianxian.com
 domain:bingads.microsoft.com
@@ -322,6 +326,7 @@ domain:ks.pull.yximgs.com
 domain:launcher.smart-tv.cn
 domain:launcherimg.smart-tv.cn
 domain:lf3-ad-union-sdk.pglstatp-toutiao.com
+domain:lf6-ad-union-sdk.pglstatp-toutiao.com
 domain:litchiads.com
 domain:liveats-vod.video.ptqy.gitv.tv
 domain:livemonitor.huan.tv
@@ -584,7 +589,9 @@ domain:v.adx.hubcloud.com.cn
 domain:v1-ad.video.yximgs.com
 domain:v2-ad.video.yximgs.com
 domain:v2.gdt.qq.com
+domain:v2mi.gdt.qq.com
 domain:v3-ad.video.yximgs.com
+domain:v3.gdt.qq.com
 domain:video-ad.sm.cn
 domain:video-dsp.pddpic.com
 domain:video.dispatch.tc.qq.com

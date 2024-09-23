@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 672
+#Total lines: 679
 #Version: 1.5.2-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -17,6 +17,7 @@ payload:
   - DOMAIN,8le8le.com
   - DOMAIN,a0.app.xiaomi.com
   - DOMAIN,aaid.umeng.com
+  - DOMAIN,abtest-ch.snssdk.com
   - DOMAIN,ad-cache.dopool.com
   - DOMAIN,ad-cdn.qingting.fm
   - DOMAIN,ad-scope.com
@@ -115,9 +116,11 @@ payload:
   - DOMAIN,advice-ads.s3.amazonaws.com
   - DOMAIN,adview.cn
   - DOMAIN,adx-ad.smart-tv.cn
+  - DOMAIN,adx-bj.anythinktech.com
   - DOMAIN,adx-cn.anythinktech.com
   - DOMAIN,adx-drcn.op.dbankcloud.cn
   - DOMAIN,adx-open-service.youku.com
+  - DOMAIN,adx-os.anythinktech.com
   - DOMAIN,adx.ads.heytapmobi.com
   - DOMAIN,adx.ads.oppomobile.com
   - DOMAIN,adxlog-adnet.vivo.com.cn
@@ -185,6 +188,7 @@ payload:
   - DOMAIN,beaconcdn.qq.com
   - DOMAIN,beacons.gvt2.com
   - DOMAIN,beizi.biz
+  - DOMAIN,bes-mtj.baidu.com
   - DOMAIN,bgg.baidu.com
   - DOMAIN,bianxian.com
   - DOMAIN,bingads.microsoft.com
@@ -335,6 +339,7 @@ payload:
   - DOMAIN,launcher.smart-tv.cn
   - DOMAIN,launcherimg.smart-tv.cn
   - DOMAIN,lf3-ad-union-sdk.pglstatp-toutiao.com
+  - DOMAIN,lf6-ad-union-sdk.pglstatp-toutiao.com
   - DOMAIN,litchiads.com
   - DOMAIN,liveats-vod.video.ptqy.gitv.tv
   - DOMAIN,livemonitor.huan.tv
@@ -597,7 +602,9 @@ payload:
   - DOMAIN,v1-ad.video.yximgs.com
   - DOMAIN,v2-ad.video.yximgs.com
   - DOMAIN,v2.gdt.qq.com
+  - DOMAIN,v2mi.gdt.qq.com
   - DOMAIN,v3-ad.video.yximgs.com
+  - DOMAIN,v3.gdt.qq.com
   - DOMAIN,video-ad.sm.cn
   - DOMAIN,video-dsp.pddpic.com
   - DOMAIN,video.dispatch.tc.qq.com
