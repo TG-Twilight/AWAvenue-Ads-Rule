@@ -660,3 +660,10 @@ ykad-gateway.youku.com
 youku-acs.m.taobao.com
 youxi.kugou.com
 zeus.ad.xiaomi.com
+abtest-ch.snssdk.com
+adx-bj.anythinktech.com
+adx-os.anythinktech.com
+bes-mtj.baidu.com
+lf6-ad-union-sdk.pglstatp-toutiao.com
+v3.gdt.qq.com
+v2mi.gdt.qq.com
