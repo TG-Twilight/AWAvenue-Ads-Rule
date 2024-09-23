@@ -1,7 +1,7 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 679
-#Version: 1.5.2-release
+#Total lines: 683
+#Version: 1.5.3-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -180,6 +180,7 @@ payload:
   - DOMAIN,audid.umeng.com
   - DOMAIN,azr.footprintdns.com
   - DOMAIN,b1-data.ads.heytapmobi.com
+  - DOMAIN,bdad.123pan.cn
   - DOMAIN,bdapi-ads.realmemobile.com
   - DOMAIN,bdapi-in-ads.realmemobile.com
   - DOMAIN,bdapi.ads.oppomobile.com
@@ -205,6 +206,7 @@ payload:
   - DOMAIN,c.sayhi.360.cn
   - DOMAIN,c2.gdt.qq.com
   - DOMAIN,catalog.fjwhcbsh.com
+  - DOMAIN,cbjs.baidu.com
   - DOMAIN,ccs.umeng.com
   - DOMAIN,cctv.adsunion.com
   - DOMAIN,cdn-ad.wtzw.com
@@ -227,6 +229,7 @@ payload:
   - DOMAIN,conn-service-in-03.allawnos.com
   - DOMAIN,conn-service-in-04.allawnos.com
   - DOMAIN,conn-service-in-05.allawnos.com
+  - DOMAIN,cpro.baidustatic.com
   - DOMAIN,crashlytics.com
   - DOMAIN,crashlyticsreports-pa.googleapis.com
   - DOMAIN,csjplatform.com
@@ -459,6 +462,7 @@ payload:
   - DOMAIN,plbslog.umeng.com
   - DOMAIN,pms.mb.qq.com
   - DOMAIN,policy.video.ptqy.gitv.tv
+  - DOMAIN,pos.baidu.com
   - DOMAIN,proxy.advp.apple.com
   - DOMAIN,public.gdtimg.com
   - DOMAIN,q.i.gdt.qq.com
@@ -591,6 +595,7 @@ payload:
   - DOMAIN,ulogs.umengcloud.com
   - DOMAIN,umengacs.m.taobao.com
   - DOMAIN,umengjmacs.m.taobao.com
+  - DOMAIN,umini.shujupie.com
   - DOMAIN,umsns.com
   - DOMAIN,union.baidu.cn
   - DOMAIN,union.baidu.com
@@ -646,7 +651,6 @@ payload:
   - DOMAIN,widgets.outbrain.com
   - DOMAIN,widgets.pinterest.com
   - DOMAIN,win.gdt.qq.com
-  - DOMAIN,wn.pos.baidu.com
   - DOMAIN,wn.x.jd.com
   - DOMAIN,ws-keyboard.shouji.sogou.com
   - DOMAIN,ws.sj.qq.com

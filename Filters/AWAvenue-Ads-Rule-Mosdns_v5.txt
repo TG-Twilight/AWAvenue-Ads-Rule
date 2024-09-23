@@ -167,6 +167,7 @@ domain:audid-api.taobao.com
 domain:audid.umeng.com
 domain:azr.footprintdns.com
 domain:b1-data.ads.heytapmobi.com
+domain:bdad.123pan.cn
 domain:bdapi-ads.realmemobile.com
 domain:bdapi-in-ads.realmemobile.com
 domain:bdapi.ads.oppomobile.com
@@ -192,6 +193,7 @@ domain:c.kuaiduizuoye.com
 domain:c.sayhi.360.cn
 domain:c2.gdt.qq.com
 domain:catalog.fjwhcbsh.com
+domain:cbjs.baidu.com
 domain:ccs.umeng.com
 domain:cctv.adsunion.com
 domain:cdn-ad.wtzw.com
@@ -214,6 +216,7 @@ domain:conn-service-cn-05.allawntech.com
 domain:conn-service-in-03.allawnos.com
 domain:conn-service-in-04.allawnos.com
 domain:conn-service-in-05.allawnos.com
+domain:cpro.baidustatic.com
 domain:crashlytics.com
 domain:crashlyticsreports-pa.googleapis.com
 domain:csjplatform.com
@@ -446,6 +449,7 @@ domain:pixon.ads-pixiv.net
 domain:plbslog.umeng.com
 domain:pms.mb.qq.com
 domain:policy.video.ptqy.gitv.tv
+domain:pos.baidu.com
 domain:proxy.advp.apple.com
 domain:public.gdtimg.com
 domain:q.i.gdt.qq.com
@@ -578,6 +582,7 @@ domain:ulogs.umeng.com
 domain:ulogs.umengcloud.com
 domain:umengacs.m.taobao.com
 domain:umengjmacs.m.taobao.com
+domain:umini.shujupie.com
 domain:umsns.com
 domain:union.baidu.cn
 domain:union.baidu.com
@@ -633,7 +638,6 @@ domain:webstat.qiumibao.com
 domain:widgets.outbrain.com
 domain:widgets.pinterest.com
 domain:win.gdt.qq.com
-domain:wn.pos.baidu.com
 domain:wn.x.jd.com
 domain:ws-keyboard.shouji.sogou.com
 domain:ws.sj.qq.com

@@ -1,7 +1,7 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 660
-#Version: 1.5.2-release
+#Total lines: 664
+#Version: 1.5.3-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -180,6 +180,7 @@
 0.0.0.0 audid.umeng.com
 0.0.0.0 azr.footprintdns.com
 0.0.0.0 b1-data.ads.heytapmobi.com
+0.0.0.0 bdad.123pan.cn
 0.0.0.0 bdapi-ads.realmemobile.com
 0.0.0.0 bdapi-in-ads.realmemobile.com
 0.0.0.0 bdapi.ads.oppomobile.com
@@ -205,6 +206,7 @@
 0.0.0.0 c.sayhi.360.cn
 0.0.0.0 c2.gdt.qq.com
 0.0.0.0 catalog.fjwhcbsh.com
+0.0.0.0 cbjs.baidu.com
 0.0.0.0 ccs.umeng.com
 0.0.0.0 cctv.adsunion.com
 0.0.0.0 cdn-ad.wtzw.com
@@ -227,6 +229,7 @@
 0.0.0.0 conn-service-in-03.allawnos.com
 0.0.0.0 conn-service-in-04.allawnos.com
 0.0.0.0 conn-service-in-05.allawnos.com
+0.0.0.0 cpro.baidustatic.com
 0.0.0.0 crashlytics.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 csjplatform.com
@@ -459,6 +462,7 @@
 0.0.0.0 plbslog.umeng.com
 0.0.0.0 pms.mb.qq.com
 0.0.0.0 policy.video.ptqy.gitv.tv
+0.0.0.0 pos.baidu.com
 0.0.0.0 proxy.advp.apple.com
 0.0.0.0 public.gdtimg.com
 0.0.0.0 q.i.gdt.qq.com
@@ -591,6 +595,7 @@
 0.0.0.0 ulogs.umengcloud.com
 0.0.0.0 umengacs.m.taobao.com
 0.0.0.0 umengjmacs.m.taobao.com
+0.0.0.0 umini.shujupie.com
 0.0.0.0 umsns.com
 0.0.0.0 union.baidu.cn
 0.0.0.0 union.baidu.com
@@ -646,7 +651,6 @@
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widgets.pinterest.com
 0.0.0.0 win.gdt.qq.com
-0.0.0.0 wn.pos.baidu.com
 0.0.0.0 wn.x.jd.com
 0.0.0.0 ws-keyboard.shouji.sogou.com
 0.0.0.0 ws.sj.qq.com

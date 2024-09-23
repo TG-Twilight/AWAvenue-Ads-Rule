@@ -1,7 +1,7 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 660
-!Version: 1.5.2-release
+!Total lines: 664
+!Version: 1.5.3-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -180,6 +180,7 @@
 127.0.0.1 audid.umeng.com
 127.0.0.1 azr.footprintdns.com
 127.0.0.1 b1-data.ads.heytapmobi.com
+127.0.0.1 bdad.123pan.cn
 127.0.0.1 bdapi-ads.realmemobile.com
 127.0.0.1 bdapi-in-ads.realmemobile.com
 127.0.0.1 bdapi.ads.oppomobile.com
@@ -205,6 +206,7 @@
 127.0.0.1 c.sayhi.360.cn
 127.0.0.1 c2.gdt.qq.com
 127.0.0.1 catalog.fjwhcbsh.com
+127.0.0.1 cbjs.baidu.com
 127.0.0.1 ccs.umeng.com
 127.0.0.1 cctv.adsunion.com
 127.0.0.1 cdn-ad.wtzw.com
@@ -227,6 +229,7 @@
 127.0.0.1 conn-service-in-03.allawnos.com
 127.0.0.1 conn-service-in-04.allawnos.com
 127.0.0.1 conn-service-in-05.allawnos.com
+127.0.0.1 cpro.baidustatic.com
 127.0.0.1 crashlytics.com
 127.0.0.1 crashlyticsreports-pa.googleapis.com
 127.0.0.1 csjplatform.com
@@ -459,6 +462,7 @@
 127.0.0.1 plbslog.umeng.com
 127.0.0.1 pms.mb.qq.com
 127.0.0.1 policy.video.ptqy.gitv.tv
+127.0.0.1 pos.baidu.com
 127.0.0.1 proxy.advp.apple.com
 127.0.0.1 public.gdtimg.com
 127.0.0.1 q.i.gdt.qq.com
@@ -591,6 +595,7 @@
 127.0.0.1 ulogs.umengcloud.com
 127.0.0.1 umengacs.m.taobao.com
 127.0.0.1 umengjmacs.m.taobao.com
+127.0.0.1 umini.shujupie.com
 127.0.0.1 umsns.com
 127.0.0.1 union.baidu.cn
 127.0.0.1 union.baidu.com
@@ -646,7 +651,6 @@
 127.0.0.1 widgets.outbrain.com
 127.0.0.1 widgets.pinterest.com
 127.0.0.1 win.gdt.qq.com
-127.0.0.1 wn.pos.baidu.com
 127.0.0.1 wn.x.jd.com
 127.0.0.1 ws-keyboard.shouji.sogou.com
 127.0.0.1 ws.sj.qq.com

@@ -1,7 +1,7 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 678
-#Version: 1.5.2-release
+#Total lines: 682
+#Version: 1.5.3-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -179,6 +179,7 @@ DOMAIN,audid-api.taobao.com,reject
 DOMAIN,audid.umeng.com,reject
 DOMAIN,azr.footprintdns.com,reject
 DOMAIN,b1-data.ads.heytapmobi.com,reject
+DOMAIN,bdad.123pan.cn,reject
 DOMAIN,bdapi-ads.realmemobile.com,reject
 DOMAIN,bdapi-in-ads.realmemobile.com,reject
 DOMAIN,bdapi.ads.oppomobile.com,reject
@@ -204,6 +205,7 @@ DOMAIN,c.kuaiduizuoye.com,reject
 DOMAIN,c.sayhi.360.cn,reject
 DOMAIN,c2.gdt.qq.com,reject
 DOMAIN,catalog.fjwhcbsh.com,reject
+DOMAIN,cbjs.baidu.com,reject
 DOMAIN,ccs.umeng.com,reject
 DOMAIN,cctv.adsunion.com,reject
 DOMAIN,cdn-ad.wtzw.com,reject
@@ -226,6 +228,7 @@ DOMAIN,conn-service-cn-05.allawntech.com,reject
 DOMAIN,conn-service-in-03.allawnos.com,reject
 DOMAIN,conn-service-in-04.allawnos.com,reject
 DOMAIN,conn-service-in-05.allawnos.com,reject
+DOMAIN,cpro.baidustatic.com,reject
 DOMAIN,crashlytics.com,reject
 DOMAIN,crashlyticsreports-pa.googleapis.com,reject
 DOMAIN,csjplatform.com,reject
@@ -458,6 +461,7 @@ DOMAIN,pixon.ads-pixiv.net,reject
 DOMAIN,plbslog.umeng.com,reject
 DOMAIN,pms.mb.qq.com,reject
 DOMAIN,policy.video.ptqy.gitv.tv,reject
+DOMAIN,pos.baidu.com,reject
 DOMAIN,proxy.advp.apple.com,reject
 DOMAIN,public.gdtimg.com,reject
 DOMAIN,q.i.gdt.qq.com,reject
@@ -590,6 +594,7 @@ DOMAIN,ulogs.umeng.com,reject
 DOMAIN,ulogs.umengcloud.com,reject
 DOMAIN,umengacs.m.taobao.com,reject
 DOMAIN,umengjmacs.m.taobao.com,reject
+DOMAIN,umini.shujupie.com,reject
 DOMAIN,umsns.com,reject
 DOMAIN,union.baidu.cn,reject
 DOMAIN,union.baidu.com,reject
@@ -645,7 +650,6 @@ DOMAIN,webstat.qiumibao.com,reject
 DOMAIN,widgets.outbrain.com,reject
 DOMAIN,widgets.pinterest.com,reject
 DOMAIN,win.gdt.qq.com,reject
-DOMAIN,wn.pos.baidu.com,reject
 DOMAIN,wn.x.jd.com,reject
 DOMAIN,ws-keyboard.shouji.sogou.com,reject
 DOMAIN,ws.sj.qq.com,reject
