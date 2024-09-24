@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 682
+#Total lines: 701
 #Version: 1.5.3-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -47,6 +47,7 @@ DOMAIN,adclick.tencentmusic.com,reject
 DOMAIN,adcolony.com,reject
 DOMAIN,adexpo.tencentmusic.com,reject
 DOMAIN,adfilter.imtt.qq.com,reject
+DOMAIN,adfstat.yandex.ru,reject
 DOMAIN,adguanggao.eee114.com,reject
 DOMAIN,adjust.cn,reject
 DOMAIN,adjust.com,reject
@@ -68,12 +69,15 @@ DOMAIN,ads.heytapmobi.com,reject
 DOMAIN,ads.huan.tv,reject
 DOMAIN,ads.huantest.com,reject
 DOMAIN,ads.icloseli.cn,reject
+DOMAIN,ads.linkedin.com,reject
 DOMAIN,ads.music.126.net,reject
 DOMAIN,ads.oppomobile.com,reject
 DOMAIN,ads.pinterest.com,reject
 DOMAIN,ads.servebom.com,reject
 DOMAIN,ads.service.kugou.com,reject
+DOMAIN,ads.tiktok.com,reject
 DOMAIN,ads.v3mh.com,reject
+DOMAIN,ads.youtube.com,reject
 DOMAIN,ads3-normal-hl.zijieapi.com,reject
 DOMAIN,ads3-normal-lf.zijieapi.com,reject
 DOMAIN,ads3-normal-lq.zijieapi.com,reject
@@ -83,6 +87,7 @@ DOMAIN,ads5-normal-lf.zijieapi.com,reject
 DOMAIN,ads5-normal-lq.zijieapi.com,reject
 DOMAIN,ads5-normal.zijieapi.com,reject
 DOMAIN,adsense.google.cn,reject
+DOMAIN,adserver.unityads.unity3d.com,reject
 DOMAIN,adservice.google.cn,reject
 DOMAIN,adservice.google.com,reject
 DOMAIN,adserviceretry.kugou.com,reject
@@ -139,10 +144,13 @@ DOMAIN,analytics.126.net,reject
 DOMAIN,analytics.95516.com,reject
 DOMAIN,analytics.google.com,reject
 DOMAIN,analytics.pinterest.com,reject
+DOMAIN,analytics.pointdrive.linkedin.com,reject
 DOMAIN,analytics.query.yahoo.com,reject
 DOMAIN,analytics.rayjump.com,reject
+DOMAIN,analytics.s3.amazonaws.com,reject
 DOMAIN,analytics.tiktok.com,reject
 DOMAIN,analytics.woozooo.com,reject
+DOMAIN,analyticsengine.s3.amazonaws.com,reject
 DOMAIN,analyze.lemurbrowser.com,reject
 DOMAIN,andrqd.play.aiseet.atianqi.com,reject
 DOMAIN,ap.dongqiudi.com,reject
@@ -175,6 +183,7 @@ DOMAIN,applog.lc.quark.cn,reject
 DOMAIN,applog.uc.cn,reject
 DOMAIN,applog.zijieapi.com,reject
 DOMAIN,ata-sdk-uuid-report.dreport.meituan.net,reject
+DOMAIN,auction.unityads.unity3d.com,reject
 DOMAIN,audid-api.taobao.com,reject
 DOMAIN,audid.umeng.com,reject
 DOMAIN,azr.footprintdns.com,reject
@@ -217,11 +226,14 @@ DOMAIN,chat1.jd.com,reject
 DOMAIN,chiq-cloud.com,reject
 DOMAIN,cj.qidian.com,reject
 DOMAIN,ck.ads.oppomobile.com,reject
+DOMAIN,click.googleanalytics.com,reject
+DOMAIN,click.oneplus.cn,reject
 DOMAIN,clog.miguvideo.com,reject
 DOMAIN,cnzz.com,reject
 DOMAIN,collect.kugou.com,reject
 DOMAIN,commdata.v.qq.com,reject
 DOMAIN,config.chsmarttv.com,reject
+DOMAIN,config.unityads.unity3d.com,reject
 DOMAIN,conn-service-cn-03.allawntech.com,reject
 DOMAIN,conn-service-cn-04.allawntech.com,reject
 DOMAIN,conn-service-cn-05.allawntech.com,reject
@@ -262,8 +274,11 @@ DOMAIN,errlog.umeng.com,reject
 DOMAIN,errnewlog.umeng.com,reject
 DOMAIN,event.tradplusad.com,reject
 DOMAIN,events-drcn.op.dbankcloud.cn,reject
+DOMAIN,events.reddit.com,reject
+DOMAIN,events.redditmedia.com,reject
 DOMAIN,firebaselogging-pa.googleapis.com,reject
 DOMAIN,flurry.com,reject
+DOMAIN,freshmarketer.com,reject
 DOMAIN,g-staic.ganjingworld.com,reject
 DOMAIN,g2.ganjing.world,reject
 DOMAIN,game.loveota.com,reject
@@ -323,6 +338,8 @@ DOMAIN,img-c.heytapimage.com,reject
 DOMAIN,img.adnyg.com,reject
 DOMAIN,img.adnyg.com.w.kunlungr.com,reject
 DOMAIN,imtmp.net,reject
+DOMAIN,iot-eu-logser.realme.com,reject
+DOMAIN,iot-logser.realme.com,reject
 DOMAIN,ipv4.kkmh.com,reject
 DOMAIN,irc.qubiankeji.com,reject
 DOMAIN,itv2-up.openspeech.cn,reject
@@ -534,6 +551,7 @@ DOMAIN,stat.y.qq.com,reject
 DOMAIN,static.ads-twitter.com,reject
 DOMAIN,statics.woozooo.com,reject
 DOMAIN,stats.qiumibao.com,reject
+DOMAIN,stats.wp.com,reject
 DOMAIN,statsigapi.net,reject
 DOMAIN,stg-data.ads.heytapmobi.com,reject
 DOMAIN,success.ctobsnssdk.com,reject
@@ -647,6 +665,7 @@ DOMAIN,watson.telemetry.microsoft.com,reject
 DOMAIN,weather-analytics-events.apple.com,reject
 DOMAIN,weather-community-drcn.weather.dbankcloud.cn,reject
 DOMAIN,webstat.qiumibao.com,reject
+DOMAIN,webview.unityads.unity3d.com,reject
 DOMAIN,widgets.outbrain.com,reject
 DOMAIN,widgets.pinterest.com,reject
 DOMAIN,win.gdt.qq.com,reject

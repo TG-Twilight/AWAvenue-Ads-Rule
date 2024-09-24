@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 683
+#Total lines: 702
 #Version: 1.5.3-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -48,6 +48,7 @@ payload:
   - DOMAIN,adcolony.com
   - DOMAIN,adexpo.tencentmusic.com
   - DOMAIN,adfilter.imtt.qq.com
+  - DOMAIN,adfstat.yandex.ru
   - DOMAIN,adguanggao.eee114.com
   - DOMAIN,adjust.cn
   - DOMAIN,adjust.com
@@ -69,12 +70,15 @@ payload:
   - DOMAIN,ads.huan.tv
   - DOMAIN,ads.huantest.com
   - DOMAIN,ads.icloseli.cn
+  - DOMAIN,ads.linkedin.com
   - DOMAIN,ads.music.126.net
   - DOMAIN,ads.oppomobile.com
   - DOMAIN,ads.pinterest.com
   - DOMAIN,ads.servebom.com
   - DOMAIN,ads.service.kugou.com
+  - DOMAIN,ads.tiktok.com
   - DOMAIN,ads.v3mh.com
+  - DOMAIN,ads.youtube.com
   - DOMAIN,ads3-normal-hl.zijieapi.com
   - DOMAIN,ads3-normal-lf.zijieapi.com
   - DOMAIN,ads3-normal-lq.zijieapi.com
@@ -84,6 +88,7 @@ payload:
   - DOMAIN,ads5-normal-lq.zijieapi.com
   - DOMAIN,ads5-normal.zijieapi.com
   - DOMAIN,adsense.google.cn
+  - DOMAIN,adserver.unityads.unity3d.com
   - DOMAIN,adservice.google.cn
   - DOMAIN,adservice.google.com
   - DOMAIN,adserviceretry.kugou.com
@@ -140,10 +145,13 @@ payload:
   - DOMAIN,analytics.95516.com
   - DOMAIN,analytics.google.com
   - DOMAIN,analytics.pinterest.com
+  - DOMAIN,analytics.pointdrive.linkedin.com
   - DOMAIN,analytics.query.yahoo.com
   - DOMAIN,analytics.rayjump.com
+  - DOMAIN,analytics.s3.amazonaws.com
   - DOMAIN,analytics.tiktok.com
   - DOMAIN,analytics.woozooo.com
+  - DOMAIN,analyticsengine.s3.amazonaws.com
   - DOMAIN,analyze.lemurbrowser.com
   - DOMAIN,andrqd.play.aiseet.atianqi.com
   - DOMAIN,ap.dongqiudi.com
@@ -176,6 +184,7 @@ payload:
   - DOMAIN,applog.uc.cn
   - DOMAIN,applog.zijieapi.com
   - DOMAIN,ata-sdk-uuid-report.dreport.meituan.net
+  - DOMAIN,auction.unityads.unity3d.com
   - DOMAIN,audid-api.taobao.com
   - DOMAIN,audid.umeng.com
   - DOMAIN,azr.footprintdns.com
@@ -218,11 +227,14 @@ payload:
   - DOMAIN,chiq-cloud.com
   - DOMAIN,cj.qidian.com
   - DOMAIN,ck.ads.oppomobile.com
+  - DOMAIN,click.googleanalytics.com
+  - DOMAIN,click.oneplus.cn
   - DOMAIN,clog.miguvideo.com
   - DOMAIN,cnzz.com
   - DOMAIN,collect.kugou.com
   - DOMAIN,commdata.v.qq.com
   - DOMAIN,config.chsmarttv.com
+  - DOMAIN,config.unityads.unity3d.com
   - DOMAIN,conn-service-cn-03.allawntech.com
   - DOMAIN,conn-service-cn-04.allawntech.com
   - DOMAIN,conn-service-cn-05.allawntech.com
@@ -263,8 +275,11 @@ payload:
   - DOMAIN,errnewlog.umeng.com
   - DOMAIN,event.tradplusad.com
   - DOMAIN,events-drcn.op.dbankcloud.cn
+  - DOMAIN,events.reddit.com
+  - DOMAIN,events.redditmedia.com
   - DOMAIN,firebaselogging-pa.googleapis.com
   - DOMAIN,flurry.com
+  - DOMAIN,freshmarketer.com
   - DOMAIN,g-staic.ganjingworld.com
   - DOMAIN,g2.ganjing.world
   - DOMAIN,game.loveota.com
@@ -324,6 +339,8 @@ payload:
   - DOMAIN,img.adnyg.com
   - DOMAIN,img.adnyg.com.w.kunlungr.com
   - DOMAIN,imtmp.net
+  - DOMAIN,iot-eu-logser.realme.com
+  - DOMAIN,iot-logser.realme.com
   - DOMAIN,ipv4.kkmh.com
   - DOMAIN,irc.qubiankeji.com
   - DOMAIN,itv2-up.openspeech.cn
@@ -535,6 +552,7 @@ payload:
   - DOMAIN,static.ads-twitter.com
   - DOMAIN,statics.woozooo.com
   - DOMAIN,stats.qiumibao.com
+  - DOMAIN,stats.wp.com
   - DOMAIN,statsigapi.net
   - DOMAIN,stg-data.ads.heytapmobi.com
   - DOMAIN,success.ctobsnssdk.com
@@ -648,6 +666,7 @@ payload:
   - DOMAIN,weather-analytics-events.apple.com
   - DOMAIN,weather-community-drcn.weather.dbankcloud.cn
   - DOMAIN,webstat.qiumibao.com
+  - DOMAIN,webview.unityads.unity3d.com
   - DOMAIN,widgets.outbrain.com
   - DOMAIN,widgets.pinterest.com
   - DOMAIN,win.gdt.qq.com

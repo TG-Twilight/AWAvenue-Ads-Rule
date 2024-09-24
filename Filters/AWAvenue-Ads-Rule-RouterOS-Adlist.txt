@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 664
+#Total lines: 683
 #Version: 1.5.3-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -48,6 +48,7 @@
 0.0.0.0 adcolony.com
 0.0.0.0 adexpo.tencentmusic.com
 0.0.0.0 adfilter.imtt.qq.com
+0.0.0.0 adfstat.yandex.ru
 0.0.0.0 adguanggao.eee114.com
 0.0.0.0 adjust.cn
 0.0.0.0 adjust.com
@@ -69,12 +70,15 @@
 0.0.0.0 ads.huan.tv
 0.0.0.0 ads.huantest.com
 0.0.0.0 ads.icloseli.cn
+0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.music.126.net
 0.0.0.0 ads.oppomobile.com
 0.0.0.0 ads.pinterest.com
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads.service.kugou.com
+0.0.0.0 ads.tiktok.com
 0.0.0.0 ads.v3mh.com
+0.0.0.0 ads.youtube.com
 0.0.0.0 ads3-normal-hl.zijieapi.com
 0.0.0.0 ads3-normal-lf.zijieapi.com
 0.0.0.0 ads3-normal-lq.zijieapi.com
@@ -84,6 +88,7 @@
 0.0.0.0 ads5-normal-lq.zijieapi.com
 0.0.0.0 ads5-normal.zijieapi.com
 0.0.0.0 adsense.google.cn
+0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 adservice.google.cn
 0.0.0.0 adservice.google.com
 0.0.0.0 adserviceretry.kugou.com
@@ -140,10 +145,13 @@
 0.0.0.0 analytics.95516.com
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.pinterest.com
+0.0.0.0 analytics.pointdrive.linkedin.com
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 analytics.rayjump.com
+0.0.0.0 analytics.s3.amazonaws.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.woozooo.com
+0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 analyze.lemurbrowser.com
 0.0.0.0 andrqd.play.aiseet.atianqi.com
 0.0.0.0 ap.dongqiudi.com
@@ -176,6 +184,7 @@
 0.0.0.0 applog.uc.cn
 0.0.0.0 applog.zijieapi.com
 0.0.0.0 ata-sdk-uuid-report.dreport.meituan.net
+0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 audid-api.taobao.com
 0.0.0.0 audid.umeng.com
 0.0.0.0 azr.footprintdns.com
@@ -218,11 +227,14 @@
 0.0.0.0 chiq-cloud.com
 0.0.0.0 cj.qidian.com
 0.0.0.0 ck.ads.oppomobile.com
+0.0.0.0 click.googleanalytics.com
+0.0.0.0 click.oneplus.cn
 0.0.0.0 clog.miguvideo.com
 0.0.0.0 cnzz.com
 0.0.0.0 collect.kugou.com
 0.0.0.0 commdata.v.qq.com
 0.0.0.0 config.chsmarttv.com
+0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 conn-service-cn-03.allawntech.com
 0.0.0.0 conn-service-cn-04.allawntech.com
 0.0.0.0 conn-service-cn-05.allawntech.com
@@ -263,8 +275,11 @@
 0.0.0.0 errnewlog.umeng.com
 0.0.0.0 event.tradplusad.com
 0.0.0.0 events-drcn.op.dbankcloud.cn
+0.0.0.0 events.reddit.com
+0.0.0.0 events.redditmedia.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 flurry.com
+0.0.0.0 freshmarketer.com
 0.0.0.0 g-staic.ganjingworld.com
 0.0.0.0 g2.ganjing.world
 0.0.0.0 game.loveota.com
@@ -324,6 +339,8 @@
 0.0.0.0 img.adnyg.com
 0.0.0.0 img.adnyg.com.w.kunlungr.com
 0.0.0.0 imtmp.net
+0.0.0.0 iot-eu-logser.realme.com
+0.0.0.0 iot-logser.realme.com
 0.0.0.0 ipv4.kkmh.com
 0.0.0.0 irc.qubiankeji.com
 0.0.0.0 itv2-up.openspeech.cn
@@ -535,6 +552,7 @@
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 statics.woozooo.com
 0.0.0.0 stats.qiumibao.com
+0.0.0.0 stats.wp.com
 0.0.0.0 statsigapi.net
 0.0.0.0 stg-data.ads.heytapmobi.com
 0.0.0.0 success.ctobsnssdk.com
@@ -648,6 +666,7 @@
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 weather-community-drcn.weather.dbankcloud.cn
 0.0.0.0 webstat.qiumibao.com
+0.0.0.0 webview.unityads.unity3d.com
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widgets.pinterest.com
 0.0.0.0 win.gdt.qq.com

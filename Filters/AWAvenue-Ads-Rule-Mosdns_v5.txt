@@ -35,6 +35,7 @@ domain:adclick.tencentmusic.com
 domain:adcolony.com
 domain:adexpo.tencentmusic.com
 domain:adfilter.imtt.qq.com
+domain:adfstat.yandex.ru
 domain:adguanggao.eee114.com
 domain:adjust.cn
 domain:adjust.com
@@ -56,12 +57,15 @@ domain:ads.heytapmobi.com
 domain:ads.huan.tv
 domain:ads.huantest.com
 domain:ads.icloseli.cn
+domain:ads.linkedin.com
 domain:ads.music.126.net
 domain:ads.oppomobile.com
 domain:ads.pinterest.com
 domain:ads.servebom.com
 domain:ads.service.kugou.com
+domain:ads.tiktok.com
 domain:ads.v3mh.com
+domain:ads.youtube.com
 domain:ads3-normal-hl.zijieapi.com
 domain:ads3-normal-lf.zijieapi.com
 domain:ads3-normal-lq.zijieapi.com
@@ -71,6 +75,7 @@ domain:ads5-normal-lf.zijieapi.com
 domain:ads5-normal-lq.zijieapi.com
 domain:ads5-normal.zijieapi.com
 domain:adsense.google.cn
+domain:adserver.unityads.unity3d.com
 domain:adservice.google.cn
 domain:adservice.google.com
 domain:adserviceretry.kugou.com
@@ -127,10 +132,13 @@ domain:analytics.126.net
 domain:analytics.95516.com
 domain:analytics.google.com
 domain:analytics.pinterest.com
+domain:analytics.pointdrive.linkedin.com
 domain:analytics.query.yahoo.com
 domain:analytics.rayjump.com
+domain:analytics.s3.amazonaws.com
 domain:analytics.tiktok.com
 domain:analytics.woozooo.com
+domain:analyticsengine.s3.amazonaws.com
 domain:analyze.lemurbrowser.com
 domain:andrqd.play.aiseet.atianqi.com
 domain:ap.dongqiudi.com
@@ -163,6 +171,7 @@ domain:applog.lc.quark.cn
 domain:applog.uc.cn
 domain:applog.zijieapi.com
 domain:ata-sdk-uuid-report.dreport.meituan.net
+domain:auction.unityads.unity3d.com
 domain:audid-api.taobao.com
 domain:audid.umeng.com
 domain:azr.footprintdns.com
@@ -205,11 +214,14 @@ domain:chat1.jd.com
 domain:chiq-cloud.com
 domain:cj.qidian.com
 domain:ck.ads.oppomobile.com
+domain:click.googleanalytics.com
+domain:click.oneplus.cn
 domain:clog.miguvideo.com
 domain:cnzz.com
 domain:collect.kugou.com
 domain:commdata.v.qq.com
 domain:config.chsmarttv.com
+domain:config.unityads.unity3d.com
 domain:conn-service-cn-03.allawntech.com
 domain:conn-service-cn-04.allawntech.com
 domain:conn-service-cn-05.allawntech.com
@@ -250,8 +262,11 @@ domain:errlog.umeng.com
 domain:errnewlog.umeng.com
 domain:event.tradplusad.com
 domain:events-drcn.op.dbankcloud.cn
+domain:events.reddit.com
+domain:events.redditmedia.com
 domain:firebaselogging-pa.googleapis.com
 domain:flurry.com
+domain:freshmarketer.com
 domain:g-staic.ganjingworld.com
 domain:g2.ganjing.world
 domain:game.loveota.com
@@ -311,6 +326,8 @@ domain:img-c.heytapimage.com
 domain:img.adnyg.com
 domain:img.adnyg.com.w.kunlungr.com
 domain:imtmp.net
+domain:iot-eu-logser.realme.com
+domain:iot-logser.realme.com
 domain:ipv4.kkmh.com
 domain:irc.qubiankeji.com
 domain:itv2-up.openspeech.cn
@@ -522,6 +539,7 @@ domain:stat.y.qq.com
 domain:static.ads-twitter.com
 domain:statics.woozooo.com
 domain:stats.qiumibao.com
+domain:stats.wp.com
 domain:statsigapi.net
 domain:stg-data.ads.heytapmobi.com
 domain:success.ctobsnssdk.com
@@ -635,6 +653,7 @@ domain:watson.telemetry.microsoft.com
 domain:weather-analytics-events.apple.com
 domain:weather-community-drcn.weather.dbankcloud.cn
 domain:webstat.qiumibao.com
+domain:webview.unityads.unity3d.com
 domain:widgets.outbrain.com
 domain:widgets.pinterest.com
 domain:win.gdt.qq.com

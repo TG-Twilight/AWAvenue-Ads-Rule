@@ -1,6 +1,6 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 664
+!Total lines: 683
 !Version: 1.5.3-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -48,6 +48,7 @@
 127.0.0.1 adcolony.com
 127.0.0.1 adexpo.tencentmusic.com
 127.0.0.1 adfilter.imtt.qq.com
+127.0.0.1 adfstat.yandex.ru
 127.0.0.1 adguanggao.eee114.com
 127.0.0.1 adjust.cn
 127.0.0.1 adjust.com
@@ -69,12 +70,15 @@
 127.0.0.1 ads.huan.tv
 127.0.0.1 ads.huantest.com
 127.0.0.1 ads.icloseli.cn
+127.0.0.1 ads.linkedin.com
 127.0.0.1 ads.music.126.net
 127.0.0.1 ads.oppomobile.com
 127.0.0.1 ads.pinterest.com
 127.0.0.1 ads.servebom.com
 127.0.0.1 ads.service.kugou.com
+127.0.0.1 ads.tiktok.com
 127.0.0.1 ads.v3mh.com
+127.0.0.1 ads.youtube.com
 127.0.0.1 ads3-normal-hl.zijieapi.com
 127.0.0.1 ads3-normal-lf.zijieapi.com
 127.0.0.1 ads3-normal-lq.zijieapi.com
@@ -84,6 +88,7 @@
 127.0.0.1 ads5-normal-lq.zijieapi.com
 127.0.0.1 ads5-normal.zijieapi.com
 127.0.0.1 adsense.google.cn
+127.0.0.1 adserver.unityads.unity3d.com
 127.0.0.1 adservice.google.cn
 127.0.0.1 adservice.google.com
 127.0.0.1 adserviceretry.kugou.com
@@ -140,10 +145,13 @@
 127.0.0.1 analytics.95516.com
 127.0.0.1 analytics.google.com
 127.0.0.1 analytics.pinterest.com
+127.0.0.1 analytics.pointdrive.linkedin.com
 127.0.0.1 analytics.query.yahoo.com
 127.0.0.1 analytics.rayjump.com
+127.0.0.1 analytics.s3.amazonaws.com
 127.0.0.1 analytics.tiktok.com
 127.0.0.1 analytics.woozooo.com
+127.0.0.1 analyticsengine.s3.amazonaws.com
 127.0.0.1 analyze.lemurbrowser.com
 127.0.0.1 andrqd.play.aiseet.atianqi.com
 127.0.0.1 ap.dongqiudi.com
@@ -176,6 +184,7 @@
 127.0.0.1 applog.uc.cn
 127.0.0.1 applog.zijieapi.com
 127.0.0.1 ata-sdk-uuid-report.dreport.meituan.net
+127.0.0.1 auction.unityads.unity3d.com
 127.0.0.1 audid-api.taobao.com
 127.0.0.1 audid.umeng.com
 127.0.0.1 azr.footprintdns.com
@@ -218,11 +227,14 @@
 127.0.0.1 chiq-cloud.com
 127.0.0.1 cj.qidian.com
 127.0.0.1 ck.ads.oppomobile.com
+127.0.0.1 click.googleanalytics.com
+127.0.0.1 click.oneplus.cn
 127.0.0.1 clog.miguvideo.com
 127.0.0.1 cnzz.com
 127.0.0.1 collect.kugou.com
 127.0.0.1 commdata.v.qq.com
 127.0.0.1 config.chsmarttv.com
+127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 conn-service-cn-03.allawntech.com
 127.0.0.1 conn-service-cn-04.allawntech.com
 127.0.0.1 conn-service-cn-05.allawntech.com
@@ -263,8 +275,11 @@
 127.0.0.1 errnewlog.umeng.com
 127.0.0.1 event.tradplusad.com
 127.0.0.1 events-drcn.op.dbankcloud.cn
+127.0.0.1 events.reddit.com
+127.0.0.1 events.redditmedia.com
 127.0.0.1 firebaselogging-pa.googleapis.com
 127.0.0.1 flurry.com
+127.0.0.1 freshmarketer.com
 127.0.0.1 g-staic.ganjingworld.com
 127.0.0.1 g2.ganjing.world
 127.0.0.1 game.loveota.com
@@ -324,6 +339,8 @@
 127.0.0.1 img.adnyg.com
 127.0.0.1 img.adnyg.com.w.kunlungr.com
 127.0.0.1 imtmp.net
+127.0.0.1 iot-eu-logser.realme.com
+127.0.0.1 iot-logser.realme.com
 127.0.0.1 ipv4.kkmh.com
 127.0.0.1 irc.qubiankeji.com
 127.0.0.1 itv2-up.openspeech.cn
@@ -535,6 +552,7 @@
 127.0.0.1 static.ads-twitter.com
 127.0.0.1 statics.woozooo.com
 127.0.0.1 stats.qiumibao.com
+127.0.0.1 stats.wp.com
 127.0.0.1 statsigapi.net
 127.0.0.1 stg-data.ads.heytapmobi.com
 127.0.0.1 success.ctobsnssdk.com
@@ -648,6 +666,7 @@
 127.0.0.1 weather-analytics-events.apple.com
 127.0.0.1 weather-community-drcn.weather.dbankcloud.cn
 127.0.0.1 webstat.qiumibao.com
+127.0.0.1 webview.unityads.unity3d.com
 127.0.0.1 widgets.outbrain.com
 127.0.0.1 widgets.pinterest.com
 127.0.0.1 win.gdt.qq.com
