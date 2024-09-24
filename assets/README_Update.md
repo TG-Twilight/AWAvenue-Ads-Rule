@@ -425,13 +425,13 @@ Tips：之后的每次更新（指发 release）均会提供当前日期下最�
 
 ---
 
-## 1.5.3-release：9月23日，2024年
-新增123pan的页面粘贴板劫持广告之拦截，新增更多来自于baidu网盟之广告拦截。
+## 1.5.3-release：9月24日，2024年
+新增123pan的页面粘贴板劫持广告之拦截。
 <br />
-加强了一些数据采集的拦截，和一些coolapk的广告及日志域名，又新增了一些来自Txxxxxt的ads拦截。#86
+加强了对于baidu网盟、Txxxxxt ads、coolapk、realme、tiktok、Amazon、FreshWorks、Stats WP Plugin、LinkedIn、Reddit、youtube之广告拦截（感谢@d3ward），同时加强了一些数据采集的拦截，#86
 <br />
 <br />
-修复 Regex 拦截书写格式错误 #80 ，修复 sing-box 规则正则解析出错 #77 。
+修复 Regex 拦截书写格式错误 #80 #85 ，修复 sing-box 规则正则解析出错 #77 。
 <br />
 <br />
 
