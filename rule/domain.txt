@@ -268,7 +268,6 @@ events.reddit.com
 events.redditmedia.com
 firebaselogging-pa.googleapis.com
 flurry.com
-freshmarketer.com
 g-staic.ganjingworld.com
 g-staic.ganjingworld.com
 g2.ganjing.world
