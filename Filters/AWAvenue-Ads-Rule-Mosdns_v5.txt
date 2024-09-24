@@ -266,7 +266,6 @@ domain:events.reddit.com
 domain:events.redditmedia.com
 domain:firebaselogging-pa.googleapis.com
 domain:flurry.com
-domain:freshmarketer.com
 domain:g-staic.ganjingworld.com
 domain:g2.ganjing.world
 domain:game.loveota.com
