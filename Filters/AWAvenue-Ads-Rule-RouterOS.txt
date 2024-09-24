@@ -1,6 +1,6 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 15
+!Total lines: 14
 !Version: 1.5.3-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -12,7 +12,6 @@ ip dns static add address=240.0.0.1 name=.*\.[a-zA-Z0-9.-]skwai\.com
 ip dns static add address=240.0.0.1 name=.*\.a\.market\.xiaomi\.com
 ip dns static add address=240.0.0.1 name=.*\.data\.hicloud\.com
 ip dns static add address=240.0.0.1 name=.*\.log\.aliyuncs\.com
-ip dns static add address=240.0.0.1 name=.*\.shouji\.sogou\.com
 ip dns static add address=240.0.0.1 name=[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*\.byteimg\.com
 ip dns static add address=240.0.0.1 name=[a-zA-Z0-9.-]*-ad\.sm\.cn
 ip dns static add address=240.0.0.1 name=[a-zA-Z0-9.-]*-ad\.video\.yximgs\.com

@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 702
+#Total lines: 701
 #Version: 1.5.3-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -699,7 +699,6 @@ payload:
   - DOMAIN-REGEX,^.*\.a\.market\.xiaomi\.com$
   - DOMAIN-REGEX,^.*\.data\.hicloud\.com$
   - DOMAIN-REGEX,^.*\.log\.aliyuncs\.com$
-  - DOMAIN-REGEX,^.*\.shouji\.sogou\.com$
   - DOMAIN-REGEX,^[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*\.byteimg\.com$
   - DOMAIN-REGEX,^[a-zA-Z0-9.-]*-ad\.sm\.cn$
   - DOMAIN-REGEX,^[a-zA-Z0-9.-]*-ad\.video\.yximgs\.com$
