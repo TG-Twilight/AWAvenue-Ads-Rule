@@ -6,7 +6,7 @@
 [a-zA-Z0-9.-]*-lm\.adkwai\.com
 [a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com
 [a-zA-Z0-9.-]*-normal\.zijieapi\.com
-.*\..*\.shouji\.sogou\.com
+.*\.*\.shouji\.sogou\.com
 .*\.a\.market\.xiaomi\.com
 .*\.data\.hicloud\.com
 .*\.log\.aliyuncs\.com
