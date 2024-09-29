@@ -7,7 +7,7 @@
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
 
 
-ip dns static add address=240.0.0.1 name=.*\..*\.shouji\.sogou\.com
+ip dns static add address=240.0.0.1 name=.*\.*\.shouji\.sogou\.com
 ip dns static add address=240.0.0.1 name=.*\.[a-zA-Z0-9.-]skwai\.com
 ip dns static add address=240.0.0.1 name=.*\.a\.market\.xiaomi\.com
 ip dns static add address=240.0.0.1 name=.*\.data\.hicloud\.com

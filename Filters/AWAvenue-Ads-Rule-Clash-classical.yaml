@@ -693,7 +693,7 @@ payload:
   - DOMAIN,youku-acs.m.taobao.com
   - DOMAIN,youxi.kugou.com
   - DOMAIN,zeus.ad.xiaomi.com
-  - DOMAIN-REGEX,^.*\..*\.shouji\.sogou\.com$
+  - DOMAIN-REGEX,^.*\.*\.shouji\.sogou\.com$
   - DOMAIN-REGEX,^.*\.[a-zA-Z0-9.-]skwai\.com$
   - DOMAIN-REGEX,^.*\.a\.market\.xiaomi\.com$
   - DOMAIN-REGEX,^.*\.data\.hicloud\.com$
