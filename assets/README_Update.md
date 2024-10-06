@@ -431,7 +431,7 @@ Tips：之后的每次更新（指发 release）均会提供当前日期下最�
 加强了对于baidu网盟、Txxxxxt ads、coolapk、realme、tiktok、Amazon、FreshWorks、Stats WP Plugin、LinkedIn、Reddit、youtube之广告拦截（感谢@d3ward），同时加强了一些数据采集的拦截，#86
 <br />
 <br />
-修复 Regex 拦截书写格式错误 #80 #85 ，修复 sing-box 规则正则解析出错 #77 。
+修复 Regex 拦截书写格式错误 #80 #85 ，修复 sing-box 规则正则解析出错 #77 ，移除了更多误杀（10月6日）。
 <br />
 <br />
 
