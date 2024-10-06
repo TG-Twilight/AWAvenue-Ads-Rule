@@ -191,7 +191,6 @@ domain:bianxian.com
 domain:bingads.microsoft.com
 domain:bj.ad.track.66mobi.com
 domain:books-analytics-events.apple.com
-domain:bossaudioandcomic-1252317822.image.myqcloud.com
 domain:bsrv.qq.com
 domain:bugly.qq.com
 domain:business-api.tiktok.com
@@ -222,12 +221,6 @@ domain:collect.kugou.com
 domain:commdata.v.qq.com
 domain:config.chsmarttv.com
 domain:config.unityads.unity3d.com
-domain:conn-service-cn-03.allawntech.com
-domain:conn-service-cn-04.allawntech.com
-domain:conn-service-cn-05.allawntech.com
-domain:conn-service-in-03.allawnos.com
-domain:conn-service-in-04.allawnos.com
-domain:conn-service-in-05.allawnos.com
 domain:cpro.baidustatic.com
 domain:crashlytics.com
 domain:crashlyticsreports-pa.googleapis.com
