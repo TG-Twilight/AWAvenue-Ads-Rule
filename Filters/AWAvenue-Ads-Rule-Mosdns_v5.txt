@@ -382,7 +382,6 @@ domain:m.ad.zhangyue.com
 domain:m.atm.youku.com
 domain:m.kubiqq.com
 domain:m1.ad.10010.com
-domain:manhua.acimg.cn
 domain:mapi.m.jd.com
 domain:masdkv6.3g.qq.com
 domain:mazu.m.qq.com
