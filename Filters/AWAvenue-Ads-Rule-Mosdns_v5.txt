@@ -386,7 +386,6 @@ domain:mapi.m.jd.com
 domain:masdkv6.3g.qq.com
 domain:mazu.m.qq.com
 domain:mbdlog.iqiyi.com
-domain:metok.sys.miui.com
 domain:metrics.apple.com
 domain:metrics.data.hicloud.com
 domain:metrics.icloud.com
