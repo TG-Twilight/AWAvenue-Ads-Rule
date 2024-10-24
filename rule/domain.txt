@@ -203,6 +203,7 @@ c.kuaiduizuoye.com
 c.sayhi.360.cn
 c2.gdt.qq.com
 catalog.fjwhcbsh.com
+canvas-cdn.gdt.qq.com
 cbjs.baidu.com
 ccs.umeng.com
 cctv.adsunion.com
