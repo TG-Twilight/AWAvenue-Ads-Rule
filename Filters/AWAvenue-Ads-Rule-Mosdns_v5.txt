@@ -200,6 +200,7 @@ domain:c.gj.qq.com
 domain:c.kuaiduizuoye.com
 domain:c.sayhi.360.cn
 domain:c2.gdt.qq.com
+domain:canvas-cdn.gdt.qq.com
 domain:catalog.fjwhcbsh.com
 domain:cbjs.baidu.com
 domain:ccs.umeng.com

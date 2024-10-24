@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 673
+#Total lines: 674
 #Version: 1.5.3-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -213,6 +213,7 @@
 0.0.0.0 c.kuaiduizuoye.com
 0.0.0.0 c.sayhi.360.cn
 0.0.0.0 c2.gdt.qq.com
+0.0.0.0 canvas-cdn.gdt.qq.com
 0.0.0.0 catalog.fjwhcbsh.com
 0.0.0.0 cbjs.baidu.com
 0.0.0.0 ccs.umeng.com
