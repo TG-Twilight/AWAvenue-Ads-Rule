@@ -289,7 +289,6 @@ h.trace.qq.com
 hanlanad.com
 henzanapp.com
 hexagon-analytics.com
-hiboard-drcn.ai.dbankcloud.cn
 hm.baidu.com
 hmma.baidu.com
 houyi.kkmh.com
