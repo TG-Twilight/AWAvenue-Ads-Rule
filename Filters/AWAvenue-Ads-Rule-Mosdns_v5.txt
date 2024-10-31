@@ -286,7 +286,6 @@ domain:h.trace.qq.com
 domain:hanlanad.com
 domain:henzanapp.com
 domain:hexagon-analytics.com
-domain:hiboard-drcn.ai.dbankcloud.cn
 domain:hm.baidu.com
 domain:hmma.baidu.com
 domain:houyi.kkmh.com

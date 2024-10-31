@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 692
+#Total lines: 691
 #Version: 1.5.3-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -299,7 +299,6 @@ payload:
   - DOMAIN,hanlanad.com
   - DOMAIN,henzanapp.com
   - DOMAIN,hexagon-analytics.com
-  - DOMAIN,hiboard-drcn.ai.dbankcloud.cn
   - DOMAIN,hm.baidu.com
   - DOMAIN,hmma.baidu.com
   - DOMAIN,houyi.kkmh.com

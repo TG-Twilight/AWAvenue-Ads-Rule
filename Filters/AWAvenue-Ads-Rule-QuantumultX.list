@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 691
+#Total lines: 690
 #Version: 1.5.3-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -298,7 +298,6 @@ DOMAIN,h.trace.qq.com,reject
 DOMAIN,hanlanad.com,reject
 DOMAIN,henzanapp.com,reject
 DOMAIN,hexagon-analytics.com,reject
-DOMAIN,hiboard-drcn.ai.dbankcloud.cn,reject
 DOMAIN,hm.baidu.com,reject
 DOMAIN,hmma.baidu.com,reject
 DOMAIN,houyi.kkmh.com,reject
