@@ -7,6 +7,7 @@ aaid.umeng.com
 abtest-ch.snssdk.com
 ad-cache.dopool.com
 ad-cdn.qingting.fm
+ad-download.hismarttv.com
 ad-scope.com
 ad-scope.com.cn
 ad-sdk.huxiu.com
