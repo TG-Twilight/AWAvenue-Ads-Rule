@@ -7,6 +7,7 @@ domain:aaid.umeng.com
 domain:abtest-ch.snssdk.com
 domain:ad-cache.dopool.com
 domain:ad-cdn.qingting.fm
+domain:ad-cmp.hismarttv.com
 domain:ad-download.hismarttv.com
 domain:ad-imp.hismarttv.com
 domain:ad-scope.com

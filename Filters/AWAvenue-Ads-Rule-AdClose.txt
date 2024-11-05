@@ -1,6 +1,6 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 689
+!Total lines: 690
 !Version: 1.5.3-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -16,6 +16,7 @@ aaid.umeng.com
 abtest-ch.snssdk.com
 ad-cache.dopool.com
 ad-cdn.qingting.fm
+ad-cmp.hismarttv.com
 ad-download.hismarttv.com
 ad-imp.hismarttv.com
 ad-scope.com

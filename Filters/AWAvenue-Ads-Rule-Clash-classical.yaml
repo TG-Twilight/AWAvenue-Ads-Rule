@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 693
+#Total lines: 694
 #Version: 1.5.3-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -20,6 +20,7 @@ payload:
   - DOMAIN,abtest-ch.snssdk.com
   - DOMAIN,ad-cache.dopool.com
   - DOMAIN,ad-cdn.qingting.fm
+  - DOMAIN,ad-cmp.hismarttv.com
   - DOMAIN,ad-download.hismarttv.com
   - DOMAIN,ad-imp.hismarttv.com
   - DOMAIN,ad-scope.com
