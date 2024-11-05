@@ -43,6 +43,7 @@ DOMAIN,adapi.izuiyou.com,reject
 DOMAIN,adapi.yynetwk.com,reject
 DOMAIN,adashbc.ut.taobao.com,reject
 DOMAIN,adcdn.tencentmusic.com,reject
+DOMAIN,adclick.g.doubleclick.net,reject
 DOMAIN,adclick.tencentmusic.com,reject
 DOMAIN,adcolony.com,reject
 DOMAIN,adexpo.tencentmusic.com,reject
@@ -251,7 +252,6 @@ DOMAIN,dlogs.bwton.com,reject
 DOMAIN,dm.toutiao.com,reject
 DOMAIN,domain.aishengji.com,reject
 DOMAIN,doubleclick-cn.net,reject
-DOMAIN,doubleclick.net,reject
 DOMAIN,download.changhong.upgrade2.huan.tv,reject
 DOMAIN,downloadxml.changhong.upgrade2.huan.tv,reject
 DOMAIN,drcn-weather.cloud.huawei.com,reject

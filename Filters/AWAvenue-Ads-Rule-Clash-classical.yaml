@@ -44,6 +44,7 @@ payload:
   - DOMAIN,adapi.yynetwk.com
   - DOMAIN,adashbc.ut.taobao.com
   - DOMAIN,adcdn.tencentmusic.com
+  - DOMAIN,adclick.g.doubleclick.net
   - DOMAIN,adclick.tencentmusic.com
   - DOMAIN,adcolony.com
   - DOMAIN,adexpo.tencentmusic.com
@@ -252,7 +253,6 @@ payload:
   - DOMAIN,dm.toutiao.com
   - DOMAIN,domain.aishengji.com
   - DOMAIN,doubleclick-cn.net
-  - DOMAIN,doubleclick.net
   - DOMAIN,download.changhong.upgrade2.huan.tv
   - DOMAIN,downloadxml.changhong.upgrade2.huan.tv
   - DOMAIN,drcn-weather.cloud.huawei.com

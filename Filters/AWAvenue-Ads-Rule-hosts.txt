@@ -44,6 +44,7 @@
 127.0.0.1 adapi.yynetwk.com
 127.0.0.1 adashbc.ut.taobao.com
 127.0.0.1 adcdn.tencentmusic.com
+127.0.0.1 adclick.g.doubleclick.net
 127.0.0.1 adclick.tencentmusic.com
 127.0.0.1 adcolony.com
 127.0.0.1 adexpo.tencentmusic.com
@@ -252,7 +253,6 @@
 127.0.0.1 dm.toutiao.com
 127.0.0.1 domain.aishengji.com
 127.0.0.1 doubleclick-cn.net
-127.0.0.1 doubleclick.net
 127.0.0.1 download.changhong.upgrade2.huan.tv
 127.0.0.1 downloadxml.changhong.upgrade2.huan.tv
 127.0.0.1 drcn-weather.cloud.huawei.com

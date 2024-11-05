@@ -31,6 +31,7 @@ domain:adapi.izuiyou.com
 domain:adapi.yynetwk.com
 domain:adashbc.ut.taobao.com
 domain:adcdn.tencentmusic.com
+domain:adclick.g.doubleclick.net
 domain:adclick.tencentmusic.com
 domain:adcolony.com
 domain:adexpo.tencentmusic.com
@@ -239,7 +240,6 @@ domain:dlogs.bwton.com
 domain:dm.toutiao.com
 domain:domain.aishengji.com
 domain:doubleclick-cn.net
-domain:doubleclick.net
 domain:download.changhong.upgrade2.huan.tv
 domain:downloadxml.changhong.upgrade2.huan.tv
 domain:drcn-weather.cloud.huawei.com

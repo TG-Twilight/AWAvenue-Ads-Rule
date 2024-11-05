@@ -44,6 +44,7 @@
 0.0.0.0 adapi.yynetwk.com
 0.0.0.0 adashbc.ut.taobao.com
 0.0.0.0 adcdn.tencentmusic.com
+0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 adclick.tencentmusic.com
 0.0.0.0 adcolony.com
 0.0.0.0 adexpo.tencentmusic.com
@@ -252,7 +253,6 @@
 0.0.0.0 dm.toutiao.com
 0.0.0.0 domain.aishengji.com
 0.0.0.0 doubleclick-cn.net
-0.0.0.0 doubleclick.net
 0.0.0.0 download.changhong.upgrade2.huan.tv
 0.0.0.0 downloadxml.changhong.upgrade2.huan.tv
 0.0.0.0 drcn-weather.cloud.huawei.com
