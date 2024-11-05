@@ -8,6 +8,7 @@ domain:abtest-ch.snssdk.com
 domain:ad-cache.dopool.com
 domain:ad-cdn.qingting.fm
 domain:ad-download.hismarttv.com
+domain:ad-imp.hismarttv.com
 domain:ad-scope.com
 domain:ad-scope.com.cn
 domain:ad-sdk.huxiu.com
