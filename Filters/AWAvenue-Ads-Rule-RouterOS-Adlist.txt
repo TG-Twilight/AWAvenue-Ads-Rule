@@ -25,6 +25,7 @@
 0.0.0.0 ad-imp.hismarttv.com
 0.0.0.0 ad-scope.com
 0.0.0.0 ad-scope.com.cn
+0.0.0.0 ad-sdk-config.youdao.com
 0.0.0.0 ad-sdk.huxiu.com
 0.0.0.0 ad.12306.cn
 0.0.0.0 ad.51wnl.com
@@ -300,7 +301,6 @@
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 h.trace.qq.com
 0.0.0.0 hanlanad.com
-0.0.0.0 henzanapp.com
 0.0.0.0 hexagon-analytics.com
 0.0.0.0 hm.baidu.com
 0.0.0.0 hmma.baidu.com

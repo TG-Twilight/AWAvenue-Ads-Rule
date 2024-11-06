@@ -24,6 +24,7 @@ DOMAIN,ad-download.hismarttv.com,reject
 DOMAIN,ad-imp.hismarttv.com,reject
 DOMAIN,ad-scope.com,reject
 DOMAIN,ad-scope.com.cn,reject
+DOMAIN,ad-sdk-config.youdao.com,reject
 DOMAIN,ad-sdk.huxiu.com,reject
 DOMAIN,ad.12306.cn,reject
 DOMAIN,ad.51wnl.com,reject
@@ -299,7 +300,6 @@ DOMAIN,grs.platform.dbankcloud.ru,reject
 DOMAIN,h-adashx.ut.taobao.com,reject
 DOMAIN,h.trace.qq.com,reject
 DOMAIN,hanlanad.com,reject
-DOMAIN,henzanapp.com,reject
 DOMAIN,hexagon-analytics.com,reject
 DOMAIN,hm.baidu.com,reject
 DOMAIN,hmma.baidu.com,reject

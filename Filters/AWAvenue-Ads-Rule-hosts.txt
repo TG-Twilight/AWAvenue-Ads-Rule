@@ -25,6 +25,7 @@
 127.0.0.1 ad-imp.hismarttv.com
 127.0.0.1 ad-scope.com
 127.0.0.1 ad-scope.com.cn
+127.0.0.1 ad-sdk-config.youdao.com
 127.0.0.1 ad-sdk.huxiu.com
 127.0.0.1 ad.12306.cn
 127.0.0.1 ad.51wnl.com
@@ -300,7 +301,6 @@
 127.0.0.1 h-adashx.ut.taobao.com
 127.0.0.1 h.trace.qq.com
 127.0.0.1 hanlanad.com
-127.0.0.1 henzanapp.com
 127.0.0.1 hexagon-analytics.com
 127.0.0.1 hm.baidu.com
 127.0.0.1 hmma.baidu.com

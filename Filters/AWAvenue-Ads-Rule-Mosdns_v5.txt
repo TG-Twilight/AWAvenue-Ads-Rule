@@ -12,6 +12,7 @@ domain:ad-download.hismarttv.com
 domain:ad-imp.hismarttv.com
 domain:ad-scope.com
 domain:ad-scope.com.cn
+domain:ad-sdk-config.youdao.com
 domain:ad-sdk.huxiu.com
 domain:ad.12306.cn
 domain:ad.51wnl.com
@@ -287,7 +288,6 @@ domain:grs.platform.dbankcloud.ru
 domain:h-adashx.ut.taobao.com
 domain:h.trace.qq.com
 domain:hanlanad.com
-domain:henzanapp.com
 domain:hexagon-analytics.com
 domain:hm.baidu.com
 domain:hmma.baidu.com
