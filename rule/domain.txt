@@ -207,8 +207,8 @@ c.gj.qq.com
 c.kuaiduizuoye.com
 c.sayhi.360.cn
 c2.gdt.qq.com
-catalog.fjwhcbsh.com
 canvas-cdn.gdt.qq.com
+catalog.fjwhcbsh.com
 cbjs.baidu.com
 ccs.umeng.com
 cctv.adsunion.com
@@ -622,6 +622,7 @@ video-dsp.pddpic.com
 video.dispatch.tc.qq.com
 virusinfo-cloudscan-cn.heytapmobi.com
 vlive.qqvideo.tc.qq.com
+volc.bj.ad.track.66mobi.com
 vungle.com
 w.l.qq.com
 w1.askwai.com
