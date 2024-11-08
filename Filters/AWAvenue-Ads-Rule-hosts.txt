@@ -1,7 +1,7 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 677
-!Version: 1.5.3-release
+!Total lines: 680
+!Version: 1.5.4-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -225,6 +225,7 @@
 127.0.0.1 cctv.adsunion.com
 127.0.0.1 cdn-ad.wtzw.com
 127.0.0.1 cdn-ads.oss-cn-shanghai.aliyuncs.com
+127.0.0.1 cdn-plugin-sync-upgrade-juui.hismarttv.com
 127.0.0.1 cdn.ad.xiaomi.com
 127.0.0.1 cdn.ynuf.aliapp.org
 127.0.0.1 cfg.imtt.qq.com
@@ -612,11 +613,13 @@
 127.0.0.1 union.baidu.com
 127.0.0.1 update.avlyun.sec.miui.com
 127.0.0.1 update.lejiao.tv
+127.0.0.1 upgrade-update.hismarttv.com
 127.0.0.1 us.l.qq.com
 127.0.0.1 v.adintl.cn
 127.0.0.1 v.adx.hubcloud.com.cn
 127.0.0.1 v1-ad.video.yximgs.com
 127.0.0.1 v2-ad.video.yximgs.com
+127.0.0.1 v2-api-channel-launcher.hismarttv.com
 127.0.0.1 v2.gdt.qq.com
 127.0.0.1 v2mi.gdt.qq.com
 127.0.0.1 v3-ad.video.yximgs.com

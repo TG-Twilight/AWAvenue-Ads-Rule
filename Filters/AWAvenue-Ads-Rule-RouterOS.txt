@@ -1,7 +1,7 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
 !Total lines: 14
-!Version: 1.5.3-release
+!Version: 1.5.4-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE

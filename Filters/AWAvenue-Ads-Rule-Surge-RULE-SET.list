@@ -1,7 +1,7 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 695
-#Version: 1.5.3-release
+#Total lines: 698
+#Version: 1.5.4-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -225,6 +225,7 @@ DOMAIN,ccs.umeng.com,reject
 DOMAIN,cctv.adsunion.com,reject
 DOMAIN,cdn-ad.wtzw.com,reject
 DOMAIN,cdn-ads.oss-cn-shanghai.aliyuncs.com,reject
+DOMAIN,cdn-plugin-sync-upgrade-juui.hismarttv.com,reject
 DOMAIN,cdn.ad.xiaomi.com,reject
 DOMAIN,cdn.ynuf.aliapp.org,reject
 DOMAIN,cfg.imtt.qq.com,reject
@@ -612,11 +613,13 @@ DOMAIN,union.baidu.cn,reject
 DOMAIN,union.baidu.com,reject
 DOMAIN,update.avlyun.sec.miui.com,reject
 DOMAIN,update.lejiao.tv,reject
+DOMAIN,upgrade-update.hismarttv.com,reject
 DOMAIN,us.l.qq.com,reject
 DOMAIN,v.adintl.cn,reject
 DOMAIN,v.adx.hubcloud.com.cn,reject
 DOMAIN,v1-ad.video.yximgs.com,reject
 DOMAIN,v2-ad.video.yximgs.com,reject
+DOMAIN,v2-api-channel-launcher.hismarttv.com,reject
 DOMAIN,v2.gdt.qq.com,reject
 DOMAIN,v2mi.gdt.qq.com,reject
 DOMAIN,v3-ad.video.yximgs.com,reject

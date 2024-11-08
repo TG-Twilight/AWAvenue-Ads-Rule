@@ -212,6 +212,7 @@ domain:ccs.umeng.com
 domain:cctv.adsunion.com
 domain:cdn-ad.wtzw.com
 domain:cdn-ads.oss-cn-shanghai.aliyuncs.com
+domain:cdn-plugin-sync-upgrade-juui.hismarttv.com
 domain:cdn.ad.xiaomi.com
 domain:cdn.ynuf.aliapp.org
 domain:cfg.imtt.qq.com
@@ -599,11 +600,13 @@ domain:union.baidu.cn
 domain:union.baidu.com
 domain:update.avlyun.sec.miui.com
 domain:update.lejiao.tv
+domain:upgrade-update.hismarttv.com
 domain:us.l.qq.com
 domain:v.adintl.cn
 domain:v.adx.hubcloud.com.cn
 domain:v1-ad.video.yximgs.com
 domain:v2-ad.video.yximgs.com
+domain:v2-api-channel-launcher.hismarttv.com
 domain:v2.gdt.qq.com
 domain:v2mi.gdt.qq.com
 domain:v3-ad.video.yximgs.com
