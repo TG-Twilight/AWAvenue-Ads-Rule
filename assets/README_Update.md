@@ -436,3 +436,14 @@ Tips：之后的每次更新（指发 release）均会提供当前日期下最�
 <br />
 
 ---
+
+## 1.5.4-release：11月8日，2024年
+新增 Hisense 之ads拦截，不过目前没有收集齐所有的das域名，之后会慢慢补充。
+<br />
+新增 youdao ads、taptap cloud game ads 之拦截，还是同上，感谢 @kongkong(TG User)、@walkonbothsides
+<br />
+修复对于“什么值得买”的错误拦截，以及一些其他的改进与修复，感谢@Mosney #92
+<br />
+<br />
+
+---
