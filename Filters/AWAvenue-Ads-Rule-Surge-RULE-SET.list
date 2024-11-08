@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 694
+#Total lines: 695
 #Version: 1.5.3-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -626,6 +626,7 @@ DOMAIN,video-dsp.pddpic.com,reject
 DOMAIN,video.dispatch.tc.qq.com,reject
 DOMAIN,virusinfo-cloudscan-cn.heytapmobi.com,reject
 DOMAIN,vlive.qqvideo.tc.qq.com,reject
+DOMAIN,volc.bj.ad.track.66mobi.com,reject
 DOMAIN,vungle.com,reject
 DOMAIN,w.l.qq.com,reject
 DOMAIN,w1.askwai.com,reject

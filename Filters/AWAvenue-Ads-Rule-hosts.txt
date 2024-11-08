@@ -1,6 +1,6 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 676
+!Total lines: 677
 !Version: 1.5.3-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -626,6 +626,7 @@
 127.0.0.1 video.dispatch.tc.qq.com
 127.0.0.1 virusinfo-cloudscan-cn.heytapmobi.com
 127.0.0.1 vlive.qqvideo.tc.qq.com
+127.0.0.1 volc.bj.ad.track.66mobi.com
 127.0.0.1 vungle.com
 127.0.0.1 w.l.qq.com
 127.0.0.1 w1.askwai.com

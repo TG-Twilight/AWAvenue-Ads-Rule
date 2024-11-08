@@ -613,6 +613,7 @@ domain:video-dsp.pddpic.com
 domain:video.dispatch.tc.qq.com
 domain:virusinfo-cloudscan-cn.heytapmobi.com
 domain:vlive.qqvideo.tc.qq.com
+domain:volc.bj.ad.track.66mobi.com
 domain:vungle.com
 domain:w.l.qq.com
 domain:w1.askwai.com
