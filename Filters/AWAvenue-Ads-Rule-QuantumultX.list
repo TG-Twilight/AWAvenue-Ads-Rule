@@ -1,12 +1,13 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 693
+#Total lines: 694
 #Version: 1.5.3-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
 
 
+IP-CIDR,116.205.193.167/32,reject
 IP-CIDR,123.56.23.22/32,reject
 IP-CIDR,182.254.116.116/32,reject
 IP-CIDR,203.205.137.89/32,reject

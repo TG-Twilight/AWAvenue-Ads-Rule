@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 694
+#Total lines: 695
 #Version: 1.5.3-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -8,6 +8,7 @@
 
 
 payload:
+  - IP-CIDR,116.205.193.167/32,no-resolve
   - IP-CIDR,123.56.23.22/32,no-resolve
   - IP-CIDR,182.254.116.116/32,no-resolve
   - IP-CIDR,203.205.137.89/32,no-resolve
