@@ -7,10 +7,10 @@
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
 
 
-||116.205.193.167^
-||123.56.23.22^
-||182.254.116.116^
-||203.205.137.89^
+127.0.0.1 116.205.193.167
+127.0.0.1 123.56.23.22
+127.0.0.1 182.254.116.116
+127.0.0.1 203.205.137.89
 ||1010pic.com^
 ||16dd-advertise-1252317822.file.myqcloud.com^
 ||16dd-advertise-1252317822.image.myqcloud.com^
