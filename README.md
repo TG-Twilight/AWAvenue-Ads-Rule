@@ -89,9 +89,9 @@ AdGuard Home、ClashMeta、QuantumultX、Surge、hosts格式、AdGuard DNS、Sur
 
 ## 🍁赞助商 | Special sponsors
 
-[倾城极速 - 畅游世界，高速互联](https://panel.qqcjs.top/#/register?code=prbbRzx9)
+[Stay浏览器 - 无核轻量,专注于提升本身浏览体验的浏览器]([https://video.iamok.in/](https://play.google.com/store/apps/details?id=com.dajiu.stay))
 
-[画境播放器 - 海外正版流媒体播放器](https://video.iamok.in/)
+[倾城极速 - 畅游世界，高速互联](https://panel.qqcjs.top/#/register?code=prbbRzx9)
 
 ---
 
