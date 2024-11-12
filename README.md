@@ -81,8 +81,6 @@ AdGuard Home、ClashMeta、QuantumultX、Surge、hosts格式、AdGuard DNS、Sur
 
 - [AdGuard DNS](https://adguard-dns.io/en/welcome.html)    *直接使用自定义的DNS服务器，目前，秋风广告规则已加入AdGuard官方列表，你可以直接在AdGuard DNS Filters中订阅！*
 
-- [OpenWrt AutoUpdateHosts](https://github.com/Aethersailor/OpenWrt-AutoUpdateHosts)    *在 OpenWrt 下实现定时自动合并广告拦截规则以及其他加速规则至 hosts 文件，并自动重启 OpenClash 和 Dnsmasq，无需套娃其他插件即可利用 Dnsmasq 实现去广告以及 GitHub 加速功能*
-
 </details>
 
 ---
