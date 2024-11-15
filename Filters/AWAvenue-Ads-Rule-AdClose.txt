@@ -1,705 +1,694 @@
-!Title: AWAvenue Ads Rule
-!--------------------------------------
-!Total lines: 696
-!Version: 1.5.4-release
+#Title: AWAvenue Ads Rule
+#--------------------------------------
+#Total lines: 682
+#Version: 1.5.4-release
 
-!Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
-!License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
+#Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
 
 
-1010pic.com
-16dd-advertise-1252317822.file.myqcloud.com
-16dd-advertise-1252317822.image.myqcloud.com
-8le8le.com
-a0.app.xiaomi.com
-aaid.umeng.com
-abtest-ch.snssdk.com
-ad-cache.dopool.com
-ad-cdn.qingting.fm
-ad-cmp.hismarttv.com
-ad-download.hismarttv.com
-ad-imp.hismarttv.com
-ad-scope.com
-ad-scope.com.cn
-ad-sdk-config.youdao.com
-ad-sdk.huxiu.com
-ad.12306.cn
-ad.51wnl.com
-ad.bwton.com
-ad.cctv.com
-ad.cyapi.cn
-ad.partner.gifshow.com
-ad.qingting.fm
-ad.qq.com
-ad.richmob.cn
-ad.tencentmusic.com
-ad.toutiao.com
-ad.v3mh.com
-ad.winrar.com.cn
-ad.xelements.cn
-ad.xiaomi.com
-ad.ximalaya.com
-ad.zijieapi.com
-adapi.izuiyou.com
-adapi.yynetwk.com
-adashbc.ut.taobao.com
-adcdn.tencentmusic.com
-adclick.g.doubleclick.net
-adclick.tencentmusic.com
-adcolony.com
-adexpo.tencentmusic.com
-adfilter.imtt.qq.com
-adfstat.yandex.ru
-adguanggao.eee114.com
-adjust.cn
-adjust.com
-adkwai.com
-adlink-api.huan.tv
-adm.funshion.com
-ads-api-o.api.leiniao.com
-ads-api.tiktok.com
-ads-api.twitter.com
-ads-img-qc.xhscdn.com
-ads-jp.tiktok.com
-ads-sg.tiktok.com
-ads-us.tiktok.com
-ads-video-al.xhscdn.com
-ads-video-qc.xhscdn.com
-ads.95516.com
-ads.google.cn
-ads.heytapmobi.com
-ads.huan.tv
-ads.huantest.com
-ads.icloseli.cn
-ads.linkedin.com
-ads.music.126.net
-ads.oppomobile.com
-ads.pinterest.com
-ads.servebom.com
-ads.service.kugou.com
-ads.tiktok.com
-ads.v3mh.com
-ads.youtube.com
-ads3-normal-hl.zijieapi.com
-ads3-normal-lf.zijieapi.com
-ads3-normal-lq.zijieapi.com
-ads3-normal.zijieapi.com
-ads5-normal-hl.zijieapi.com
-ads5-normal-lf.zijieapi.com
-ads5-normal-lq.zijieapi.com
-ads5-normal.zijieapi.com
-adsense.google.cn
-adserver.unityads.unity3d.com
-adservice.google.cn
-adservice.google.com
-adserviceretry.kugou.com
-adsfile.bssdlbig.kugou.com
-adsfilebssdlbig.ali.kugou.com
-adsfileretry.service.kugou.com
-adsfs-sdkconfig.heytapimage.com
-adsfs.oppomobile.com
-adsmart.konka.com
-adsmind.gdtimg.com
-adsmind.ugdtimg.com
-adsp.xunlei.com
-adstats.tencentmusic.com
-adstore-1252524079.file.myqcloud.com
-adstore-index-1252524079.file.myqcloud.com
-adtago.s3.amazonaws.com
-adtech.yahooinc.com
-adtrack.quark.cn
-adukwai.com
-adv.fjtv.net
-adv.sec.intl.miui.com
-adv.sec.miui.com
-advertiseonbing.azureedge.net
-advertising-api-eu.amazon.com
-advertising-api-fe.amazon.com
-advertising-api.amazon.com
-advertising.apple.com
-advertising.yahoo.com
-advertising.yandex.ru
-advice-ads.s3.amazonaws.com
-adview.cn
-adx-ad.smart-tv.cn
-adx-bj.anythinktech.com
-adx-cn.anythinktech.com
-adx-drcn.op.dbankcloud.cn
-adx-open-service.youku.com
-adx-os.anythinktech.com
-adx.ads.heytapmobi.com
-adx.ads.oppomobile.com
-adxlog-adnet.vivo.com.cn
-adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn
-adxserver.ad.cmvideo.cn
-aegis.qq.com
-afs.googlesyndication.com
-aiseet.aa.atianqi.com
-ali-ad.a.yximgs.com
-alog.umeng.com
-als.baidu.com
-amdcopen.m.taobao.com
-an.facebook.com
-analysis.yozocloud.cn
-analytics-api.samsunghealthcn.com
-analytics.126.net
-analytics.95516.com
-analytics.google.com
-analytics.pinterest.com
-analytics.pointdrive.linkedin.com
-analytics.query.yahoo.com
-analytics.rayjump.com
-analytics.s3.amazonaws.com
-analytics.tiktok.com
-analytics.woozooo.com
-analyticsengine.s3.amazonaws.com
-analyze.lemurbrowser.com
-andrqd.play.aiseet.atianqi.com
-ap.dongqiudi.com
-apd-pcdnwxlogin.teg.tencent-cloud.net
-apd-pcdnwxnat.teg.tencent-cloud.net
-apd-pcdnwxstat.teg.tencent-cloud.net
-api-access.pangolin-sdk-toutiao.com
-api-access.pangolin-sdk-toutiao1.com
-api-access.pangolin-sdk-toutiao2.com
-api-access.pangolin-sdk-toutiao3.com
-api-access.pangolin-sdk-toutiao4.com
-api-access.pangolin-sdk-toutiao5.com
-api-ad-product.huxiu.com
-api-adservices.apple.com
-api-htp.beizi.biz
-api.ad.xiaomi.com
-api.e.kuaishou.com
-api.htp.hubcloud.com.cn
-api.hzsanjiaomao.com
-api.installer.xiaomi.com
-api.jietuhb.com
-api.kingdata.ksyun.com
-api.statsig.com
-api5-normal-quic-lf.ixigua.com
-apiyd.my91app.com
-apks.webxiaobai.top
-app-measurement.com
-appcloud2.in.zhihu.com
-applog.lc.quark.cn
-applog.uc.cn
-applog.zijieapi.com
-ata-sdk-uuid-report.dreport.meituan.net
-auction.unityads.unity3d.com
-audid-api.taobao.com
-audid.umeng.com
-azr.footprintdns.com
-b1-data.ads.heytapmobi.com
-bdad.123pan.cn
-bdapi-ads.realmemobile.com
-bdapi-in-ads.realmemobile.com
-bdapi.ads.oppomobile.com
-beacon-api.aliyuncs.com
-beacon.qq.com
-beaconcdn.qq.com
-beacons.gvt2.com
-beizi.biz
-bes-mtj.baidu.com
-bgg.baidu.com
-bianxian.com
-bingads.microsoft.com
-bj.ad.track.66mobi.com
-books-analytics-events.apple.com
-bsrv.qq.com
-bugly.qq.com
-business-api.tiktok.com
-c.bidtoolads.com
-c.evidon.com
-c.gj.qq.com
-c.kuaiduizuoye.com
-c.sayhi.360.cn
-c2.gdt.qq.com
-canvas-cdn.gdt.qq.com
-catalog.fjwhcbsh.com
-cbjs.baidu.com
-ccs.umeng.com
-cctv.adsunion.com
-cdn-ad.wtzw.com
-cdn-ads.oss-cn-shanghai.aliyuncs.com
-cdn-plugin-sync-upgrade-juui.hismarttv.com
-cdn.ad.xiaomi.com
-cdn.ynuf.aliapp.org
-cfg.imtt.qq.com
-chat1.jd.com
-chiq-cloud.com
-cj.qidian.com
-ck.ads.oppomobile.com
-click.googleanalytics.com
-click.oneplus.cn
-clog.miguvideo.com
-cnzz.com
-collect.kugou.com
-commdata.v.qq.com
-config.chsmarttv.com
-config.unityads.unity3d.com
-cpro.baidustatic.com
-crashlytics.com
-crashlyticsreports-pa.googleapis.com
-csjplatform.com
-cws-cctv.conviva.com
-data.ads.oppomobile.com
-data.chsmarttv.com
-data.mistat.india.xiaomi.com
-data.mistat.rus.xiaomi.com
-data.mistat.xiaomi.com
-diagnosis.ad.xiaomi.com
-dig.bdurl.net
-dl.zuimeitianqi.com
-dlogs.bwton.com
-dm.toutiao.com
-domain.aishengji.com
-doubleclick-cn.net
-download.changhong.upgrade2.huan.tv
-downloadxml.changhong.upgrade2.huan.tv
-drcn-weather.cloud.huawei.com
-dsp-x.jd.com
-dsp.fcbox.com
-dualstack-logs.amap.com
-dutils.com
-dxp.baidu.com
-e.ad.xiaomi.com
-eclick.baidu.com
-edge.ads.twitch.tv
-ef-dongfeng.tanx.com
-entry.baidu.com
-errlog.umeng.com
-errnewlog.umeng.com
-event.tradplusad.com
-events-drcn.op.dbankcloud.cn
-events.reddit.com
-events.redditmedia.com
-firebaselogging-pa.googleapis.com
-flurry.com
-g-staic.ganjingworld.com
-g2.ganjing.world
-game.loveota.com
-gdfp.gifshow.com
-gemini.yahoo.com
-geo.yahoo.com
-getui.com
-ggx.cmvideo.cn
-ggx01.miguvideo.com
-ggx03.miguvideo.com
-globalapi.ad.xiaomi.com
-google-analytics.com
-googleadservices-cn.com
-googleadservices.com
-googletagservices-cn.com
-googletagservices.com
-gorgon.youdao.com
-gromore.pangolin-sdk-toutiao.com
-grs.dbankcloud.com
-grs.hicloud.com
-grs.platform.dbankcloud.ru
-h-adashx.ut.taobao.com
-h.trace.qq.com
-hanlanad.com
-hexagon-analytics.com
-hm.baidu.com
-hmma.baidu.com
-houyi.kkmh.com
-hpplay.cn
-httpdns.bcelive.com
-httpdns.ocloud.oppomobile.com
-hugelog.fcbox.com
-huichuan.sm.cn
-hw-ot-ad.a.yximgs.com
-hw.zuimeitianqi.com
-hwpub-s01-drcn.cloud.dbankcloud.cn
-hya.comp.360os.com
-hye.comp.360os.com
-hyt.comp.360os.com
-i.snssdk.com
-iad.apple.com
-iadctest.qwapi.com
-iadsdk.apple.com
-iadworkbench.apple.com
-ifacelog.iqiyi.com
-ifs.tanx.com
-ii.gdt.qq.com
-imag8.pubmatic.com
-imag86.pubmatic.com
-image-ad.sm.cn
-imageplus.baidu.com
-images.outbrainimg.com
-images.pinduoduo.com
-img-c.heytapimage.com
-img.adnyg.com
-img.adnyg.com.w.kunlungr.com
-imtmp.net
-iot-eu-logser.realme.com
-iot-logser.realme.com
-ipv4.kkmh.com
-irc.qubiankeji.com
-itv2-up.openspeech.cn
-ixav-cse.avlyun.com
-iyfbodn.com
-janapi.jd.com
-jiguang.cn
-jpush.cn
-jpush.html5.qq.com
-jpush.io
-jswebcollects.kugou.com
-kepler.jd.com
-kl.67it.com
-knicks.jd.com
-ks.pull.yximgs.com
-launcher.smart-tv.cn
-launcherimg.smart-tv.cn
-lf3-ad-union-sdk.pglstatp-toutiao.com
-lf6-ad-union-sdk.pglstatp-toutiao.com
-litchiads.com
-liveats-vod.video.ptqy.gitv.tv
-livemonitor.huan.tv
-livep.l.aiseet.atianqi.com
-lives.l.aiseet.atianqi.com
-lives.l.ott.video.qq.com
-lm10111.jtrincc.cn
-log-api-mn.huxiu.com
-log-api.huxiu.com
-log-api.pangolin-sdk-toutiao-b.com
-log-api.pangolin-sdk-toutiao.com
-log-report.com
-log-sdk.gifshow.com
-log-upload-os.hoyoverse.com
-log-upload.mihoyo.com
-log.ad.xiaomi.com
-log.aispeech.com
-log.amemv.com
-log.appstore3.huan.tv
-log.avlyun.com
-log.avlyun.sec.intl.miui.com
-log.byteoversea.com
-log.fc.yahoo.com
-log.kuwo.cn
-log.pinterest.com
-log.snssdk.com
-log.stat.kugou.com
-log.tagtic.cn
-log.tbs.qq.com
-log.vcgame.cn
-log.web.kugou.com
-log.zijieapi.com
-log1.cmpassport.com
-logbak.hicloud.com
-logs.amap.com
-logservice.hicloud.com
-logservice1.hicloud.com
-logtj.kugou.com
-logupdate.avlyun.sec.miui.com
-m.ad.zhangyue.com
-m.atm.youku.com
-m.kubiqq.com
-m1.ad.10010.com
-mapi.m.jd.com
-masdkv6.3g.qq.com
-mazu.m.qq.com
-mbdlog.iqiyi.com
-metrics.apple.com
-metrics.data.hicloud.com
-metrics.icloud.com
-metrics.mzstatic.com
-metrics2.data.hicloud.com
-metrika.yandex.ru
-mi.gdt.qq.com
-miav-cse.avlyun.com
-mime.baidu.com
-mine.baidu.com
-mission-pub.smart-tv.cn
-miui-fxcse.avlyun.com
-mnqlog.ldmnq.com
-mobads-logs.baidu.com
-mobads-pre-config.cdn.bcebos.com
-mobads.baidu.com
-mobile.da.mgtv.com
-mobilelog.upqzfile.com
-mobileservice.cn
-mon.zijieapi.com
-monitor-ads-test.huan.tv
-monitor-uu.play.aiseet.atianqi.com
-monitor.music.qq.com
-monitor.uu.qq.com
-monsetting.toutiao.com
-mssdk.volces.com
-mssdk.zijieapi.com
-mtj.baidu.com
-newvoice.chiq5.smart-tv.cn
-nmetrics.samsung.com
-notes-analytics-events.apple.com
-nsclick.baidu.com
-o2o.api.xiaomi.com
-oauth-login-drcn.platform.dbankcloud.com
-offerwall.yandex.net
-omgmta.play.aiseet.atianqi.com
-open.e.kuaishou.cn
-open.e.kuaishou.com
-open.kuaishouzt.com
-open.kwaishouzt.com
-open.kwaizt.com
-optimus-ads.amap.com
-orbit.jd.com
-oth.eve.mdt.qq.com
-oth.str.mdt.qq.com
-otheve.play.aiseet.atianqi.com
-outlookads.live.com
-p.l.qq.com
-p.s.360.cn
-p1-be-pack-sign.pglstatp-toutiao.com
-p1-lm.adkwai.com
-p2-be-pack-sign.pglstatp-toutiao.com
-p2-lm.adkwai.com
-p3-be-pack-sign.pglstatp-toutiao.com
-p3-lm.adkwai.com
-p3-tt.byteimg.com
-p4-be-pack-sign.pglstatp-toutiao.com
-p5-be-pack-sign.pglstatp-toutiao.com
-p6-be-pack-sign.pglstatp-toutiao.com
-pagead2.googleadservices.com
-pagead2.googlesyndication.com
-pangolin-sdk-toutiao-b.com
-pay.sboot.cn
-pgdt.ugdtimg.com
-pglstatp-toutiao.com
-pig.pupuapi.com
-pixon.ads-pixiv.net
-plbslog.umeng.com
-pms.mb.qq.com
-policy.video.ptqy.gitv.tv
-pos.baidu.com
-proxy.advp.apple.com
-public.gdtimg.com
-q.i.gdt.qq.com
-qqdata.ab.qq.com
-qwapi.apple.com
-qzs.gdtimg.com
-recommend-drcn.hms.dbankcloud.cn
-report.tv.kohesport.qq.com
-res.hubcloud.com.cn
-res1.hubcloud.com.cn
-res2.hubcloud.com.cn
-res3.hubcloud.com.cn
-review.gdtimg.com
-rms-drcn.platform.dbankcloud.cn
-roi.soulapp.cn
-rpt.gdt.qq.com
-rtb.voiceads.cn
-s.amazon-adsystem.com
-s1.qq.com
-s2.qq.com
-s3.qq.com
-saad.ms.zhangyue.net
-samsung-com.112.2o7.net
-samsungads.com
-sanme2.taisantech.com
-saveu5-normal-lq.zijieapi.com
-scdown.qq.com
-scs.openspeech.cn
-sdk-ab-config.qquanquan.com
-sdk-cache.video.ptqy.gitv.tv
-sdk.1rtb.net
-sdk.beizi.biz
-sdk.cferw.com
-sdk.e.qq.com
-sdk.hzsanjiaomao.com
-sdk.markmedia.com.cn
-sdk.mobads.adwangmai.com
-sdkconf.avlyun.com
-sdkconfig.ad.intl.xiaomi.com
-sdkconfig.ad.xiaomi.com
-sdkconfig.play.aiseet.atianqi.com
-sdkconfig.video.qq.com
-sdkoptedge.chinanetcenter.com
-sdktmp.hubcloud.com.cn
-sdownload.stargame.com
-search.ixigua.com
-search3-search.ixigua.com
-search5-search-hl.ixigua.com
-search5-search.ixigua.com
-securemetrics.apple.com
-securepubads.g.doubleclick.net
-sensors-log.dongqiudi.com
-service.changhong.upgrade2.huan.tv
-service.vmos.cn
-sf16-static.i18n-pglstatp.com
-sf3-fe-tos.pglstatp-toutiao.com
-shouji.sogou.com
-sigmob.cn
-sigmob.com
-skdisplay.jd.com
-slb-p2p.vcloud.ks-live.com
-smad.ms.zhangyue.net
-smart-tv.cn
-smartad.10010.com
-smetrics.samsung.com
-sms.ads.oppomobile.com
-sngmta.qq.com
-snowflake.qq.com
-stat.dongqiudi.com
-stat.y.qq.com
-static.ads-twitter.com
-statics.woozooo.com
-stats.qiumibao.com
-stats.wp.com
-statsigapi.net
-stg-data.ads.heytapmobi.com
-success.ctobsnssdk.com
-syh-imp.cdnjtzy.com
-t-dsp.pinduoduo.com
-t.l.qq.com
-t.track.ad.xiaomi.com
-t002.ottcn.com
-t1.a.market.xiaomi.com
-t2.a.market.xiaomi.com
-t3.a.market.xiaomi.com
-tangram.e.qq.com
-tdc.qq.com
-tdsdk.cpatrk.net
-tdsdk.xdrig.com
-tencent-dtv.m.cn.miaozhen.com
-terms-drcn.platform.dbankcloud.cn
-test.ad.xiaomi.com
-test.e.ad.xiaomi.com
-tj.b.qq.com
-tj.video.qq.com
-tmead.y.qq.com
-tmeadcomm.y.qq.com
-tmfmazu-wangka.m.qq.com
-tmfmazu.m.qq.com
-tmfsdk.m.qq.com
-tmfsdktcpv4.m.qq.com
-tnc3-aliec1.toutiaoapi.com
-tnc3-aliec2.bytedance.com
-tnc3-aliec2.toutiaoapi.com
-tnc3-alisc1.bytedance.com
-tnc3-alisc1.zijieapi.com
-tnc3-alisc2.zijieapi.com
-tnc3-bjlgy.bytedance.com
-tnc3-bjlgy.toutiaoapi.com
-tnc3-bjlgy.zijieapi.com
-toblog.ctobsnssdk.com
-trace.qq.com
-tracelog-debug.qquanquan.com
-track.lc.quark.cn
-track.uc.cn
-tracker.ai.xiaomi.com
-tracker.gitee.com
-tracking.miui.com
-tracking.rus.miui.com
-tsvrv.com
-tvuser-ch.cedock.com
-tx-ad.a.yximgs.com
-tx-kmpaudio.pull.yximgs.com
-tz.sec.xiaomi.com
-uapi.ads.heytapmobi.com
-udc.yahoo.com
-udcm.yahoo.com
-uedas.qidian.com
-ulog-sdk.gifshow.com
-ulogjs.gifshow.com
-ulogs.umeng.com
-ulogs.umengcloud.com
-umengacs.m.taobao.com
-umengjmacs.m.taobao.com
-umini.shujupie.com
-umsns.com
-union.baidu.cn
-union.baidu.com
-update.avlyun.sec.miui.com
-update.lejiao.tv
-upgrade-update.hismarttv.com
-us.l.qq.com
-v.adintl.cn
-v.adx.hubcloud.com.cn
-v1-ad.video.yximgs.com
-v2-ad.video.yximgs.com
-v2-api-channel-launcher.hismarttv.com
-v2.gdt.qq.com
-v2mi.gdt.qq.com
-v3-ad.video.yximgs.com
-v3.gdt.qq.com
-video-ad.sm.cn
-video-dsp.pddpic.com
-video.dispatch.tc.qq.com
-virusinfo-cloudscan-cn.heytapmobi.com
-vlive.qqvideo.tc.qq.com
-volc.bj.ad.track.66mobi.com
-vungle.com
-w.l.qq.com
-w1.askwai.com
-w1.bskwai.com
-w1.cskwai.com
-w1.dskwai.com
-w1.eskwai.com
-w1.fskwai.com
-w1.gskwai.com
-w1.hskwai.com
-w1.iskwai.com
-w1.jskwai.com
-w1.kskwai.com
-w1.lskwai.com
-w1.mskwai.com
-w1.nskwai.com
-w1.oskwai.com
-w1.pskwai.com
-w1.qskwai.com
-w1.rskwai.com
-w1.sskwai.com
-w1.tskwai.com
-w1.uskwai.com
-w1.vskwai.com
-w1.wskwai.com
-w1.xskwai.com
-w1.yskwai.com
-w1.zskwai.com
-watson.microsoft.com
-watson.telemetry.microsoft.com
-weather-analytics-events.apple.com
-weather-community-drcn.weather.dbankcloud.cn
-webstat.qiumibao.com
-webview.unityads.unity3d.com
-widgets.outbrain.com
-widgets.pinterest.com
-win.gdt.qq.com
-wn.x.jd.com
-ws-keyboard.shouji.sogou.com
-ws.sj.qq.com
-www42.zskwai.com
-wxa.wxs.qq.com
-wximg.wxs.qq.com
-wxsmw.wxs.qq.com
-wxsnsad.tc.qq.com
-wxsnsdy.wxs.qq.com
-wxsnsdythumb.wxs.qq.com
-xc.gdt.qq.com
-xiaomi-dtv.m.cn.miaozhen.com
-xiaoshuo.wtzw.com
-xlivrdr.com
-xlmzc.cnjp-exp.com
-xlog.jd.com
-xlviiirdr.com
-xlviirdr.com
-yk-ssp.ad.youku.com
-ykad-data.youku.com
-ykad-gateway.youku.com
-youku-acs.m.taobao.com
-youxi.kugou.com
-zeus.ad.xiaomi.com
-.*\.*\.shouji\.sogou\.com
-.*\.[a-zA-Z0-9.-]skwai\.com
-.*\.a\.market\.xiaomi\.com
-.*\.data\.hicloud\.com
-.*\.log\.aliyuncs\.com
-[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*\.byteimg\.com
-[a-zA-Z0-9.-]*-ad\.sm\.cn
-[a-zA-Z0-9.-]*-ad\.video\.yximgs\.com
-[a-zA-Z0-9.-]*-ad\.wtzw\.com
-[a-zA-Z0-9.-]*-be-pack-sign\.pglstatp-toutiao\.com
-[a-zA-Z0-9.-]*-lm\.adkwai\.com
-[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com
-[a-zA-Z0-9.-]*-normal\.zijieapi\.com
-cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com
+#This rule is only used with AdClose
+
+
+domain, 1010pic.com
+domain, 16dd-advertise-1252317822.file.myqcloud.com
+domain, 16dd-advertise-1252317822.image.myqcloud.com
+domain, 8le8le.com
+domain, a0.app.xiaomi.com
+domain, aaid.umeng.com
+domain, abtest-ch.snssdk.com
+domain, ad-cache.dopool.com
+domain, ad-cdn.qingting.fm
+domain, ad-cmp.hismarttv.com
+domain, ad-download.hismarttv.com
+domain, ad-imp.hismarttv.com
+domain, ad-scope.com
+domain, ad-scope.com.cn
+domain, ad-sdk-config.youdao.com
+domain, ad-sdk.huxiu.com
+domain, ad.12306.cn
+domain, ad.51wnl.com
+domain, ad.bwton.com
+domain, ad.cctv.com
+domain, ad.cyapi.cn
+domain, ad.partner.gifshow.com
+domain, ad.qingting.fm
+domain, ad.qq.com
+domain, ad.richmob.cn
+domain, ad.tencentmusic.com
+domain, ad.toutiao.com
+domain, ad.v3mh.com
+domain, ad.winrar.com.cn
+domain, ad.xelements.cn
+domain, ad.xiaomi.com
+domain, ad.ximalaya.com
+domain, ad.zijieapi.com
+domain, adapi.izuiyou.com
+domain, adapi.yynetwk.com
+domain, adashbc.ut.taobao.com
+domain, adcdn.tencentmusic.com
+domain, adclick.g.doubleclick.net
+domain, adclick.tencentmusic.com
+domain, adcolony.com
+domain, adexpo.tencentmusic.com
+domain, adfilter.imtt.qq.com
+domain, adfstat.yandex.ru
+domain, adguanggao.eee114.com
+domain, adjust.cn
+domain, adjust.com
+domain, adkwai.com
+domain, adlink-api.huan.tv
+domain, adm.funshion.com
+domain, ads-api-o.api.leiniao.com
+domain, ads-api.tiktok.com
+domain, ads-api.twitter.com
+domain, ads-img-qc.xhscdn.com
+domain, ads-jp.tiktok.com
+domain, ads-sg.tiktok.com
+domain, ads-us.tiktok.com
+domain, ads-video-al.xhscdn.com
+domain, ads-video-qc.xhscdn.com
+domain, ads.95516.com
+domain, ads.google.cn
+domain, ads.heytapmobi.com
+domain, ads.huan.tv
+domain, ads.huantest.com
+domain, ads.icloseli.cn
+domain, ads.linkedin.com
+domain, ads.music.126.net
+domain, ads.oppomobile.com
+domain, ads.pinterest.com
+domain, ads.servebom.com
+domain, ads.service.kugou.com
+domain, ads.tiktok.com
+domain, ads.v3mh.com
+domain, ads.youtube.com
+domain, ads3-normal-hl.zijieapi.com
+domain, ads3-normal-lf.zijieapi.com
+domain, ads3-normal-lq.zijieapi.com
+domain, ads3-normal.zijieapi.com
+domain, ads5-normal-hl.zijieapi.com
+domain, ads5-normal-lf.zijieapi.com
+domain, ads5-normal-lq.zijieapi.com
+domain, ads5-normal.zijieapi.com
+domain, adsense.google.cn
+domain, adserver.unityads.unity3d.com
+domain, adservice.google.cn
+domain, adservice.google.com
+domain, adserviceretry.kugou.com
+domain, adsfile.bssdlbig.kugou.com
+domain, adsfilebssdlbig.ali.kugou.com
+domain, adsfileretry.service.kugou.com
+domain, adsfs-sdkconfig.heytapimage.com
+domain, adsfs.oppomobile.com
+domain, adsmart.konka.com
+domain, adsmind.gdtimg.com
+domain, adsmind.ugdtimg.com
+domain, adsp.xunlei.com
+domain, adstats.tencentmusic.com
+domain, adstore-1252524079.file.myqcloud.com
+domain, adstore-index-1252524079.file.myqcloud.com
+domain, adtago.s3.amazonaws.com
+domain, adtech.yahooinc.com
+domain, adtrack.quark.cn
+domain, adukwai.com
+domain, adv.fjtv.net
+domain, adv.sec.intl.miui.com
+domain, adv.sec.miui.com
+domain, advertiseonbing.azureedge.net
+domain, advertising-api-eu.amazon.com
+domain, advertising-api-fe.amazon.com
+domain, advertising-api.amazon.com
+domain, advertising.apple.com
+domain, advertising.yahoo.com
+domain, advertising.yandex.ru
+domain, advice-ads.s3.amazonaws.com
+domain, adview.cn
+domain, adx-ad.smart-tv.cn
+domain, adx-bj.anythinktech.com
+domain, adx-cn.anythinktech.com
+domain, adx-drcn.op.dbankcloud.cn
+domain, adx-open-service.youku.com
+domain, adx-os.anythinktech.com
+domain, adx.ads.heytapmobi.com
+domain, adx.ads.oppomobile.com
+domain, adxlog-adnet.vivo.com.cn
+domain, adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn
+domain, adxserver.ad.cmvideo.cn
+domain, aegis.qq.com
+domain, afs.googlesyndication.com
+domain, aiseet.aa.atianqi.com
+domain, ali-ad.a.yximgs.com
+domain, alog.umeng.com
+domain, als.baidu.com
+domain, amdcopen.m.taobao.com
+domain, an.facebook.com
+domain, analysis.yozocloud.cn
+domain, analytics-api.samsunghealthcn.com
+domain, analytics.126.net
+domain, analytics.95516.com
+domain, analytics.google.com
+domain, analytics.pinterest.com
+domain, analytics.pointdrive.linkedin.com
+domain, analytics.query.yahoo.com
+domain, analytics.rayjump.com
+domain, analytics.s3.amazonaws.com
+domain, analytics.tiktok.com
+domain, analytics.woozooo.com
+domain, analyticsengine.s3.amazonaws.com
+domain, analyze.lemurbrowser.com
+domain, andrqd.play.aiseet.atianqi.com
+domain, ap.dongqiudi.com
+domain, apd-pcdnwxlogin.teg.tencent-cloud.net
+domain, apd-pcdnwxnat.teg.tencent-cloud.net
+domain, apd-pcdnwxstat.teg.tencent-cloud.net
+domain, api-access.pangolin-sdk-toutiao.com
+domain, api-access.pangolin-sdk-toutiao1.com
+domain, api-access.pangolin-sdk-toutiao2.com
+domain, api-access.pangolin-sdk-toutiao3.com
+domain, api-access.pangolin-sdk-toutiao4.com
+domain, api-access.pangolin-sdk-toutiao5.com
+domain, api-ad-product.huxiu.com
+domain, api-adservices.apple.com
+domain, api-htp.beizi.biz
+domain, api.ad.xiaomi.com
+domain, api.e.kuaishou.com
+domain, api.htp.hubcloud.com.cn
+domain, api.hzsanjiaomao.com
+domain, api.installer.xiaomi.com
+domain, api.jietuhb.com
+domain, api.kingdata.ksyun.com
+domain, api.statsig.com
+domain, api5-normal-quic-lf.ixigua.com
+domain, apiyd.my91app.com
+domain, apks.webxiaobai.top
+domain, app-measurement.com
+domain, appcloud2.in.zhihu.com
+domain, applog.lc.quark.cn
+domain, applog.uc.cn
+domain, applog.zijieapi.com
+domain, ata-sdk-uuid-report.dreport.meituan.net
+domain, auction.unityads.unity3d.com
+domain, audid-api.taobao.com
+domain, audid.umeng.com
+domain, azr.footprintdns.com
+domain, b1-data.ads.heytapmobi.com
+domain, bdad.123pan.cn
+domain, bdapi-ads.realmemobile.com
+domain, bdapi-in-ads.realmemobile.com
+domain, bdapi.ads.oppomobile.com
+domain, beacon-api.aliyuncs.com
+domain, beacon.qq.com
+domain, beaconcdn.qq.com
+domain, beacons.gvt2.com
+domain, beizi.biz
+domain, bes-mtj.baidu.com
+domain, bgg.baidu.com
+domain, bianxian.com
+domain, bingads.microsoft.com
+domain, bj.ad.track.66mobi.com
+domain, books-analytics-events.apple.com
+domain, bsrv.qq.com
+domain, bugly.qq.com
+domain, business-api.tiktok.com
+domain, c.bidtoolads.com
+domain, c.evidon.com
+domain, c.gj.qq.com
+domain, c.kuaiduizuoye.com
+domain, c.sayhi.360.cn
+domain, c2.gdt.qq.com
+domain, canvas-cdn.gdt.qq.com
+domain, catalog.fjwhcbsh.com
+domain, cbjs.baidu.com
+domain, ccs.umeng.com
+domain, cctv.adsunion.com
+domain, cdn-ad.wtzw.com
+domain, cdn-ads.oss-cn-shanghai.aliyuncs.com
+domain, cdn-plugin-sync-upgrade-juui.hismarttv.com
+domain, cdn.ad.xiaomi.com
+domain, cdn.ynuf.aliapp.org
+domain, cfg.imtt.qq.com
+domain, chat1.jd.com
+domain, chiq-cloud.com
+domain, cj.qidian.com
+domain, ck.ads.oppomobile.com
+domain, click.googleanalytics.com
+domain, click.oneplus.cn
+domain, clog.miguvideo.com
+domain, cnzz.com
+domain, collect.kugou.com
+domain, commdata.v.qq.com
+domain, config.chsmarttv.com
+domain, config.unityads.unity3d.com
+domain, cpro.baidustatic.com
+domain, crashlytics.com
+domain, crashlyticsreports-pa.googleapis.com
+domain, csjplatform.com
+domain, cws-cctv.conviva.com
+domain, data.ads.oppomobile.com
+domain, data.chsmarttv.com
+domain, data.mistat.india.xiaomi.com
+domain, data.mistat.rus.xiaomi.com
+domain, data.mistat.xiaomi.com
+domain, diagnosis.ad.xiaomi.com
+domain, dig.bdurl.net
+domain, dl.zuimeitianqi.com
+domain, dlogs.bwton.com
+domain, dm.toutiao.com
+domain, domain.aishengji.com
+domain, doubleclick-cn.net
+domain, download.changhong.upgrade2.huan.tv
+domain, downloadxml.changhong.upgrade2.huan.tv
+domain, drcn-weather.cloud.huawei.com
+domain, dsp-x.jd.com
+domain, dsp.fcbox.com
+domain, dualstack-logs.amap.com
+domain, dutils.com
+domain, dxp.baidu.com
+domain, e.ad.xiaomi.com
+domain, eclick.baidu.com
+domain, edge.ads.twitch.tv
+domain, ef-dongfeng.tanx.com
+domain, entry.baidu.com
+domain, errlog.umeng.com
+domain, errnewlog.umeng.com
+domain, event.tradplusad.com
+domain, events-drcn.op.dbankcloud.cn
+domain, events.reddit.com
+domain, events.redditmedia.com
+domain, firebaselogging-pa.googleapis.com
+domain, flurry.com
+domain, g-staic.ganjingworld.com
+domain, g2.ganjing.world
+domain, game.loveota.com
+domain, gdfp.gifshow.com
+domain, gemini.yahoo.com
+domain, geo.yahoo.com
+domain, getui.com
+domain, ggx.cmvideo.cn
+domain, ggx01.miguvideo.com
+domain, ggx03.miguvideo.com
+domain, globalapi.ad.xiaomi.com
+domain, google-analytics.com
+domain, googleadservices-cn.com
+domain, googleadservices.com
+domain, googletagservices-cn.com
+domain, googletagservices.com
+domain, gorgon.youdao.com
+domain, gromore.pangolin-sdk-toutiao.com
+domain, grs.dbankcloud.com
+domain, grs.hicloud.com
+domain, grs.platform.dbankcloud.ru
+domain, h-adashx.ut.taobao.com
+domain, h.trace.qq.com
+domain, hanlanad.com
+domain, hexagon-analytics.com
+domain, hm.baidu.com
+domain, hmma.baidu.com
+domain, houyi.kkmh.com
+domain, hpplay.cn
+domain, httpdns.bcelive.com
+domain, httpdns.ocloud.oppomobile.com
+domain, hugelog.fcbox.com
+domain, huichuan.sm.cn
+domain, hw-ot-ad.a.yximgs.com
+domain, hw.zuimeitianqi.com
+domain, hwpub-s01-drcn.cloud.dbankcloud.cn
+domain, hya.comp.360os.com
+domain, hye.comp.360os.com
+domain, hyt.comp.360os.com
+domain, i.snssdk.com
+domain, iad.apple.com
+domain, iadctest.qwapi.com
+domain, iadsdk.apple.com
+domain, iadworkbench.apple.com
+domain, ifacelog.iqiyi.com
+domain, ifs.tanx.com
+domain, ii.gdt.qq.com
+domain, imag8.pubmatic.com
+domain, imag86.pubmatic.com
+domain, image-ad.sm.cn
+domain, imageplus.baidu.com
+domain, images.outbrainimg.com
+domain, images.pinduoduo.com
+domain, img-c.heytapimage.com
+domain, img.adnyg.com
+domain, img.adnyg.com.w.kunlungr.com
+domain, imtmp.net
+domain, iot-eu-logser.realme.com
+domain, iot-logser.realme.com
+domain, ipv4.kkmh.com
+domain, irc.qubiankeji.com
+domain, itv2-up.openspeech.cn
+domain, ixav-cse.avlyun.com
+domain, iyfbodn.com
+domain, janapi.jd.com
+domain, jiguang.cn
+domain, jpush.cn
+domain, jpush.html5.qq.com
+domain, jpush.io
+domain, jswebcollects.kugou.com
+domain, kepler.jd.com
+domain, kl.67it.com
+domain, knicks.jd.com
+domain, ks.pull.yximgs.com
+domain, launcher.smart-tv.cn
+domain, launcherimg.smart-tv.cn
+domain, lf3-ad-union-sdk.pglstatp-toutiao.com
+domain, lf6-ad-union-sdk.pglstatp-toutiao.com
+domain, litchiads.com
+domain, liveats-vod.video.ptqy.gitv.tv
+domain, livemonitor.huan.tv
+domain, livep.l.aiseet.atianqi.com
+domain, lives.l.aiseet.atianqi.com
+domain, lives.l.ott.video.qq.com
+domain, lm10111.jtrincc.cn
+domain, log-api-mn.huxiu.com
+domain, log-api.huxiu.com
+domain, log-api.pangolin-sdk-toutiao-b.com
+domain, log-api.pangolin-sdk-toutiao.com
+domain, log-report.com
+domain, log-sdk.gifshow.com
+domain, log-upload-os.hoyoverse.com
+domain, log-upload.mihoyo.com
+domain, log.ad.xiaomi.com
+domain, log.aispeech.com
+domain, log.amemv.com
+domain, log.appstore3.huan.tv
+domain, log.avlyun.com
+domain, log.avlyun.sec.intl.miui.com
+domain, log.byteoversea.com
+domain, log.fc.yahoo.com
+domain, log.kuwo.cn
+domain, log.pinterest.com
+domain, log.snssdk.com
+domain, log.stat.kugou.com
+domain, log.tagtic.cn
+domain, log.tbs.qq.com
+domain, log.vcgame.cn
+domain, log.web.kugou.com
+domain, log.zijieapi.com
+domain, log1.cmpassport.com
+domain, logbak.hicloud.com
+domain, logs.amap.com
+domain, logservice.hicloud.com
+domain, logservice1.hicloud.com
+domain, logtj.kugou.com
+domain, logupdate.avlyun.sec.miui.com
+domain, m.ad.zhangyue.com
+domain, m.atm.youku.com
+domain, m.kubiqq.com
+domain, m1.ad.10010.com
+domain, mapi.m.jd.com
+domain, masdkv6.3g.qq.com
+domain, mazu.m.qq.com
+domain, mbdlog.iqiyi.com
+domain, metrics.apple.com
+domain, metrics.data.hicloud.com
+domain, metrics.icloud.com
+domain, metrics.mzstatic.com
+domain, metrics2.data.hicloud.com
+domain, metrika.yandex.ru
+domain, mi.gdt.qq.com
+domain, miav-cse.avlyun.com
+domain, mime.baidu.com
+domain, mine.baidu.com
+domain, mission-pub.smart-tv.cn
+domain, miui-fxcse.avlyun.com
+domain, mnqlog.ldmnq.com
+domain, mobads-logs.baidu.com
+domain, mobads-pre-config.cdn.bcebos.com
+domain, mobads.baidu.com
+domain, mobile.da.mgtv.com
+domain, mobilelog.upqzfile.com
+domain, mobileservice.cn
+domain, mon.zijieapi.com
+domain, monitor-ads-test.huan.tv
+domain, monitor-uu.play.aiseet.atianqi.com
+domain, monitor.music.qq.com
+domain, monitor.uu.qq.com
+domain, monsetting.toutiao.com
+domain, mssdk.volces.com
+domain, mssdk.zijieapi.com
+domain, mtj.baidu.com
+domain, newvoice.chiq5.smart-tv.cn
+domain, nmetrics.samsung.com
+domain, notes-analytics-events.apple.com
+domain, nsclick.baidu.com
+domain, o2o.api.xiaomi.com
+domain, oauth-login-drcn.platform.dbankcloud.com
+domain, offerwall.yandex.net
+domain, omgmta.play.aiseet.atianqi.com
+domain, open.e.kuaishou.cn
+domain, open.e.kuaishou.com
+domain, open.kuaishouzt.com
+domain, open.kwaishouzt.com
+domain, open.kwaizt.com
+domain, optimus-ads.amap.com
+domain, orbit.jd.com
+domain, oth.eve.mdt.qq.com
+domain, oth.str.mdt.qq.com
+domain, otheve.play.aiseet.atianqi.com
+domain, outlookads.live.com
+domain, p.l.qq.com
+domain, p.s.360.cn
+domain, p1-be-pack-sign.pglstatp-toutiao.com
+domain, p1-lm.adkwai.com
+domain, p2-be-pack-sign.pglstatp-toutiao.com
+domain, p2-lm.adkwai.com
+domain, p3-be-pack-sign.pglstatp-toutiao.com
+domain, p3-lm.adkwai.com
+domain, p3-tt.byteimg.com
+domain, p4-be-pack-sign.pglstatp-toutiao.com
+domain, p5-be-pack-sign.pglstatp-toutiao.com
+domain, p6-be-pack-sign.pglstatp-toutiao.com
+domain, pagead2.googleadservices.com
+domain, pagead2.googlesyndication.com
+domain, pangolin-sdk-toutiao-b.com
+domain, pay.sboot.cn
+domain, pgdt.ugdtimg.com
+domain, pglstatp-toutiao.com
+domain, pig.pupuapi.com
+domain, pixon.ads-pixiv.net
+domain, plbslog.umeng.com
+domain, pms.mb.qq.com
+domain, policy.video.ptqy.gitv.tv
+domain, pos.baidu.com
+domain, proxy.advp.apple.com
+domain, public.gdtimg.com
+domain, q.i.gdt.qq.com
+domain, qqdata.ab.qq.com
+domain, qwapi.apple.com
+domain, qzs.gdtimg.com
+domain, recommend-drcn.hms.dbankcloud.cn
+domain, report.tv.kohesport.qq.com
+domain, res.hubcloud.com.cn
+domain, res1.hubcloud.com.cn
+domain, res2.hubcloud.com.cn
+domain, res3.hubcloud.com.cn
+domain, review.gdtimg.com
+domain, rms-drcn.platform.dbankcloud.cn
+domain, roi.soulapp.cn
+domain, rpt.gdt.qq.com
+domain, rtb.voiceads.cn
+domain, s.amazon-adsystem.com
+domain, s1.qq.com
+domain, s2.qq.com
+domain, s3.qq.com
+domain, saad.ms.zhangyue.net
+domain, samsung-com.112.2o7.net
+domain, samsungads.com
+domain, sanme2.taisantech.com
+domain, saveu5-normal-lq.zijieapi.com
+domain, scdown.qq.com
+domain, scs.openspeech.cn
+domain, sdk-ab-config.qquanquan.com
+domain, sdk-cache.video.ptqy.gitv.tv
+domain, sdk.1rtb.net
+domain, sdk.beizi.biz
+domain, sdk.cferw.com
+domain, sdk.e.qq.com
+domain, sdk.hzsanjiaomao.com
+domain, sdk.markmedia.com.cn
+domain, sdk.mobads.adwangmai.com
+domain, sdkconf.avlyun.com
+domain, sdkconfig.ad.intl.xiaomi.com
+domain, sdkconfig.ad.xiaomi.com
+domain, sdkconfig.play.aiseet.atianqi.com
+domain, sdkconfig.video.qq.com
+domain, sdkoptedge.chinanetcenter.com
+domain, sdktmp.hubcloud.com.cn
+domain, sdownload.stargame.com
+domain, search.ixigua.com
+domain, search3-search.ixigua.com
+domain, search5-search-hl.ixigua.com
+domain, search5-search.ixigua.com
+domain, securemetrics.apple.com
+domain, securepubads.g.doubleclick.net
+domain, sensors-log.dongqiudi.com
+domain, service.changhong.upgrade2.huan.tv
+domain, service.vmos.cn
+domain, sf16-static.i18n-pglstatp.com
+domain, sf3-fe-tos.pglstatp-toutiao.com
+domain, shouji.sogou.com
+domain, sigmob.cn
+domain, sigmob.com
+domain, skdisplay.jd.com
+domain, slb-p2p.vcloud.ks-live.com
+domain, smad.ms.zhangyue.net
+domain, smart-tv.cn
+domain, smartad.10010.com
+domain, smetrics.samsung.com
+domain, sms.ads.oppomobile.com
+domain, sngmta.qq.com
+domain, snowflake.qq.com
+domain, stat.dongqiudi.com
+domain, stat.y.qq.com
+domain, static.ads-twitter.com
+domain, statics.woozooo.com
+domain, stats.qiumibao.com
+domain, stats.wp.com
+domain, statsigapi.net
+domain, stg-data.ads.heytapmobi.com
+domain, success.ctobsnssdk.com
+domain, syh-imp.cdnjtzy.com
+domain, t-dsp.pinduoduo.com
+domain, t.l.qq.com
+domain, t.track.ad.xiaomi.com
+domain, t002.ottcn.com
+domain, t1.a.market.xiaomi.com
+domain, t2.a.market.xiaomi.com
+domain, t3.a.market.xiaomi.com
+domain, tangram.e.qq.com
+domain, tdc.qq.com
+domain, tdsdk.cpatrk.net
+domain, tdsdk.xdrig.com
+domain, tencent-dtv.m.cn.miaozhen.com
+domain, terms-drcn.platform.dbankcloud.cn
+domain, test.ad.xiaomi.com
+domain, test.e.ad.xiaomi.com
+domain, tj.b.qq.com
+domain, tj.video.qq.com
+domain, tmead.y.qq.com
+domain, tmeadcomm.y.qq.com
+domain, tmfmazu-wangka.m.qq.com
+domain, tmfmazu.m.qq.com
+domain, tmfsdk.m.qq.com
+domain, tmfsdktcpv4.m.qq.com
+domain, tnc3-aliec1.toutiaoapi.com
+domain, tnc3-aliec2.bytedance.com
+domain, tnc3-aliec2.toutiaoapi.com
+domain, tnc3-alisc1.bytedance.com
+domain, tnc3-alisc1.zijieapi.com
+domain, tnc3-alisc2.zijieapi.com
+domain, tnc3-bjlgy.bytedance.com
+domain, tnc3-bjlgy.toutiaoapi.com
+domain, tnc3-bjlgy.zijieapi.com
+domain, toblog.ctobsnssdk.com
+domain, trace.qq.com
+domain, tracelog-debug.qquanquan.com
+domain, track.lc.quark.cn
+domain, track.uc.cn
+domain, tracker.ai.xiaomi.com
+domain, tracker.gitee.com
+domain, tracking.miui.com
+domain, tracking.rus.miui.com
+domain, tsvrv.com
+domain, tvuser-ch.cedock.com
+domain, tx-ad.a.yximgs.com
+domain, tx-kmpaudio.pull.yximgs.com
+domain, tz.sec.xiaomi.com
+domain, uapi.ads.heytapmobi.com
+domain, udc.yahoo.com
+domain, udcm.yahoo.com
+domain, uedas.qidian.com
+domain, ulog-sdk.gifshow.com
+domain, ulogjs.gifshow.com
+domain, ulogs.umeng.com
+domain, ulogs.umengcloud.com
+domain, umengacs.m.taobao.com
+domain, umengjmacs.m.taobao.com
+domain, umini.shujupie.com
+domain, umsns.com
+domain, union.baidu.cn
+domain, union.baidu.com
+domain, update.avlyun.sec.miui.com
+domain, update.lejiao.tv
+domain, upgrade-update.hismarttv.com
+domain, us.l.qq.com
+domain, v.adintl.cn
+domain, v.adx.hubcloud.com.cn
+domain, v1-ad.video.yximgs.com
+domain, v2-ad.video.yximgs.com
+domain, v2-api-channel-launcher.hismarttv.com
+domain, v2.gdt.qq.com
+domain, v2mi.gdt.qq.com
+domain, v3-ad.video.yximgs.com
+domain, v3.gdt.qq.com
+domain, video-ad.sm.cn
+domain, video-dsp.pddpic.com
+domain, video.dispatch.tc.qq.com
+domain, virusinfo-cloudscan-cn.heytapmobi.com
+domain, vlive.qqvideo.tc.qq.com
+domain, volc.bj.ad.track.66mobi.com
+domain, vungle.com
+domain, w.l.qq.com
+domain, w1.askwai.com
+domain, w1.bskwai.com
+domain, w1.cskwai.com
+domain, w1.dskwai.com
+domain, w1.eskwai.com
+domain, w1.fskwai.com
+domain, w1.gskwai.com
+domain, w1.hskwai.com
+domain, w1.iskwai.com
+domain, w1.jskwai.com
+domain, w1.kskwai.com
+domain, w1.lskwai.com
+domain, w1.mskwai.com
+domain, w1.nskwai.com
+domain, w1.oskwai.com
+domain, w1.pskwai.com
+domain, w1.qskwai.com
+domain, w1.rskwai.com
+domain, w1.sskwai.com
+domain, w1.tskwai.com
+domain, w1.uskwai.com
+domain, w1.vskwai.com
+domain, w1.wskwai.com
+domain, w1.xskwai.com
+domain, w1.yskwai.com
+domain, w1.zskwai.com
+domain, watson.microsoft.com
+domain, watson.telemetry.microsoft.com
+domain, weather-analytics-events.apple.com
+domain, weather-community-drcn.weather.dbankcloud.cn
+domain, webstat.qiumibao.com
+domain, webview.unityads.unity3d.com
+domain, widgets.outbrain.com
+domain, widgets.pinterest.com
+domain, win.gdt.qq.com
+domain, wn.x.jd.com
+domain, ws-keyboard.shouji.sogou.com
+domain, ws.sj.qq.com
+domain, www42.zskwai.com
+domain, wxa.wxs.qq.com
+domain, wximg.wxs.qq.com
+domain, wxsmw.wxs.qq.com
+domain, wxsnsad.tc.qq.com
+domain, wxsnsdy.wxs.qq.com
+domain, wxsnsdythumb.wxs.qq.com
+domain, xc.gdt.qq.com
+domain, xiaomi-dtv.m.cn.miaozhen.com
+domain, xiaoshuo.wtzw.com
+domain, xlivrdr.com
+domain, xlmzc.cnjp-exp.com
+domain, xlog.jd.com
+domain, xlviiirdr.com
+domain, xlviirdr.com
+domain, yk-ssp.ad.youku.com
+domain, ykad-data.youku.com
+domain, ykad-gateway.youku.com
+domain, youku-acs.m.taobao.com
+domain, youxi.kugou.com
+domain, zeus.ad.xiaomi.com
