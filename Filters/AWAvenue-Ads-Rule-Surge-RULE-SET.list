@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 698
+#Total lines: 700
 #Version: 1.5.4-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -268,6 +268,7 @@ DOMAIN,dutils.com,reject
 DOMAIN,dxp.baidu.com,reject
 DOMAIN,e.ad.xiaomi.com,reject
 DOMAIN,eclick.baidu.com,reject
+DOMAIN,edge.ads.twitch.tv,reject
 DOMAIN,ef-dongfeng.tanx.com,reject
 DOMAIN,entry.baidu.com,reject
 DOMAIN,errlog.umeng.com,reject
@@ -491,6 +492,7 @@ DOMAIN,rms-drcn.platform.dbankcloud.cn,reject
 DOMAIN,roi.soulapp.cn,reject
 DOMAIN,rpt.gdt.qq.com,reject
 DOMAIN,rtb.voiceads.cn,reject
+DOMAIN,s.amazon-adsystem.com,reject
 DOMAIN,s1.qq.com,reject
 DOMAIN,s2.qq.com,reject
 DOMAIN,s3.qq.com,reject

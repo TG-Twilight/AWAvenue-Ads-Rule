@@ -255,6 +255,7 @@ domain:dutils.com
 domain:dxp.baidu.com
 domain:e.ad.xiaomi.com
 domain:eclick.baidu.com
+domain:edge.ads.twitch.tv
 domain:ef-dongfeng.tanx.com
 domain:entry.baidu.com
 domain:errlog.umeng.com
@@ -478,6 +479,7 @@ domain:rms-drcn.platform.dbankcloud.cn
 domain:roi.soulapp.cn
 domain:rpt.gdt.qq.com
 domain:rtb.voiceads.cn
+domain:s.amazon-adsystem.com
 domain:s1.qq.com
 domain:s2.qq.com
 domain:s3.qq.com

@@ -1,6 +1,6 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 680
+!Total lines: 682
 !Version: 1.5.4-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -268,6 +268,7 @@
 127.0.0.1 dxp.baidu.com
 127.0.0.1 e.ad.xiaomi.com
 127.0.0.1 eclick.baidu.com
+127.0.0.1 edge.ads.twitch.tv
 127.0.0.1 ef-dongfeng.tanx.com
 127.0.0.1 entry.baidu.com
 127.0.0.1 errlog.umeng.com
@@ -491,6 +492,7 @@
 127.0.0.1 roi.soulapp.cn
 127.0.0.1 rpt.gdt.qq.com
 127.0.0.1 rtb.voiceads.cn
+127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 s1.qq.com
 127.0.0.1 s2.qq.com
 127.0.0.1 s3.qq.com
