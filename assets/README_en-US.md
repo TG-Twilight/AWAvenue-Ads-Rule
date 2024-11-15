@@ -5,11 +5,10 @@
 
 
 
-
 <h1 align="center">- AWAvenue Ads Rule -</h1>
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/assets/assets.png">
+   <img src="https://img.jsdelivr.com/raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/assets/assets.png">
 </p>
 <p align="center">
  <img src="https://img.shields.io/github/stars/TG-Twilight/AWAvenue-Ads-Rule?style=for-the-badge&colorA=FFEBEB&colorB=FFD9DC&logo=github&logoColor=black">
@@ -21,68 +20,99 @@
   </a>
 </p>
 
+<p align="center"><b>Eliminate All Malicious Ads</b></p>
 
-<p align="center"><b>干掉所有无良广告<br>Eliminate All Malicious Ads</b></p>
-<br />
-<br />
+## 🍁About
 
-### It is recommended to use [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) or [AdGuard DNS](https://adguard-dns.io/en/welcome.html) to subscribe to this rule to achieve the best ad filtering effect! 🐼
+One of the best ad filter lists in the open-source community, providing superior ad blocking, privacy protection, and data savings. It supports various popular network-layer ad-blocking and proxy tools¹. Unlike other rules with thousands of entries, the AWAvenue Ads Rule prioritize compact size, high hit rates, and low hardware requirements.
 
-<br />
-<br />
+By subscribing to this rule, you’ll see pop-up ads disappear, ad feeds at the end of articles won't load, autoplay ads vanish, and even boot ads on TV boxes/smart TVs are gone. Plus, you’ll save some storage space on your device as ad files won’t download.
 
-## About
+Compared to other ad-blocking methods, filtering from the network layer is cost-effective, user-friendly, and widely applicable (e.g., through router deployment). You won’t need to set up each app individually, and filtering is seamless without disrupting regular app use.
 
-Using Adblock syntax, it fights (blocks) various rogue ad SDKs in Android apps at the network level and prevents them from loading, so as to achieve the purpose of de-advertising.
+*As of November 2024, our rule blocks over 90% of known ads across Teyvat.*
 
-Compared with other means of removing ads, this way of filtering from the network level is low-cost, easy and quick to use, and has a wide range of benefits (e.g., router deployment). You don't need to set up a separate setup for each app on demand, and it doesn't affect your normal use of the original apps while filtering senselessly.
-<br />
-<br />
-## Subscription Filters
-- [Github Sub Address](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
-- [Miaoruan CDN Proxy Sub Address](https://jsd.onmicrosoft.cn/gh/TG-Twilight/AWAvenue-Ads-Rule@main/AWAvenue-Ads-Rule.txt)
-- [jsDelivr Proxy Sub Address](https://cdn.jsdelivr.net/gh/TG-Twilight/AWAvenue-Ads-Rule@main/AWAvenue-Ads-Rule.txt)
-- [ghproxy Proxy Sub Address](https://mirror.ghproxy.com/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
-
-## Other Format Filters
-
-See[Filters](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/tree/main/Filters)
-
- <br />
- 
- *Typically, you only need to subscribe to the "Normal" version(AWAvenue-Ads-Rule), the "Strict" version is mainly for exploring, and the Strict version subscription interferes with your normal browsing of the web, so please don't subscribe to this rule unless you know exactly what you're doing!*
-
- *If you still find the in-app rogue ads sdk displaying ads normally after subscribing to this ad rule, you are welcome to enter the group for feedback!*
-
-Personal project, maintain and update in spare time, welcome issues and Pr (please say hello in the group before Pr)。   [Join Group](https://t.me/AWAvenueAdsChat)
-<br />
-<br />
-## How to use
-Copy our subscription link and import it into AdGuard/AdGuard Home's DNS blacklist to take effect.
-<br />
-<br />
-<br />
-## Recommended Tools
-- [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)    *Installed in the router, which is the ideal place for the ad filtering tool to work*
-
-- [AdGuard Home For Magisk（Magisk module）](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/releases/tag/%F0%9F%8E%891.2.5-release)  *Magisk version of AdGuard Home，thanks @heinu123*
-
-- [AdClose（Xposed module）](https://t.me/Reese_XPModule)    *The xposed module，it's can block common ads through hooks and has built-in AWAvenue Ads Rule*
-
-- [Adblock Plus](https://adblockplus.org/)    *Powerful, ad-filtering plug-in for browsers*
-
-- [uBlock Origin](https://ublockorigin.com/)    *Another open source and powerful browser ad filtering plugin*
-
-- [AdGuard](https://adguard.com/)    *Multi-end use, support Android, Windows, Mac, iOS*
-
+### *If you have any feedback on this rule, please be sure to check our [FAQs](https://awavenue.top/Knowledge.html#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98-%E4%B8%8E%E7%AD%94%E7%96%91) before submitting an issue or joining the group chat. It may resolve some of your questions.*
 
 ---
 
-> [@Github](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) · [@Telegram Channel](https://t.me/AWAvenueAdsRule) · [@Telegram Group](https://t.me/AWAvenueAdsChat)
+## 🍁Work Principle
 
-<br />
+Using Adblock syntax, we intercept various ad SDKs at the network layer within Android applications, blocking them from loading to achieve ad-free browsing.
 
-## Special sponsors
+---
 
-[倾城极速 - 畅游世界，高速互联](https://x7a4ds7s.wcnmdmht.biz/#/register?code=prbbRzx9)
+## 🍁Subscription Rules
 
+These rules are compatible with AdGuard Home, AdGuard, AdGuard DNS, and other Adblock syntax ad-filtering tools.
+
+- [GitHub Subscription](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
+- [Tianming CFCDN Mirror](https://github.tmby.shop/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
+- [jsDelivr (gcore) Mirror](https://gcore.jsdelivr.net/gh/TG-Twilight/AWAvenue-Ads-Rule@main/AWAvenue-Ads-Rule.txt)
+- [ghproxy-gci Mirror](https://ghp.ci/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
+
+For additional formats, see [Official Website - Subscription Rules](https://awavenue.top/Sub.html)
+
+*¹As of July 2024, officially supported tools/formats include: AdGuard Home, ClashMeta, QuantumultX, Surge, hosts format, AdGuard DNS, Surfboard, Singbox, AdClose, AdGuard, Shengjing Purify, Ad Blocking Master Plus+, and DNS ad-blocking.*
+
+ *If you notice ads still appearing after subscribing or experience false positives, please feel free to report!*
+
+---
+
+## 🍁How to Use
+Please refer to our [Official Guide](https://awavenue.top/Knowledge.html).
+
+This is a personal project with updates made as time allows. Issues and PRs are welcome. [😀Join 秋風がく山道 Chat group!](https://t.me/AWAvenueAdsChat).
+
+---
+
+<details>
+  <summary>Recommended Ad Blocking Tools</summary>
+
+- [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome)    *Best used when installed on a router; AWAvenue Ads Rule are now included in AdGuard’s official list. You can subscribe directly under “Select from list”!*
+
+- [AdGuard](https://adguard.com/)    *Multi-platform support including Android, Windows, Mac, iOS*
+
+- [AdClose (Xposed module)](https://t.me/AdClose)    *Xposed module that intercepts common ads via hooks, with built-in AWAvenue Ads Rule - thanks to @zjyzip*
+
+- [AdGuard Home For Magisk](https://github.com/twoone-3/AdGuardHomeForMagisk)   *Magisk version of AdGuard Home*
+
+- [AdGuard DNS](https://adguard-dns.io/en/welcome.html)    *Using a custom DNS server directly; AWAvenue Ads Rule are now included in the official AdGuard DNS Filters*
+
+</details>
+
+---
+
+## 🍁Special Sponsors
+
+[Stay Browser - Lightweight and Focused on Browsing Experience](https://play.google.com/store/apps/details?id=com.dajiu.stay)
+
+[Qingcheng Express - Enjoy High-Speed Global Connectivity](https://panel.qqcjs.top/#/register?code=prbbRzx9)
+
+---
+
+## 🍁Contributors
+
+<p align="left"><a href="https://github.com/TG-Twilight/AWAvenue-Ads-Rule/graphs/contributors"><img src="https://contrib.rocks/image?repo=TG-Twilight/AWAvenue-Ads-Rule&max=50" /></a></p>
+
+---
+
+## Star History
+
+[![Stargazers over time](https://starchart.cc/TG-Twilight/AWAvenue-Ads-Rule.svg?variant=adaptive)](https://starchart.cc/TG-Twilight/AWAvenue-Ads-Rule)
+
+---
+
+### ***Keep the Internet Clean!***
+
+---
+
+[![https://gafam.info](https://ptrace.gafam.info/unofficial/img/color/lqdn-gafam-poster-zh-color-5x1-2560x.png)](https://gafam.info)
+
+---
+![:View Count](https://moe-counter.glitch.me/get/@TG-Twiligh?theme=gelbooru)
+Tracking since June 2024......
+---
+
+> [@Github](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) · [@Telegram Channel](https://t.me/AWAvenueAdsRule) · [@Telegram Group](https://t.me/AWAvenueAdsChat) · [Official Website](https://awavenue.top/)
+```
