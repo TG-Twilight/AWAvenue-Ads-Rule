@@ -75,7 +75,7 @@ AdGuard Home、ClashMeta、QuantumultX、Surge、hosts格式、AdGuard DNS、Sur
 
 - [AdGuard](https://adguard.com/)    *多端使用，支持Android、Windows、Mac、iOS*
 
-- [AdClose（Xposed module）](https://t.me/AdClose)    *Xposed模块，可以通过hook拦截常见广告，内置秋风广告规则，感谢@zjyzip*
+- [AdClose（Xposed module）](https://github.com/zjyzip/AdClose)    *Xposed模块，可以通过hook拦截常见广告，内置秋风广告规则，感谢@zjyzip*
 
 - [AdGuard Home For Magisk](https://github.com/twoone-3/AdGuardHomeForMagisk)   *AdGuard Home的Magisk版本*
 
