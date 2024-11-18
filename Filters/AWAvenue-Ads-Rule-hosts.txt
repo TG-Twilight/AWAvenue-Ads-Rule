@@ -1,6 +1,6 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 682
+!Total lines: 684
 !Version: 1.5.4-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -209,6 +209,7 @@
 127.0.0.1 bingads.microsoft.com
 127.0.0.1 bj.ad.track.66mobi.com
 127.0.0.1 books-analytics-events.apple.com
+127.0.0.1 browsercfg-drcn.cloud.dbankcloud.cn
 127.0.0.1 bsrv.qq.com
 127.0.0.1 bugly.qq.com
 127.0.0.1 business-api.tiktok.com
@@ -398,6 +399,7 @@
 127.0.0.1 logupdate.avlyun.sec.miui.com
 127.0.0.1 m.ad.zhangyue.com
 127.0.0.1 m.atm.youku.com
+127.0.0.1 m.ctrip.com
 127.0.0.1 m.kubiqq.com
 127.0.0.1 m1.ad.10010.com
 127.0.0.1 mapi.m.jd.com

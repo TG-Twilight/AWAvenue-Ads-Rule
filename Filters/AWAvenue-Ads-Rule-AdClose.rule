@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 682
+#Total lines: 684
 #Version: 1.5.4-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -208,6 +208,7 @@ domain, bianxian.com
 domain, bingads.microsoft.com
 domain, bj.ad.track.66mobi.com
 domain, books-analytics-events.apple.com
+domain, browsercfg-drcn.cloud.dbankcloud.cn
 domain, bsrv.qq.com
 domain, bugly.qq.com
 domain, business-api.tiktok.com
@@ -397,6 +398,7 @@ domain, logtj.kugou.com
 domain, logupdate.avlyun.sec.miui.com
 domain, m.ad.zhangyue.com
 domain, m.atm.youku.com
+domain, m.ctrip.com
 domain, m.kubiqq.com
 domain, m1.ad.10010.com
 domain, mapi.m.jd.com
