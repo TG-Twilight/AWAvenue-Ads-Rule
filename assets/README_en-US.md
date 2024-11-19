@@ -1,6 +1,6 @@
 <a href="/README.md">中文</a>&nbsp;|&nbsp;
 <a href="/Files/README_en-US.md">English</a> &nbsp;|&nbsp;
-<a href="/Files/README_Update.md">Update Log(Chinese only)</a> 
+<a href="/assets/README_Update.md">Update Log(Chinese only)</a> 
 </div>
 
 
