@@ -386,7 +386,6 @@ domain:logtj.kugou.com
 domain:logupdate.avlyun.sec.miui.com
 domain:m.ad.zhangyue.com
 domain:m.atm.youku.com
-domain:m.ctrip.com
 domain:m.kubiqq.com
 domain:m1.ad.10010.com
 domain:mapi.m.jd.com

@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 699
+#Total lines: 698
 #Version: 1.5.4-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -396,7 +396,6 @@ payload:
   - 'logupdate.avlyun.sec.miui.com'
   - 'm.ad.zhangyue.com'
   - 'm.atm.youku.com'
-  - 'm.ctrip.com'
   - 'm.kubiqq.com'
   - 'm1.ad.10010.com'
   - 'mapi.m.jd.com'
