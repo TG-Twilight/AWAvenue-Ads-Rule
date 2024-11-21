@@ -391,7 +391,6 @@ logtj.kugou.com
 logupdate.avlyun.sec.miui.com
 m.ad.zhangyue.com
 m.atm.youku.com
-m.ctrip.com
 m.kubiqq.com
 m1.ad.10010.com
 mapi.m.jd.com
