@@ -125,7 +125,8 @@ adx.ads.oppomobile.com
 adxlog-adnet.vivo.com.cn
 adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn
 adxserver.ad.cmvideo.cn
-aegis.qq.com
+aegis.qq.co
+aeventlog.beacon.qq.com
 afs.googlesyndication.com
 aiseet.aa.atianqi.com
 ali-ad.a.yximgs.com
@@ -250,6 +251,7 @@ dl.zuimeitianqi.com
 d.kugou.com
 dlogs.bwton.com
 dm.toutiao.com
+dnkeeper.platform.dbankcloud.com
 domain.aishengji.com
 doubleclick-cn.net
 download.changhong.upgrade2.huan.tv
@@ -659,6 +661,7 @@ video.dispatch.tc.qq.com
 virusinfo-cloudscan-cn.heytapmobi.com
 vlive.qqvideo.tc.qq.com
 volc.bj.ad.track.66mobi.com
+volceapplog.com
 vungle.com
 w.l.qq.com
 w1.askwai.com
