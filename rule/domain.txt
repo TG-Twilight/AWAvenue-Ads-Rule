@@ -129,6 +129,8 @@ aegis.qq.com
 afs.googlesyndication.com
 aiseet.aa.atianqi.com
 ali-ad.a.yximgs.com
+ali-p2p.pull.yximgs.com
+ali-p2p-v2.pull.yximgs.com
 alog.umeng.com
 als.baidu.com
 amdcopen.m.taobao.com
@@ -215,6 +217,7 @@ ccs.umeng.com
 cctv.adsunion.com
 cdn-ad.wtzw.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
+cdn-go.cn
 cdn-plugin-sync-upgrade-juui.hismarttv.com
 cdn.ad.xiaomi.com
 cdn.ynuf.aliapp.org
@@ -244,6 +247,7 @@ data.mistat.xiaomi.com
 diagnosis.ad.xiaomi.com
 dig.bdurl.net
 dl.zuimeitianqi.com
+d.kugou.com
 dlogs.bwton.com
 dm.toutiao.com
 domain.aishengji.com
@@ -256,6 +260,8 @@ dsp.fcbox.com
 dualstack-logs.amap.com
 dutils.com
 dxp.baidu.com
+dyp2p-ali.douyucdn.cn
+dyp2p-hw.douyucdn.cn
 e.ad.xiaomi.com
 eclick.baidu.com
 edge.ads.twitch.tv
@@ -304,6 +310,10 @@ httpdns.ocloud.oppomobile.com
 hugelog.fcbox.com
 huichuan.sm.cn
 hw-ot-ad.a.yximgs.com
+hw-p2p-v2.pull.yximgs.com
+hw-p2p-pull.video-voip.com
+hw-p2p.pull.yximgs.com
+hw-p2p-pull.live-voip.com
 hw.zuimeitianqi.com
 hwpub-s01-drcn.cloud.dbankcloud.cn
 hya.comp.360os.com
@@ -359,6 +369,7 @@ log-api-mn.huxiu.com
 log-api.huxiu.com
 log-api.pangolin-sdk-toutiao-b.com
 log-api.pangolin-sdk-toutiao.com
+log-auth.zztfly.com
 log-report.com
 log-sdk.gifshow.com
 log-upload-os.hoyoverse.com
@@ -392,6 +403,7 @@ logupdate.avlyun.sec.miui.com
 m.ad.zhangyue.com
 m.atm.youku.com
 m.kubiqq.com
+m.ctrip.com
 m1.ad.10010.com
 mapi.m.jd.com
 masdkv6.3g.qq.com
@@ -422,9 +434,12 @@ monitor-uu.play.aiseet.atianqi.com
 monitor.music.qq.com
 monitor.uu.qq.com
 monsetting.toutiao.com
+msch.f.360.cn
 mssdk.volces.com
 mssdk.zijieapi.com
 mtj.baidu.com
+nbcollect.kugou.com
+nbcollectretry.kugou.com
 newvoice.chiq5.smart-tv.cn
 nmetrics.samsung.com
 notes-analytics-events.apple.com
@@ -450,6 +465,7 @@ p1-be-pack-sign.pglstatp-toutiao.com
 p1-lm.adkwai.com
 p2-be-pack-sign.pglstatp-toutiao.com
 p2-lm.adkwai.com
+p2p.qq.com
 p3-be-pack-sign.pglstatp-toutiao.com
 p3-lm.adkwai.com
 p3-tt.byteimg.com
@@ -465,7 +481,9 @@ pgdt.ugdtimg.com
 pgdt.ugdtimg.com
 pglstatp-toutiao.com
 pig.pupuapi.com
+pis-tel-pcdn.youku.com
 pixon.ads-pixiv.net
+player-lg.youku.com
 plbslog.umeng.com
 pms.mb.qq.com
 policy.video.ptqy.gitv.tv
@@ -482,6 +500,7 @@ res.hubcloud.com.cn
 res1.hubcloud.com.cn
 res2.hubcloud.com.cn
 res3.hubcloud.com.cn
+resolver.dingtalk.com
 review.gdtimg.com
 rms-drcn.platform.dbankcloud.cn
 roi.soulapp.cn
@@ -548,8 +567,12 @@ stats.qiumibao.com
 stats.wp.com
 statsigapi.net
 stg-data.ads.heytapmobi.com
+stun.douyucdn.cn
+stun.hitv.com
+stun1.douyucdn.cn
 success.ctobsnssdk.com
 syh-imp.cdnjtzy.com
+szbdyd.com
 t-dsp.pinduoduo.com
 t.l.qq.com
 t.track.ad.xiaomi.com
@@ -595,8 +618,14 @@ tsvrv.com
 tvuser-ch.cedock.com
 tx-ad.a.yximgs.com
 tx-kmpaudio.pull.yximgs.com
+tx-p2p.pull.yximgs.com
+tx-p2p-pull.video-voip.com
+tx-p2p-v2.pull.yximgs.com
+tx-p2p-pull.live-voip.com
 tz.sec.xiaomi.com
+u.360.cn
 uapi.ads.heytapmobi.com
+ubacollect-drcn.cloud.dbankcloud.cn
 udc.yahoo.com
 udcm.yahoo.com
 uedas.qidian.com
@@ -613,6 +642,7 @@ union.baidu.com
 update.avlyun.sec.miui.com
 update.lejiao.tv
 upgrade-update.hismarttv.com
+
 us.l.qq.com
 v.adintl.cn
 v.adx.hubcloud.com.cn
@@ -667,8 +697,15 @@ widgets.outbrain.com
 widgets.pinterest.com
 win.gdt.qq.com
 wn.x.jd.com
+wot.360.cn
+wows.360.cn
 ws-keyboard.shouji.sogou.com
+ws-p2p.pull.yximgs.com
+ws-p2p-pull.live-voip.com
+ws-p2p-v2.pull.yximgs.com
+ws-p2p-pull.video-voip.com
 ws.sj.qq.com
+wts.xinwen.cn
 www42.zskwai.com
 wxa.wxs.qq.com
 wximg.wxs.qq.com
@@ -684,9 +721,11 @@ xlmzc.cnjp-exp.com
 xlog.jd.com
 xlviiirdr.com
 xlviirdr.com
+yasuo.360.cn
 yk-ssp.ad.youku.com
 ykad-data.youku.com
 ykad-gateway.youku.com
 youku-acs.m.taobao.com
 youxi.kugou.com
+yule.360.com
 zeus.ad.xiaomi.com
