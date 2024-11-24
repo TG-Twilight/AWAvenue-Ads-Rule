@@ -5,6 +5,7 @@
 a0.app.xiaomi.com
 aaid.umeng.com
 abtest-ch.snssdk.com
+abtest3-misc-lf.zijieapi.com
 ad-cache.dopool.com
 ad-cdn.qingting.fm
 ad-cmp.hismarttv.com
@@ -140,12 +141,20 @@ analysis.yozocloud.cn
 analytics-api.samsunghealthcn.com
 analytics.126.net
 analytics.95516.com
+analytics.finansforbundet.se
 analytics.google.com
+analytics.hostup.se
+analytics.lookingforways.com
+analytics.nicobonx.com
 analytics.pinterest.com
 analytics.pointdrive.linkedin.com
+analitica.potencia.pro
+analytics-q10v.onrender.com
 analytics.query.yahoo.com
+analytics-q10v.onrender.com.cdn.cloudflare.net
 analytics.rayjump.com
 analytics.s3.amazonaws.com
+analytics.supermotion.co
 analytics.tiktok.com
 analytics.woozooo.com
 analyticsengine.s3.amazonaws.com
@@ -179,6 +188,7 @@ app-measurement.com
 appcloud2.in.zhihu.com
 applog.lc.quark.cn
 applog.uc.cn
+applog.snssdk.com
 applog.zijieapi.com
 ata-sdk-uuid-report.dreport.meituan.net
 auction.unityads.unity3d.com
@@ -222,6 +232,7 @@ cdn-go.cn
 cdn-plugin-sync-upgrade-juui.hismarttv.com
 cdn.ad.xiaomi.com
 cdn.ynuf.aliapp.org
+cdnfile1pcdn.msstatic.com
 cfg.imtt.qq.com
 chat1.jd.com
 chiq-cloud.com
@@ -232,6 +243,7 @@ click.oneplus.cn
 clog.miguvideo.com
 cnzz.com
 collect.kugou.com
+collector.hifiklubben.fi
 commdata.v.qq.com
 config.chsmarttv.com
 config.unityads.unity3d.com
@@ -296,6 +308,7 @@ googletagservices-cn.com
 googletagservices.com
 gorgon.youdao.com
 gromore.pangolin-sdk-toutiao.com
+grpc.biliapi.net
 grs.dbankcloud.com
 grs.hicloud.com
 grs.platform.dbankcloud.ru
@@ -312,10 +325,6 @@ httpdns.ocloud.oppomobile.com
 hugelog.fcbox.com
 huichuan.sm.cn
 hw-ot-ad.a.yximgs.com
-hw-p2p-v2.pull.yximgs.com
-hw-p2p-pull.video-voip.com
-hw-p2p.pull.yximgs.com
-hw-p2p-pull.live-voip.com
 hw.zuimeitianqi.com
 hwpub-s01-drcn.cloud.dbankcloud.cn
 hya.comp.360os.com
@@ -339,6 +348,7 @@ img-c.heytapimage.com
 img.adnyg.com
 img.adnyg.com.w.kunlungr.com
 imtmp.net
+interface.bilibili.com
 iot-eu-logser.realme.com
 iot-logser.realme.com
 ipv4.kkmh.com
@@ -366,6 +376,7 @@ livemonitor.huan.tv
 livep.l.aiseet.atianqi.com
 lives.l.aiseet.atianqi.com
 lives.l.ott.video.qq.com
+livewebbs2pcdn.msstatic.com
 lm10111.jtrincc.cn
 log-api-mn.huxiu.com
 log-api.huxiu.com
@@ -382,7 +393,10 @@ log.amemv.com
 log.appstore3.huan.tv
 log.avlyun.com
 log.avlyun.sec.intl.miui.com
+log0-applog-lf.fqnovel.com
+log3-applog-lf.fqnovel.com
 log.byteoversea.com
+logx-experimentation.iherb.com
 log.fc.yahoo.com
 log.kuwo.cn
 log.pinterest.com
@@ -411,6 +425,7 @@ mapi.m.jd.com
 masdkv6.3g.qq.com
 mazu.m.qq.com
 mbdlog.iqiyi.com
+mbd.baidu.com
 metrics.apple.com
 metrics.data.hicloud.com
 metrics.icloud.com
@@ -437,6 +452,7 @@ monitor.music.qq.com
 monitor.uu.qq.com
 monsetting.toutiao.com
 msch.f.360.cn
+ms.bdstatic.com
 mssdk.volces.com
 mssdk.zijieapi.com
 mtj.baidu.com
@@ -486,12 +502,16 @@ pig.pupuapi.com
 pis-tel-pcdn.youku.com
 pixon.ads-pixiv.net
 player-lg.youku.com
+plausible.vpsbenchmarks.com
 plbslog.umeng.com
 pms.mb.qq.com
 policy.video.ptqy.gitv.tv
 pos.baidu.com
 proxy.advp.apple.com
 public.gdtimg.com
+pull.yximgs.com
+pull.video-voip.com
+pull.live-voip.com
 q.i.gdt.qq.com
 qqdata.ab.qq.com
 qwapi.apple.com
@@ -544,6 +564,9 @@ securemetrics.apple.com
 securepubads.g.doubleclick.net
 sensors-log.dongqiudi.com
 sensors-log.dongqiudi.com
+sentry.northmill.com
+sentry-old.northmill.com
+seo.macoop.net
 service.changhong.upgrade2.huan.tv
 service.vmos.cn
 sf16-static.i18n-pglstatp.com
@@ -620,10 +643,6 @@ tsvrv.com
 tvuser-ch.cedock.com
 tx-ad.a.yximgs.com
 tx-kmpaudio.pull.yximgs.com
-tx-p2p.pull.yximgs.com
-tx-p2p-pull.video-voip.com
-tx-p2p-v2.pull.yximgs.com
-tx-p2p-pull.live-voip.com
 tz.sec.xiaomi.com
 u.360.cn
 uapi.ads.heytapmobi.com
@@ -692,6 +711,7 @@ w1.yskwai.com
 w1.zskwai.com
 watson.microsoft.com
 watson.telemetry.microsoft.com
+wapp-gtm-server-tagging.azurewebsites.net
 weather-analytics-events.apple.com
 weather-community-drcn.weather.dbankcloud.cn
 webstat.qiumibao.com
@@ -703,10 +723,6 @@ wn.x.jd.com
 wot.360.cn
 wows.360.cn
 ws-keyboard.shouji.sogou.com
-ws-p2p.pull.yximgs.com
-ws-p2p-pull.live-voip.com
-ws-p2p-v2.pull.yximgs.com
-ws-p2p-pull.video-voip.com
 ws.sj.qq.com
 wts.xinwen.cn
 www42.zskwai.com
