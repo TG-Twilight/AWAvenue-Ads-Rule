@@ -1,6 +1,6 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 683
+!Total lines: 686
 !Version: 1.5.4-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -286,7 +286,9 @@
 127.0.0.1 gdfp.gifshow.com
 127.0.0.1 gemini.yahoo.com
 127.0.0.1 geo.yahoo.com
+127.0.0.1 getui.cn
 127.0.0.1 getui.com
+127.0.0.1 getui.net
 127.0.0.1 ggx.cmvideo.cn
 127.0.0.1 ggx01.miguvideo.com
 127.0.0.1 ggx03.miguvideo.com
@@ -326,6 +328,7 @@
 127.0.0.1 iadworkbench.apple.com
 127.0.0.1 ifacelog.iqiyi.com
 127.0.0.1 ifs.tanx.com
+127.0.0.1 igexin.com
 127.0.0.1 ii.gdt.qq.com
 127.0.0.1 imag8.pubmatic.com
 127.0.0.1 imag86.pubmatic.com

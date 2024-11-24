@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 701
+#Total lines: 704
 #Version: 1.5.4-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -286,7 +286,9 @@ DOMAIN,game.loveota.com,reject
 DOMAIN,gdfp.gifshow.com,reject
 DOMAIN,gemini.yahoo.com,reject
 DOMAIN,geo.yahoo.com,reject
+DOMAIN,getui.cn,reject
 DOMAIN,getui.com,reject
+DOMAIN,getui.net,reject
 DOMAIN,ggx.cmvideo.cn,reject
 DOMAIN,ggx01.miguvideo.com,reject
 DOMAIN,ggx03.miguvideo.com,reject
@@ -326,6 +328,7 @@ DOMAIN,iadsdk.apple.com,reject
 DOMAIN,iadworkbench.apple.com,reject
 DOMAIN,ifacelog.iqiyi.com,reject
 DOMAIN,ifs.tanx.com,reject
+DOMAIN,igexin.com,reject
 DOMAIN,ii.gdt.qq.com,reject
 DOMAIN,imag8.pubmatic.com,reject
 DOMAIN,imag86.pubmatic.com,reject

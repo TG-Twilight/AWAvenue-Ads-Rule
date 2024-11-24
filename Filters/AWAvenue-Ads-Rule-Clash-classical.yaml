@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 702
+#Total lines: 705
 #Version: 1.5.4-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -287,7 +287,9 @@ payload:
   - DOMAIN,gdfp.gifshow.com
   - DOMAIN,gemini.yahoo.com
   - DOMAIN,geo.yahoo.com
+  - DOMAIN,getui.cn
   - DOMAIN,getui.com
+  - DOMAIN,getui.net
   - DOMAIN,ggx.cmvideo.cn
   - DOMAIN,ggx01.miguvideo.com
   - DOMAIN,ggx03.miguvideo.com
@@ -327,6 +329,7 @@ payload:
   - DOMAIN,iadworkbench.apple.com
   - DOMAIN,ifacelog.iqiyi.com
   - DOMAIN,ifs.tanx.com
+  - DOMAIN,igexin.com
   - DOMAIN,ii.gdt.qq.com
   - DOMAIN,imag8.pubmatic.com
   - DOMAIN,imag86.pubmatic.com

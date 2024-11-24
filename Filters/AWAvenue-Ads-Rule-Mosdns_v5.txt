@@ -273,7 +273,9 @@ domain:game.loveota.com
 domain:gdfp.gifshow.com
 domain:gemini.yahoo.com
 domain:geo.yahoo.com
+domain:getui.cn
 domain:getui.com
+domain:getui.net
 domain:ggx.cmvideo.cn
 domain:ggx01.miguvideo.com
 domain:ggx03.miguvideo.com
@@ -313,6 +315,7 @@ domain:iadsdk.apple.com
 domain:iadworkbench.apple.com
 domain:ifacelog.iqiyi.com
 domain:ifs.tanx.com
+domain:igexin.com
 domain:ii.gdt.qq.com
 domain:imag8.pubmatic.com
 domain:imag86.pubmatic.com
