@@ -141,6 +141,7 @@ analysis.yozocloud.cn
 analytics-api.samsunghealthcn.com
 analytics.126.net
 analytics.95516.com
+analytics.ehi.de
 analytics.finansforbundet.se
 analytics.google.com
 analytics.hostup.se
@@ -425,6 +426,9 @@ m.kubiqq.com
 m.ctrip.com
 m1.ad.10010.com
 mapi.m.jd.com
+matomo.acmodasi.com
+matomo.finance-in-motion.com
+matomo.accesive.com
 masdkv6.3g.qq.com
 mazu.m.qq.com
 mbdlog.iqiyi.com
@@ -482,6 +486,7 @@ otheve.play.aiseet.atianqi.com
 outlookads.live.com
 p.l.qq.com
 p.s.360.cn
+p.catppuccin.com
 p1-be-pack-sign.pglstatp-toutiao.com
 p1-lm.adkwai.com
 p2-be-pack-sign.pglstatp-toutiao.com
@@ -569,6 +574,7 @@ sensors-log.dongqiudi.com
 sensors-log.dongqiudi.com
 sentry.northmill.com
 sentry-old.northmill.com
+sentry.5nix.com
 seo.macoop.net
 service.changhong.upgrade2.huan.tv
 service.vmos.cn
