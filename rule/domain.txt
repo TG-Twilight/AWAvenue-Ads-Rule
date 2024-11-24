@@ -260,6 +260,7 @@ data.mistat.rus.xiaomi.com
 data.mistat.xiaomi.com
 diagnosis.ad.xiaomi.com
 dig.bdurl.net
+dl.txcdns.com
 dl.zuimeitianqi.com
 d.kugou.com
 dlogs.bwton.com
