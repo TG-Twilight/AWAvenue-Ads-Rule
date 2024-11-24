@@ -126,8 +126,7 @@ adx.ads.oppomobile.com
 adxlog-adnet.vivo.com.cn
 adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn
 adxserver.ad.cmvideo.cn
-aegis.qq.co
-aeventlog.beacon.qq.com
+aegis.qq.com
 afs.googlesyndication.com
 aiseet.aa.atianqi.com
 ali-ad.a.yximgs.com
