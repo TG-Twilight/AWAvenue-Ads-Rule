@@ -491,7 +491,9 @@ p1-be-pack-sign.pglstatp-toutiao.com
 p1-lm.adkwai.com
 p2-be-pack-sign.pglstatp-toutiao.com
 p2-lm.adkwai.com
+p2perrorlog.douyucdn.cn
 p2p.qq.com
+p2pupgrade.gamedl.qq.com
 p3-be-pack-sign.pglstatp-toutiao.com
 p3-lm.adkwai.com
 p3-tt.byteimg.com
@@ -509,6 +511,7 @@ pglstatp-toutiao.com
 pig.pupuapi.com
 pis-tel-pcdn.youku.com
 pixon.ads-pixiv.net
+pkoplink.com
 player-lg.youku.com
 plausible.vpsbenchmarks.com
 plbslog.umeng.com
@@ -756,4 +759,5 @@ ykad-gateway.youku.com
 youku-acs.m.taobao.com
 youxi.kugou.com
 yule.360.com
+yun-hl.3g.qq.com
 zeus.ad.xiaomi.com
