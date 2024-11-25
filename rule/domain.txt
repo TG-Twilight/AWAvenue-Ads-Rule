@@ -445,6 +445,7 @@ mi.gdt.qq.com
 miaozhan.com
 miav-cse.avlyun.com
 mime.baidu.com
+mine.baidu.com
 mishop.pandora.xiaomi.com
 mission-pub.smart-tv.cn
 miui-fxcse.avlyun.com
