@@ -288,6 +288,7 @@ event.tradplusad.com
 events-drcn.op.dbankcloud.cn
 events.reddit.com
 events.redditmedia.com
+fileserverpcdn.cdn.huya.com
 firebaselogging-pa.googleapis.com
 flurry.com
 g-staic.ganjingworld.com
