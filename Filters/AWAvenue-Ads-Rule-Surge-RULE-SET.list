@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 704
+#Total lines: 707
 #Version: 1.5.4-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -461,6 +461,7 @@ DOMAIN,p1-be-pack-sign.pglstatp-toutiao.com,reject
 DOMAIN,p1-lm.adkwai.com,reject
 DOMAIN,p2-be-pack-sign.pglstatp-toutiao.com,reject
 DOMAIN,p2-lm.adkwai.com,reject
+DOMAIN,p2p.huya.com,reject
 DOMAIN,p3-be-pack-sign.pglstatp-toutiao.com,reject
 DOMAIN,p3-lm.adkwai.com,reject
 DOMAIN,p3-tt.byteimg.com,reject
@@ -475,6 +476,7 @@ DOMAIN,pgdt.ugdtimg.com,reject
 DOMAIN,pglstatp-toutiao.com,reject
 DOMAIN,pig.pupuapi.com,reject
 DOMAIN,pixon.ads-pixiv.net,reject
+DOMAIN,pkoplink.com,reject
 DOMAIN,plbslog.umeng.com,reject
 DOMAIN,pms.mb.qq.com,reject
 DOMAIN,policy.video.ptqy.gitv.tv,reject
@@ -557,6 +559,7 @@ DOMAIN,statsigapi.net,reject
 DOMAIN,stg-data.ads.heytapmobi.com,reject
 DOMAIN,success.ctobsnssdk.com,reject
 DOMAIN,syh-imp.cdnjtzy.com,reject
+DOMAIN,szbdyd.com,reject
 DOMAIN,t-dsp.pinduoduo.com,reject
 DOMAIN,t.l.qq.com,reject
 DOMAIN,t.track.ad.xiaomi.com,reject

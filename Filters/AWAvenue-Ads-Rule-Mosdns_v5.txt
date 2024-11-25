@@ -448,6 +448,7 @@ domain:p1-be-pack-sign.pglstatp-toutiao.com
 domain:p1-lm.adkwai.com
 domain:p2-be-pack-sign.pglstatp-toutiao.com
 domain:p2-lm.adkwai.com
+domain:p2p.huya.com
 domain:p3-be-pack-sign.pglstatp-toutiao.com
 domain:p3-lm.adkwai.com
 domain:p3-tt.byteimg.com
@@ -462,6 +463,7 @@ domain:pgdt.ugdtimg.com
 domain:pglstatp-toutiao.com
 domain:pig.pupuapi.com
 domain:pixon.ads-pixiv.net
+domain:pkoplink.com
 domain:plbslog.umeng.com
 domain:pms.mb.qq.com
 domain:policy.video.ptqy.gitv.tv
@@ -544,6 +546,7 @@ domain:statsigapi.net
 domain:stg-data.ads.heytapmobi.com
 domain:success.ctobsnssdk.com
 domain:syh-imp.cdnjtzy.com
+domain:szbdyd.com
 domain:t-dsp.pinduoduo.com
 domain:t.l.qq.com
 domain:t.track.ad.xiaomi.com

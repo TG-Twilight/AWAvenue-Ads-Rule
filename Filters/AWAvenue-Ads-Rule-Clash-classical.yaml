@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 705
+#Total lines: 708
 #Version: 1.5.4-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -462,6 +462,7 @@ payload:
   - DOMAIN,p1-lm.adkwai.com
   - DOMAIN,p2-be-pack-sign.pglstatp-toutiao.com
   - DOMAIN,p2-lm.adkwai.com
+  - DOMAIN,p2p.huya.com
   - DOMAIN,p3-be-pack-sign.pglstatp-toutiao.com
   - DOMAIN,p3-lm.adkwai.com
   - DOMAIN,p3-tt.byteimg.com
@@ -476,6 +477,7 @@ payload:
   - DOMAIN,pglstatp-toutiao.com
   - DOMAIN,pig.pupuapi.com
   - DOMAIN,pixon.ads-pixiv.net
+  - DOMAIN,pkoplink.com
   - DOMAIN,plbslog.umeng.com
   - DOMAIN,pms.mb.qq.com
   - DOMAIN,policy.video.ptqy.gitv.tv
@@ -558,6 +560,7 @@ payload:
   - DOMAIN,stg-data.ads.heytapmobi.com
   - DOMAIN,success.ctobsnssdk.com
   - DOMAIN,syh-imp.cdnjtzy.com
+  - DOMAIN,szbdyd.com
   - DOMAIN,t-dsp.pinduoduo.com
   - DOMAIN,t.l.qq.com
   - DOMAIN,t.track.ad.xiaomi.com

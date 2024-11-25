@@ -1,6 +1,6 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 686
+!Total lines: 689
 !Version: 1.5.4-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -461,6 +461,7 @@
 127.0.0.1 p1-lm.adkwai.com
 127.0.0.1 p2-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p2-lm.adkwai.com
+127.0.0.1 p2p.huya.com
 127.0.0.1 p3-be-pack-sign.pglstatp-toutiao.com
 127.0.0.1 p3-lm.adkwai.com
 127.0.0.1 p3-tt.byteimg.com
@@ -475,6 +476,7 @@
 127.0.0.1 pglstatp-toutiao.com
 127.0.0.1 pig.pupuapi.com
 127.0.0.1 pixon.ads-pixiv.net
+127.0.0.1 pkoplink.com
 127.0.0.1 plbslog.umeng.com
 127.0.0.1 pms.mb.qq.com
 127.0.0.1 policy.video.ptqy.gitv.tv
@@ -557,6 +559,7 @@
 127.0.0.1 stg-data.ads.heytapmobi.com
 127.0.0.1 success.ctobsnssdk.com
 127.0.0.1 syh-imp.cdnjtzy.com
+127.0.0.1 szbdyd.com
 127.0.0.1 t-dsp.pinduoduo.com
 127.0.0.1 t.l.qq.com
 127.0.0.1 t.track.ad.xiaomi.com
