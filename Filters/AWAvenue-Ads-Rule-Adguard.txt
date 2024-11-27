@@ -1,7 +1,7 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 713
-!Version: 1.5.4-release
+!Total lines: 714
+!Version: 1.5.5-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -140,6 +140,7 @@
 ||alog.umeng.com^
 ||als.baidu.com^
 ||amdcopen.m.taobao.com^
+||amdcopen.m.umeng.com^
 ||an.facebook.com^
 ||analysis.yozocloud.cn^
 ||analytics-api.samsunghealthcn.com^

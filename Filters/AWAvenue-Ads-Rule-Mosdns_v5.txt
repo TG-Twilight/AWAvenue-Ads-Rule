@@ -131,6 +131,7 @@ domain:ali-ad.a.yximgs.com
 domain:alog.umeng.com
 domain:als.baidu.com
 domain:amdcopen.m.taobao.com
+domain:amdcopen.m.umeng.com
 domain:an.facebook.com
 domain:analysis.yozocloud.cn
 domain:analytics-api.samsunghealthcn.com
