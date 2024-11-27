@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 708
+#Total lines: 718
 #Version: 1.5.4-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -66,6 +66,7 @@ payload:
   - DOMAIN,ads-api.twitter.com
   - DOMAIN,ads-img-qc.xhscdn.com
   - DOMAIN,ads-jp.tiktok.com
+  - DOMAIN,ads-marketing-vivofs.vivo.com.cn
   - DOMAIN,ads-sg.tiktok.com
   - DOMAIN,ads-us.tiktok.com
   - DOMAIN,ads-video-al.xhscdn.com
@@ -172,6 +173,7 @@ payload:
   - DOMAIN,api-access.pangolin-sdk-toutiao5.com
   - DOMAIN,api-ad-product.huxiu.com
   - DOMAIN,api-adservices.apple.com
+  - DOMAIN,api-gd.hiaiabc.com
   - DOMAIN,api-htp.beizi.biz
   - DOMAIN,api.ad.xiaomi.com
   - DOMAIN,api.e.kuaishou.com
@@ -195,6 +197,8 @@ payload:
   - DOMAIN,audid.umeng.com
   - DOMAIN,azr.footprintdns.com
   - DOMAIN,b1-data.ads.heytapmobi.com
+  - DOMAIN,baichuan-sdk.alicdn.com
+  - DOMAIN,baichuan-sdk.taobao.com
   - DOMAIN,bdad.123pan.cn
   - DOMAIN,bdapi-ads.realmemobile.com
   - DOMAIN,bdapi-in-ads.realmemobile.com
@@ -238,6 +242,8 @@ payload:
   - DOMAIN,click.googleanalytics.com
   - DOMAIN,click.oneplus.cn
   - DOMAIN,clog.miguvideo.com
+  - DOMAIN,cnlogs.umeng.com
+  - DOMAIN,cnlogs.umengcloud.com
   - DOMAIN,cnzz.com
   - DOMAIN,collect.kugou.com
   - DOMAIN,commdata.v.qq.com
@@ -281,6 +287,7 @@ payload:
   - DOMAIN,events.redditmedia.com
   - DOMAIN,firebaselogging-pa.googleapis.com
   - DOMAIN,flurry.com
+  - DOMAIN,g-adnet.hiaiabc.com
   - DOMAIN,g-staic.ganjingworld.com
   - DOMAIN,g2.ganjing.world
   - DOMAIN,game.loveota.com
@@ -320,6 +327,7 @@ payload:
   - DOMAIN,hw.zuimeitianqi.com
   - DOMAIN,hwpub-s01-drcn.cloud.dbankcloud.cn
   - DOMAIN,hya.comp.360os.com
+  - DOMAIN,hybrid.miniapp.taobao.com
   - DOMAIN,hye.comp.360os.com
   - DOMAIN,hyt.comp.360os.com
   - DOMAIN,i.snssdk.com
@@ -401,6 +409,7 @@ payload:
   - DOMAIN,logservice1.hicloud.com
   - DOMAIN,logtj.kugou.com
   - DOMAIN,logupdate.avlyun.sec.miui.com
+  - DOMAIN,m-adnet.hiaiabc.com
   - DOMAIN,m.ad.zhangyue.com
   - DOMAIN,m.atm.youku.com
   - DOMAIN,m.kubiqq.com
@@ -494,6 +503,7 @@ payload:
   - DOMAIN,res1.hubcloud.com.cn
   - DOMAIN,res2.hubcloud.com.cn
   - DOMAIN,res3.hubcloud.com.cn
+  - DOMAIN,resolve.umeng.com
   - DOMAIN,review.gdtimg.com
   - DOMAIN,rms-drcn.platform.dbankcloud.cn
   - DOMAIN,roi.soulapp.cn

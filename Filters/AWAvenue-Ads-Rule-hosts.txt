@@ -1,6 +1,6 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 689
+!Total lines: 699
 !Version: 1.5.4-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -65,6 +65,7 @@
 127.0.0.1 ads-api.twitter.com
 127.0.0.1 ads-img-qc.xhscdn.com
 127.0.0.1 ads-jp.tiktok.com
+127.0.0.1 ads-marketing-vivofs.vivo.com.cn
 127.0.0.1 ads-sg.tiktok.com
 127.0.0.1 ads-us.tiktok.com
 127.0.0.1 ads-video-al.xhscdn.com
@@ -171,6 +172,7 @@
 127.0.0.1 api-access.pangolin-sdk-toutiao5.com
 127.0.0.1 api-ad-product.huxiu.com
 127.0.0.1 api-adservices.apple.com
+127.0.0.1 api-gd.hiaiabc.com
 127.0.0.1 api-htp.beizi.biz
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 api.e.kuaishou.com
@@ -194,6 +196,8 @@
 127.0.0.1 audid.umeng.com
 127.0.0.1 azr.footprintdns.com
 127.0.0.1 b1-data.ads.heytapmobi.com
+127.0.0.1 baichuan-sdk.alicdn.com
+127.0.0.1 baichuan-sdk.taobao.com
 127.0.0.1 bdad.123pan.cn
 127.0.0.1 bdapi-ads.realmemobile.com
 127.0.0.1 bdapi-in-ads.realmemobile.com
@@ -237,6 +241,8 @@
 127.0.0.1 click.googleanalytics.com
 127.0.0.1 click.oneplus.cn
 127.0.0.1 clog.miguvideo.com
+127.0.0.1 cnlogs.umeng.com
+127.0.0.1 cnlogs.umengcloud.com
 127.0.0.1 cnzz.com
 127.0.0.1 collect.kugou.com
 127.0.0.1 commdata.v.qq.com
@@ -280,6 +286,7 @@
 127.0.0.1 events.redditmedia.com
 127.0.0.1 firebaselogging-pa.googleapis.com
 127.0.0.1 flurry.com
+127.0.0.1 g-adnet.hiaiabc.com
 127.0.0.1 g-staic.ganjingworld.com
 127.0.0.1 g2.ganjing.world
 127.0.0.1 game.loveota.com
@@ -319,6 +326,7 @@
 127.0.0.1 hw.zuimeitianqi.com
 127.0.0.1 hwpub-s01-drcn.cloud.dbankcloud.cn
 127.0.0.1 hya.comp.360os.com
+127.0.0.1 hybrid.miniapp.taobao.com
 127.0.0.1 hye.comp.360os.com
 127.0.0.1 hyt.comp.360os.com
 127.0.0.1 i.snssdk.com
@@ -400,6 +408,7 @@
 127.0.0.1 logservice1.hicloud.com
 127.0.0.1 logtj.kugou.com
 127.0.0.1 logupdate.avlyun.sec.miui.com
+127.0.0.1 m-adnet.hiaiabc.com
 127.0.0.1 m.ad.zhangyue.com
 127.0.0.1 m.atm.youku.com
 127.0.0.1 m.kubiqq.com
@@ -493,6 +502,7 @@
 127.0.0.1 res1.hubcloud.com.cn
 127.0.0.1 res2.hubcloud.com.cn
 127.0.0.1 res3.hubcloud.com.cn
+127.0.0.1 resolve.umeng.com
 127.0.0.1 review.gdtimg.com
 127.0.0.1 rms-drcn.platform.dbankcloud.cn
 127.0.0.1 roi.soulapp.cn

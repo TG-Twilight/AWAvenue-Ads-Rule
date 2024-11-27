@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 707
+#Total lines: 717
 #Version: 1.5.4-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -65,6 +65,7 @@ DOMAIN,ads-api.tiktok.com,reject
 DOMAIN,ads-api.twitter.com,reject
 DOMAIN,ads-img-qc.xhscdn.com,reject
 DOMAIN,ads-jp.tiktok.com,reject
+DOMAIN,ads-marketing-vivofs.vivo.com.cn,reject
 DOMAIN,ads-sg.tiktok.com,reject
 DOMAIN,ads-us.tiktok.com,reject
 DOMAIN,ads-video-al.xhscdn.com,reject
@@ -171,6 +172,7 @@ DOMAIN,api-access.pangolin-sdk-toutiao4.com,reject
 DOMAIN,api-access.pangolin-sdk-toutiao5.com,reject
 DOMAIN,api-ad-product.huxiu.com,reject
 DOMAIN,api-adservices.apple.com,reject
+DOMAIN,api-gd.hiaiabc.com,reject
 DOMAIN,api-htp.beizi.biz,reject
 DOMAIN,api.ad.xiaomi.com,reject
 DOMAIN,api.e.kuaishou.com,reject
@@ -194,6 +196,8 @@ DOMAIN,audid-api.taobao.com,reject
 DOMAIN,audid.umeng.com,reject
 DOMAIN,azr.footprintdns.com,reject
 DOMAIN,b1-data.ads.heytapmobi.com,reject
+DOMAIN,baichuan-sdk.alicdn.com,reject
+DOMAIN,baichuan-sdk.taobao.com,reject
 DOMAIN,bdad.123pan.cn,reject
 DOMAIN,bdapi-ads.realmemobile.com,reject
 DOMAIN,bdapi-in-ads.realmemobile.com,reject
@@ -237,6 +241,8 @@ DOMAIN,ck.ads.oppomobile.com,reject
 DOMAIN,click.googleanalytics.com,reject
 DOMAIN,click.oneplus.cn,reject
 DOMAIN,clog.miguvideo.com,reject
+DOMAIN,cnlogs.umeng.com,reject
+DOMAIN,cnlogs.umengcloud.com,reject
 DOMAIN,cnzz.com,reject
 DOMAIN,collect.kugou.com,reject
 DOMAIN,commdata.v.qq.com,reject
@@ -280,6 +286,7 @@ DOMAIN,events.reddit.com,reject
 DOMAIN,events.redditmedia.com,reject
 DOMAIN,firebaselogging-pa.googleapis.com,reject
 DOMAIN,flurry.com,reject
+DOMAIN,g-adnet.hiaiabc.com,reject
 DOMAIN,g-staic.ganjingworld.com,reject
 DOMAIN,g2.ganjing.world,reject
 DOMAIN,game.loveota.com,reject
@@ -319,6 +326,7 @@ DOMAIN,hw-ot-ad.a.yximgs.com,reject
 DOMAIN,hw.zuimeitianqi.com,reject
 DOMAIN,hwpub-s01-drcn.cloud.dbankcloud.cn,reject
 DOMAIN,hya.comp.360os.com,reject
+DOMAIN,hybrid.miniapp.taobao.com,reject
 DOMAIN,hye.comp.360os.com,reject
 DOMAIN,hyt.comp.360os.com,reject
 DOMAIN,i.snssdk.com,reject
@@ -400,6 +408,7 @@ DOMAIN,logservice.hicloud.com,reject
 DOMAIN,logservice1.hicloud.com,reject
 DOMAIN,logtj.kugou.com,reject
 DOMAIN,logupdate.avlyun.sec.miui.com,reject
+DOMAIN,m-adnet.hiaiabc.com,reject
 DOMAIN,m.ad.zhangyue.com,reject
 DOMAIN,m.atm.youku.com,reject
 DOMAIN,m.kubiqq.com,reject
@@ -493,6 +502,7 @@ DOMAIN,res.hubcloud.com.cn,reject
 DOMAIN,res1.hubcloud.com.cn,reject
 DOMAIN,res2.hubcloud.com.cn,reject
 DOMAIN,res3.hubcloud.com.cn,reject
+DOMAIN,resolve.umeng.com,reject
 DOMAIN,review.gdtimg.com,reject
 DOMAIN,rms-drcn.platform.dbankcloud.cn,reject
 DOMAIN,roi.soulapp.cn,reject

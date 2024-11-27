@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 689
+#Total lines: 699
 #Version: 1.5.4-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -65,6 +65,7 @@
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 ads-img-qc.xhscdn.com
 0.0.0.0 ads-jp.tiktok.com
+0.0.0.0 ads-marketing-vivofs.vivo.com.cn
 0.0.0.0 ads-sg.tiktok.com
 0.0.0.0 ads-us.tiktok.com
 0.0.0.0 ads-video-al.xhscdn.com
@@ -171,6 +172,7 @@
 0.0.0.0 api-access.pangolin-sdk-toutiao5.com
 0.0.0.0 api-ad-product.huxiu.com
 0.0.0.0 api-adservices.apple.com
+0.0.0.0 api-gd.hiaiabc.com
 0.0.0.0 api-htp.beizi.biz
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 api.e.kuaishou.com
@@ -194,6 +196,8 @@
 0.0.0.0 audid.umeng.com
 0.0.0.0 azr.footprintdns.com
 0.0.0.0 b1-data.ads.heytapmobi.com
+0.0.0.0 baichuan-sdk.alicdn.com
+0.0.0.0 baichuan-sdk.taobao.com
 0.0.0.0 bdad.123pan.cn
 0.0.0.0 bdapi-ads.realmemobile.com
 0.0.0.0 bdapi-in-ads.realmemobile.com
@@ -237,6 +241,8 @@
 0.0.0.0 click.googleanalytics.com
 0.0.0.0 click.oneplus.cn
 0.0.0.0 clog.miguvideo.com
+0.0.0.0 cnlogs.umeng.com
+0.0.0.0 cnlogs.umengcloud.com
 0.0.0.0 cnzz.com
 0.0.0.0 collect.kugou.com
 0.0.0.0 commdata.v.qq.com
@@ -280,6 +286,7 @@
 0.0.0.0 events.redditmedia.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 flurry.com
+0.0.0.0 g-adnet.hiaiabc.com
 0.0.0.0 g-staic.ganjingworld.com
 0.0.0.0 g2.ganjing.world
 0.0.0.0 game.loveota.com
@@ -319,6 +326,7 @@
 0.0.0.0 hw.zuimeitianqi.com
 0.0.0.0 hwpub-s01-drcn.cloud.dbankcloud.cn
 0.0.0.0 hya.comp.360os.com
+0.0.0.0 hybrid.miniapp.taobao.com
 0.0.0.0 hye.comp.360os.com
 0.0.0.0 hyt.comp.360os.com
 0.0.0.0 i.snssdk.com
@@ -400,6 +408,7 @@
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logtj.kugou.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
+0.0.0.0 m-adnet.hiaiabc.com
 0.0.0.0 m.ad.zhangyue.com
 0.0.0.0 m.atm.youku.com
 0.0.0.0 m.kubiqq.com
@@ -493,6 +502,7 @@
 0.0.0.0 res1.hubcloud.com.cn
 0.0.0.0 res2.hubcloud.com.cn
 0.0.0.0 res3.hubcloud.com.cn
+0.0.0.0 resolve.umeng.com
 0.0.0.0 review.gdtimg.com
 0.0.0.0 rms-drcn.platform.dbankcloud.cn
 0.0.0.0 roi.soulapp.cn

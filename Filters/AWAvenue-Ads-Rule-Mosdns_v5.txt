@@ -52,6 +52,7 @@ domain:ads-api.tiktok.com
 domain:ads-api.twitter.com
 domain:ads-img-qc.xhscdn.com
 domain:ads-jp.tiktok.com
+domain:ads-marketing-vivofs.vivo.com.cn
 domain:ads-sg.tiktok.com
 domain:ads-us.tiktok.com
 domain:ads-video-al.xhscdn.com
@@ -158,6 +159,7 @@ domain:api-access.pangolin-sdk-toutiao4.com
 domain:api-access.pangolin-sdk-toutiao5.com
 domain:api-ad-product.huxiu.com
 domain:api-adservices.apple.com
+domain:api-gd.hiaiabc.com
 domain:api-htp.beizi.biz
 domain:api.ad.xiaomi.com
 domain:api.e.kuaishou.com
@@ -181,6 +183,8 @@ domain:audid-api.taobao.com
 domain:audid.umeng.com
 domain:azr.footprintdns.com
 domain:b1-data.ads.heytapmobi.com
+domain:baichuan-sdk.alicdn.com
+domain:baichuan-sdk.taobao.com
 domain:bdad.123pan.cn
 domain:bdapi-ads.realmemobile.com
 domain:bdapi-in-ads.realmemobile.com
@@ -224,6 +228,8 @@ domain:ck.ads.oppomobile.com
 domain:click.googleanalytics.com
 domain:click.oneplus.cn
 domain:clog.miguvideo.com
+domain:cnlogs.umeng.com
+domain:cnlogs.umengcloud.com
 domain:cnzz.com
 domain:collect.kugou.com
 domain:commdata.v.qq.com
@@ -267,6 +273,7 @@ domain:events.reddit.com
 domain:events.redditmedia.com
 domain:firebaselogging-pa.googleapis.com
 domain:flurry.com
+domain:g-adnet.hiaiabc.com
 domain:g-staic.ganjingworld.com
 domain:g2.ganjing.world
 domain:game.loveota.com
@@ -306,6 +313,7 @@ domain:hw-ot-ad.a.yximgs.com
 domain:hw.zuimeitianqi.com
 domain:hwpub-s01-drcn.cloud.dbankcloud.cn
 domain:hya.comp.360os.com
+domain:hybrid.miniapp.taobao.com
 domain:hye.comp.360os.com
 domain:hyt.comp.360os.com
 domain:i.snssdk.com
@@ -387,6 +395,7 @@ domain:logservice.hicloud.com
 domain:logservice1.hicloud.com
 domain:logtj.kugou.com
 domain:logupdate.avlyun.sec.miui.com
+domain:m-adnet.hiaiabc.com
 domain:m.ad.zhangyue.com
 domain:m.atm.youku.com
 domain:m.kubiqq.com
@@ -480,6 +489,7 @@ domain:res.hubcloud.com.cn
 domain:res1.hubcloud.com.cn
 domain:res2.hubcloud.com.cn
 domain:res3.hubcloud.com.cn
+domain:resolve.umeng.com
 domain:review.gdtimg.com
 domain:rms-drcn.platform.dbankcloud.cn
 domain:roi.soulapp.cn
