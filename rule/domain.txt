@@ -133,6 +133,7 @@ ali-ad.a.yximgs.com
 alog.umeng.com
 als.baidu.com
 amdcopen.m.taobao.com
+amdcopen.m.umeng.com
 an.facebook.com
 analysis.yozocloud.cn
 analytics-api.samsunghealthcn.com
