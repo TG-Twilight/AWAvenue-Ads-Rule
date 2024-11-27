@@ -447,3 +447,16 @@ Tips：之后的每次更新（指发 release）均会提供当前日期下最�
 <br />
 
 ---
+
+## 1.5.5-release：11月27日，2024年
+新增了更多来自 ali、vivo、twitch、amazon、umeng analytics之广告与追踪拦截，感谢提交规则的用户。
+<br />
+新增一些恶意的pcdn拦截，感谢 @wartaiwan24。
+<br />
+修复对于“xiecheng”移动版的错误拦截，以及一些其他的改进与修复。
+<br />
+支持AdClose用户导入规则。
+<br />
+<br />
+
+---
