@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 700
+#Total lines: 711
 #Version: 1.5.5-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -31,6 +31,7 @@ domain, ad.51wnl.com
 domain, ad.bwton.com
 domain, ad.cctv.com
 domain, ad.cyapi.cn
+domain, ad.doubleclick.net
 domain, ad.partner.gifshow.com
 domain, ad.qingting.fm
 domain, ad.qq.com
@@ -46,6 +47,8 @@ domain, ad.zijieapi.com
 domain, adapi.izuiyou.com
 domain, adapi.yynetwk.com
 domain, adashbc.ut.taobao.com
+domain, adc.hpplay.cn
+domain, adcdn.hpplay.cn
 domain, adcdn.tencentmusic.com
 domain, adclick.g.doubleclick.net
 domain, adclick.tencentmusic.com
@@ -92,16 +95,22 @@ domain, ads5-normal-hl.zijieapi.com
 domain, ads5-normal-lf.zijieapi.com
 domain, ads5-normal-lq.zijieapi.com
 domain, ads5-normal.zijieapi.com
+domain, adse.test.ximalaya.com
+domain, adse.wsa.ximalaya.com
+domain, adse.ximalaya.com
+domain, adsebs.ximalaya.com
 domain, adsense.google.cn
 domain, adserver.unityads.unity3d.com
 domain, adservice.google.cn
 domain, adservice.google.com
 domain, adserviceretry.kugou.com
 domain, adsfile.bssdlbig.kugou.com
+domain, adsfile.qq.com
 domain, adsfilebssdlbig.ali.kugou.com
 domain, adsfileretry.service.kugou.com
 domain, adsfs-sdkconfig.heytapimage.com
 domain, adsfs.oppomobile.com
+domain, adslvfile.qq.com
 domain, adsmart.konka.com
 domain, adsmind.gdtimg.com
 domain, adsmind.ugdtimg.com
@@ -301,6 +310,7 @@ domain, ggx01.miguvideo.com
 domain, ggx03.miguvideo.com
 domain, globalapi.ad.xiaomi.com
 domain, google-analytics.com
+domain, googleads.g.doubleclick.net
 domain, googleadservices-cn.com
 domain, googleadservices.com
 domain, googletagservices-cn.com
@@ -710,3 +720,4 @@ domain, ykad-gateway.youku.com
 domain, youku-acs.m.taobao.com
 domain, youxi.kugou.com
 domain, zeus.ad.xiaomi.com
+domain, zhihu-web-analytics.zhihu.com

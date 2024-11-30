@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 718
+#Total lines: 729
 #Version: 1.5.5-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -32,6 +32,7 @@ DOMAIN,ad.51wnl.com,reject
 DOMAIN,ad.bwton.com,reject
 DOMAIN,ad.cctv.com,reject
 DOMAIN,ad.cyapi.cn,reject
+DOMAIN,ad.doubleclick.net,reject
 DOMAIN,ad.partner.gifshow.com,reject
 DOMAIN,ad.qingting.fm,reject
 DOMAIN,ad.qq.com,reject
@@ -47,6 +48,8 @@ DOMAIN,ad.zijieapi.com,reject
 DOMAIN,adapi.izuiyou.com,reject
 DOMAIN,adapi.yynetwk.com,reject
 DOMAIN,adashbc.ut.taobao.com,reject
+DOMAIN,adc.hpplay.cn,reject
+DOMAIN,adcdn.hpplay.cn,reject
 DOMAIN,adcdn.tencentmusic.com,reject
 DOMAIN,adclick.g.doubleclick.net,reject
 DOMAIN,adclick.tencentmusic.com,reject
@@ -93,16 +96,22 @@ DOMAIN,ads5-normal-hl.zijieapi.com,reject
 DOMAIN,ads5-normal-lf.zijieapi.com,reject
 DOMAIN,ads5-normal-lq.zijieapi.com,reject
 DOMAIN,ads5-normal.zijieapi.com,reject
+DOMAIN,adse.test.ximalaya.com,reject
+DOMAIN,adse.wsa.ximalaya.com,reject
+DOMAIN,adse.ximalaya.com,reject
+DOMAIN,adsebs.ximalaya.com,reject
 DOMAIN,adsense.google.cn,reject
 DOMAIN,adserver.unityads.unity3d.com,reject
 DOMAIN,adservice.google.cn,reject
 DOMAIN,adservice.google.com,reject
 DOMAIN,adserviceretry.kugou.com,reject
 DOMAIN,adsfile.bssdlbig.kugou.com,reject
+DOMAIN,adsfile.qq.com,reject
 DOMAIN,adsfilebssdlbig.ali.kugou.com,reject
 DOMAIN,adsfileretry.service.kugou.com,reject
 DOMAIN,adsfs-sdkconfig.heytapimage.com,reject
 DOMAIN,adsfs.oppomobile.com,reject
+DOMAIN,adslvfile.qq.com,reject
 DOMAIN,adsmart.konka.com,reject
 DOMAIN,adsmind.gdtimg.com,reject
 DOMAIN,adsmind.ugdtimg.com,reject
@@ -302,6 +311,7 @@ DOMAIN,ggx01.miguvideo.com,reject
 DOMAIN,ggx03.miguvideo.com,reject
 DOMAIN,globalapi.ad.xiaomi.com,reject
 DOMAIN,google-analytics.com,reject
+DOMAIN,googleads.g.doubleclick.net,reject
 DOMAIN,googleadservices-cn.com,reject
 DOMAIN,googleadservices.com,reject
 DOMAIN,googletagservices-cn.com,reject
@@ -711,6 +721,7 @@ DOMAIN,ykad-gateway.youku.com,reject
 DOMAIN,youku-acs.m.taobao.com,reject
 DOMAIN,youxi.kugou.com,reject
 DOMAIN,zeus.ad.xiaomi.com,reject
+DOMAIN,zhihu-web-analytics.zhihu.com,reject
 DOMAIN-KEYWORD,.*\.*\.shouji\.sogou\.com,reject
 DOMAIN-KEYWORD,.*\.[a-zA-Z0-9.-]skwai\.com,reject
 DOMAIN-KEYWORD,.*\.a\.market\.xiaomi\.com,reject

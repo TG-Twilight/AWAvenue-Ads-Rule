@@ -1,6 +1,6 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 700
+!Total lines: 711
 !Version: 1.5.5-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -32,6 +32,7 @@
 127.0.0.1 ad.bwton.com
 127.0.0.1 ad.cctv.com
 127.0.0.1 ad.cyapi.cn
+127.0.0.1 ad.doubleclick.net
 127.0.0.1 ad.partner.gifshow.com
 127.0.0.1 ad.qingting.fm
 127.0.0.1 ad.qq.com
@@ -47,6 +48,8 @@
 127.0.0.1 adapi.izuiyou.com
 127.0.0.1 adapi.yynetwk.com
 127.0.0.1 adashbc.ut.taobao.com
+127.0.0.1 adc.hpplay.cn
+127.0.0.1 adcdn.hpplay.cn
 127.0.0.1 adcdn.tencentmusic.com
 127.0.0.1 adclick.g.doubleclick.net
 127.0.0.1 adclick.tencentmusic.com
@@ -93,16 +96,22 @@
 127.0.0.1 ads5-normal-lf.zijieapi.com
 127.0.0.1 ads5-normal-lq.zijieapi.com
 127.0.0.1 ads5-normal.zijieapi.com
+127.0.0.1 adse.test.ximalaya.com
+127.0.0.1 adse.wsa.ximalaya.com
+127.0.0.1 adse.ximalaya.com
+127.0.0.1 adsebs.ximalaya.com
 127.0.0.1 adsense.google.cn
 127.0.0.1 adserver.unityads.unity3d.com
 127.0.0.1 adservice.google.cn
 127.0.0.1 adservice.google.com
 127.0.0.1 adserviceretry.kugou.com
 127.0.0.1 adsfile.bssdlbig.kugou.com
+127.0.0.1 adsfile.qq.com
 127.0.0.1 adsfilebssdlbig.ali.kugou.com
 127.0.0.1 adsfileretry.service.kugou.com
 127.0.0.1 adsfs-sdkconfig.heytapimage.com
 127.0.0.1 adsfs.oppomobile.com
+127.0.0.1 adslvfile.qq.com
 127.0.0.1 adsmart.konka.com
 127.0.0.1 adsmind.gdtimg.com
 127.0.0.1 adsmind.ugdtimg.com
@@ -302,6 +311,7 @@
 127.0.0.1 ggx03.miguvideo.com
 127.0.0.1 globalapi.ad.xiaomi.com
 127.0.0.1 google-analytics.com
+127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 googleadservices-cn.com
 127.0.0.1 googleadservices.com
 127.0.0.1 googletagservices-cn.com
@@ -711,3 +721,4 @@
 127.0.0.1 youku-acs.m.taobao.com
 127.0.0.1 youxi.kugou.com
 127.0.0.1 zeus.ad.xiaomi.com
+127.0.0.1 zhihu-web-analytics.zhihu.com

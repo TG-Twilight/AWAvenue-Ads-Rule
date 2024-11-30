@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 719
+#Total lines: 730
 #Version: 1.5.5-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -33,6 +33,7 @@ payload:
   - DOMAIN,ad.bwton.com
   - DOMAIN,ad.cctv.com
   - DOMAIN,ad.cyapi.cn
+  - DOMAIN,ad.doubleclick.net
   - DOMAIN,ad.partner.gifshow.com
   - DOMAIN,ad.qingting.fm
   - DOMAIN,ad.qq.com
@@ -48,6 +49,8 @@ payload:
   - DOMAIN,adapi.izuiyou.com
   - DOMAIN,adapi.yynetwk.com
   - DOMAIN,adashbc.ut.taobao.com
+  - DOMAIN,adc.hpplay.cn
+  - DOMAIN,adcdn.hpplay.cn
   - DOMAIN,adcdn.tencentmusic.com
   - DOMAIN,adclick.g.doubleclick.net
   - DOMAIN,adclick.tencentmusic.com
@@ -94,16 +97,22 @@ payload:
   - DOMAIN,ads5-normal-lf.zijieapi.com
   - DOMAIN,ads5-normal-lq.zijieapi.com
   - DOMAIN,ads5-normal.zijieapi.com
+  - DOMAIN,adse.test.ximalaya.com
+  - DOMAIN,adse.wsa.ximalaya.com
+  - DOMAIN,adse.ximalaya.com
+  - DOMAIN,adsebs.ximalaya.com
   - DOMAIN,adsense.google.cn
   - DOMAIN,adserver.unityads.unity3d.com
   - DOMAIN,adservice.google.cn
   - DOMAIN,adservice.google.com
   - DOMAIN,adserviceretry.kugou.com
   - DOMAIN,adsfile.bssdlbig.kugou.com
+  - DOMAIN,adsfile.qq.com
   - DOMAIN,adsfilebssdlbig.ali.kugou.com
   - DOMAIN,adsfileretry.service.kugou.com
   - DOMAIN,adsfs-sdkconfig.heytapimage.com
   - DOMAIN,adsfs.oppomobile.com
+  - DOMAIN,adslvfile.qq.com
   - DOMAIN,adsmart.konka.com
   - DOMAIN,adsmind.gdtimg.com
   - DOMAIN,adsmind.ugdtimg.com
@@ -303,6 +312,7 @@ payload:
   - DOMAIN,ggx03.miguvideo.com
   - DOMAIN,globalapi.ad.xiaomi.com
   - DOMAIN,google-analytics.com
+  - DOMAIN,googleads.g.doubleclick.net
   - DOMAIN,googleadservices-cn.com
   - DOMAIN,googleadservices.com
   - DOMAIN,googletagservices-cn.com
@@ -712,6 +722,7 @@ payload:
   - DOMAIN,youku-acs.m.taobao.com
   - DOMAIN,youxi.kugou.com
   - DOMAIN,zeus.ad.xiaomi.com
+  - DOMAIN,zhihu-web-analytics.zhihu.com
   - DOMAIN-REGEX,^.*\.*\.shouji\.sogou\.com$
   - DOMAIN-REGEX,^.*\.[a-zA-Z0-9.-]skwai\.com$
   - DOMAIN-REGEX,^.*\.a\.market\.xiaomi\.com$

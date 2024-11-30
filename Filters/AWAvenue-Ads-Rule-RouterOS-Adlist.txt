@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 700
+#Total lines: 711
 #Version: 1.5.5-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -32,6 +32,7 @@
 0.0.0.0 ad.bwton.com
 0.0.0.0 ad.cctv.com
 0.0.0.0 ad.cyapi.cn
+0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.partner.gifshow.com
 0.0.0.0 ad.qingting.fm
 0.0.0.0 ad.qq.com
@@ -47,6 +48,8 @@
 0.0.0.0 adapi.izuiyou.com
 0.0.0.0 adapi.yynetwk.com
 0.0.0.0 adashbc.ut.taobao.com
+0.0.0.0 adc.hpplay.cn
+0.0.0.0 adcdn.hpplay.cn
 0.0.0.0 adcdn.tencentmusic.com
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 adclick.tencentmusic.com
@@ -93,16 +96,22 @@
 0.0.0.0 ads5-normal-lf.zijieapi.com
 0.0.0.0 ads5-normal-lq.zijieapi.com
 0.0.0.0 ads5-normal.zijieapi.com
+0.0.0.0 adse.test.ximalaya.com
+0.0.0.0 adse.wsa.ximalaya.com
+0.0.0.0 adse.ximalaya.com
+0.0.0.0 adsebs.ximalaya.com
 0.0.0.0 adsense.google.cn
 0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 adservice.google.cn
 0.0.0.0 adservice.google.com
 0.0.0.0 adserviceretry.kugou.com
 0.0.0.0 adsfile.bssdlbig.kugou.com
+0.0.0.0 adsfile.qq.com
 0.0.0.0 adsfilebssdlbig.ali.kugou.com
 0.0.0.0 adsfileretry.service.kugou.com
 0.0.0.0 adsfs-sdkconfig.heytapimage.com
 0.0.0.0 adsfs.oppomobile.com
+0.0.0.0 adslvfile.qq.com
 0.0.0.0 adsmart.konka.com
 0.0.0.0 adsmind.gdtimg.com
 0.0.0.0 adsmind.ugdtimg.com
@@ -302,6 +311,7 @@
 0.0.0.0 ggx03.miguvideo.com
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 google-analytics.com
+0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleadservices-cn.com
 0.0.0.0 googleadservices.com
 0.0.0.0 googletagservices-cn.com
@@ -711,3 +721,4 @@
 0.0.0.0 youku-acs.m.taobao.com
 0.0.0.0 youxi.kugou.com
 0.0.0.0 zeus.ad.xiaomi.com
+0.0.0.0 zhihu-web-analytics.zhihu.com
