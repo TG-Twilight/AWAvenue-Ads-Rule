@@ -19,6 +19,7 @@ ad.51wnl.com
 ad.bwton.com
 ad.cctv.com
 ad.cyapi.cn
+ad.doubleclick.net
 ad.partner.gifshow.com
 ad.qingting.fm
 ad.qq.com
@@ -34,6 +35,8 @@ ad.zijieapi.com
 adapi.izuiyou.com
 adapi.yynetwk.com
 adashbc.ut.taobao.com
+adc.hpplay.cn
+adcdn.hpplay.cn
 adcdn.tencentmusic.com
 adclick.g.doubleclick.net
 adclick.tencentmusic.com
@@ -81,6 +84,10 @@ ads5-normal-hl.zijieapi.com
 ads5-normal-lf.zijieapi.com
 ads5-normal-lq.zijieapi.com
 ads5-normal.zijieapi.com
+adse.test.ximalaya.com
+adse.wsa.ximalaya.com
+adse.ximalaya.com
+adsebs.ximalaya.com
 adsense.google.cn
 adserver.unityads.unity3d.com
 adservice.google.cn
@@ -88,10 +95,12 @@ adservice.google.com
 adserviceretry.kugou.com
 adsfile.bssdlbig.kugou.com
 adsfile.bssdlbig.kugou.com
+adsfile.qq.com
 adsfilebssdlbig.ali.kugou.com
 adsfileretry.service.kugou.com
 adsfs-sdkconfig.heytapimage.com
 adsfs.oppomobile.com
+adslvfile.qq.com
 adsmart.konka.com
 adsmind.gdtimg.com
 adsmind.ugdtimg.com
@@ -292,6 +301,7 @@ ggx01.miguvideo.com
 ggx03.miguvideo.com
 globalapi.ad.xiaomi.com
 google-analytics.com
+googleads.g.doubleclick.net
 googleadservices-cn.com
 googleadservices.com
 googletagservices-cn.com
@@ -471,6 +481,7 @@ p4-be-pack-sign.pglstatp-toutiao.com
 p5-be-pack-sign.pglstatp-toutiao.com
 p6-be-pack-sign.pglstatp-toutiao.com
 pagead2.googleadservices.com
+pagead2.googlesyndication.com
 pagead2.googlesyndication.com
 pagead2.googlesyndication.com
 pangolin-sdk-toutiao-b.com
@@ -707,3 +718,4 @@ ykad-gateway.youku.com
 youku-acs.m.taobao.com
 youxi.kugou.com
 zeus.ad.xiaomi.com
+zhihu-web-analytics.zhihu.com
