@@ -62,7 +62,7 @@
 
 AdGuard (iOS/Android)/Home/DNS 等大部分支持adblock语法的工具，不含AdGuard for Chrome；
 
-hosts格式，即AdAway、大圣净化等支持hosts的工具；
+AdAway、大圣净化等支持hosts格式的工具；
 
 Mosdns、广告屏蔽大师Plus+、DNS去广告等专为 OpenWrt 上一系列工具适配的规则；
 
