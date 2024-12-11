@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 747
+#Total lines: 746
 #Version: 1.5.6-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -750,7 +750,6 @@ payload:
   - '[a-zA-Z0-9.-]*-ad\.video\.yximgs\.com'
   - '[a-zA-Z0-9.-]*-ad\.wtzw\.com'
   - '[a-zA-Z0-9.-]*-be-pack-sign\.pglstatp-toutiao\.com'
-  - '[a-zA-Z0-9.-]*-lm\.adkwai\.com'
   - '[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com'
   - '[a-zA-Z0-9.-]*-normal\.zijieapi\.com'
   - 'cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com'
