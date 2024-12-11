@@ -449,13 +449,29 @@ Tips：之后的每次更新（指发 release）均会提供当前日期下最�
 ---
 
 ## 1.5.5-release：11月27日，2024年
-新增了更多来自 ali、vivo、twitch、amazon、umeng analytics之广告与追踪拦截，感谢提交规则的用户。
+新增了更多来自 ali、vivo、twitch、amazon、umeng analytics 之广告与追踪拦截，感谢提交规则的用户。
 <br />
 新增一些恶意的pcdn拦截，感谢 @wartaiwan24。
 <br />
 修复对于“xiecheng”移动版的错误拦截，以及一些其他的改进与修复。
 <br />
 支持AdClose用户导入规则。
+<br />
+<br />
+
+---
+
+## 1.5.6-release：12月11日，2024年
+新增了更多来自 ali、Txxxxxt、jd.com、kuaishou、umeng、zhihu 之广告与追踪拦截。
+<br />
+修复对于“kuaishou”的错误正则拦截，以及一些其他的改进与修复。
+<br />
+<br />
+*“不是，这么快的嘛？？？😶九天直接从2.0K Star冲到2.5K Star！”  --Twilight写于2024年12月6日*
+<br />
+*“好吧，再次感谢在花频道和哔哩哔哩up主玄离199的宣传！😘”  --Twilight补充于2024年12月8日*
+<br />
+*“3.0K Star！This is insane!😲😲”  --Twilight再一次补充于2024年12月11日*
 <br />
 <br />
 
