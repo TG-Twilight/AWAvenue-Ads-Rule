@@ -39,13 +39,13 @@
 
 ## 🍁工作原理 | Work Principle
 
-使用Adblock语法，从网络层面对抗(拦截)Android应用中的各种流氓广告SDK，阻止其加载，从而达到去广告的目的。<br />
+使用Adblock语法，从网络层面对抗(拦截)Android应用中的各种流氓广告SDK，阻止其正常加载，从而达到去广告的目的。<br />
 
 ---
 
 ## 🍁订阅规则 | Subscription Rules
 
-适用于AdGuard Home、AdGuard、AdGuard DNS 等支持Adblock语法广告过滤工具的规则
+适用于AdGuard Home、AdGuard、AdGuard DNS 等支持Adblock语法广告过滤工具的规则：
 
 - [Github订阅地址](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
 - [天命CFCDN反代订阅地址](https://github.boki.moe/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
@@ -54,15 +54,29 @@
 
 其他格式见[官方网站-订阅规则](https://awavenue.top/Sub.html)
 
-*¹截止2024年12月，我们官方支持的工具/格式有：
-AdGuard Home、AdAway、ClashMeta、QuantumultX、Surge、hosts格式、AdGuard DNS、Surfboard、Singbox、AdClose、AdGuard、大圣净化、广告屏蔽大师Plus+、DNS去广告。*
+---
+
+## 🍁支持的工具 | Supported Tools
+
+我们兼容现有的绝大多数广告拦截工具/代理工具，例如：
+
+AdGuard (iOS/Android)/Home/DNS 等大部分支持adblock语法的工具，不含AdGuard for Chrome；
+
+hosts格式，即AdAway、大圣净化等支持hosts的工具；
+
+Mosdns、广告屏蔽大师Plus+、DNS去广告等专为 OpenWrt 上一系列工具适配的规则；
+
+ClashMeta、QuantumultX(.list)、Surge、Surfboard、Singbox等主流代理工具等，
+
+同时，专门为 RouterOS 的路由器适配了广告规则。  *（含240.0.0.1/0.0.0.0格式）*
 
  *若您在订阅本广告规则后，发现应用内流氓广告sdk仍在正常展示广告/出现误杀，欢迎反馈！*
 
 ---
 
 ## 🍁如何使用 | How to use
-请查看我们的[官方教程](https://awavenue.top/Knowledge.html)
+
+请务必查阅我们的[官方教程](https://awavenue.top/Knowledge.html)，若您还有疑问，可以前往我们的官方群组（见下排）进行询问。
 
 个人项目，随缘维护更新，欢迎issues和Pr。   [😀加入秋風がく山道](https://t.me/AWAvenueAdsChat)。
 
