@@ -1,7 +1,7 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 732
-#Version: 1.5.5-release
+#Total lines: 733
+#Version: 1.5.6-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -725,6 +725,7 @@ domain, wxa.wxs.qq.com
 domain, wximg.wxs.qq.com
 domain, wxsmw.wxs.qq.com
 domain, wxsnsad.tc.qq.com
+domain, wxsnsdy.tc.qq.com
 domain, wxsnsdy.wxs.qq.com
 domain, wxsnsdythumb.wxs.qq.com
 domain, xc.gdt.qq.com

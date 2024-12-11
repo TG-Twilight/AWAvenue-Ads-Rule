@@ -713,6 +713,7 @@ domain:wxa.wxs.qq.com
 domain:wximg.wxs.qq.com
 domain:wxsmw.wxs.qq.com
 domain:wxsnsad.tc.qq.com
+domain:wxsnsdy.tc.qq.com
 domain:wxsnsdy.wxs.qq.com
 domain:wxsnsdythumb.wxs.qq.com
 domain:xc.gdt.qq.com
