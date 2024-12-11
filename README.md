@@ -115,7 +115,7 @@ AdGuard Home、AdAway、ClashMeta、QuantumultX、Surge、hosts格式、AdGuard 
 
 ---
 ![:访问数](https://moe-counter.glitch.me/get/@TG-Twiligh?theme=gelbooru)
-2024年6月 开始统计......
+2024年6月开始统计，统计偶尔会寄......
 ---
 
 > [@Github](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) · [@Telegram Channel](https://t.me/AWAvenueAdsRule) · [@Telegram Group](https://t.me/AWAvenueAdsChat) · [Official WebSite](https://awavenue.top/)
