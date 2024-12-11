@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 729
+#Total lines: 728
 #Version: 1.5.5-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -723,7 +723,6 @@ DOMAIN,youxi.kugou.com,reject
 DOMAIN,zeus.ad.xiaomi.com,reject
 DOMAIN,zhihu-web-analytics.zhihu.com,reject
 DOMAIN-KEYWORD,.*\.*\.shouji\.sogou\.com,reject
-DOMAIN-KEYWORD,.*\.[a-zA-Z0-9.-]skwai\.com,reject
 DOMAIN-KEYWORD,.*\.a\.market\.xiaomi\.com,reject
 DOMAIN-KEYWORD,.*\.data\.hicloud\.com,reject
 DOMAIN-KEYWORD,.*\.log\.aliyuncs\.com,reject

@@ -726,7 +726,6 @@
       ],
       "domain_regex": [
         ".*\\.*\\.shouji\\.sogou\\.com",
-        ".*\\.[a-zA-Z0-9.-]skwai\\.com",
         ".*\\.a\\.market\\.xiaomi\\.com",
         ".*\\.data\\.hicloud\\.com",
         ".*\\.log\\.aliyuncs\\.com",

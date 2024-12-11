@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 726
+#Total lines: 725
 #Version: 1.5.5-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -720,7 +720,6 @@ payload:
   - 'zeus.ad.xiaomi.com'
   - 'zhihu-web-analytics.zhihu.com'
   - '.*\.*\.shouji\.sogou\.com'
-  - '.*\.[a-zA-Z0-9.-]skwai\.com'
   - '.*\.a\.market\.xiaomi\.com'
   - '.*\.data\.hicloud\.com'
   - '.*\.log\.aliyuncs\.com'
