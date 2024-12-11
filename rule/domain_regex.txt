@@ -10,5 +10,4 @@
 .*\.a\.market\.xiaomi\.com
 .*\.data\.hicloud\.com
 .*\.log\.aliyuncs\.com
-.*\.[a-zA-Z0-9.-]skwai\.com
 cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com
