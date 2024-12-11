@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 711
+#Total lines: 732
 #Version: 1.5.5-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -54,6 +54,7 @@
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 adclick.tencentmusic.com
 0.0.0.0 adcolony.com
+0.0.0.0 addata.jd.com
 0.0.0.0 adexpo.tencentmusic.com
 0.0.0.0 adfilter.imtt.qq.com
 0.0.0.0 adfstat.yandex.ru
@@ -151,6 +152,7 @@
 0.0.0.0 aiseet.aa.atianqi.com
 0.0.0.0 ali-ad.a.yximgs.com
 0.0.0.0 alog.umeng.com
+0.0.0.0 alogus.umeng.com
 0.0.0.0 als.baidu.com
 0.0.0.0 amdcopen.m.taobao.com
 0.0.0.0 amdcopen.m.umeng.com
@@ -192,14 +194,17 @@
 0.0.0.0 api.jietuhb.com
 0.0.0.0 api.kingdata.ksyun.com
 0.0.0.0 api.statsig.com
+0.0.0.0 api.touch-moblie.com
 0.0.0.0 api5-normal-quic-lf.ixigua.com
 0.0.0.0 apiyd.my91app.com
 0.0.0.0 apks.webxiaobai.top
 0.0.0.0 app-measurement.com
+0.0.0.0 appcfg.v.qq.com
 0.0.0.0 appcloud2.in.zhihu.com
 0.0.0.0 applog.lc.quark.cn
 0.0.0.0 applog.uc.cn
 0.0.0.0 applog.zijieapi.com
+0.0.0.0 aspect-upush.umeng.com
 0.0.0.0 ata-sdk-uuid-report.dreport.meituan.net
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 audid-api.taobao.com
@@ -236,6 +241,7 @@
 0.0.0.0 canvas-cdn.gdt.qq.com
 0.0.0.0 catalog.fjwhcbsh.com
 0.0.0.0 cbjs.baidu.com
+0.0.0.0 ccc-x.jd.com
 0.0.0.0 ccs.umeng.com
 0.0.0.0 cctv.adsunion.com
 0.0.0.0 cdn-ad.wtzw.com
@@ -294,8 +300,12 @@
 0.0.0.0 events-drcn.op.dbankcloud.cn
 0.0.0.0 events.reddit.com
 0.0.0.0 events.redditmedia.com
+0.0.0.0 fclog.baidu.com
+0.0.0.0 feed-image.baidu.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 flurry.com
+0.0.0.0 frontend-perf-service.e.kuaishou.com
+0.0.0.0 fxgate.baidu.com
 0.0.0.0 g-adnet.hiaiabc.com
 0.0.0.0 g-staic.ganjingworld.com
 0.0.0.0 g2.ganjing.world
@@ -356,6 +366,7 @@
 0.0.0.0 images.outbrainimg.com
 0.0.0.0 images.pinduoduo.com
 0.0.0.0 img-c.heytapimage.com
+0.0.0.0 img-x.jd.com
 0.0.0.0 img.adnyg.com
 0.0.0.0 img.adnyg.com.w.kunlungr.com
 0.0.0.0 imtmp.net
@@ -372,8 +383,10 @@
 0.0.0.0 jpush.html5.qq.com
 0.0.0.0 jpush.io
 0.0.0.0 jswebcollects.kugou.com
+0.0.0.0 kde.qq.com
 0.0.0.0 kepler.jd.com
 0.0.0.0 kl.67it.com
+0.0.0.0 klink.volceapplog.com
 0.0.0.0 knicks.jd.com
 0.0.0.0 ks.pull.yximgs.com
 0.0.0.0 launcher.smart-tv.cn
@@ -393,8 +406,11 @@
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
 0.0.0.0 log-report.com
 0.0.0.0 log-sdk.gifshow.com
+0.0.0.0 log-sdk.ksapisrv.com
 0.0.0.0 log-upload-os.hoyoverse.com
 0.0.0.0 log-upload.mihoyo.com
+0.0.0.0 log-verify.dutils.com
+0.0.0.0 log-verify.hiaiabc.com
 0.0.0.0 log.ad.xiaomi.com
 0.0.0.0 log.aispeech.com
 0.0.0.0 log.amemv.com
@@ -419,6 +435,7 @@
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logtj.kugou.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
+0.0.0.0 luimg.baidu.com
 0.0.0.0 m-adnet.hiaiabc.com
 0.0.0.0 m.ad.zhangyue.com
 0.0.0.0 m.atm.youku.com
@@ -456,6 +473,7 @@
 0.0.0.0 mssdk.volces.com
 0.0.0.0 mssdk.zijieapi.com
 0.0.0.0 mtj.baidu.com
+0.0.0.0 nadvideo2.baidu.com
 0.0.0.0 newvoice.chiq5.smart-tv.cn
 0.0.0.0 nmetrics.samsung.com
 0.0.0.0 notes-analytics-events.apple.com
@@ -467,8 +485,8 @@
 0.0.0.0 open.e.kuaishou.cn
 0.0.0.0 open.e.kuaishou.com
 0.0.0.0 open.kuaishouzt.com
-0.0.0.0 open.kwaishouzt.com
 0.0.0.0 open.kwaizt.com
+0.0.0.0 open.snssdk.com
 0.0.0.0 optimus-ads.amap.com
 0.0.0.0 orbit.jd.com
 0.0.0.0 oth.eve.mdt.qq.com
@@ -644,6 +662,7 @@
 0.0.0.0 update.avlyun.sec.miui.com
 0.0.0.0 update.lejiao.tv
 0.0.0.0 upgrade-update.hismarttv.com
+0.0.0.0 uranus.jd.com
 0.0.0.0 us.l.qq.com
 0.0.0.0 v.adintl.cn
 0.0.0.0 v.adx.hubcloud.com.cn
@@ -690,6 +709,7 @@
 0.0.0.0 w1.zskwai.com
 0.0.0.0 watson.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 wcp.taobao.com
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 weather-community-drcn.weather.dbankcloud.cn
 0.0.0.0 webstat.qiumibao.com
@@ -697,6 +717,7 @@
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widgets.pinterest.com
 0.0.0.0 win.gdt.qq.com
+0.0.0.0 wl.jd.com
 0.0.0.0 wn.x.jd.com
 0.0.0.0 ws-keyboard.shouji.sogou.com
 0.0.0.0 ws.sj.qq.com

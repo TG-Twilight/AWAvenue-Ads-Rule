@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 711
+#Total lines: 732
 #Version: 1.5.5-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -53,6 +53,7 @@ domain, adcdn.tencentmusic.com
 domain, adclick.g.doubleclick.net
 domain, adclick.tencentmusic.com
 domain, adcolony.com
+domain, addata.jd.com
 domain, adexpo.tencentmusic.com
 domain, adfilter.imtt.qq.com
 domain, adfstat.yandex.ru
@@ -150,6 +151,7 @@ domain, afs.googlesyndication.com
 domain, aiseet.aa.atianqi.com
 domain, ali-ad.a.yximgs.com
 domain, alog.umeng.com
+domain, alogus.umeng.com
 domain, als.baidu.com
 domain, amdcopen.m.taobao.com
 domain, amdcopen.m.umeng.com
@@ -191,14 +193,17 @@ domain, api.installer.xiaomi.com
 domain, api.jietuhb.com
 domain, api.kingdata.ksyun.com
 domain, api.statsig.com
+domain, api.touch-moblie.com
 domain, api5-normal-quic-lf.ixigua.com
 domain, apiyd.my91app.com
 domain, apks.webxiaobai.top
 domain, app-measurement.com
+domain, appcfg.v.qq.com
 domain, appcloud2.in.zhihu.com
 domain, applog.lc.quark.cn
 domain, applog.uc.cn
 domain, applog.zijieapi.com
+domain, aspect-upush.umeng.com
 domain, ata-sdk-uuid-report.dreport.meituan.net
 domain, auction.unityads.unity3d.com
 domain, audid-api.taobao.com
@@ -235,6 +240,7 @@ domain, c2.gdt.qq.com
 domain, canvas-cdn.gdt.qq.com
 domain, catalog.fjwhcbsh.com
 domain, cbjs.baidu.com
+domain, ccc-x.jd.com
 domain, ccs.umeng.com
 domain, cctv.adsunion.com
 domain, cdn-ad.wtzw.com
@@ -293,8 +299,12 @@ domain, event.tradplusad.com
 domain, events-drcn.op.dbankcloud.cn
 domain, events.reddit.com
 domain, events.redditmedia.com
+domain, fclog.baidu.com
+domain, feed-image.baidu.com
 domain, firebaselogging-pa.googleapis.com
 domain, flurry.com
+domain, frontend-perf-service.e.kuaishou.com
+domain, fxgate.baidu.com
 domain, g-adnet.hiaiabc.com
 domain, g-staic.ganjingworld.com
 domain, g2.ganjing.world
@@ -355,6 +365,7 @@ domain, imageplus.baidu.com
 domain, images.outbrainimg.com
 domain, images.pinduoduo.com
 domain, img-c.heytapimage.com
+domain, img-x.jd.com
 domain, img.adnyg.com
 domain, img.adnyg.com.w.kunlungr.com
 domain, imtmp.net
@@ -371,8 +382,10 @@ domain, jpush.cn
 domain, jpush.html5.qq.com
 domain, jpush.io
 domain, jswebcollects.kugou.com
+domain, kde.qq.com
 domain, kepler.jd.com
 domain, kl.67it.com
+domain, klink.volceapplog.com
 domain, knicks.jd.com
 domain, ks.pull.yximgs.com
 domain, launcher.smart-tv.cn
@@ -392,8 +405,11 @@ domain, log-api.pangolin-sdk-toutiao-b.com
 domain, log-api.pangolin-sdk-toutiao.com
 domain, log-report.com
 domain, log-sdk.gifshow.com
+domain, log-sdk.ksapisrv.com
 domain, log-upload-os.hoyoverse.com
 domain, log-upload.mihoyo.com
+domain, log-verify.dutils.com
+domain, log-verify.hiaiabc.com
 domain, log.ad.xiaomi.com
 domain, log.aispeech.com
 domain, log.amemv.com
@@ -418,6 +434,7 @@ domain, logservice.hicloud.com
 domain, logservice1.hicloud.com
 domain, logtj.kugou.com
 domain, logupdate.avlyun.sec.miui.com
+domain, luimg.baidu.com
 domain, m-adnet.hiaiabc.com
 domain, m.ad.zhangyue.com
 domain, m.atm.youku.com
@@ -455,6 +472,7 @@ domain, monsetting.toutiao.com
 domain, mssdk.volces.com
 domain, mssdk.zijieapi.com
 domain, mtj.baidu.com
+domain, nadvideo2.baidu.com
 domain, newvoice.chiq5.smart-tv.cn
 domain, nmetrics.samsung.com
 domain, notes-analytics-events.apple.com
@@ -466,8 +484,8 @@ domain, omgmta.play.aiseet.atianqi.com
 domain, open.e.kuaishou.cn
 domain, open.e.kuaishou.com
 domain, open.kuaishouzt.com
-domain, open.kwaishouzt.com
 domain, open.kwaizt.com
+domain, open.snssdk.com
 domain, optimus-ads.amap.com
 domain, orbit.jd.com
 domain, oth.eve.mdt.qq.com
@@ -643,6 +661,7 @@ domain, union.baidu.com
 domain, update.avlyun.sec.miui.com
 domain, update.lejiao.tv
 domain, upgrade-update.hismarttv.com
+domain, uranus.jd.com
 domain, us.l.qq.com
 domain, v.adintl.cn
 domain, v.adx.hubcloud.com.cn
@@ -689,6 +708,7 @@ domain, w1.yskwai.com
 domain, w1.zskwai.com
 domain, watson.microsoft.com
 domain, watson.telemetry.microsoft.com
+domain, wcp.taobao.com
 domain, weather-analytics-events.apple.com
 domain, weather-community-drcn.weather.dbankcloud.cn
 domain, webstat.qiumibao.com
@@ -696,6 +716,7 @@ domain, webview.unityads.unity3d.com
 domain, widgets.outbrain.com
 domain, widgets.pinterest.com
 domain, win.gdt.qq.com
+domain, wl.jd.com
 domain, wn.x.jd.com
 domain, ws-keyboard.shouji.sogou.com
 domain, ws.sj.qq.com

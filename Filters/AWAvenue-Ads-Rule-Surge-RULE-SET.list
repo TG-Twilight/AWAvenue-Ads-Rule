@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 728
+#Total lines: 749
 #Version: 1.5.5-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -54,6 +54,7 @@ DOMAIN,adcdn.tencentmusic.com,reject
 DOMAIN,adclick.g.doubleclick.net,reject
 DOMAIN,adclick.tencentmusic.com,reject
 DOMAIN,adcolony.com,reject
+DOMAIN,addata.jd.com,reject
 DOMAIN,adexpo.tencentmusic.com,reject
 DOMAIN,adfilter.imtt.qq.com,reject
 DOMAIN,adfstat.yandex.ru,reject
@@ -151,6 +152,7 @@ DOMAIN,afs.googlesyndication.com,reject
 DOMAIN,aiseet.aa.atianqi.com,reject
 DOMAIN,ali-ad.a.yximgs.com,reject
 DOMAIN,alog.umeng.com,reject
+DOMAIN,alogus.umeng.com,reject
 DOMAIN,als.baidu.com,reject
 DOMAIN,amdcopen.m.taobao.com,reject
 DOMAIN,amdcopen.m.umeng.com,reject
@@ -192,14 +194,17 @@ DOMAIN,api.installer.xiaomi.com,reject
 DOMAIN,api.jietuhb.com,reject
 DOMAIN,api.kingdata.ksyun.com,reject
 DOMAIN,api.statsig.com,reject
+DOMAIN,api.touch-moblie.com,reject
 DOMAIN,api5-normal-quic-lf.ixigua.com,reject
 DOMAIN,apiyd.my91app.com,reject
 DOMAIN,apks.webxiaobai.top,reject
 DOMAIN,app-measurement.com,reject
+DOMAIN,appcfg.v.qq.com,reject
 DOMAIN,appcloud2.in.zhihu.com,reject
 DOMAIN,applog.lc.quark.cn,reject
 DOMAIN,applog.uc.cn,reject
 DOMAIN,applog.zijieapi.com,reject
+DOMAIN,aspect-upush.umeng.com,reject
 DOMAIN,ata-sdk-uuid-report.dreport.meituan.net,reject
 DOMAIN,auction.unityads.unity3d.com,reject
 DOMAIN,audid-api.taobao.com,reject
@@ -236,6 +241,7 @@ DOMAIN,c2.gdt.qq.com,reject
 DOMAIN,canvas-cdn.gdt.qq.com,reject
 DOMAIN,catalog.fjwhcbsh.com,reject
 DOMAIN,cbjs.baidu.com,reject
+DOMAIN,ccc-x.jd.com,reject
 DOMAIN,ccs.umeng.com,reject
 DOMAIN,cctv.adsunion.com,reject
 DOMAIN,cdn-ad.wtzw.com,reject
@@ -294,8 +300,12 @@ DOMAIN,event.tradplusad.com,reject
 DOMAIN,events-drcn.op.dbankcloud.cn,reject
 DOMAIN,events.reddit.com,reject
 DOMAIN,events.redditmedia.com,reject
+DOMAIN,fclog.baidu.com,reject
+DOMAIN,feed-image.baidu.com,reject
 DOMAIN,firebaselogging-pa.googleapis.com,reject
 DOMAIN,flurry.com,reject
+DOMAIN,frontend-perf-service.e.kuaishou.com,reject
+DOMAIN,fxgate.baidu.com,reject
 DOMAIN,g-adnet.hiaiabc.com,reject
 DOMAIN,g-staic.ganjingworld.com,reject
 DOMAIN,g2.ganjing.world,reject
@@ -356,6 +366,7 @@ DOMAIN,imageplus.baidu.com,reject
 DOMAIN,images.outbrainimg.com,reject
 DOMAIN,images.pinduoduo.com,reject
 DOMAIN,img-c.heytapimage.com,reject
+DOMAIN,img-x.jd.com,reject
 DOMAIN,img.adnyg.com,reject
 DOMAIN,img.adnyg.com.w.kunlungr.com,reject
 DOMAIN,imtmp.net,reject
@@ -372,8 +383,10 @@ DOMAIN,jpush.cn,reject
 DOMAIN,jpush.html5.qq.com,reject
 DOMAIN,jpush.io,reject
 DOMAIN,jswebcollects.kugou.com,reject
+DOMAIN,kde.qq.com,reject
 DOMAIN,kepler.jd.com,reject
 DOMAIN,kl.67it.com,reject
+DOMAIN,klink.volceapplog.com,reject
 DOMAIN,knicks.jd.com,reject
 DOMAIN,ks.pull.yximgs.com,reject
 DOMAIN,launcher.smart-tv.cn,reject
@@ -393,8 +406,11 @@ DOMAIN,log-api.pangolin-sdk-toutiao-b.com,reject
 DOMAIN,log-api.pangolin-sdk-toutiao.com,reject
 DOMAIN,log-report.com,reject
 DOMAIN,log-sdk.gifshow.com,reject
+DOMAIN,log-sdk.ksapisrv.com,reject
 DOMAIN,log-upload-os.hoyoverse.com,reject
 DOMAIN,log-upload.mihoyo.com,reject
+DOMAIN,log-verify.dutils.com,reject
+DOMAIN,log-verify.hiaiabc.com,reject
 DOMAIN,log.ad.xiaomi.com,reject
 DOMAIN,log.aispeech.com,reject
 DOMAIN,log.amemv.com,reject
@@ -419,6 +435,7 @@ DOMAIN,logservice.hicloud.com,reject
 DOMAIN,logservice1.hicloud.com,reject
 DOMAIN,logtj.kugou.com,reject
 DOMAIN,logupdate.avlyun.sec.miui.com,reject
+DOMAIN,luimg.baidu.com,reject
 DOMAIN,m-adnet.hiaiabc.com,reject
 DOMAIN,m.ad.zhangyue.com,reject
 DOMAIN,m.atm.youku.com,reject
@@ -456,6 +473,7 @@ DOMAIN,monsetting.toutiao.com,reject
 DOMAIN,mssdk.volces.com,reject
 DOMAIN,mssdk.zijieapi.com,reject
 DOMAIN,mtj.baidu.com,reject
+DOMAIN,nadvideo2.baidu.com,reject
 DOMAIN,newvoice.chiq5.smart-tv.cn,reject
 DOMAIN,nmetrics.samsung.com,reject
 DOMAIN,notes-analytics-events.apple.com,reject
@@ -467,8 +485,8 @@ DOMAIN,omgmta.play.aiseet.atianqi.com,reject
 DOMAIN,open.e.kuaishou.cn,reject
 DOMAIN,open.e.kuaishou.com,reject
 DOMAIN,open.kuaishouzt.com,reject
-DOMAIN,open.kwaishouzt.com,reject
 DOMAIN,open.kwaizt.com,reject
+DOMAIN,open.snssdk.com,reject
 DOMAIN,optimus-ads.amap.com,reject
 DOMAIN,orbit.jd.com,reject
 DOMAIN,oth.eve.mdt.qq.com,reject
@@ -644,6 +662,7 @@ DOMAIN,union.baidu.com,reject
 DOMAIN,update.avlyun.sec.miui.com,reject
 DOMAIN,update.lejiao.tv,reject
 DOMAIN,upgrade-update.hismarttv.com,reject
+DOMAIN,uranus.jd.com,reject
 DOMAIN,us.l.qq.com,reject
 DOMAIN,v.adintl.cn,reject
 DOMAIN,v.adx.hubcloud.com.cn,reject
@@ -690,6 +709,7 @@ DOMAIN,w1.yskwai.com,reject
 DOMAIN,w1.zskwai.com,reject
 DOMAIN,watson.microsoft.com,reject
 DOMAIN,watson.telemetry.microsoft.com,reject
+DOMAIN,wcp.taobao.com,reject
 DOMAIN,weather-analytics-events.apple.com,reject
 DOMAIN,weather-community-drcn.weather.dbankcloud.cn,reject
 DOMAIN,webstat.qiumibao.com,reject
@@ -697,6 +717,7 @@ DOMAIN,webview.unityads.unity3d.com,reject
 DOMAIN,widgets.outbrain.com,reject
 DOMAIN,widgets.pinterest.com,reject
 DOMAIN,win.gdt.qq.com,reject
+DOMAIN,wl.jd.com,reject
 DOMAIN,wn.x.jd.com,reject
 DOMAIN,ws-keyboard.shouji.sogou.com,reject
 DOMAIN,ws.sj.qq.com,reject
