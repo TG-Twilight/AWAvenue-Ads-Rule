@@ -66,7 +66,7 @@ AdAway、大圣净化等支持hosts格式的工具；
 
 Mosdns、广告屏蔽大师Plus+、DNS去广告等专为 OpenWrt 上一系列工具适配的规则；
 
-ClashMeta、QuantumultX(.list)、Surge、Surfboard、Singbox等主流代理工具等，
+ClashMeta、QuantumultX(.list)、ShadowRocket、Surge、Surfboard、Singbox等主流代理工具，
 
 同时，专门为 RouterOS 的路由器适配了广告规则。  *（含240.0.0.1/0.0.0.0格式）*
 
