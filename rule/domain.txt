@@ -723,6 +723,7 @@ wxa.wxs.qq.com
 wximg.wxs.qq.com
 wxsmw.wxs.qq.com
 wxsnsad.tc.qq.com
+wxsnsdy.tc.qq.com
 wxsnsdy.wxs.qq.com
 wxsnsdythumb.wxs.qq.com
 xc.gdt.qq.com
