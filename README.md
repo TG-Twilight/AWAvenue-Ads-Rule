@@ -1,7 +1,8 @@
 <div align="left">
 <a href="/README.md">中文</a>&nbsp;|&nbsp;
 <a href="/assets/README_en-US.md">English</a> &nbsp;|&nbsp;
-<a href="/assets/README_Update.md">更新日志</a> 
+<a href="/assets/README_Update.md">更新日志</a> &nbsp;|&nbsp;
+<a href="https://awavenue.top/">官方网站</a> 
 </div>
 
 
