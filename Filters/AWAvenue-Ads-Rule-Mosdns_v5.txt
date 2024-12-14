@@ -289,6 +289,7 @@ domain:events.reddit.com
 domain:events.redditmedia.com
 domain:fclog.baidu.com
 domain:feed-image.baidu.com
+domain:file.daihuo.qq.com
 domain:firebaselogging-pa.googleapis.com
 domain:flurry.com
 domain:frontend-perf-service.e.kuaishou.com

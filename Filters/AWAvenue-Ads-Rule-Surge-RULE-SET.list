@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 749
+#Total lines: 750
 #Version: 1.5.6-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -302,6 +302,7 @@ DOMAIN,events.reddit.com,reject
 DOMAIN,events.redditmedia.com,reject
 DOMAIN,fclog.baidu.com,reject
 DOMAIN,feed-image.baidu.com,reject
+DOMAIN,file.daihuo.qq.com,reject
 DOMAIN,firebaselogging-pa.googleapis.com,reject
 DOMAIN,flurry.com,reject
 DOMAIN,frontend-perf-service.e.kuaishou.com,reject

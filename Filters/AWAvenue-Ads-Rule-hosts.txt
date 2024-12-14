@@ -1,6 +1,6 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 733
+!Total lines: 734
 !Version: 1.5.6-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -302,6 +302,7 @@
 127.0.0.1 events.redditmedia.com
 127.0.0.1 fclog.baidu.com
 127.0.0.1 feed-image.baidu.com
+127.0.0.1 file.daihuo.qq.com
 127.0.0.1 firebaselogging-pa.googleapis.com
 127.0.0.1 flurry.com
 127.0.0.1 frontend-perf-service.e.kuaishou.com
