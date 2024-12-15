@@ -715,7 +715,6 @@ webview.unityads.unity3d.com
 widgets.outbrain.com
 widgets.pinterest.com
 win.gdt.qq.com
-wl.jd.com
 wn.x.jd.com
 ws-keyboard.shouji.sogou.com
 ws.sj.qq.com
