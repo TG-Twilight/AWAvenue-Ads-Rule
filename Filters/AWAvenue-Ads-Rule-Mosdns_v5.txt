@@ -705,7 +705,6 @@ domain:webview.unityads.unity3d.com
 domain:widgets.outbrain.com
 domain:widgets.pinterest.com
 domain:win.gdt.qq.com
-domain:wl.jd.com
 domain:wn.x.jd.com
 domain:ws-keyboard.shouji.sogou.com
 domain:ws.sj.qq.com

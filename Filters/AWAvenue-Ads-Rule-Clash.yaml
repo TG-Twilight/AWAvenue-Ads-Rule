@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 747
+#Total lines: 746
 #Version: 1.5.6-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -715,7 +715,6 @@ payload:
   - 'widgets.outbrain.com'
   - 'widgets.pinterest.com'
   - 'win.gdt.qq.com'
-  - 'wl.jd.com'
   - 'wn.x.jd.com'
   - 'ws-keyboard.shouji.sogou.com'
   - 'ws.sj.qq.com'
