@@ -341,7 +341,6 @@ hya.comp.360os.com
 hybrid.miniapp.taobao.com
 hye.comp.360os.com
 hyt.comp.360os.com
-i.snssdk.com
 iad.apple.com
 iadctest.qwapi.com
 iadsdk.apple.com
