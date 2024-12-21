@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 750
+#Total lines: 749
 #Version: 1.5.6-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -352,7 +352,6 @@ payload:
   - DOMAIN,hybrid.miniapp.taobao.com
   - DOMAIN,hye.comp.360os.com
   - DOMAIN,hyt.comp.360os.com
-  - DOMAIN,i.snssdk.com
   - DOMAIN,iad.apple.com
   - DOMAIN,iadctest.qwapi.com
   - DOMAIN,iadsdk.apple.com

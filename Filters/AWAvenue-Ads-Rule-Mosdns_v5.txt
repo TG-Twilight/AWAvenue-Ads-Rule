@@ -338,7 +338,6 @@ domain:hya.comp.360os.com
 domain:hybrid.miniapp.taobao.com
 domain:hye.comp.360os.com
 domain:hyt.comp.360os.com
-domain:i.snssdk.com
 domain:iad.apple.com
 domain:iadctest.qwapi.com
 domain:iadsdk.apple.com
