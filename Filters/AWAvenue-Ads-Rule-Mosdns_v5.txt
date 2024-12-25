@@ -92,6 +92,7 @@ domain:adsense.google.cn
 domain:adserver.unityads.unity3d.com
 domain:adservice.google.cn
 domain:adservice.google.com
+domain:adservice.sigmob.cn
 domain:adserviceretry.kugou.com
 domain:adsfile.bssdlbig.kugou.com
 domain:adsfile.qq.com
@@ -263,6 +264,7 @@ domain:data.chsmarttv.com
 domain:data.mistat.india.xiaomi.com
 domain:data.mistat.rus.xiaomi.com
 domain:data.mistat.xiaomi.com
+domain:dc.sigmob.cn
 domain:diagnosis.ad.xiaomi.com
 domain:dig.bdurl.net
 domain:dl.zuimeitianqi.com

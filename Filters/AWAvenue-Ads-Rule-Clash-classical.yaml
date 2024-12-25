@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 756
+#Total lines: 758
 #Version: 1.5.6-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -106,6 +106,7 @@ payload:
   - DOMAIN,adserver.unityads.unity3d.com
   - DOMAIN,adservice.google.cn
   - DOMAIN,adservice.google.com
+  - DOMAIN,adservice.sigmob.cn
   - DOMAIN,adserviceretry.kugou.com
   - DOMAIN,adsfile.bssdlbig.kugou.com
   - DOMAIN,adsfile.qq.com
@@ -277,6 +278,7 @@ payload:
   - DOMAIN,data.mistat.india.xiaomi.com
   - DOMAIN,data.mistat.rus.xiaomi.com
   - DOMAIN,data.mistat.xiaomi.com
+  - DOMAIN,dc.sigmob.cn
   - DOMAIN,diagnosis.ad.xiaomi.com
   - DOMAIN,dig.bdurl.net
   - DOMAIN,dl.zuimeitianqi.com
