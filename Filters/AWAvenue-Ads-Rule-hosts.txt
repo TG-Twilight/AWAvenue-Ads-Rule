@@ -1,6 +1,6 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 741
+!Total lines: 742
 !Version: 1.5.6-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -673,6 +673,7 @@
 127.0.0.1 upgrade-update.hismarttv.com
 127.0.0.1 uranus.jd.com
 127.0.0.1 us.l.qq.com
+127.0.0.1 usr-api.aiclk.com
 127.0.0.1 v.adintl.cn
 127.0.0.1 v.adx.hubcloud.com.cn
 127.0.0.1 v1-ad.video.yximgs.com

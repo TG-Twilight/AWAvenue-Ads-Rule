@@ -660,6 +660,7 @@ domain:update0.aiclk.com
 domain:upgrade-update.hismarttv.com
 domain:uranus.jd.com
 domain:us.l.qq.com
+domain:usr-api.aiclk.com
 domain:v.adintl.cn
 domain:v.adx.hubcloud.com.cn
 domain:v1-ad.video.yximgs.com
