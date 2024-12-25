@@ -93,6 +93,7 @@ adsense.google.cn
 adserver.unityads.unity3d.com
 adservice.google.cn
 adservice.google.com
+adservice.sigmob.cn
 adserviceretry.kugou.com
 adsfile.bssdlbig.kugou.com
 adsfile.bssdlbig.kugou.com
@@ -265,6 +266,7 @@ data.chsmarttv.com
 data.mistat.india.xiaomi.com
 data.mistat.rus.xiaomi.com
 data.mistat.xiaomi.com
+dc.sigmob.cn
 diagnosis.ad.xiaomi.com
 dig.bdurl.net
 dl.zuimeitianqi.com
