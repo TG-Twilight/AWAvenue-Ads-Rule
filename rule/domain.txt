@@ -237,6 +237,7 @@ cdn-ad.wtzw.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
 cdn-plugin-sync-upgrade-juui.hismarttv.com
 cdn.ad.xiaomi.com
+cdn.aiclk.com
 cdn.ynuf.aliapp.org
 cfg.imtt.qq.com
 chat1.jd.com
@@ -253,6 +254,7 @@ collect.kugou.com
 commdata.v.qq.com
 config.chsmarttv.com
 config.unityads.unity3d.com
+cpc-service-square.aiclk.com
 cpro.baidustatic.com
 crashlytics.com
 crashlyticsreports-pa.googleapis.com
@@ -422,6 +424,7 @@ log.web.kugou.com
 log.zijieapi.com
 log1.cmpassport.com
 logbak.hicloud.com
+logrcv.aiclk.com
 logs.amap.com
 logservice.hicloud.com
 logservice1.hicloud.com
@@ -481,6 +484,7 @@ open.kwaizt.com
 open.snssdk.com
 optimus-ads.amap.com
 orbit.jd.com
+oss.cdn.aiclk.com
 oth.eve.mdt.qq.com
 oth.str.mdt.qq.com
 otheve.play.aiseet.atianqi.com
@@ -527,6 +531,7 @@ res1.hubcloud.com.cn
 res2.hubcloud.com.cn
 res3.hubcloud.com.cn
 resolve.umeng.com
+rev.aiclk.com
 review.gdtimg.com
 rms-drcn.platform.dbankcloud.cn
 roi.soulapp.cn
@@ -630,6 +635,7 @@ tnc3-bjlgy.toutiaoapi.com
 tnc3-bjlgy.zijieapi.com
 toblog.ctobsnssdk.com
 trace.qq.com
+tracelog-debug.aiclk.com
 tracelog-debug.qquanquan.com
 track.lc.quark.cn
 track.uc.cn
@@ -658,6 +664,7 @@ union.baidu.cn
 union.baidu.com
 update.avlyun.sec.miui.com
 update.lejiao.tv
+update0.aiclk.com
 upgrade-update.hismarttv.com
 uranus.jd.com
 us.l.qq.com
