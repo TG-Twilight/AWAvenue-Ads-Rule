@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 732
+#Total lines: 739
 #Version: 1.5.6-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -248,6 +248,7 @@
 0.0.0.0 cdn-ads.oss-cn-shanghai.aliyuncs.com
 0.0.0.0 cdn-plugin-sync-upgrade-juui.hismarttv.com
 0.0.0.0 cdn.ad.xiaomi.com
+0.0.0.0 cdn.aiclk.com
 0.0.0.0 cdn.ynuf.aliapp.org
 0.0.0.0 cfg.imtt.qq.com
 0.0.0.0 chat1.jd.com
@@ -264,6 +265,7 @@
 0.0.0.0 commdata.v.qq.com
 0.0.0.0 config.chsmarttv.com
 0.0.0.0 config.unityads.unity3d.com
+0.0.0.0 cpc-service-square.aiclk.com
 0.0.0.0 cpro.baidustatic.com
 0.0.0.0 crashlytics.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
@@ -430,6 +432,7 @@
 0.0.0.0 log.zijieapi.com
 0.0.0.0 log1.cmpassport.com
 0.0.0.0 logbak.hicloud.com
+0.0.0.0 logrcv.aiclk.com
 0.0.0.0 logs.amap.com
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logservice1.hicloud.com
@@ -489,6 +492,7 @@
 0.0.0.0 open.snssdk.com
 0.0.0.0 optimus-ads.amap.com
 0.0.0.0 orbit.jd.com
+0.0.0.0 oss.cdn.aiclk.com
 0.0.0.0 oth.eve.mdt.qq.com
 0.0.0.0 oth.str.mdt.qq.com
 0.0.0.0 otheve.play.aiseet.atianqi.com
@@ -532,6 +536,7 @@
 0.0.0.0 res2.hubcloud.com.cn
 0.0.0.0 res3.hubcloud.com.cn
 0.0.0.0 resolve.umeng.com
+0.0.0.0 rev.aiclk.com
 0.0.0.0 review.gdtimg.com
 0.0.0.0 rms-drcn.platform.dbankcloud.cn
 0.0.0.0 roi.soulapp.cn
@@ -633,6 +638,7 @@
 0.0.0.0 tnc3-bjlgy.zijieapi.com
 0.0.0.0 toblog.ctobsnssdk.com
 0.0.0.0 trace.qq.com
+0.0.0.0 tracelog-debug.aiclk.com
 0.0.0.0 tracelog-debug.qquanquan.com
 0.0.0.0 track.lc.quark.cn
 0.0.0.0 track.uc.cn
@@ -661,6 +667,7 @@
 0.0.0.0 union.baidu.com
 0.0.0.0 update.avlyun.sec.miui.com
 0.0.0.0 update.lejiao.tv
+0.0.0.0 update0.aiclk.com
 0.0.0.0 upgrade-update.hismarttv.com
 0.0.0.0 uranus.jd.com
 0.0.0.0 us.l.qq.com

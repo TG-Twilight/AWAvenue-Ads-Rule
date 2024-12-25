@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 745
+#Total lines: 752
 #Version: 1.5.6-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -245,6 +245,7 @@ payload:
   - 'cdn-ads.oss-cn-shanghai.aliyuncs.com'
   - 'cdn-plugin-sync-upgrade-juui.hismarttv.com'
   - 'cdn.ad.xiaomi.com'
+  - 'cdn.aiclk.com'
   - 'cdn.ynuf.aliapp.org'
   - 'cfg.imtt.qq.com'
   - 'chat1.jd.com'
@@ -261,6 +262,7 @@ payload:
   - 'commdata.v.qq.com'
   - 'config.chsmarttv.com'
   - 'config.unityads.unity3d.com'
+  - 'cpc-service-square.aiclk.com'
   - 'cpro.baidustatic.com'
   - 'crashlytics.com'
   - 'crashlyticsreports-pa.googleapis.com'
@@ -427,6 +429,7 @@ payload:
   - 'log.zijieapi.com'
   - 'log1.cmpassport.com'
   - 'logbak.hicloud.com'
+  - 'logrcv.aiclk.com'
   - 'logs.amap.com'
   - 'logservice.hicloud.com'
   - 'logservice1.hicloud.com'
@@ -486,6 +489,7 @@ payload:
   - 'open.snssdk.com'
   - 'optimus-ads.amap.com'
   - 'orbit.jd.com'
+  - 'oss.cdn.aiclk.com'
   - 'oth.eve.mdt.qq.com'
   - 'oth.str.mdt.qq.com'
   - 'otheve.play.aiseet.atianqi.com'
@@ -529,6 +533,7 @@ payload:
   - 'res2.hubcloud.com.cn'
   - 'res3.hubcloud.com.cn'
   - 'resolve.umeng.com'
+  - 'rev.aiclk.com'
   - 'review.gdtimg.com'
   - 'rms-drcn.platform.dbankcloud.cn'
   - 'roi.soulapp.cn'
@@ -630,6 +635,7 @@ payload:
   - 'tnc3-bjlgy.zijieapi.com'
   - 'toblog.ctobsnssdk.com'
   - 'trace.qq.com'
+  - 'tracelog-debug.aiclk.com'
   - 'tracelog-debug.qquanquan.com'
   - 'track.lc.quark.cn'
   - 'track.uc.cn'
@@ -658,6 +664,7 @@ payload:
   - 'union.baidu.com'
   - 'update.avlyun.sec.miui.com'
   - 'update.lejiao.tv'
+  - 'update0.aiclk.com'
   - 'upgrade-update.hismarttv.com'
   - 'uranus.jd.com'
   - 'us.l.qq.com'

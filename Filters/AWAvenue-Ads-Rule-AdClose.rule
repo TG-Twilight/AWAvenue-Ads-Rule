@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 732
+#Total lines: 739
 #Version: 1.5.6-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -247,6 +247,7 @@ domain, cdn-ad.wtzw.com
 domain, cdn-ads.oss-cn-shanghai.aliyuncs.com
 domain, cdn-plugin-sync-upgrade-juui.hismarttv.com
 domain, cdn.ad.xiaomi.com
+domain, cdn.aiclk.com
 domain, cdn.ynuf.aliapp.org
 domain, cfg.imtt.qq.com
 domain, chat1.jd.com
@@ -263,6 +264,7 @@ domain, collect.kugou.com
 domain, commdata.v.qq.com
 domain, config.chsmarttv.com
 domain, config.unityads.unity3d.com
+domain, cpc-service-square.aiclk.com
 domain, cpro.baidustatic.com
 domain, crashlytics.com
 domain, crashlyticsreports-pa.googleapis.com
@@ -429,6 +431,7 @@ domain, log.web.kugou.com
 domain, log.zijieapi.com
 domain, log1.cmpassport.com
 domain, logbak.hicloud.com
+domain, logrcv.aiclk.com
 domain, logs.amap.com
 domain, logservice.hicloud.com
 domain, logservice1.hicloud.com
@@ -488,6 +491,7 @@ domain, open.kwaizt.com
 domain, open.snssdk.com
 domain, optimus-ads.amap.com
 domain, orbit.jd.com
+domain, oss.cdn.aiclk.com
 domain, oth.eve.mdt.qq.com
 domain, oth.str.mdt.qq.com
 domain, otheve.play.aiseet.atianqi.com
@@ -531,6 +535,7 @@ domain, res1.hubcloud.com.cn
 domain, res2.hubcloud.com.cn
 domain, res3.hubcloud.com.cn
 domain, resolve.umeng.com
+domain, rev.aiclk.com
 domain, review.gdtimg.com
 domain, rms-drcn.platform.dbankcloud.cn
 domain, roi.soulapp.cn
@@ -632,6 +637,7 @@ domain, tnc3-bjlgy.toutiaoapi.com
 domain, tnc3-bjlgy.zijieapi.com
 domain, toblog.ctobsnssdk.com
 domain, trace.qq.com
+domain, tracelog-debug.aiclk.com
 domain, tracelog-debug.qquanquan.com
 domain, track.lc.quark.cn
 domain, track.uc.cn
@@ -660,6 +666,7 @@ domain, union.baidu.cn
 domain, union.baidu.com
 domain, update.avlyun.sec.miui.com
 domain, update.lejiao.tv
+domain, update0.aiclk.com
 domain, upgrade-update.hismarttv.com
 domain, uranus.jd.com
 domain, us.l.qq.com

@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 748
+#Total lines: 755
 #Version: 1.5.6-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -248,6 +248,7 @@ DOMAIN,cdn-ad.wtzw.com,reject
 DOMAIN,cdn-ads.oss-cn-shanghai.aliyuncs.com,reject
 DOMAIN,cdn-plugin-sync-upgrade-juui.hismarttv.com,reject
 DOMAIN,cdn.ad.xiaomi.com,reject
+DOMAIN,cdn.aiclk.com,reject
 DOMAIN,cdn.ynuf.aliapp.org,reject
 DOMAIN,cfg.imtt.qq.com,reject
 DOMAIN,chat1.jd.com,reject
@@ -264,6 +265,7 @@ DOMAIN,collect.kugou.com,reject
 DOMAIN,commdata.v.qq.com,reject
 DOMAIN,config.chsmarttv.com,reject
 DOMAIN,config.unityads.unity3d.com,reject
+DOMAIN,cpc-service-square.aiclk.com,reject
 DOMAIN,cpro.baidustatic.com,reject
 DOMAIN,crashlytics.com,reject
 DOMAIN,crashlyticsreports-pa.googleapis.com,reject
@@ -430,6 +432,7 @@ DOMAIN,log.web.kugou.com,reject
 DOMAIN,log.zijieapi.com,reject
 DOMAIN,log1.cmpassport.com,reject
 DOMAIN,logbak.hicloud.com,reject
+DOMAIN,logrcv.aiclk.com,reject
 DOMAIN,logs.amap.com,reject
 DOMAIN,logservice.hicloud.com,reject
 DOMAIN,logservice1.hicloud.com,reject
@@ -489,6 +492,7 @@ DOMAIN,open.kwaizt.com,reject
 DOMAIN,open.snssdk.com,reject
 DOMAIN,optimus-ads.amap.com,reject
 DOMAIN,orbit.jd.com,reject
+DOMAIN,oss.cdn.aiclk.com,reject
 DOMAIN,oth.eve.mdt.qq.com,reject
 DOMAIN,oth.str.mdt.qq.com,reject
 DOMAIN,otheve.play.aiseet.atianqi.com,reject
@@ -532,6 +536,7 @@ DOMAIN,res1.hubcloud.com.cn,reject
 DOMAIN,res2.hubcloud.com.cn,reject
 DOMAIN,res3.hubcloud.com.cn,reject
 DOMAIN,resolve.umeng.com,reject
+DOMAIN,rev.aiclk.com,reject
 DOMAIN,review.gdtimg.com,reject
 DOMAIN,rms-drcn.platform.dbankcloud.cn,reject
 DOMAIN,roi.soulapp.cn,reject
@@ -633,6 +638,7 @@ DOMAIN,tnc3-bjlgy.toutiaoapi.com,reject
 DOMAIN,tnc3-bjlgy.zijieapi.com,reject
 DOMAIN,toblog.ctobsnssdk.com,reject
 DOMAIN,trace.qq.com,reject
+DOMAIN,tracelog-debug.aiclk.com,reject
 DOMAIN,tracelog-debug.qquanquan.com,reject
 DOMAIN,track.lc.quark.cn,reject
 DOMAIN,track.uc.cn,reject
@@ -661,6 +667,7 @@ DOMAIN,union.baidu.cn,reject
 DOMAIN,union.baidu.com,reject
 DOMAIN,update.avlyun.sec.miui.com,reject
 DOMAIN,update.lejiao.tv,reject
+DOMAIN,update0.aiclk.com,reject
 DOMAIN,upgrade-update.hismarttv.com,reject
 DOMAIN,uranus.jd.com,reject
 DOMAIN,us.l.qq.com,reject

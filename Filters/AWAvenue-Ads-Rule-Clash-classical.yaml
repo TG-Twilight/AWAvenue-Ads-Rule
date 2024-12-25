@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 749
+#Total lines: 756
 #Version: 1.5.6-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -249,6 +249,7 @@ payload:
   - DOMAIN,cdn-ads.oss-cn-shanghai.aliyuncs.com
   - DOMAIN,cdn-plugin-sync-upgrade-juui.hismarttv.com
   - DOMAIN,cdn.ad.xiaomi.com
+  - DOMAIN,cdn.aiclk.com
   - DOMAIN,cdn.ynuf.aliapp.org
   - DOMAIN,cfg.imtt.qq.com
   - DOMAIN,chat1.jd.com
@@ -265,6 +266,7 @@ payload:
   - DOMAIN,commdata.v.qq.com
   - DOMAIN,config.chsmarttv.com
   - DOMAIN,config.unityads.unity3d.com
+  - DOMAIN,cpc-service-square.aiclk.com
   - DOMAIN,cpro.baidustatic.com
   - DOMAIN,crashlytics.com
   - DOMAIN,crashlyticsreports-pa.googleapis.com
@@ -431,6 +433,7 @@ payload:
   - DOMAIN,log.zijieapi.com
   - DOMAIN,log1.cmpassport.com
   - DOMAIN,logbak.hicloud.com
+  - DOMAIN,logrcv.aiclk.com
   - DOMAIN,logs.amap.com
   - DOMAIN,logservice.hicloud.com
   - DOMAIN,logservice1.hicloud.com
@@ -490,6 +493,7 @@ payload:
   - DOMAIN,open.snssdk.com
   - DOMAIN,optimus-ads.amap.com
   - DOMAIN,orbit.jd.com
+  - DOMAIN,oss.cdn.aiclk.com
   - DOMAIN,oth.eve.mdt.qq.com
   - DOMAIN,oth.str.mdt.qq.com
   - DOMAIN,otheve.play.aiseet.atianqi.com
@@ -533,6 +537,7 @@ payload:
   - DOMAIN,res2.hubcloud.com.cn
   - DOMAIN,res3.hubcloud.com.cn
   - DOMAIN,resolve.umeng.com
+  - DOMAIN,rev.aiclk.com
   - DOMAIN,review.gdtimg.com
   - DOMAIN,rms-drcn.platform.dbankcloud.cn
   - DOMAIN,roi.soulapp.cn
@@ -634,6 +639,7 @@ payload:
   - DOMAIN,tnc3-bjlgy.zijieapi.com
   - DOMAIN,toblog.ctobsnssdk.com
   - DOMAIN,trace.qq.com
+  - DOMAIN,tracelog-debug.aiclk.com
   - DOMAIN,tracelog-debug.qquanquan.com
   - DOMAIN,track.lc.quark.cn
   - DOMAIN,track.uc.cn
@@ -662,6 +668,7 @@ payload:
   - DOMAIN,union.baidu.com
   - DOMAIN,update.avlyun.sec.miui.com
   - DOMAIN,update.lejiao.tv
+  - DOMAIN,update0.aiclk.com
   - DOMAIN,upgrade-update.hismarttv.com
   - DOMAIN,uranus.jd.com
   - DOMAIN,us.l.qq.com
