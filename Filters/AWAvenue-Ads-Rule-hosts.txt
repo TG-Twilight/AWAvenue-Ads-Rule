@@ -1,6 +1,6 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 741
+!Total lines: 740
 !Version: 1.5.6-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -552,7 +552,6 @@
 127.0.0.1 samsung-com.112.2o7.net
 127.0.0.1 samsungads.com
 127.0.0.1 sanme2.taisantech.com
-127.0.0.1 saveu5-normal-lq.zijieapi.com
 127.0.0.1 scdown.qq.com
 127.0.0.1 scs.openspeech.cn
 127.0.0.1 sdk-ab-config.qquanquan.com

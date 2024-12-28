@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 741
+#Total lines: 740
 #Version: 1.5.6-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -551,7 +551,6 @@ domain, saad.ms.zhangyue.net
 domain, samsung-com.112.2o7.net
 domain, samsungads.com
 domain, sanme2.taisantech.com
-domain, saveu5-normal-lq.zijieapi.com
 domain, scdown.qq.com
 domain, scs.openspeech.cn
 domain, sdk-ab-config.qquanquan.com

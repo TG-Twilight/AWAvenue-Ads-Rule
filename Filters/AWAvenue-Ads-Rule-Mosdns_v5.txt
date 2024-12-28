@@ -539,7 +539,6 @@ domain:saad.ms.zhangyue.net
 domain:samsung-com.112.2o7.net
 domain:samsungads.com
 domain:sanme2.taisantech.com
-domain:saveu5-normal-lq.zijieapi.com
 domain:scdown.qq.com
 domain:scs.openspeech.cn
 domain:sdk-ab-config.qquanquan.com
