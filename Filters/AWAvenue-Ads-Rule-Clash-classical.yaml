@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 757
+#Total lines: 756
 #Version: 1.5.6-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -13,8 +13,6 @@ payload:
   - IP-CIDR,182.254.116.116/32,no-resolve
   - IP-CIDR,203.205.137.89/32,no-resolve
   - DOMAIN,1010pic.com
-  - DOMAIN,16dd-advertise-1252317822.file.myqcloud.com
-  - DOMAIN,16dd-advertise-1252317822.image.myqcloud.com
   - DOMAIN,8le8le.com
   - DOMAIN,a0.app.xiaomi.com
   - DOMAIN,aaid.umeng.com
@@ -393,6 +391,7 @@ payload:
   - DOMAIN,kl.67it.com
   - DOMAIN,klink.volceapplog.com
   - DOMAIN,knicks.jd.com
+  - DOMAIN,ks.ferlytc.com
   - DOMAIN,ks.pull.yximgs.com
   - DOMAIN,launcher.smart-tv.cn
   - DOMAIN,launcherimg.smart-tv.cn

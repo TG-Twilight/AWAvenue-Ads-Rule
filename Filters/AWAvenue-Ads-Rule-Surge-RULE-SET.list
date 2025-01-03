@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 756
+#Total lines: 755
 #Version: 1.5.6-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -12,8 +12,6 @@ IP-CIDR,123.56.23.22/32,reject
 IP-CIDR,182.254.116.116/32,reject
 IP-CIDR,203.205.137.89/32,reject
 DOMAIN,1010pic.com,reject
-DOMAIN,16dd-advertise-1252317822.file.myqcloud.com,reject
-DOMAIN,16dd-advertise-1252317822.image.myqcloud.com,reject
 DOMAIN,8le8le.com,reject
 DOMAIN,a0.app.xiaomi.com,reject
 DOMAIN,aaid.umeng.com,reject
@@ -392,6 +390,7 @@ DOMAIN,kepler.jd.com,reject
 DOMAIN,kl.67it.com,reject
 DOMAIN,klink.volceapplog.com,reject
 DOMAIN,knicks.jd.com,reject
+DOMAIN,ks.ferlytc.com,reject
 DOMAIN,ks.pull.yximgs.com,reject
 DOMAIN,launcher.smart-tv.cn,reject
 DOMAIN,launcherimg.smart-tv.cn,reject

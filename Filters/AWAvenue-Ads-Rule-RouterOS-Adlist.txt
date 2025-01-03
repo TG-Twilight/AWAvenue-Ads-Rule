@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 740
+#Total lines: 739
 #Version: 1.5.6-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -12,8 +12,6 @@
 
 
 0.0.0.0 1010pic.com
-0.0.0.0 16dd-advertise-1252317822.file.myqcloud.com
-0.0.0.0 16dd-advertise-1252317822.image.myqcloud.com
 0.0.0.0 8le8le.com
 0.0.0.0 a0.app.xiaomi.com
 0.0.0.0 aaid.umeng.com
@@ -392,6 +390,7 @@
 0.0.0.0 kl.67it.com
 0.0.0.0 klink.volceapplog.com
 0.0.0.0 knicks.jd.com
+0.0.0.0 ks.ferlytc.com
 0.0.0.0 ks.pull.yximgs.com
 0.0.0.0 launcher.smart-tv.cn
 0.0.0.0 launcherimg.smart-tv.cn

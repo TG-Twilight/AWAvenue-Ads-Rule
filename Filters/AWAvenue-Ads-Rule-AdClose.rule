@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 740
+#Total lines: 739
 #Version: 1.5.6-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -11,8 +11,6 @@
 
 
 domain, 1010pic.com
-domain, 16dd-advertise-1252317822.file.myqcloud.com
-domain, 16dd-advertise-1252317822.image.myqcloud.com
 domain, 8le8le.com
 domain, a0.app.xiaomi.com
 domain, aaid.umeng.com
@@ -391,6 +389,7 @@ domain, kepler.jd.com
 domain, kl.67it.com
 domain, klink.volceapplog.com
 domain, knicks.jd.com
+domain, ks.ferlytc.com
 domain, ks.pull.yximgs.com
 domain, launcher.smart-tv.cn
 domain, launcherimg.smart-tv.cn
