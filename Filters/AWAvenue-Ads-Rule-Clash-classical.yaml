@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 756
+#Total lines: 757
 #Version: 1.5.6-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -731,6 +731,7 @@ payload:
   - DOMAIN,ws.sj.qq.com
   - DOMAIN,www42.zskwai.com
   - DOMAIN,wxa.wxs.qq.com
+  - DOMAIN,wxaintpcos.wxqcloud.qq.com.cn
   - DOMAIN,wximg.wxs.qq.com
   - DOMAIN,wxsmw.wxs.qq.com
   - DOMAIN,wxsnsad.tc.qq.com

@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 739
+#Total lines: 740
 #Version: 1.5.6-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -729,6 +729,7 @@ domain, ws-keyboard.shouji.sogou.com
 domain, ws.sj.qq.com
 domain, www42.zskwai.com
 domain, wxa.wxs.qq.com
+domain, wxaintpcos.wxqcloud.qq.com.cn
 domain, wximg.wxs.qq.com
 domain, wxsmw.wxs.qq.com
 domain, wxsnsad.tc.qq.com
