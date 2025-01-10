@@ -448,6 +448,7 @@ domain:mime.baidu.com
 domain:mine.baidu.com
 domain:mission-pub.smart-tv.cn
 domain:miui-fxcse.avlyun.com
+domain:mmgame.qpic.cn
 domain:mnqlog.ldmnq.com
 domain:mobads-logs.baidu.com
 domain:mobads-pre-config.cdn.bcebos.com

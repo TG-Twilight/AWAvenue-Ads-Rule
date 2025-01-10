@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 756
+#Total lines: 757
 #Version: 1.5.6-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -461,6 +461,7 @@ DOMAIN,mime.baidu.com,reject
 DOMAIN,mine.baidu.com,reject
 DOMAIN,mission-pub.smart-tv.cn,reject
 DOMAIN,miui-fxcse.avlyun.com,reject
+DOMAIN,mmgame.qpic.cn,reject
 DOMAIN,mnqlog.ldmnq.com,reject
 DOMAIN,mobads-logs.baidu.com,reject
 DOMAIN,mobads-pre-config.cdn.bcebos.com,reject
