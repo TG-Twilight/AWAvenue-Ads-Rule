@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 757
+#Total lines: 756
 #Version: 1.5.6-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -159,7 +159,6 @@ DOMAIN,an.facebook.com,reject
 DOMAIN,analysis.yozocloud.cn,reject
 DOMAIN,analytics-api.samsunghealthcn.com,reject
 DOMAIN,analytics.126.net,reject
-DOMAIN,analytics.95516.com,reject
 DOMAIN,analytics.google.com,reject
 DOMAIN,analytics.pinterest.com,reject
 DOMAIN,analytics.pointdrive.linkedin.com,reject

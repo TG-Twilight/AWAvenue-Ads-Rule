@@ -146,7 +146,6 @@ domain:an.facebook.com
 domain:analysis.yozocloud.cn
 domain:analytics-api.samsunghealthcn.com
 domain:analytics.126.net
-domain:analytics.95516.com
 domain:analytics.google.com
 domain:analytics.pinterest.com
 domain:analytics.pointdrive.linkedin.com

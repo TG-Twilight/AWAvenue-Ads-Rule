@@ -1,6 +1,6 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 741
+!Total lines: 740
 !Version: 1.5.6-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -159,7 +159,6 @@
 127.0.0.1 analysis.yozocloud.cn
 127.0.0.1 analytics-api.samsunghealthcn.com
 127.0.0.1 analytics.126.net
-127.0.0.1 analytics.95516.com
 127.0.0.1 analytics.google.com
 127.0.0.1 analytics.pinterest.com
 127.0.0.1 analytics.pointdrive.linkedin.com
