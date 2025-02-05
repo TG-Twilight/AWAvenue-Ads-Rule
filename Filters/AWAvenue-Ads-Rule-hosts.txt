@@ -1,6 +1,6 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 740
+!Total lines: 739
 !Version: 1.5.6-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -346,7 +346,6 @@
 127.0.0.1 hugelog.fcbox.com
 127.0.0.1 huichuan.sm.cn
 127.0.0.1 hw-ot-ad.a.yximgs.com
-127.0.0.1 hw.zuimeitianqi.com
 127.0.0.1 hwpub-s01-drcn.cloud.dbankcloud.cn
 127.0.0.1 hya.comp.360os.com
 127.0.0.1 hybrid.miniapp.taobao.com

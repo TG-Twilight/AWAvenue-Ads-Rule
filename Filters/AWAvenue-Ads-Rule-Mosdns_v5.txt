@@ -333,7 +333,6 @@ domain:httpdns.ocloud.oppomobile.com
 domain:hugelog.fcbox.com
 domain:huichuan.sm.cn
 domain:hw-ot-ad.a.yximgs.com
-domain:hw.zuimeitianqi.com
 domain:hwpub-s01-drcn.cloud.dbankcloud.cn
 domain:hya.comp.360os.com
 domain:hybrid.miniapp.taobao.com
