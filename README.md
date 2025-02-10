@@ -104,8 +104,6 @@ ClashMeta、QuantumultX(.list)、ShadowRocket、Surge、Surfboard、Singbox等�
 
 ## 🍁赞助商 | Special sponsors
 
-[Stay浏览器 - 无核轻量,专注于提升本身浏览体验的浏览器](https://play.google.com/store/apps/details?id=com.dajiu.stay)
-
 [倾城极速 - 畅游世界，高速互联](https://panel.qqcjs.top/#/register?code=prbbRzx9)
 
 ---
