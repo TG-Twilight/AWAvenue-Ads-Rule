@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 752
+#Total lines: 760
 #Version: 1.5.6-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -70,6 +70,7 @@ payload:
   - 'ads-video-al.xhscdn.com'
   - 'ads-video-qc.xhscdn.com'
   - 'ads.95516.com'
+  - 'ads.flurry.com'
   - 'ads.google.cn'
   - 'ads.heytapmobi.com'
   - 'ads.huan.tv'
@@ -79,6 +80,7 @@ payload:
   - 'ads.music.126.net'
   - 'ads.oppomobile.com'
   - 'ads.pinterest.com'
+  - 'ads.pubmatic.com'
   - 'ads.servebom.com'
   - 'ads.service.kugou.com'
   - 'ads.tiktok.com'
@@ -116,6 +118,8 @@ payload:
   - 'adstats.tencentmusic.com'
   - 'adstore-1252524079.file.myqcloud.com'
   - 'adstore-index-1252524079.file.myqcloud.com'
+  - 'adstudio-assets.scdn.co'
+  - 'adstudio.spotify.com'
   - 'adtago.s3.amazonaws.com'
   - 'adtech.yahooinc.com'
   - 'adtrack.quark.cn'
@@ -333,6 +337,8 @@ payload:
   - 'h-adashx.ut.taobao.com'
   - 'h.trace.qq.com'
   - 'hanlanad.com'
+  - 'heads-ak.spotify.com.edgesuite.net'
+  - 'heads-fa.spotify.com'
   - 'hexagon-analytics.com'
   - 'hm.baidu.com'
   - 'hmma.baidu.com'
@@ -458,6 +464,7 @@ payload:
   - 'miui-fxcse.avlyun.com'
   - 'mmgame.qpic.cn'
   - 'mnqlog.ldmnq.com'
+  - 'moatads.com'
   - 'mobads-logs.baidu.com'
   - 'mobads-pre-config.cdn.bcebos.com'
   - 'mobads.baidu.com'
@@ -720,6 +727,7 @@ payload:
   - 'webview.unityads.unity3d.com'
   - 'widgets.outbrain.com'
   - 'widgets.pinterest.com'
+  - 'wildcard.moatads.com.edgekey.net'
   - 'win.gdt.qq.com'
   - 'wn.x.jd.com'
   - 'ws-keyboard.shouji.sogou.com'

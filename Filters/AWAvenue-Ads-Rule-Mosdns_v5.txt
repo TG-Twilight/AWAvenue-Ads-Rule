@@ -60,6 +60,7 @@ domain:ads-us.tiktok.com
 domain:ads-video-al.xhscdn.com
 domain:ads-video-qc.xhscdn.com
 domain:ads.95516.com
+domain:ads.flurry.com
 domain:ads.google.cn
 domain:ads.heytapmobi.com
 domain:ads.huan.tv
@@ -69,6 +70,7 @@ domain:ads.linkedin.com
 domain:ads.music.126.net
 domain:ads.oppomobile.com
 domain:ads.pinterest.com
+domain:ads.pubmatic.com
 domain:ads.servebom.com
 domain:ads.service.kugou.com
 domain:ads.tiktok.com
@@ -106,6 +108,8 @@ domain:adsp.xunlei.com
 domain:adstats.tencentmusic.com
 domain:adstore-1252524079.file.myqcloud.com
 domain:adstore-index-1252524079.file.myqcloud.com
+domain:adstudio-assets.scdn.co
+domain:adstudio.spotify.com
 domain:adtago.s3.amazonaws.com
 domain:adtech.yahooinc.com
 domain:adtrack.quark.cn
@@ -323,6 +327,8 @@ domain:grs.platform.dbankcloud.ru
 domain:h-adashx.ut.taobao.com
 domain:h.trace.qq.com
 domain:hanlanad.com
+domain:heads-ak.spotify.com.edgesuite.net
+domain:heads-fa.spotify.com
 domain:hexagon-analytics.com
 domain:hm.baidu.com
 domain:hmma.baidu.com
@@ -448,6 +454,7 @@ domain:mission-pub.smart-tv.cn
 domain:miui-fxcse.avlyun.com
 domain:mmgame.qpic.cn
 domain:mnqlog.ldmnq.com
+domain:moatads.com
 domain:mobads-logs.baidu.com
 domain:mobads-pre-config.cdn.bcebos.com
 domain:mobads.baidu.com
@@ -710,6 +717,7 @@ domain:webstat.qiumibao.com
 domain:webview.unityads.unity3d.com
 domain:widgets.outbrain.com
 domain:widgets.pinterest.com
+domain:wildcard.moatads.com.edgekey.net
 domain:win.gdt.qq.com
 domain:wn.x.jd.com
 domain:ws-keyboard.shouji.sogou.com

@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 739
+#Total lines: 747
 #Version: 1.5.6-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -73,6 +73,7 @@
 0.0.0.0 ads-video-al.xhscdn.com
 0.0.0.0 ads-video-qc.xhscdn.com
 0.0.0.0 ads.95516.com
+0.0.0.0 ads.flurry.com
 0.0.0.0 ads.google.cn
 0.0.0.0 ads.heytapmobi.com
 0.0.0.0 ads.huan.tv
@@ -82,6 +83,7 @@
 0.0.0.0 ads.music.126.net
 0.0.0.0 ads.oppomobile.com
 0.0.0.0 ads.pinterest.com
+0.0.0.0 ads.pubmatic.com
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads.service.kugou.com
 0.0.0.0 ads.tiktok.com
@@ -119,6 +121,8 @@
 0.0.0.0 adstats.tencentmusic.com
 0.0.0.0 adstore-1252524079.file.myqcloud.com
 0.0.0.0 adstore-index-1252524079.file.myqcloud.com
+0.0.0.0 adstudio-assets.scdn.co
+0.0.0.0 adstudio.spotify.com
 0.0.0.0 adtago.s3.amazonaws.com
 0.0.0.0 adtech.yahooinc.com
 0.0.0.0 adtrack.quark.cn
@@ -336,6 +340,8 @@
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 h.trace.qq.com
 0.0.0.0 hanlanad.com
+0.0.0.0 heads-ak.spotify.com.edgesuite.net
+0.0.0.0 heads-fa.spotify.com
 0.0.0.0 hexagon-analytics.com
 0.0.0.0 hm.baidu.com
 0.0.0.0 hmma.baidu.com
@@ -461,6 +467,7 @@
 0.0.0.0 miui-fxcse.avlyun.com
 0.0.0.0 mmgame.qpic.cn
 0.0.0.0 mnqlog.ldmnq.com
+0.0.0.0 moatads.com
 0.0.0.0 mobads-logs.baidu.com
 0.0.0.0 mobads-pre-config.cdn.bcebos.com
 0.0.0.0 mobads.baidu.com
@@ -723,6 +730,7 @@
 0.0.0.0 webview.unityads.unity3d.com
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widgets.pinterest.com
+0.0.0.0 wildcard.moatads.com.edgekey.net
 0.0.0.0 win.gdt.qq.com
 0.0.0.0 wn.x.jd.com
 0.0.0.0 ws-keyboard.shouji.sogou.com
