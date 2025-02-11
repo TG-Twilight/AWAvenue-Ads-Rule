@@ -755,3 +755,5 @@ youku-acs.m.taobao.com
 youxi.kugou.com
 zeus.ad.xiaomi.com
 zhihu-web-analytics.zhihu.com
+pgdt.gtimg.cn
+tytx.m.cn.miaozhen.com
