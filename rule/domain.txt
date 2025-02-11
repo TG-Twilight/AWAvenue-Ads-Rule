@@ -1,4 +1,5 @@
 1010pic.com
+1500020991.vodplayer.wxamedia.com
 8le8le.com
 a0.app.xiaomi.com
 aaid.umeng.com
@@ -104,6 +105,7 @@ adsfs-sdkconfig.heytapimage.com
 adsfs.oppomobile.com
 adslvfile.qq.com
 adsmart.konka.com
+adsmind.gdtimg.com
 adsmind.gdtimg.com
 adsmind.ugdtimg.com
 adsp.xunlei.com
@@ -327,6 +329,7 @@ gromore.pangolin-sdk-toutiao.com
 grs.dbankcloud.com
 grs.hicloud.com
 grs.platform.dbankcloud.ru
+gvideo.qpic.cn
 h-adashx.ut.taobao.com
 h.trace.qq.com
 hanlanad.com
@@ -515,6 +518,8 @@ pagead2.googlesyndication.com
 pagead2.googlesyndication.com
 pangolin-sdk-toutiao-b.com
 pay.sboot.cn
+pcm-img.zhls.qq.com
+pgdt.gtimg.cn
 pgdt.ugdtimg.com
 pgdt.ugdtimg.com
 pglstatp-toutiao.com
@@ -599,6 +604,7 @@ stat.dongqiudi.com
 stat.y.qq.com
 stat.y.qq.com
 static.ads-twitter.com
+static.wxqcloud.qq.com.cn
 statics.woozooo.com
 stats.qiumibao.com
 stats.wp.com
@@ -653,6 +659,7 @@ tsvrv.com
 tvuser-ch.cedock.com
 tx-ad.a.yximgs.com
 tx-kmpaudio.pull.yximgs.com
+tytx.m.cn.miaozhen.com
 tz.sec.xiaomi.com
 uapi.ads.heytapmobi.com
 udc.yahoo.com
@@ -755,5 +762,3 @@ youku-acs.m.taobao.com
 youxi.kugou.com
 zeus.ad.xiaomi.com
 zhihu-web-analytics.zhihu.com
-pgdt.gtimg.cn
-tytx.m.cn.miaozhen.com
