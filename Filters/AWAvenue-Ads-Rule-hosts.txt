@@ -1,6 +1,6 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 749
+!Total lines: 753
 !Version: 1.5.6-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -12,6 +12,7 @@
 
 
 127.0.0.1 1010pic.com
+127.0.0.1 1500020991.vodplayer.wxamedia.com
 127.0.0.1 8le8le.com
 127.0.0.1 a0.app.xiaomi.com
 127.0.0.1 aaid.umeng.com
@@ -337,6 +338,7 @@
 127.0.0.1 grs.dbankcloud.com
 127.0.0.1 grs.hicloud.com
 127.0.0.1 grs.platform.dbankcloud.ru
+127.0.0.1 gvideo.qpic.cn
 127.0.0.1 h-adashx.ut.taobao.com
 127.0.0.1 h.trace.qq.com
 127.0.0.1 hanlanad.com
@@ -521,6 +523,7 @@
 127.0.0.1 pagead2.googlesyndication.com
 127.0.0.1 pangolin-sdk-toutiao-b.com
 127.0.0.1 pay.sboot.cn
+127.0.0.1 pcm-img.zhls.qq.com
 127.0.0.1 pgdt.gtimg.cn
 127.0.0.1 pgdt.ugdtimg.com
 127.0.0.1 pglstatp-toutiao.com
@@ -603,6 +606,7 @@
 127.0.0.1 stat.dongqiudi.com
 127.0.0.1 stat.y.qq.com
 127.0.0.1 static.ads-twitter.com
+127.0.0.1 static.wxqcloud.qq.com.cn
 127.0.0.1 statics.woozooo.com
 127.0.0.1 stats.qiumibao.com
 127.0.0.1 stats.wp.com

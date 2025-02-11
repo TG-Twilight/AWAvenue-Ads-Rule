@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 766
+#Total lines: 770
 #Version: 1.5.6-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -13,6 +13,7 @@ payload:
   - IP-CIDR,182.254.116.116/32,no-resolve
   - IP-CIDR,203.205.137.89/32,no-resolve
   - DOMAIN,1010pic.com
+  - DOMAIN,1500020991.vodplayer.wxamedia.com
   - DOMAIN,8le8le.com
   - DOMAIN,a0.app.xiaomi.com
   - DOMAIN,aaid.umeng.com
@@ -338,6 +339,7 @@ payload:
   - DOMAIN,grs.dbankcloud.com
   - DOMAIN,grs.hicloud.com
   - DOMAIN,grs.platform.dbankcloud.ru
+  - DOMAIN,gvideo.qpic.cn
   - DOMAIN,h-adashx.ut.taobao.com
   - DOMAIN,h.trace.qq.com
   - DOMAIN,hanlanad.com
@@ -522,6 +524,7 @@ payload:
   - DOMAIN,pagead2.googlesyndication.com
   - DOMAIN,pangolin-sdk-toutiao-b.com
   - DOMAIN,pay.sboot.cn
+  - DOMAIN,pcm-img.zhls.qq.com
   - DOMAIN,pgdt.gtimg.cn
   - DOMAIN,pgdt.ugdtimg.com
   - DOMAIN,pglstatp-toutiao.com
@@ -604,6 +607,7 @@ payload:
   - DOMAIN,stat.dongqiudi.com
   - DOMAIN,stat.y.qq.com
   - DOMAIN,static.ads-twitter.com
+  - DOMAIN,static.wxqcloud.qq.com.cn
   - DOMAIN,statics.woozooo.com
   - DOMAIN,stats.qiumibao.com
   - DOMAIN,stats.wp.com

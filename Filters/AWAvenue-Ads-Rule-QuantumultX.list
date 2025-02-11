@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 765
+#Total lines: 769
 #Version: 1.5.6-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -12,6 +12,7 @@ IP-CIDR,123.56.23.22/32,reject
 IP-CIDR,182.254.116.116/32,reject
 IP-CIDR,203.205.137.89/32,reject
 DOMAIN,1010pic.com,reject
+DOMAIN,1500020991.vodplayer.wxamedia.com,reject
 DOMAIN,8le8le.com,reject
 DOMAIN,a0.app.xiaomi.com,reject
 DOMAIN,aaid.umeng.com,reject
@@ -337,6 +338,7 @@ DOMAIN,gromore.pangolin-sdk-toutiao.com,reject
 DOMAIN,grs.dbankcloud.com,reject
 DOMAIN,grs.hicloud.com,reject
 DOMAIN,grs.platform.dbankcloud.ru,reject
+DOMAIN,gvideo.qpic.cn,reject
 DOMAIN,h-adashx.ut.taobao.com,reject
 DOMAIN,h.trace.qq.com,reject
 DOMAIN,hanlanad.com,reject
@@ -521,6 +523,7 @@ DOMAIN,pagead2.googleadservices.com,reject
 DOMAIN,pagead2.googlesyndication.com,reject
 DOMAIN,pangolin-sdk-toutiao-b.com,reject
 DOMAIN,pay.sboot.cn,reject
+DOMAIN,pcm-img.zhls.qq.com,reject
 DOMAIN,pgdt.gtimg.cn,reject
 DOMAIN,pgdt.ugdtimg.com,reject
 DOMAIN,pglstatp-toutiao.com,reject
@@ -603,6 +606,7 @@ DOMAIN,snowflake.qq.com,reject
 DOMAIN,stat.dongqiudi.com,reject
 DOMAIN,stat.y.qq.com,reject
 DOMAIN,static.ads-twitter.com,reject
+DOMAIN,static.wxqcloud.qq.com.cn,reject
 DOMAIN,statics.woozooo.com,reject
 DOMAIN,stats.qiumibao.com,reject
 DOMAIN,stats.wp.com,reject
