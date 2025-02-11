@@ -1,7 +1,7 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 753
-#Version: 1.5.6-release
+#Total lines: 730
+#Version: 1.5.8-乙巳蛇年🐍-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -702,31 +702,8 @@
 0.0.0.0 vungle.com
 0.0.0.0 w.l.qq.com
 0.0.0.0 w1.askwai.com
-0.0.0.0 w1.bskwai.com
-0.0.0.0 w1.cskwai.com
-0.0.0.0 w1.dskwai.com
-0.0.0.0 w1.eskwai.com
-0.0.0.0 w1.fskwai.com
 0.0.0.0 w1.gskwai.com
-0.0.0.0 w1.hskwai.com
-0.0.0.0 w1.iskwai.com
-0.0.0.0 w1.jskwai.com
 0.0.0.0 w1.kskwai.com
-0.0.0.0 w1.lskwai.com
-0.0.0.0 w1.mskwai.com
-0.0.0.0 w1.nskwai.com
-0.0.0.0 w1.oskwai.com
-0.0.0.0 w1.pskwai.com
-0.0.0.0 w1.qskwai.com
-0.0.0.0 w1.rskwai.com
-0.0.0.0 w1.sskwai.com
-0.0.0.0 w1.tskwai.com
-0.0.0.0 w1.uskwai.com
-0.0.0.0 w1.vskwai.com
-0.0.0.0 w1.wskwai.com
-0.0.0.0 w1.xskwai.com
-0.0.0.0 w1.yskwai.com
-0.0.0.0 w1.zskwai.com
 0.0.0.0 watson.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 wcp.taobao.com

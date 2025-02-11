@@ -1,7 +1,7 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 753
-#Version: 1.5.6-release
+#Total lines: 730
+#Version: 1.5.8-乙巳蛇年🐍-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -701,31 +701,8 @@ domain, volc.bj.ad.track.66mobi.com
 domain, vungle.com
 domain, w.l.qq.com
 domain, w1.askwai.com
-domain, w1.bskwai.com
-domain, w1.cskwai.com
-domain, w1.dskwai.com
-domain, w1.eskwai.com
-domain, w1.fskwai.com
 domain, w1.gskwai.com
-domain, w1.hskwai.com
-domain, w1.iskwai.com
-domain, w1.jskwai.com
 domain, w1.kskwai.com
-domain, w1.lskwai.com
-domain, w1.mskwai.com
-domain, w1.nskwai.com
-domain, w1.oskwai.com
-domain, w1.pskwai.com
-domain, w1.qskwai.com
-domain, w1.rskwai.com
-domain, w1.sskwai.com
-domain, w1.tskwai.com
-domain, w1.uskwai.com
-domain, w1.vskwai.com
-domain, w1.wskwai.com
-domain, w1.xskwai.com
-domain, w1.yskwai.com
-domain, w1.zskwai.com
 domain, watson.microsoft.com
 domain, watson.telemetry.microsoft.com
 domain, wcp.taobao.com

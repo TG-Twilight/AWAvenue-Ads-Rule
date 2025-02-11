@@ -1,7 +1,7 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 769
-#Version: 1.5.6-release
+#Total lines: 746
+#Version: 1.5.8-乙巳蛇年🐍-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -702,31 +702,8 @@ DOMAIN,volc.bj.ad.track.66mobi.com,reject
 DOMAIN,vungle.com,reject
 DOMAIN,w.l.qq.com,reject
 DOMAIN,w1.askwai.com,reject
-DOMAIN,w1.bskwai.com,reject
-DOMAIN,w1.cskwai.com,reject
-DOMAIN,w1.dskwai.com,reject
-DOMAIN,w1.eskwai.com,reject
-DOMAIN,w1.fskwai.com,reject
 DOMAIN,w1.gskwai.com,reject
-DOMAIN,w1.hskwai.com,reject
-DOMAIN,w1.iskwai.com,reject
-DOMAIN,w1.jskwai.com,reject
 DOMAIN,w1.kskwai.com,reject
-DOMAIN,w1.lskwai.com,reject
-DOMAIN,w1.mskwai.com,reject
-DOMAIN,w1.nskwai.com,reject
-DOMAIN,w1.oskwai.com,reject
-DOMAIN,w1.pskwai.com,reject
-DOMAIN,w1.qskwai.com,reject
-DOMAIN,w1.rskwai.com,reject
-DOMAIN,w1.sskwai.com,reject
-DOMAIN,w1.tskwai.com,reject
-DOMAIN,w1.uskwai.com,reject
-DOMAIN,w1.vskwai.com,reject
-DOMAIN,w1.wskwai.com,reject
-DOMAIN,w1.xskwai.com,reject
-DOMAIN,w1.yskwai.com,reject
-DOMAIN,w1.zskwai.com,reject
 DOMAIN,watson.microsoft.com,reject
 DOMAIN,watson.telemetry.microsoft.com,reject
 DOMAIN,wcp.taobao.com,reject

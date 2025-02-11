@@ -1,7 +1,7 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 770
-#Version: 1.5.6-release
+#Total lines: 747
+#Version: 1.5.8-乙巳蛇年🐍-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -703,31 +703,8 @@ payload:
   - DOMAIN,vungle.com
   - DOMAIN,w.l.qq.com
   - DOMAIN,w1.askwai.com
-  - DOMAIN,w1.bskwai.com
-  - DOMAIN,w1.cskwai.com
-  - DOMAIN,w1.dskwai.com
-  - DOMAIN,w1.eskwai.com
-  - DOMAIN,w1.fskwai.com
   - DOMAIN,w1.gskwai.com
-  - DOMAIN,w1.hskwai.com
-  - DOMAIN,w1.iskwai.com
-  - DOMAIN,w1.jskwai.com
   - DOMAIN,w1.kskwai.com
-  - DOMAIN,w1.lskwai.com
-  - DOMAIN,w1.mskwai.com
-  - DOMAIN,w1.nskwai.com
-  - DOMAIN,w1.oskwai.com
-  - DOMAIN,w1.pskwai.com
-  - DOMAIN,w1.qskwai.com
-  - DOMAIN,w1.rskwai.com
-  - DOMAIN,w1.sskwai.com
-  - DOMAIN,w1.tskwai.com
-  - DOMAIN,w1.uskwai.com
-  - DOMAIN,w1.vskwai.com
-  - DOMAIN,w1.wskwai.com
-  - DOMAIN,w1.xskwai.com
-  - DOMAIN,w1.yskwai.com
-  - DOMAIN,w1.zskwai.com
   - DOMAIN,watson.microsoft.com
   - DOMAIN,watson.telemetry.microsoft.com
   - DOMAIN,wcp.taobao.com
