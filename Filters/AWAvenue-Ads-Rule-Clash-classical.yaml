@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 764
+#Total lines: 766
 #Version: 1.5.6-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -522,6 +522,7 @@ payload:
   - DOMAIN,pagead2.googlesyndication.com
   - DOMAIN,pangolin-sdk-toutiao-b.com
   - DOMAIN,pay.sboot.cn
+  - DOMAIN,pgdt.gtimg.cn
   - DOMAIN,pgdt.ugdtimg.com
   - DOMAIN,pglstatp-toutiao.com
   - DOMAIN,pig.pupuapi.com
@@ -657,6 +658,7 @@ payload:
   - DOMAIN,tvuser-ch.cedock.com
   - DOMAIN,tx-ad.a.yximgs.com
   - DOMAIN,tx-kmpaudio.pull.yximgs.com
+  - DOMAIN,tytx.m.cn.miaozhen.com
   - DOMAIN,tz.sec.xiaomi.com
   - DOMAIN,uapi.ads.heytapmobi.com
   - DOMAIN,udc.yahoo.com
