@@ -31,6 +31,7 @@ ad.xelements.cn
 ad.xiaomi.com
 ad.ximalaya.com
 ad.zijieapi.com
+ad2.ettoday.net
 adapi.izuiyou.com
 adapi.yynetwk.com
 adashbc.ut.taobao.com
@@ -270,6 +271,7 @@ data.mistat.india.xiaomi.com
 data.mistat.rus.xiaomi.com
 data.mistat.xiaomi.com
 dc.sigmob.cn
+de.tynt.com
 diagnosis.ad.xiaomi.com
 dig.bdurl.net
 dl.zuimeitianqi.com
@@ -369,6 +371,7 @@ img-x.jd.com
 img.adnyg.com
 img.adnyg.com.w.kunlungr.com
 imtmp.net
+in.treasuredata.com
 iot-eu-logser.realme.com
 iot-logser.realme.com
 ipv4.kkmh.com
@@ -421,6 +424,7 @@ log.byteoversea.com
 log.fc.yahoo.com
 log.kuwo.cn
 log.pinterest.com
+log.popin.cc
 log.snssdk.com
 log.stat.kugou.com
 log.stat.kugou.com
@@ -545,6 +549,7 @@ res3.hubcloud.com.cn
 resolve.umeng.com
 rev.aiclk.com
 review.gdtimg.com
+rlog.popin.cc
 rms-drcn.platform.dbankcloud.cn
 roi.soulapp.cn
 rpt.gdt.qq.com
@@ -618,6 +623,7 @@ t.l.qq.com
 t.track.ad.xiaomi.com
 t002.ottcn.com
 t1.a.market.xiaomi.com
+t1.teads.tv
 t2.a.market.xiaomi.com
 t3.a.market.xiaomi.com
 tangram.e.qq.com
