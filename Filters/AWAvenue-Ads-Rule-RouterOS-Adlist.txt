@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 735
+#Total lines: 736
 #Version: 1.5.8-乙巳蛇年🐍-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -561,6 +561,7 @@
 0.0.0.0 s1.qq.com
 0.0.0.0 s2.qq.com
 0.0.0.0 s3.qq.com
+0.0.0.0 s8t.teads.tv
 0.0.0.0 saad.ms.zhangyue.net
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 samsungads.com

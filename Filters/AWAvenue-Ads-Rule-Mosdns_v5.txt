@@ -548,6 +548,7 @@ domain:s.amazon-adsystem.com
 domain:s1.qq.com
 domain:s2.qq.com
 domain:s3.qq.com
+domain:s8t.teads.tv
 domain:saad.ms.zhangyue.net
 domain:samsung-com.112.2o7.net
 domain:samsungads.com

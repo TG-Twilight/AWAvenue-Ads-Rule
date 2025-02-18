@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 751
+#Total lines: 752
 #Version: 1.5.8-乙巳蛇年🐍-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -561,6 +561,7 @@ DOMAIN,s.amazon-adsystem.com,reject
 DOMAIN,s1.qq.com,reject
 DOMAIN,s2.qq.com,reject
 DOMAIN,s3.qq.com,reject
+DOMAIN,s8t.teads.tv,reject
 DOMAIN,saad.ms.zhangyue.net,reject
 DOMAIN,samsung-com.112.2o7.net,reject
 DOMAIN,samsungads.com,reject
