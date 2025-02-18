@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 736
+#Total lines: 737
 #Version: 1.5.8-乙巳蛇年🐍-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -621,6 +621,7 @@ domain, syh-imp.cdnjtzy.com
 domain, szbdyd.com
 domain, t-dsp.pinduoduo.com
 domain, t.l.qq.com
+domain, t.teads.tv
 domain, t.track.ad.xiaomi.com
 domain, t002.ottcn.com
 domain, t1.a.market.xiaomi.com

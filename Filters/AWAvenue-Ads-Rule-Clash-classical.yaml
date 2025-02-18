@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 753
+#Total lines: 754
 #Version: 1.5.8-乙巳蛇年🐍-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -623,6 +623,7 @@ payload:
   - DOMAIN,szbdyd.com
   - DOMAIN,t-dsp.pinduoduo.com
   - DOMAIN,t.l.qq.com
+  - DOMAIN,t.teads.tv
   - DOMAIN,t.track.ad.xiaomi.com
   - DOMAIN,t002.ottcn.com
   - DOMAIN,t1.a.market.xiaomi.com
