@@ -31,6 +31,7 @@ domain:ad.xelements.cn
 domain:ad.xiaomi.com
 domain:ad.ximalaya.com
 domain:ad.zijieapi.com
+domain:ad2.ettoday.net
 domain:adapi.izuiyou.com
 domain:adapi.yynetwk.com
 domain:adashbc.ut.taobao.com
@@ -267,6 +268,7 @@ domain:data.mistat.india.xiaomi.com
 domain:data.mistat.rus.xiaomi.com
 domain:data.mistat.xiaomi.com
 domain:dc.sigmob.cn
+domain:de.tynt.com
 domain:diagnosis.ad.xiaomi.com
 domain:dig.bdurl.net
 domain:dl.zuimeitianqi.com
@@ -365,6 +367,7 @@ domain:img-x.jd.com
 domain:img.adnyg.com
 domain:img.adnyg.com.w.kunlungr.com
 domain:imtmp.net
+domain:in.treasuredata.com
 domain:iot-eu-logser.realme.com
 domain:iot-logser.realme.com
 domain:ipv4.kkmh.com
@@ -417,6 +420,7 @@ domain:log.byteoversea.com
 domain:log.fc.yahoo.com
 domain:log.kuwo.cn
 domain:log.pinterest.com
+domain:log.popin.cc
 domain:log.snssdk.com
 domain:log.stat.kugou.com
 domain:log.tagtic.cn
@@ -536,6 +540,7 @@ domain:res3.hubcloud.com.cn
 domain:resolve.umeng.com
 domain:rev.aiclk.com
 domain:review.gdtimg.com
+domain:rlog.popin.cc
 domain:rms-drcn.platform.dbankcloud.cn
 domain:roi.soulapp.cn
 domain:rpt.gdt.qq.com
@@ -607,6 +612,7 @@ domain:t.l.qq.com
 domain:t.track.ad.xiaomi.com
 domain:t002.ottcn.com
 domain:t1.a.market.xiaomi.com
+domain:t1.teads.tv
 domain:t2.a.market.xiaomi.com
 domain:t3.a.market.xiaomi.com
 domain:tangram.e.qq.com

@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 746
+#Total lines: 752
 #Version: 1.5.8-乙巳蛇年🐍-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -44,6 +44,7 @@ DOMAIN,ad.xelements.cn,reject
 DOMAIN,ad.xiaomi.com,reject
 DOMAIN,ad.ximalaya.com,reject
 DOMAIN,ad.zijieapi.com,reject
+DOMAIN,ad2.ettoday.net,reject
 DOMAIN,adapi.izuiyou.com,reject
 DOMAIN,adapi.yynetwk.com,reject
 DOMAIN,adashbc.ut.taobao.com,reject
@@ -280,6 +281,7 @@ DOMAIN,data.mistat.india.xiaomi.com,reject
 DOMAIN,data.mistat.rus.xiaomi.com,reject
 DOMAIN,data.mistat.xiaomi.com,reject
 DOMAIN,dc.sigmob.cn,reject
+DOMAIN,de.tynt.com,reject
 DOMAIN,diagnosis.ad.xiaomi.com,reject
 DOMAIN,dig.bdurl.net,reject
 DOMAIN,dl.zuimeitianqi.com,reject
@@ -378,6 +380,7 @@ DOMAIN,img-x.jd.com,reject
 DOMAIN,img.adnyg.com,reject
 DOMAIN,img.adnyg.com.w.kunlungr.com,reject
 DOMAIN,imtmp.net,reject
+DOMAIN,in.treasuredata.com,reject
 DOMAIN,iot-eu-logser.realme.com,reject
 DOMAIN,iot-logser.realme.com,reject
 DOMAIN,ipv4.kkmh.com,reject
@@ -430,6 +433,7 @@ DOMAIN,log.byteoversea.com,reject
 DOMAIN,log.fc.yahoo.com,reject
 DOMAIN,log.kuwo.cn,reject
 DOMAIN,log.pinterest.com,reject
+DOMAIN,log.popin.cc,reject
 DOMAIN,log.snssdk.com,reject
 DOMAIN,log.stat.kugou.com,reject
 DOMAIN,log.tagtic.cn,reject
@@ -549,6 +553,7 @@ DOMAIN,res3.hubcloud.com.cn,reject
 DOMAIN,resolve.umeng.com,reject
 DOMAIN,rev.aiclk.com,reject
 DOMAIN,review.gdtimg.com,reject
+DOMAIN,rlog.popin.cc,reject
 DOMAIN,rms-drcn.platform.dbankcloud.cn,reject
 DOMAIN,roi.soulapp.cn,reject
 DOMAIN,rpt.gdt.qq.com,reject
@@ -620,6 +625,7 @@ DOMAIN,t.l.qq.com,reject
 DOMAIN,t.track.ad.xiaomi.com,reject
 DOMAIN,t002.ottcn.com,reject
 DOMAIN,t1.a.market.xiaomi.com,reject
+DOMAIN,t1.teads.tv,reject
 DOMAIN,t2.a.market.xiaomi.com,reject
 DOMAIN,t3.a.market.xiaomi.com,reject
 DOMAIN,tangram.e.qq.com,reject

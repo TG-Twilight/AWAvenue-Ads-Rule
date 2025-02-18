@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 747
+#Total lines: 753
 #Version: 1.5.8-乙巳蛇年🐍-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -45,6 +45,7 @@ payload:
   - DOMAIN,ad.xiaomi.com
   - DOMAIN,ad.ximalaya.com
   - DOMAIN,ad.zijieapi.com
+  - DOMAIN,ad2.ettoday.net
   - DOMAIN,adapi.izuiyou.com
   - DOMAIN,adapi.yynetwk.com
   - DOMAIN,adashbc.ut.taobao.com
@@ -281,6 +282,7 @@ payload:
   - DOMAIN,data.mistat.rus.xiaomi.com
   - DOMAIN,data.mistat.xiaomi.com
   - DOMAIN,dc.sigmob.cn
+  - DOMAIN,de.tynt.com
   - DOMAIN,diagnosis.ad.xiaomi.com
   - DOMAIN,dig.bdurl.net
   - DOMAIN,dl.zuimeitianqi.com
@@ -379,6 +381,7 @@ payload:
   - DOMAIN,img.adnyg.com
   - DOMAIN,img.adnyg.com.w.kunlungr.com
   - DOMAIN,imtmp.net
+  - DOMAIN,in.treasuredata.com
   - DOMAIN,iot-eu-logser.realme.com
   - DOMAIN,iot-logser.realme.com
   - DOMAIN,ipv4.kkmh.com
@@ -431,6 +434,7 @@ payload:
   - DOMAIN,log.fc.yahoo.com
   - DOMAIN,log.kuwo.cn
   - DOMAIN,log.pinterest.com
+  - DOMAIN,log.popin.cc
   - DOMAIN,log.snssdk.com
   - DOMAIN,log.stat.kugou.com
   - DOMAIN,log.tagtic.cn
@@ -550,6 +554,7 @@ payload:
   - DOMAIN,resolve.umeng.com
   - DOMAIN,rev.aiclk.com
   - DOMAIN,review.gdtimg.com
+  - DOMAIN,rlog.popin.cc
   - DOMAIN,rms-drcn.platform.dbankcloud.cn
   - DOMAIN,roi.soulapp.cn
   - DOMAIN,rpt.gdt.qq.com
@@ -621,6 +626,7 @@ payload:
   - DOMAIN,t.track.ad.xiaomi.com
   - DOMAIN,t002.ottcn.com
   - DOMAIN,t1.a.market.xiaomi.com
+  - DOMAIN,t1.teads.tv
   - DOMAIN,t2.a.market.xiaomi.com
   - DOMAIN,t3.a.market.xiaomi.com
   - DOMAIN,tangram.e.qq.com

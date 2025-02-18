@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 730
+#Total lines: 736
 #Version: 1.5.8-乙巳蛇年🐍-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -44,6 +44,7 @@
 0.0.0.0 ad.xiaomi.com
 0.0.0.0 ad.ximalaya.com
 0.0.0.0 ad.zijieapi.com
+0.0.0.0 ad2.ettoday.net
 0.0.0.0 adapi.izuiyou.com
 0.0.0.0 adapi.yynetwk.com
 0.0.0.0 adashbc.ut.taobao.com
@@ -280,6 +281,7 @@
 0.0.0.0 data.mistat.rus.xiaomi.com
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 dc.sigmob.cn
+0.0.0.0 de.tynt.com
 0.0.0.0 diagnosis.ad.xiaomi.com
 0.0.0.0 dig.bdurl.net
 0.0.0.0 dl.zuimeitianqi.com
@@ -378,6 +380,7 @@
 0.0.0.0 img.adnyg.com
 0.0.0.0 img.adnyg.com.w.kunlungr.com
 0.0.0.0 imtmp.net
+0.0.0.0 in.treasuredata.com
 0.0.0.0 iot-eu-logser.realme.com
 0.0.0.0 iot-logser.realme.com
 0.0.0.0 ipv4.kkmh.com
@@ -430,6 +433,7 @@
 0.0.0.0 log.fc.yahoo.com
 0.0.0.0 log.kuwo.cn
 0.0.0.0 log.pinterest.com
+0.0.0.0 log.popin.cc
 0.0.0.0 log.snssdk.com
 0.0.0.0 log.stat.kugou.com
 0.0.0.0 log.tagtic.cn
@@ -549,6 +553,7 @@
 0.0.0.0 resolve.umeng.com
 0.0.0.0 rev.aiclk.com
 0.0.0.0 review.gdtimg.com
+0.0.0.0 rlog.popin.cc
 0.0.0.0 rms-drcn.platform.dbankcloud.cn
 0.0.0.0 roi.soulapp.cn
 0.0.0.0 rpt.gdt.qq.com
@@ -620,6 +625,7 @@
 0.0.0.0 t.track.ad.xiaomi.com
 0.0.0.0 t002.ottcn.com
 0.0.0.0 t1.a.market.xiaomi.com
+0.0.0.0 t1.teads.tv
 0.0.0.0 t2.a.market.xiaomi.com
 0.0.0.0 t3.a.market.xiaomi.com
 0.0.0.0 tangram.e.qq.com

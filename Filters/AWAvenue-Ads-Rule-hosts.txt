@@ -1,6 +1,6 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 730
+!Total lines: 736
 !Version: 1.5.8-乙巳蛇年🐍-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -44,6 +44,7 @@
 127.0.0.1 ad.xiaomi.com
 127.0.0.1 ad.ximalaya.com
 127.0.0.1 ad.zijieapi.com
+127.0.0.1 ad2.ettoday.net
 127.0.0.1 adapi.izuiyou.com
 127.0.0.1 adapi.yynetwk.com
 127.0.0.1 adashbc.ut.taobao.com
@@ -280,6 +281,7 @@
 127.0.0.1 data.mistat.rus.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 dc.sigmob.cn
+127.0.0.1 de.tynt.com
 127.0.0.1 diagnosis.ad.xiaomi.com
 127.0.0.1 dig.bdurl.net
 127.0.0.1 dl.zuimeitianqi.com
@@ -378,6 +380,7 @@
 127.0.0.1 img.adnyg.com
 127.0.0.1 img.adnyg.com.w.kunlungr.com
 127.0.0.1 imtmp.net
+127.0.0.1 in.treasuredata.com
 127.0.0.1 iot-eu-logser.realme.com
 127.0.0.1 iot-logser.realme.com
 127.0.0.1 ipv4.kkmh.com
@@ -430,6 +433,7 @@
 127.0.0.1 log.fc.yahoo.com
 127.0.0.1 log.kuwo.cn
 127.0.0.1 log.pinterest.com
+127.0.0.1 log.popin.cc
 127.0.0.1 log.snssdk.com
 127.0.0.1 log.stat.kugou.com
 127.0.0.1 log.tagtic.cn
@@ -549,6 +553,7 @@
 127.0.0.1 resolve.umeng.com
 127.0.0.1 rev.aiclk.com
 127.0.0.1 review.gdtimg.com
+127.0.0.1 rlog.popin.cc
 127.0.0.1 rms-drcn.platform.dbankcloud.cn
 127.0.0.1 roi.soulapp.cn
 127.0.0.1 rpt.gdt.qq.com
@@ -620,6 +625,7 @@
 127.0.0.1 t.track.ad.xiaomi.com
 127.0.0.1 t002.ottcn.com
 127.0.0.1 t1.a.market.xiaomi.com
+127.0.0.1 t1.teads.tv
 127.0.0.1 t2.a.market.xiaomi.com
 127.0.0.1 t3.a.market.xiaomi.com
 127.0.0.1 tangram.e.qq.com
