@@ -509,7 +509,6 @@ p1-be-pack-sign.pglstatp-toutiao.com
 p1-lm.adkwai.com
 p2-be-pack-sign.pglstatp-toutiao.com
 p2-lm.adkwai.com
-p2p.huya.com
 p3-be-pack-sign.pglstatp-toutiao.com
 p3-lm.adkwai.com
 p3-tt.byteimg.com
