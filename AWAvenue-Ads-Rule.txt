@@ -1,6 +1,6 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 748
+!Total lines: 747
 !Version: 1.5.8-乙巳蛇年🐍-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -512,7 +512,6 @@
 ||p1-lm.adkwai.com^
 ||p2-be-pack-sign.pglstatp-toutiao.com^
 ||p2-lm.adkwai.com^
-||p2p.huya.com^
 ||p3-be-pack-sign.pglstatp-toutiao.com^
 ||p3-lm.adkwai.com^
 ||p3-tt.byteimg.com^

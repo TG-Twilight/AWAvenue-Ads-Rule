@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 753
+#Total lines: 752
 #Version: 1.5.8-乙巳蛇年🐍-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -517,7 +517,6 @@ payload:
   - DOMAIN,p1-lm.adkwai.com
   - DOMAIN,p2-be-pack-sign.pglstatp-toutiao.com
   - DOMAIN,p2-lm.adkwai.com
-  - DOMAIN,p2p.huya.com
   - DOMAIN,p3-be-pack-sign.pglstatp-toutiao.com
   - DOMAIN,p3-lm.adkwai.com
   - DOMAIN,p3-tt.byteimg.com
