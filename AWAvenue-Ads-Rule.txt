@@ -1,12 +1,12 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 749
+!Total lines: 750
 !Version: 1.5.8-乙巳蛇年🐍-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
 
-
+||wwads.cn^
 ||1010pic.com^
 ||1500020991.vodplayer.wxamedia.com^
 ||8le8le.com^
