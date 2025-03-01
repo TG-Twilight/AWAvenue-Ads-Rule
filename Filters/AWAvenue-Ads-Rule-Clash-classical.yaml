@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 754
+#Total lines: 757
 #Version: 1.5.8-乙巳蛇年🐍-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -263,6 +263,7 @@ payload:
   - DOMAIN,click.googleanalytics.com
   - DOMAIN,click.oneplus.cn
   - DOMAIN,clog.miguvideo.com
+  - DOMAIN,cn-api.anythinktech.com
   - DOMAIN,cnlogs.umeng.com
   - DOMAIN,cnlogs.umengcloud.com
   - DOMAIN,cnzz.com
@@ -281,6 +282,7 @@ payload:
   - DOMAIN,data.mistat.india.xiaomi.com
   - DOMAIN,data.mistat.rus.xiaomi.com
   - DOMAIN,data.mistat.xiaomi.com
+  - DOMAIN,datk.anythinktech.com
   - DOMAIN,dc.sigmob.cn
   - DOMAIN,de.tynt.com
   - DOMAIN,diagnosis.ad.xiaomi.com
@@ -726,6 +728,7 @@ payload:
   - DOMAIN,wn.x.jd.com
   - DOMAIN,ws-keyboard.shouji.sogou.com
   - DOMAIN,ws.sj.qq.com
+  - DOMAIN,wwads.cn
   - DOMAIN,www42.zskwai.com
   - DOMAIN,wxa.wxs.qq.com
   - DOMAIN,wxaintpcos.wxqcloud.qq.com.cn

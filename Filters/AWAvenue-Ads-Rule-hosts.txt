@@ -1,6 +1,6 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 737
+!Total lines: 740
 !Version: 1.5.8-乙巳蛇年🐍-release
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -262,6 +262,7 @@
 127.0.0.1 click.googleanalytics.com
 127.0.0.1 click.oneplus.cn
 127.0.0.1 clog.miguvideo.com
+127.0.0.1 cn-api.anythinktech.com
 127.0.0.1 cnlogs.umeng.com
 127.0.0.1 cnlogs.umengcloud.com
 127.0.0.1 cnzz.com
@@ -280,6 +281,7 @@
 127.0.0.1 data.mistat.india.xiaomi.com
 127.0.0.1 data.mistat.rus.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 datk.anythinktech.com
 127.0.0.1 dc.sigmob.cn
 127.0.0.1 de.tynt.com
 127.0.0.1 diagnosis.ad.xiaomi.com
@@ -725,6 +727,7 @@
 127.0.0.1 wn.x.jd.com
 127.0.0.1 ws-keyboard.shouji.sogou.com
 127.0.0.1 ws.sj.qq.com
+127.0.0.1 wwads.cn
 127.0.0.1 www42.zskwai.com
 127.0.0.1 wxa.wxs.qq.com
 127.0.0.1 wxaintpcos.wxqcloud.qq.com.cn

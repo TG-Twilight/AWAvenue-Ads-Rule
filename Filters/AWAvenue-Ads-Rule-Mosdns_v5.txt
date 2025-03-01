@@ -249,6 +249,7 @@ domain:ck.ads.oppomobile.com
 domain:click.googleanalytics.com
 domain:click.oneplus.cn
 domain:clog.miguvideo.com
+domain:cn-api.anythinktech.com
 domain:cnlogs.umeng.com
 domain:cnlogs.umengcloud.com
 domain:cnzz.com
@@ -267,6 +268,7 @@ domain:data.chsmarttv.com
 domain:data.mistat.india.xiaomi.com
 domain:data.mistat.rus.xiaomi.com
 domain:data.mistat.xiaomi.com
+domain:datk.anythinktech.com
 domain:dc.sigmob.cn
 domain:de.tynt.com
 domain:diagnosis.ad.xiaomi.com
@@ -712,6 +714,7 @@ domain:win.gdt.qq.com
 domain:wn.x.jd.com
 domain:ws-keyboard.shouji.sogou.com
 domain:ws.sj.qq.com
+domain:wwads.cn
 domain:www42.zskwai.com
 domain:wxa.wxs.qq.com
 domain:wxaintpcos.wxqcloud.qq.com.cn
