@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 753
+#Total lines: 754
 #Version: 1.5.8-乙巳蛇年🐍-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -258,6 +258,7 @@ payload:
   - 'ck.ads.oppomobile.com'
   - 'click.googleanalytics.com'
   - 'click.oneplus.cn'
+  - 'client.app.coc.10086.cn'
   - 'clog.miguvideo.com'
   - 'cn-api.anythinktech.com'
   - 'cnlogs.umeng.com'

@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 740
+#Total lines: 741
 #Version: 1.5.8-乙巳蛇年🐍-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -260,6 +260,7 @@ domain, cj.qidian.com
 domain, ck.ads.oppomobile.com
 domain, click.googleanalytics.com
 domain, click.oneplus.cn
+domain, client.app.coc.10086.cn
 domain, clog.miguvideo.com
 domain, cn-api.anythinktech.com
 domain, cnlogs.umeng.com
