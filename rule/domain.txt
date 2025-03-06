@@ -79,6 +79,8 @@ ads.service.kugou.com
 ads.tiktok.com
 ads.v3mh.com
 ads.youtube.com
+api.yfanads.com
+ads.zhinengxiyifang.cn
 ads3-normal-hl.zijieapi.com
 ads3-normal-lf.zijieapi.com
 ads3-normal-lq.zijieapi.com
