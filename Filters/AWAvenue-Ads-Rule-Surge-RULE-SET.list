@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 756
+#Total lines: 758
 #Version: 1.5.8-乙巳蛇年🐍-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -91,6 +91,7 @@ DOMAIN,ads.service.kugou.com,reject
 DOMAIN,ads.tiktok.com,reject
 DOMAIN,ads.v3mh.com,reject
 DOMAIN,ads.youtube.com,reject
+DOMAIN,ads.zhinengxiyifang.cn,reject
 DOMAIN,ads3-normal-hl.zijieapi.com,reject
 DOMAIN,ads3-normal-lf.zijieapi.com,reject
 DOMAIN,ads3-normal-lq.zijieapi.com,reject
@@ -199,6 +200,7 @@ DOMAIN,api.jietuhb.com,reject
 DOMAIN,api.kingdata.ksyun.com,reject
 DOMAIN,api.statsig.com,reject
 DOMAIN,api.touch-moblie.com,reject
+DOMAIN,api.yfanads.com,reject
 DOMAIN,api5-normal-quic-lf.ixigua.com,reject
 DOMAIN,apiyd.my91app.com,reject
 DOMAIN,apks.webxiaobai.top,reject

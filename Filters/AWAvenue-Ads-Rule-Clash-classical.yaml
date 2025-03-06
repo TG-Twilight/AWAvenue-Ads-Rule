@@ -1,6 +1,6 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 757
+#Total lines: 759
 #Version: 1.5.8-乙巳蛇年🐍-release
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
@@ -92,6 +92,7 @@ payload:
   - DOMAIN,ads.tiktok.com
   - DOMAIN,ads.v3mh.com
   - DOMAIN,ads.youtube.com
+  - DOMAIN,ads.zhinengxiyifang.cn
   - DOMAIN,ads3-normal-hl.zijieapi.com
   - DOMAIN,ads3-normal-lf.zijieapi.com
   - DOMAIN,ads3-normal-lq.zijieapi.com
@@ -200,6 +201,7 @@ payload:
   - DOMAIN,api.kingdata.ksyun.com
   - DOMAIN,api.statsig.com
   - DOMAIN,api.touch-moblie.com
+  - DOMAIN,api.yfanads.com
   - DOMAIN,api5-normal-quic-lf.ixigua.com
   - DOMAIN,apiyd.my91app.com
   - DOMAIN,apks.webxiaobai.top
