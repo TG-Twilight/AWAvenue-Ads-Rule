@@ -248,7 +248,6 @@ domain:cj.qidian.com
 domain:ck.ads.oppomobile.com
 domain:click.googleanalytics.com
 domain:click.oneplus.cn
-domain:client.app.coc.10086.cn
 domain:clog.miguvideo.com
 domain:cn-api.anythinktech.com
 domain:cnlogs.umeng.com
