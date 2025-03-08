@@ -2,8 +2,8 @@
 !--------------------------------------
 !Total lines: 12
 !Version: 1.5.8-乙巳蛇年🐍-release
-!Update time: 2025-03-08 19:43:10 UTC+8
-!Update content: 优化可读性
+!Update time: 2025-03-08 22:35:13 UTC+8
+!Update content: fix “terms-drcn.platform.dbankcloud.cn” #122
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -636,7 +636,6 @@ ip dns static add address=240.0.0.1 name=tdc.qq.com
 ip dns static add address=240.0.0.1 name=tdsdk.cpatrk.net
 ip dns static add address=240.0.0.1 name=tdsdk.xdrig.com
 ip dns static add address=240.0.0.1 name=tencent-dtv.m.cn.miaozhen.com
-ip dns static add address=240.0.0.1 name=terms-drcn.platform.dbankcloud.cn
 ip dns static add address=240.0.0.1 name=test.ad.xiaomi.com
 ip dns static add address=240.0.0.1 name=test.e.ad.xiaomi.com
 ip dns static add address=240.0.0.1 name=tj.b.qq.com

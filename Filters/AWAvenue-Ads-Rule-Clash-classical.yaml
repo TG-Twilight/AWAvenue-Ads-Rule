@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 759
+#Total lines: 758
 #Version: 1.5.8-乙巳蛇年🐍-release
-#Update time: 2025-03-08 19:43:10 UTC+8
-#Update content: 优化可读性
+#Update time: 2025-03-08 22:35:13 UTC+8
+#Update content: fix “terms-drcn.platform.dbankcloud.cn” #122
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -641,7 +641,6 @@ payload:
   - DOMAIN,tdsdk.cpatrk.net
   - DOMAIN,tdsdk.xdrig.com
   - DOMAIN,tencent-dtv.m.cn.miaozhen.com
-  - DOMAIN,terms-drcn.platform.dbankcloud.cn
   - DOMAIN,test.ad.xiaomi.com
   - DOMAIN,test.e.ad.xiaomi.com
   - DOMAIN,tj.b.qq.com
