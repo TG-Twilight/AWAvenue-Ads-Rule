@@ -20,6 +20,7 @@ jobs:
         
     - name: Execute Python script
       run: |
+        TZ=Asia/Shanghai date #设置时区
         git clone "https://${{ github.actor }}:${{ secrets.TOKEN }}@github.com/${{ github.repository }}" -b build build
         cd build
         mkdir out

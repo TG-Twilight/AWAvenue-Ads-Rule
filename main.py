@@ -1,6 +1,7 @@
 import os
 import importlib
 import subprocess
+from datetime import datetime
 
 SCRIPT_PATH = os.path.join(os.getcwd(), "script") # 插件文件夹
 RULE_PATH = os.path.join(os.getcwd(), "rule") # 规则文件夹
@@ -24,11 +25,13 @@ def WriteFile(name, text, suffix, comment, module_total): # 写入文件
         with open(OUT_PATH + "/AWAvenue-Ads-Rule-" + name + suffix, 'w', encoding="utf-8") as file:
         
             if comment != "":
+                now = datetime.now()
                 title = f"""{comment}Title: AWAvenue Ads Rule
 {comment}--------------------------------------
 {comment}Total lines: {module_total}
 {comment}Version: {get_latest_git_tag()}
-{comment}Updated content: {subprocess.check_output(['git', 'log', '-1', '--pretty=%B']).strip().decode('utf-8')}
+{comment}Update time: {now.strftime("%Y-%m-%d %H:%M:%S")} UTC+8
+{comment}Update content: {subprocess.check_output(['git', 'log', '-1', '--pretty=%B']).strip().decode('utf-8')}
 
 {comment}Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 {comment}License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
