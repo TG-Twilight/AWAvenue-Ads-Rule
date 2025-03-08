@@ -8,19 +8,19 @@ on:
 jobs:
   execute_python_script:
     runs-on: ubuntu-latest
-    
+    env:
+      TZ: Asia/Shanghai  # UTC+8
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
 
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
-        python-version: 3.9
+        python-version: 3.12
         
     - name: Execute Python script
       run: |
-        TZ=Asia/Shanghai date #设置时区
         git clone "https://${{ github.actor }}:${{ secrets.TOKEN }}@github.com/${{ github.repository }}" -b build build
         cd build
         mkdir out
