@@ -8,4 +8,4 @@ def format_domain(List):
     return domain
 
 def build(rule):
-    return {'list': format_domain(rule.regex_list), 'suffix': '.txt', 'comment': '!', 'total': len(rule.regex_list)}
+    return {'list': format_domain(rule.domain_list), 'suffix': '.txt', 'comment': '!', 'total': len(rule.regex_list)}
