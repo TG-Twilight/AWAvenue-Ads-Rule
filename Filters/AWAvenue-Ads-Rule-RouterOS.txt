@@ -2,8 +2,8 @@
 !--------------------------------------
 !Total lines: 12
 !Version: 1.5.8-乙巳蛇年🐍-release
-!Update time: 2025-03-08 11:29:30 UTC+8
-!Update content: 前缀添加更新日期时间
+!Update time: 2025-03-08 19:34:10 UTC+8
+!Update content: 修复错误时区&更新依赖
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
