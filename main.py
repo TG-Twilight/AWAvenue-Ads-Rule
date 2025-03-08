@@ -1,9 +1,6 @@
 import os
-import sys
-import json
 import importlib
 import subprocess
-import datetime
 
 SCRIPT_PATH = os.path.join(os.getcwd(), "script") # 插件文件夹
 RULE_PATH = os.path.join(os.getcwd(), "rule") # 规则文件夹
@@ -12,31 +9,6 @@ domain_file=RULE_PATH + "/domain.txt" # 规则文件
 regex_file=RULE_PATH + "/domain_regex.txt" # 正则规则文件
 ip_file=RULE_PATH + "/ip.txt" # IP规则文件
 ip6_file=RULE_PATH + "/ip6.txt" # IPv6规则文件
-
-
-if not os.path.exists(OUT_PATH):
-    print(f"{OUT_PATH} 目录不存在!")
-    sys.exit(1)
-
-
-class RuleList:
-    # 初始化规则列表
-    def __init__(self, domain_file, regex_file, ip_file, ip6_file):
-        with open(domain_file, 'r') as file: 
-            lines = file.read().splitlines() 
-            self.domain_list = sorted(set(lines))
-        with open(regex_file, 'r') as file:
-            lines = file.read().splitlines()
-            self.regex_list = sorted(set(lines))
-        with open(ip_file, 'r') as file:
-            lines = file.read().splitlines()
-            self.ip_list = sorted(set(lines))
-        with open(ip6_file, 'r') as file:
-            lines = file.read().splitlines()
-            self.ip6_list = sorted(set(lines))
-
-
-rule = RuleList(domain_file, regex_file, ip_file, ip6_file)
 
 def get_latest_git_tag(): # 获取最新的git tag
     process = subprocess.Popen('git tag', stdout=subprocess.PIPE, shell=True)
@@ -56,6 +28,7 @@ def WriteFile(name, text, suffix, comment, module_total): # 写入文件
 {comment}--------------------------------------
 {comment}Total lines: {module_total}
 {comment}Version: {get_latest_git_tag()}
+{comment}Updated content: {subprocess.check_output(['git', 'log', '-1', '--pretty=%B']).strip().decode('utf-8')}
 
 {comment}Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 {comment}License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -79,6 +52,7 @@ def RunScript():
 
             try: 
                 plugins = importlib.import_module(full_plugins_name).build(rule) # 传入规则列表(RuleList)类的实例
+                print(f"{plugins_name}转换成功")
 
                 # 判断插件是否有list、total、suffix、comment四个属性
                 if len(plugins) == 4:
@@ -91,4 +65,20 @@ def RunScript():
 
 
 if __name__ == "__main__":
+    if not os.path.exists(OUT_PATH):
+        os.makedirs(OUT_PATH)
+
+    class RuleList:
+    # 初始化规则列表
+        def __init__(self, domain_file, regex_file, ip_file, ip6_file):
+            with open(domain_file, 'r') as file:
+                self.domain_list = sorted(set(line.strip() for line in file))
+            with open(regex_file, 'r') as file:
+                self.regex_list = sorted(set(line.strip() for line in file))
+            with open(ip_file, 'r') as file:
+                self.ip_list = sorted(set(line.strip() for line in file))
+            with open(ip6_file, 'r') as file:
+                self.ip6_list = sorted(set(line.strip() for line in file))
+    rule = RuleList(domain_file, regex_file, ip_file, ip6_file)
+    
     RunScript()
