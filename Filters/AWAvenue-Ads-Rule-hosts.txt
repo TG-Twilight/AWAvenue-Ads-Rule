@@ -2,6 +2,7 @@
 !--------------------------------------
 !Total lines: 742
 !Version: 1.5.8-乙巳蛇年🐍-release
+!Updated content: 修复RouterOS错误生成
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
