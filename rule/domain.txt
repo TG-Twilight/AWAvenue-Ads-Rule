@@ -636,7 +636,6 @@ tdc.qq.com
 tdsdk.cpatrk.net
 tdsdk.xdrig.com
 tencent-dtv.m.cn.miaozhen.com
-terms-drcn.platform.dbankcloud.cn
 test.ad.xiaomi.com
 test.e.ad.xiaomi.com
 tj.b.qq.com
