@@ -1,15 +1,10 @@
 import os
 import importlib
 import subprocess
+from config import *
 from datetime import datetime
 
-SCRIPT_PATH = os.path.join(os.getcwd(), "script") # 插件文件夹
-RULE_PATH = os.path.join(os.getcwd(), "rule") # 规则文件夹
-OUT_PATH = os.getcwd() + "/out" # 输出文件夹
-domain_file=RULE_PATH + "/domain.txt" # 规则文件
-regex_file=RULE_PATH + "/domain_regex.txt" # 正则规则文件
-ip_file=RULE_PATH + "/ip.txt" # IP规则文件
-ip6_file=RULE_PATH + "/ip6.txt" # IPv6规则文件
+
 
 def get_latest_git_tag(): # 获取最新的git tag
     process = subprocess.Popen('git tag', stdout=subprocess.PIPE, shell=True)
@@ -54,12 +49,15 @@ def RunScript():
             full_plugins_name = f"script.{plugins_name}" # 拼接完整的插件名
 
             try: 
-                plugins = importlib.import_module(full_plugins_name).build(rule) # 传入规则列表(RuleList)类的实例
-                print(f"{plugins_name}转换成功")
-
+                plugins = importlib.import_module(full_plugins_name).build(rule) # 传入规则列表(config.RuleList)类的实例
+                
+                if plugins['list'] == True:
+                    print(f"{plugins_name}转换成功")
+                    return
                 # 判断插件是否有list、total、suffix、comment四个属性
                 if len(plugins) == 4:
                     WriteFile(plugins_name, plugins['list'], plugins['suffix'], plugins['comment'], str(plugins['total']))
+                    print(f"{plugins_name}转换成功")
                 else:
                     print(f"转换插件:{plugins_name}执行失败: 缺少必要属性")
                 
@@ -68,20 +66,6 @@ def RunScript():
 
 
 if __name__ == "__main__":
-    if not os.path.exists(OUT_PATH):
-        os.makedirs(OUT_PATH)
 
-    class RuleList:
-    # 初始化规则列表
-        def __init__(self, domain_file, regex_file, ip_file, ip6_file):
-            with open(domain_file, 'r') as file:
-                self.domain_list = sorted(set(line.strip() for line in file))
-            with open(regex_file, 'r') as file:
-                self.regex_list = sorted(set(line.strip() for line in file))
-            with open(ip_file, 'r') as file:
-                self.ip_list = sorted(set(line.strip() for line in file))
-            with open(ip6_file, 'r') as file:
-                self.ip6_list = sorted(set(line.strip() for line in file))
-    rule = RuleList(domain_file, regex_file, ip_file, ip6_file)
     
     RunScript()
