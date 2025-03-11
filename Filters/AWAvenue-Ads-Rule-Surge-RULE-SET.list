@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 757
+#Total lines: 758
 #Version: 1.5.8-乙巳蛇年🐍-release
-#Update time: 2025-03-11 20:16:57 UTC+8
-#Update content: remove duplicate domains.
+#Update time: 2025-03-12 00:01:16 UTC+8
+#Update content: 将配置独立为一个文件
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -640,6 +640,7 @@ DOMAIN,tdc.qq.com,reject
 DOMAIN,tdsdk.cpatrk.net,reject
 DOMAIN,tdsdk.xdrig.com,reject
 DOMAIN,tencent-dtv.m.cn.miaozhen.com,reject
+DOMAIN,terms-drcn.platform.dbankcloud.cn,reject
 DOMAIN,test.ad.xiaomi.com,reject
 DOMAIN,test.e.ad.xiaomi.com,reject
 DOMAIN,tj.b.qq.com,reject
