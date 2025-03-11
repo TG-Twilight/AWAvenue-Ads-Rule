@@ -39,7 +39,16 @@ jobs:
         ./*/sing-box rule-set compile AWAvenue-Ads-Rule-Singbox.json
         ./*/sing-box rule-set compile AWAvenue-Ads-Rule-Singbox-regex.json
         rm -rf *sing-box*
-    
+
+    - name: build mihomo mrs
+      run: |
+            cd build/out/Filters
+            wget -O ./mihomo.gz https://github.com/MetaCubeX/mihomo/releases/download/v1.19.3/mihomo-linux-amd64-v1.19.3.gz
+            gzip -d mihomo.gz
+            chmod +x mihomo
+            ./mihomo convert-ruleset domain yaml AWAvenue-Ads-Rule-Clash.yaml AWAvenue-Ads-Rule-Clash.mrs
+            rm -rf *mihomo*
+  
     - name: Git push
       run: |
         git clone "https://${{ github.actor }}:${{ secrets.TOKEN }}@github.com/${{ github.repository }}" push
