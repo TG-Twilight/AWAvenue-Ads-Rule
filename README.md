@@ -104,7 +104,7 @@ ClashMeta、QuantumultX(.list)、ShadowRocket、Surge、Surfboard、Singbox等�
 
 ## 🍁赞助商 | Special sponsors
 
-[倾城极速 - 畅游世界，高速互联](https://panel.qqcjs.top/#/register?code=prbbRzx9)
+[倾城极速 - 畅游世界，高速互联](https://www.qcjs.ovh/#/register?code=prbbRzx9)
 
 ---
 
