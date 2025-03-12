@@ -1,5 +1,6 @@
 1010pic.com
 1500020991.vodplayer.wxamedia.com
+1500026601.vodplayer.wxamedia.com
 8le8le.com
 a0.app.xiaomi.com
 aaid.umeng.com
@@ -79,7 +80,6 @@ ads.service.kugou.com
 ads.tiktok.com
 ads.v3mh.com
 ads.youtube.com
-api.yfanads.com
 ads.zhinengxiyifang.cn
 ads3-normal-hl.zijieapi.com
 ads3-normal-lf.zijieapi.com
@@ -191,6 +191,7 @@ api.jietuhb.com
 api.kingdata.ksyun.com
 api.statsig.com
 api.touch-moblie.com
+api.yfanads.com
 api5-normal-quic-lf.ixigua.com
 apiyd.my91app.com
 apks.webxiaobai.top
