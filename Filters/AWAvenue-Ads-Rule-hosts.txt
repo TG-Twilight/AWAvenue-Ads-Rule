@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 755
+!Total lines: 749
 !Version: 1.5.8-乙巳蛇年🐍-release
-!Update time: 2025-03-17 14:05:11 UTC+8
-!Update content: added happly ads block, removed some invalid domain, and moved a domain that may affect usage. #123
+!Update time: 2025-03-17 14:39:15 UTC+8
+!Update content: remove some invalid domain，you can check MANBA_ads
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -43,7 +43,6 @@
 127.0.0.1 ad.toutiao.com
 127.0.0.1 ad.v3mh.com
 127.0.0.1 ad.winrar.com.cn
-127.0.0.1 ad.xelements.cn
 127.0.0.1 ad.xiaomi.com
 127.0.0.1 ad.ximalaya.com
 127.0.0.1 ad.zijieapi.com
@@ -81,13 +80,11 @@
 127.0.0.1 ads.95516.com
 127.0.0.1 ads.flurry.com
 127.0.0.1 ads.google.cn
-127.0.0.1 ads.heytapmobi.com
 127.0.0.1 ads.huan.tv
 127.0.0.1 ads.huantest.com
 127.0.0.1 ads.icloseli.cn
 127.0.0.1 ads.linkedin.com
 127.0.0.1 ads.music.126.net
-127.0.0.1 ads.oppomobile.com
 127.0.0.1 ads.pinterest.com
 127.0.0.1 ads.pubmatic.com
 127.0.0.1 ads.servebom.com
@@ -137,7 +134,6 @@
 127.0.0.1 adv.fjtv.net
 127.0.0.1 adv.sec.intl.miui.com
 127.0.0.1 adv.sec.miui.com
-127.0.0.1 advertiseonbing.azureedge.net
 127.0.0.1 advertising-api-eu.amazon.com
 127.0.0.1 advertising-api-fe.amazon.com
 127.0.0.1 advertising-api.amazon.com
@@ -164,11 +160,9 @@
 127.0.0.1 alogus.umeng.com
 127.0.0.1 als.baidu.com
 127.0.0.1 amdcopen.m.taobao.com
-127.0.0.1 amdcopen.m.umeng.com
 127.0.0.1 an.facebook.com
 127.0.0.1 analysis.yozocloud.cn
 127.0.0.1 analytics-api.samsunghealthcn.com
-127.0.0.1 analytics.126.net
 127.0.0.1 analytics.google.com
 127.0.0.1 analytics.pinterest.com
 127.0.0.1 analytics.pointdrive.linkedin.com

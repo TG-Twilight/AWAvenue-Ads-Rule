@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 755
+#Total lines: 749
 #Version: 1.5.8-乙巳蛇年🐍-release
-#Update time: 2025-03-17 14:05:11 UTC+8
-#Update content: added happly ads block, removed some invalid domain, and moved a domain that may affect usage. #123
+#Update time: 2025-03-17 14:39:15 UTC+8
+#Update content: remove some invalid domain，you can check MANBA_ads
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -43,7 +43,6 @@
 0.0.0.0 ad.toutiao.com
 0.0.0.0 ad.v3mh.com
 0.0.0.0 ad.winrar.com.cn
-0.0.0.0 ad.xelements.cn
 0.0.0.0 ad.xiaomi.com
 0.0.0.0 ad.ximalaya.com
 0.0.0.0 ad.zijieapi.com
@@ -81,13 +80,11 @@
 0.0.0.0 ads.95516.com
 0.0.0.0 ads.flurry.com
 0.0.0.0 ads.google.cn
-0.0.0.0 ads.heytapmobi.com
 0.0.0.0 ads.huan.tv
 0.0.0.0 ads.huantest.com
 0.0.0.0 ads.icloseli.cn
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.music.126.net
-0.0.0.0 ads.oppomobile.com
 0.0.0.0 ads.pinterest.com
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 ads.servebom.com
@@ -137,7 +134,6 @@
 0.0.0.0 adv.fjtv.net
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 adv.sec.miui.com
-0.0.0.0 advertiseonbing.azureedge.net
 0.0.0.0 advertising-api-eu.amazon.com
 0.0.0.0 advertising-api-fe.amazon.com
 0.0.0.0 advertising-api.amazon.com
@@ -164,11 +160,9 @@
 0.0.0.0 alogus.umeng.com
 0.0.0.0 als.baidu.com
 0.0.0.0 amdcopen.m.taobao.com
-0.0.0.0 amdcopen.m.umeng.com
 0.0.0.0 an.facebook.com
 0.0.0.0 analysis.yozocloud.cn
 0.0.0.0 analytics-api.samsunghealthcn.com
-0.0.0.0 analytics.126.net
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.pinterest.com
 0.0.0.0 analytics.pointdrive.linkedin.com

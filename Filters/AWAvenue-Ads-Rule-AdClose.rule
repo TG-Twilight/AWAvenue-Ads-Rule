@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 755
+#Total lines: 749
 #Version: 1.5.8-乙巳蛇年🐍-release
-#Update time: 2025-03-17 14:05:11 UTC+8
-#Update content: added happly ads block, removed some invalid domain, and moved a domain that may affect usage. #123
+#Update time: 2025-03-17 14:39:15 UTC+8
+#Update content: remove some invalid domain，you can check MANBA_ads
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -42,7 +42,6 @@ domain, ad.tencentmusic.com
 domain, ad.toutiao.com
 domain, ad.v3mh.com
 domain, ad.winrar.com.cn
-domain, ad.xelements.cn
 domain, ad.xiaomi.com
 domain, ad.ximalaya.com
 domain, ad.zijieapi.com
@@ -80,13 +79,11 @@ domain, ads-video-qc.xhscdn.com
 domain, ads.95516.com
 domain, ads.flurry.com
 domain, ads.google.cn
-domain, ads.heytapmobi.com
 domain, ads.huan.tv
 domain, ads.huantest.com
 domain, ads.icloseli.cn
 domain, ads.linkedin.com
 domain, ads.music.126.net
-domain, ads.oppomobile.com
 domain, ads.pinterest.com
 domain, ads.pubmatic.com
 domain, ads.servebom.com
@@ -136,7 +133,6 @@ domain, adukwai.com
 domain, adv.fjtv.net
 domain, adv.sec.intl.miui.com
 domain, adv.sec.miui.com
-domain, advertiseonbing.azureedge.net
 domain, advertising-api-eu.amazon.com
 domain, advertising-api-fe.amazon.com
 domain, advertising-api.amazon.com
@@ -163,11 +159,9 @@ domain, alog.umeng.com
 domain, alogus.umeng.com
 domain, als.baidu.com
 domain, amdcopen.m.taobao.com
-domain, amdcopen.m.umeng.com
 domain, an.facebook.com
 domain, analysis.yozocloud.cn
 domain, analytics-api.samsunghealthcn.com
-domain, analytics.126.net
 domain, analytics.google.com
 domain, analytics.pinterest.com
 domain, analytics.pointdrive.linkedin.com

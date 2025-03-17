@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 772
+#Total lines: 766
 #Version: 1.5.8-乙巳蛇年🐍-release
-#Update time: 2025-03-17 14:05:11 UTC+8
-#Update content: added happly ads block, removed some invalid domain, and moved a domain that may affect usage. #123
+#Update time: 2025-03-17 14:39:15 UTC+8
+#Update content: remove some invalid domain，you can check MANBA_ads
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -44,7 +44,6 @@ payload:
   - DOMAIN,ad.toutiao.com
   - DOMAIN,ad.v3mh.com
   - DOMAIN,ad.winrar.com.cn
-  - DOMAIN,ad.xelements.cn
   - DOMAIN,ad.xiaomi.com
   - DOMAIN,ad.ximalaya.com
   - DOMAIN,ad.zijieapi.com
@@ -82,13 +81,11 @@ payload:
   - DOMAIN,ads.95516.com
   - DOMAIN,ads.flurry.com
   - DOMAIN,ads.google.cn
-  - DOMAIN,ads.heytapmobi.com
   - DOMAIN,ads.huan.tv
   - DOMAIN,ads.huantest.com
   - DOMAIN,ads.icloseli.cn
   - DOMAIN,ads.linkedin.com
   - DOMAIN,ads.music.126.net
-  - DOMAIN,ads.oppomobile.com
   - DOMAIN,ads.pinterest.com
   - DOMAIN,ads.pubmatic.com
   - DOMAIN,ads.servebom.com
@@ -138,7 +135,6 @@ payload:
   - DOMAIN,adv.fjtv.net
   - DOMAIN,adv.sec.intl.miui.com
   - DOMAIN,adv.sec.miui.com
-  - DOMAIN,advertiseonbing.azureedge.net
   - DOMAIN,advertising-api-eu.amazon.com
   - DOMAIN,advertising-api-fe.amazon.com
   - DOMAIN,advertising-api.amazon.com
@@ -165,11 +161,9 @@ payload:
   - DOMAIN,alogus.umeng.com
   - DOMAIN,als.baidu.com
   - DOMAIN,amdcopen.m.taobao.com
-  - DOMAIN,amdcopen.m.umeng.com
   - DOMAIN,an.facebook.com
   - DOMAIN,analysis.yozocloud.cn
   - DOMAIN,analytics-api.samsunghealthcn.com
-  - DOMAIN,analytics.126.net
   - DOMAIN,analytics.google.com
   - DOMAIN,analytics.pinterest.com
   - DOMAIN,analytics.pointdrive.linkedin.com

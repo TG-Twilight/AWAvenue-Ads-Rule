@@ -2,8 +2,8 @@
 !--------------------------------------
 !Total lines: 12
 !Version: 1.5.8-乙巳蛇年🐍-release
-!Update time: 2025-03-17 14:05:11 UTC+8
-!Update content: added happly ads block, removed some invalid domain, and moved a domain that may affect usage. #123
+!Update time: 2025-03-17 14:39:15 UTC+8
+!Update content: remove some invalid domain，you can check MANBA_ads
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -39,7 +39,6 @@ ip dns static add address=240.0.0.1 name=ad.tencentmusic.com
 ip dns static add address=240.0.0.1 name=ad.toutiao.com
 ip dns static add address=240.0.0.1 name=ad.v3mh.com
 ip dns static add address=240.0.0.1 name=ad.winrar.com.cn
-ip dns static add address=240.0.0.1 name=ad.xelements.cn
 ip dns static add address=240.0.0.1 name=ad.xiaomi.com
 ip dns static add address=240.0.0.1 name=ad.ximalaya.com
 ip dns static add address=240.0.0.1 name=ad.zijieapi.com
@@ -77,13 +76,11 @@ ip dns static add address=240.0.0.1 name=ads-video-qc.xhscdn.com
 ip dns static add address=240.0.0.1 name=ads.95516.com
 ip dns static add address=240.0.0.1 name=ads.flurry.com
 ip dns static add address=240.0.0.1 name=ads.google.cn
-ip dns static add address=240.0.0.1 name=ads.heytapmobi.com
 ip dns static add address=240.0.0.1 name=ads.huan.tv
 ip dns static add address=240.0.0.1 name=ads.huantest.com
 ip dns static add address=240.0.0.1 name=ads.icloseli.cn
 ip dns static add address=240.0.0.1 name=ads.linkedin.com
 ip dns static add address=240.0.0.1 name=ads.music.126.net
-ip dns static add address=240.0.0.1 name=ads.oppomobile.com
 ip dns static add address=240.0.0.1 name=ads.pinterest.com
 ip dns static add address=240.0.0.1 name=ads.pubmatic.com
 ip dns static add address=240.0.0.1 name=ads.servebom.com
@@ -133,7 +130,6 @@ ip dns static add address=240.0.0.1 name=adukwai.com
 ip dns static add address=240.0.0.1 name=adv.fjtv.net
 ip dns static add address=240.0.0.1 name=adv.sec.intl.miui.com
 ip dns static add address=240.0.0.1 name=adv.sec.miui.com
-ip dns static add address=240.0.0.1 name=advertiseonbing.azureedge.net
 ip dns static add address=240.0.0.1 name=advertising-api-eu.amazon.com
 ip dns static add address=240.0.0.1 name=advertising-api-fe.amazon.com
 ip dns static add address=240.0.0.1 name=advertising-api.amazon.com
@@ -160,11 +156,9 @@ ip dns static add address=240.0.0.1 name=alog.umeng.com
 ip dns static add address=240.0.0.1 name=alogus.umeng.com
 ip dns static add address=240.0.0.1 name=als.baidu.com
 ip dns static add address=240.0.0.1 name=amdcopen.m.taobao.com
-ip dns static add address=240.0.0.1 name=amdcopen.m.umeng.com
 ip dns static add address=240.0.0.1 name=an.facebook.com
 ip dns static add address=240.0.0.1 name=analysis.yozocloud.cn
 ip dns static add address=240.0.0.1 name=analytics-api.samsunghealthcn.com
-ip dns static add address=240.0.0.1 name=analytics.126.net
 ip dns static add address=240.0.0.1 name=analytics.google.com
 ip dns static add address=240.0.0.1 name=analytics.pinterest.com
 ip dns static add address=240.0.0.1 name=analytics.pointdrive.linkedin.com
