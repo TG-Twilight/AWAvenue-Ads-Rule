@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 743
+#Total lines: 755
 #Version: 1.5.8-乙巳蛇年🐍-release
-#Update time: 2025-03-12 18:05:45 UTC+8
-#Update content: block more WeChat skit ads.
+#Update time: 2025-03-17 14:05:11 UTC+8
+#Update content: added happly ads block, removed some invalid domain, and moved a domain that may affect usage. #123
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -20,7 +20,6 @@
 0.0.0.0 a0.app.xiaomi.com
 0.0.0.0 aaid.umeng.com
 0.0.0.0 abtest-ch.snssdk.com
-0.0.0.0 ad-cache.dopool.com
 0.0.0.0 ad-cdn.qingting.fm
 0.0.0.0 ad-cmp.hismarttv.com
 0.0.0.0 ad-download.hismarttv.com
@@ -35,6 +34,7 @@
 0.0.0.0 ad.cctv.com
 0.0.0.0 ad.cyapi.cn
 0.0.0.0 ad.doubleclick.net
+0.0.0.0 ad.hpplay.cn
 0.0.0.0 ad.partner.gifshow.com
 0.0.0.0 ad.qingting.fm
 0.0.0.0 ad.qq.com
@@ -58,6 +58,7 @@
 0.0.0.0 adclick.tencentmusic.com
 0.0.0.0 adcolony.com
 0.0.0.0 addata.jd.com
+0.0.0.0 adeng.hpplay.cn
 0.0.0.0 adexpo.tencentmusic.com
 0.0.0.0 adfilter.imtt.qq.com
 0.0.0.0 adfstat.yandex.ru
@@ -154,7 +155,6 @@
 0.0.0.0 adx.ads.heytapmobi.com
 0.0.0.0 adx.ads.oppomobile.com
 0.0.0.0 adxlog-adnet.vivo.com.cn
-0.0.0.0 adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn
 0.0.0.0 adxserver.ad.cmvideo.cn
 0.0.0.0 aegis.qq.com
 0.0.0.0 afs.googlesyndication.com
@@ -179,6 +179,7 @@
 0.0.0.0 analytics.woozooo.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 analyze.lemurbrowser.com
+0.0.0.0 android.bugly.qq.com
 0.0.0.0 andrqd.play.aiseet.atianqi.com
 0.0.0.0 ap.dongqiudi.com
 0.0.0.0 apd-pcdnwxlogin.teg.tencent-cloud.net
@@ -206,7 +207,6 @@
 0.0.0.0 api.yfanads.com
 0.0.0.0 api5-normal-quic-lf.ixigua.com
 0.0.0.0 apiyd.my91app.com
-0.0.0.0 apks.webxiaobai.top
 0.0.0.0 app-measurement.com
 0.0.0.0 appcfg.v.qq.com
 0.0.0.0 appcloud2.in.zhihu.com
@@ -258,6 +258,7 @@
 0.0.0.0 cdn-plugin-sync-upgrade-juui.hismarttv.com
 0.0.0.0 cdn.ad.xiaomi.com
 0.0.0.0 cdn.aiclk.com
+0.0.0.0 cdn.hpplay.com.cn
 0.0.0.0 cdn.ynuf.aliapp.org
 0.0.0.0 cfg.imtt.qq.com
 0.0.0.0 chat1.jd.com
@@ -273,6 +274,7 @@
 0.0.0.0 cnzz.com
 0.0.0.0 collect.kugou.com
 0.0.0.0 commdata.v.qq.com
+0.0.0.0 conf.hpplay.cn
 0.0.0.0 config.chsmarttv.com
 0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 cpc-service-square.aiclk.com
@@ -324,6 +326,7 @@
 0.0.0.0 fxgate.baidu.com
 0.0.0.0 g-adnet.hiaiabc.com
 0.0.0.0 g-staic.ganjingworld.com
+0.0.0.0 g.dtv.cn.miaozhen.com
 0.0.0.0 g2.ganjing.world
 0.0.0.0 game.loveota.com
 0.0.0.0 gdfp.gifshow.com
@@ -347,17 +350,20 @@
 0.0.0.0 grs.dbankcloud.com
 0.0.0.0 grs.hicloud.com
 0.0.0.0 grs.platform.dbankcloud.ru
+0.0.0.0 gslb.hpplay.cn
 0.0.0.0 gvideo.qpic.cn
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 h.trace.qq.com
+0.0.0.0 h5.hpplay.com.cn
 0.0.0.0 hanlanad.com
 0.0.0.0 heads-ak.spotify.com.edgesuite.net
 0.0.0.0 heads-fa.spotify.com
 0.0.0.0 hexagon-analytics.com
 0.0.0.0 hm.baidu.com
 0.0.0.0 hmma.baidu.com
+0.0.0.0 hotupgrade.hpplay.cn
 0.0.0.0 houyi.kkmh.com
-0.0.0.0 hpplay.cn
+0.0.0.0 hpplay.cdn.cibn.cc
 0.0.0.0 httpdns.bcelive.com
 0.0.0.0 httpdns.ocloud.oppomobile.com
 0.0.0.0 hugelog.fcbox.com
@@ -379,14 +385,15 @@
 0.0.0.0 imag8.pubmatic.com
 0.0.0.0 imag86.pubmatic.com
 0.0.0.0 image-ad.sm.cn
+0.0.0.0 image.hpplay.cn
 0.0.0.0 imageplus.baidu.com
 0.0.0.0 images.outbrainimg.com
 0.0.0.0 images.pinduoduo.com
+0.0.0.0 imdns.hpplay.cn
 0.0.0.0 img-c.heytapimage.com
 0.0.0.0 img-x.jd.com
 0.0.0.0 img.adnyg.com
 0.0.0.0 img.adnyg.com.w.kunlungr.com
-0.0.0.0 imtmp.net
 0.0.0.0 in.treasuredata.com
 0.0.0.0 iot-eu-logser.realme.com
 0.0.0.0 iot-logser.realme.com
@@ -538,6 +545,7 @@
 0.0.0.0 pgdt.ugdtimg.com
 0.0.0.0 pglstatp-toutiao.com
 0.0.0.0 pig.pupuapi.com
+0.0.0.0 pin.hpplay.cn
 0.0.0.0 pixon.ads-pixiv.net
 0.0.0.0 pkoplink.com
 0.0.0.0 plbslog.umeng.com
@@ -562,6 +570,7 @@
 0.0.0.0 rlog.popin.cc
 0.0.0.0 rms-drcn.platform.dbankcloud.cn
 0.0.0.0 roi.soulapp.cn
+0.0.0.0 rp.hpplay.cn
 0.0.0.0 rpt.gdt.qq.com
 0.0.0.0 rtb.voiceads.cn
 0.0.0.0 s.amazon-adsystem.com
@@ -584,6 +593,7 @@
 0.0.0.0 sdk.hzsanjiaomao.com
 0.0.0.0 sdk.markmedia.com.cn
 0.0.0.0 sdk.mobads.adwangmai.com
+0.0.0.0 sdkauth.hpplay.cn
 0.0.0.0 sdkconf.avlyun.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
@@ -607,6 +617,7 @@
 0.0.0.0 sigmob.cn
 0.0.0.0 sigmob.com
 0.0.0.0 skdisplay.jd.com
+0.0.0.0 sl.hpplay.cn
 0.0.0.0 slb-p2p.vcloud.ks-live.com
 0.0.0.0 smad.ms.zhangyue.net
 0.0.0.0 smart-tv.cn
@@ -618,7 +629,6 @@
 0.0.0.0 stat.dongqiudi.com
 0.0.0.0 stat.y.qq.com
 0.0.0.0 static.ads-twitter.com
-0.0.0.0 static.wxqcloud.qq.com.cn
 0.0.0.0 statics.woozooo.com
 0.0.0.0 stats.qiumibao.com
 0.0.0.0 stats.wp.com
@@ -672,6 +682,7 @@
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.rus.miui.com
 0.0.0.0 tsvrv.com
+0.0.0.0 tvapp.hpplay.cn
 0.0.0.0 tvuser-ch.cedock.com
 0.0.0.0 tx-ad.a.yximgs.com
 0.0.0.0 tx-kmpaudio.pull.yximgs.com
@@ -710,6 +721,7 @@
 0.0.0.0 video-ad.sm.cn
 0.0.0.0 video-dsp.pddpic.com
 0.0.0.0 video.dispatch.tc.qq.com
+0.0.0.0 vipauth.hpplay.cn
 0.0.0.0 virusinfo-cloudscan-cn.heytapmobi.com
 0.0.0.0 vlive.qqvideo.tc.qq.com
 0.0.0.0 volc.bj.ad.track.66mobi.com

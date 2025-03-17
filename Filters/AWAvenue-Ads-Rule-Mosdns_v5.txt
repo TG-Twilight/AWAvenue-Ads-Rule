@@ -5,7 +5,6 @@ domain:8le8le.com
 domain:a0.app.xiaomi.com
 domain:aaid.umeng.com
 domain:abtest-ch.snssdk.com
-domain:ad-cache.dopool.com
 domain:ad-cdn.qingting.fm
 domain:ad-cmp.hismarttv.com
 domain:ad-download.hismarttv.com
@@ -20,6 +19,7 @@ domain:ad.bwton.com
 domain:ad.cctv.com
 domain:ad.cyapi.cn
 domain:ad.doubleclick.net
+domain:ad.hpplay.cn
 domain:ad.partner.gifshow.com
 domain:ad.qingting.fm
 domain:ad.qq.com
@@ -43,6 +43,7 @@ domain:adclick.g.doubleclick.net
 domain:adclick.tencentmusic.com
 domain:adcolony.com
 domain:addata.jd.com
+domain:adeng.hpplay.cn
 domain:adexpo.tencentmusic.com
 domain:adfilter.imtt.qq.com
 domain:adfstat.yandex.ru
@@ -139,7 +140,6 @@ domain:adx-os.anythinktech.com
 domain:adx.ads.heytapmobi.com
 domain:adx.ads.oppomobile.com
 domain:adxlog-adnet.vivo.com.cn
-domain:adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn
 domain:adxserver.ad.cmvideo.cn
 domain:aegis.qq.com
 domain:afs.googlesyndication.com
@@ -164,6 +164,7 @@ domain:analytics.tiktok.com
 domain:analytics.woozooo.com
 domain:analyticsengine.s3.amazonaws.com
 domain:analyze.lemurbrowser.com
+domain:android.bugly.qq.com
 domain:andrqd.play.aiseet.atianqi.com
 domain:ap.dongqiudi.com
 domain:apd-pcdnwxlogin.teg.tencent-cloud.net
@@ -191,7 +192,6 @@ domain:api.touch-moblie.com
 domain:api.yfanads.com
 domain:api5-normal-quic-lf.ixigua.com
 domain:apiyd.my91app.com
-domain:apks.webxiaobai.top
 domain:app-measurement.com
 domain:appcfg.v.qq.com
 domain:appcloud2.in.zhihu.com
@@ -243,6 +243,7 @@ domain:cdn-ads.oss-cn-shanghai.aliyuncs.com
 domain:cdn-plugin-sync-upgrade-juui.hismarttv.com
 domain:cdn.ad.xiaomi.com
 domain:cdn.aiclk.com
+domain:cdn.hpplay.com.cn
 domain:cdn.ynuf.aliapp.org
 domain:cfg.imtt.qq.com
 domain:chat1.jd.com
@@ -258,6 +259,7 @@ domain:cnlogs.umengcloud.com
 domain:cnzz.com
 domain:collect.kugou.com
 domain:commdata.v.qq.com
+domain:conf.hpplay.cn
 domain:config.chsmarttv.com
 domain:config.unityads.unity3d.com
 domain:cpc-service-square.aiclk.com
@@ -309,6 +311,7 @@ domain:frontend-perf-service.e.kuaishou.com
 domain:fxgate.baidu.com
 domain:g-adnet.hiaiabc.com
 domain:g-staic.ganjingworld.com
+domain:g.dtv.cn.miaozhen.com
 domain:g2.ganjing.world
 domain:game.loveota.com
 domain:gdfp.gifshow.com
@@ -332,17 +335,20 @@ domain:gromore.pangolin-sdk-toutiao.com
 domain:grs.dbankcloud.com
 domain:grs.hicloud.com
 domain:grs.platform.dbankcloud.ru
+domain:gslb.hpplay.cn
 domain:gvideo.qpic.cn
 domain:h-adashx.ut.taobao.com
 domain:h.trace.qq.com
+domain:h5.hpplay.com.cn
 domain:hanlanad.com
 domain:heads-ak.spotify.com.edgesuite.net
 domain:heads-fa.spotify.com
 domain:hexagon-analytics.com
 domain:hm.baidu.com
 domain:hmma.baidu.com
+domain:hotupgrade.hpplay.cn
 domain:houyi.kkmh.com
-domain:hpplay.cn
+domain:hpplay.cdn.cibn.cc
 domain:httpdns.bcelive.com
 domain:httpdns.ocloud.oppomobile.com
 domain:hugelog.fcbox.com
@@ -364,14 +370,15 @@ domain:ii.gdt.qq.com
 domain:imag8.pubmatic.com
 domain:imag86.pubmatic.com
 domain:image-ad.sm.cn
+domain:image.hpplay.cn
 domain:imageplus.baidu.com
 domain:images.outbrainimg.com
 domain:images.pinduoduo.com
+domain:imdns.hpplay.cn
 domain:img-c.heytapimage.com
 domain:img-x.jd.com
 domain:img.adnyg.com
 domain:img.adnyg.com.w.kunlungr.com
-domain:imtmp.net
 domain:in.treasuredata.com
 domain:iot-eu-logser.realme.com
 domain:iot-logser.realme.com
@@ -523,6 +530,7 @@ domain:pgdt.gtimg.cn
 domain:pgdt.ugdtimg.com
 domain:pglstatp-toutiao.com
 domain:pig.pupuapi.com
+domain:pin.hpplay.cn
 domain:pixon.ads-pixiv.net
 domain:pkoplink.com
 domain:plbslog.umeng.com
@@ -547,6 +555,7 @@ domain:review.gdtimg.com
 domain:rlog.popin.cc
 domain:rms-drcn.platform.dbankcloud.cn
 domain:roi.soulapp.cn
+domain:rp.hpplay.cn
 domain:rpt.gdt.qq.com
 domain:rtb.voiceads.cn
 domain:s.amazon-adsystem.com
@@ -569,6 +578,7 @@ domain:sdk.e.qq.com
 domain:sdk.hzsanjiaomao.com
 domain:sdk.markmedia.com.cn
 domain:sdk.mobads.adwangmai.com
+domain:sdkauth.hpplay.cn
 domain:sdkconf.avlyun.com
 domain:sdkconfig.ad.intl.xiaomi.com
 domain:sdkconfig.ad.xiaomi.com
@@ -592,6 +602,7 @@ domain:shouji.sogou.com
 domain:sigmob.cn
 domain:sigmob.com
 domain:skdisplay.jd.com
+domain:sl.hpplay.cn
 domain:slb-p2p.vcloud.ks-live.com
 domain:smad.ms.zhangyue.net
 domain:smart-tv.cn
@@ -603,7 +614,6 @@ domain:snowflake.qq.com
 domain:stat.dongqiudi.com
 domain:stat.y.qq.com
 domain:static.ads-twitter.com
-domain:static.wxqcloud.qq.com.cn
 domain:statics.woozooo.com
 domain:stats.qiumibao.com
 domain:stats.wp.com
@@ -657,6 +667,7 @@ domain:tracker.gitee.com
 domain:tracking.miui.com
 domain:tracking.rus.miui.com
 domain:tsvrv.com
+domain:tvapp.hpplay.cn
 domain:tvuser-ch.cedock.com
 domain:tx-ad.a.yximgs.com
 domain:tx-kmpaudio.pull.yximgs.com
@@ -695,6 +706,7 @@ domain:v3.gdt.qq.com
 domain:video-ad.sm.cn
 domain:video-dsp.pddpic.com
 domain:video.dispatch.tc.qq.com
+domain:vipauth.hpplay.cn
 domain:virusinfo-cloudscan-cn.heytapmobi.com
 domain:vlive.qqvideo.tc.qq.com
 domain:volc.bj.ad.track.66mobi.com

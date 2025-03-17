@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 743
+!Total lines: 755
 !Version: 1.5.8-乙巳蛇年🐍-release
-!Update time: 2025-03-12 18:05:45 UTC+8
-!Update content: block more WeChat skit ads.
+!Update time: 2025-03-17 14:05:11 UTC+8
+!Update content: added happly ads block, removed some invalid domain, and moved a domain that may affect usage. #123
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -20,7 +20,6 @@
 127.0.0.1 a0.app.xiaomi.com
 127.0.0.1 aaid.umeng.com
 127.0.0.1 abtest-ch.snssdk.com
-127.0.0.1 ad-cache.dopool.com
 127.0.0.1 ad-cdn.qingting.fm
 127.0.0.1 ad-cmp.hismarttv.com
 127.0.0.1 ad-download.hismarttv.com
@@ -35,6 +34,7 @@
 127.0.0.1 ad.cctv.com
 127.0.0.1 ad.cyapi.cn
 127.0.0.1 ad.doubleclick.net
+127.0.0.1 ad.hpplay.cn
 127.0.0.1 ad.partner.gifshow.com
 127.0.0.1 ad.qingting.fm
 127.0.0.1 ad.qq.com
@@ -58,6 +58,7 @@
 127.0.0.1 adclick.tencentmusic.com
 127.0.0.1 adcolony.com
 127.0.0.1 addata.jd.com
+127.0.0.1 adeng.hpplay.cn
 127.0.0.1 adexpo.tencentmusic.com
 127.0.0.1 adfilter.imtt.qq.com
 127.0.0.1 adfstat.yandex.ru
@@ -154,7 +155,6 @@
 127.0.0.1 adx.ads.heytapmobi.com
 127.0.0.1 adx.ads.oppomobile.com
 127.0.0.1 adxlog-adnet.vivo.com.cn
-127.0.0.1 adxlog-adnet.vivo.com.cn.dsa.dnsv1.com.cn
 127.0.0.1 adxserver.ad.cmvideo.cn
 127.0.0.1 aegis.qq.com
 127.0.0.1 afs.googlesyndication.com
@@ -179,6 +179,7 @@
 127.0.0.1 analytics.woozooo.com
 127.0.0.1 analyticsengine.s3.amazonaws.com
 127.0.0.1 analyze.lemurbrowser.com
+127.0.0.1 android.bugly.qq.com
 127.0.0.1 andrqd.play.aiseet.atianqi.com
 127.0.0.1 ap.dongqiudi.com
 127.0.0.1 apd-pcdnwxlogin.teg.tencent-cloud.net
@@ -206,7 +207,6 @@
 127.0.0.1 api.yfanads.com
 127.0.0.1 api5-normal-quic-lf.ixigua.com
 127.0.0.1 apiyd.my91app.com
-127.0.0.1 apks.webxiaobai.top
 127.0.0.1 app-measurement.com
 127.0.0.1 appcfg.v.qq.com
 127.0.0.1 appcloud2.in.zhihu.com
@@ -258,6 +258,7 @@
 127.0.0.1 cdn-plugin-sync-upgrade-juui.hismarttv.com
 127.0.0.1 cdn.ad.xiaomi.com
 127.0.0.1 cdn.aiclk.com
+127.0.0.1 cdn.hpplay.com.cn
 127.0.0.1 cdn.ynuf.aliapp.org
 127.0.0.1 cfg.imtt.qq.com
 127.0.0.1 chat1.jd.com
@@ -273,6 +274,7 @@
 127.0.0.1 cnzz.com
 127.0.0.1 collect.kugou.com
 127.0.0.1 commdata.v.qq.com
+127.0.0.1 conf.hpplay.cn
 127.0.0.1 config.chsmarttv.com
 127.0.0.1 config.unityads.unity3d.com
 127.0.0.1 cpc-service-square.aiclk.com
@@ -324,6 +326,7 @@
 127.0.0.1 fxgate.baidu.com
 127.0.0.1 g-adnet.hiaiabc.com
 127.0.0.1 g-staic.ganjingworld.com
+127.0.0.1 g.dtv.cn.miaozhen.com
 127.0.0.1 g2.ganjing.world
 127.0.0.1 game.loveota.com
 127.0.0.1 gdfp.gifshow.com
@@ -347,17 +350,20 @@
 127.0.0.1 grs.dbankcloud.com
 127.0.0.1 grs.hicloud.com
 127.0.0.1 grs.platform.dbankcloud.ru
+127.0.0.1 gslb.hpplay.cn
 127.0.0.1 gvideo.qpic.cn
 127.0.0.1 h-adashx.ut.taobao.com
 127.0.0.1 h.trace.qq.com
+127.0.0.1 h5.hpplay.com.cn
 127.0.0.1 hanlanad.com
 127.0.0.1 heads-ak.spotify.com.edgesuite.net
 127.0.0.1 heads-fa.spotify.com
 127.0.0.1 hexagon-analytics.com
 127.0.0.1 hm.baidu.com
 127.0.0.1 hmma.baidu.com
+127.0.0.1 hotupgrade.hpplay.cn
 127.0.0.1 houyi.kkmh.com
-127.0.0.1 hpplay.cn
+127.0.0.1 hpplay.cdn.cibn.cc
 127.0.0.1 httpdns.bcelive.com
 127.0.0.1 httpdns.ocloud.oppomobile.com
 127.0.0.1 hugelog.fcbox.com
@@ -379,14 +385,15 @@
 127.0.0.1 imag8.pubmatic.com
 127.0.0.1 imag86.pubmatic.com
 127.0.0.1 image-ad.sm.cn
+127.0.0.1 image.hpplay.cn
 127.0.0.1 imageplus.baidu.com
 127.0.0.1 images.outbrainimg.com
 127.0.0.1 images.pinduoduo.com
+127.0.0.1 imdns.hpplay.cn
 127.0.0.1 img-c.heytapimage.com
 127.0.0.1 img-x.jd.com
 127.0.0.1 img.adnyg.com
 127.0.0.1 img.adnyg.com.w.kunlungr.com
-127.0.0.1 imtmp.net
 127.0.0.1 in.treasuredata.com
 127.0.0.1 iot-eu-logser.realme.com
 127.0.0.1 iot-logser.realme.com
@@ -538,6 +545,7 @@
 127.0.0.1 pgdt.ugdtimg.com
 127.0.0.1 pglstatp-toutiao.com
 127.0.0.1 pig.pupuapi.com
+127.0.0.1 pin.hpplay.cn
 127.0.0.1 pixon.ads-pixiv.net
 127.0.0.1 pkoplink.com
 127.0.0.1 plbslog.umeng.com
@@ -562,6 +570,7 @@
 127.0.0.1 rlog.popin.cc
 127.0.0.1 rms-drcn.platform.dbankcloud.cn
 127.0.0.1 roi.soulapp.cn
+127.0.0.1 rp.hpplay.cn
 127.0.0.1 rpt.gdt.qq.com
 127.0.0.1 rtb.voiceads.cn
 127.0.0.1 s.amazon-adsystem.com
@@ -584,6 +593,7 @@
 127.0.0.1 sdk.hzsanjiaomao.com
 127.0.0.1 sdk.markmedia.com.cn
 127.0.0.1 sdk.mobads.adwangmai.com
+127.0.0.1 sdkauth.hpplay.cn
 127.0.0.1 sdkconf.avlyun.com
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
@@ -607,6 +617,7 @@
 127.0.0.1 sigmob.cn
 127.0.0.1 sigmob.com
 127.0.0.1 skdisplay.jd.com
+127.0.0.1 sl.hpplay.cn
 127.0.0.1 slb-p2p.vcloud.ks-live.com
 127.0.0.1 smad.ms.zhangyue.net
 127.0.0.1 smart-tv.cn
@@ -618,7 +629,6 @@
 127.0.0.1 stat.dongqiudi.com
 127.0.0.1 stat.y.qq.com
 127.0.0.1 static.ads-twitter.com
-127.0.0.1 static.wxqcloud.qq.com.cn
 127.0.0.1 statics.woozooo.com
 127.0.0.1 stats.qiumibao.com
 127.0.0.1 stats.wp.com
@@ -672,6 +682,7 @@
 127.0.0.1 tracking.miui.com
 127.0.0.1 tracking.rus.miui.com
 127.0.0.1 tsvrv.com
+127.0.0.1 tvapp.hpplay.cn
 127.0.0.1 tvuser-ch.cedock.com
 127.0.0.1 tx-ad.a.yximgs.com
 127.0.0.1 tx-kmpaudio.pull.yximgs.com
@@ -710,6 +721,7 @@
 127.0.0.1 video-ad.sm.cn
 127.0.0.1 video-dsp.pddpic.com
 127.0.0.1 video.dispatch.tc.qq.com
+127.0.0.1 vipauth.hpplay.cn
 127.0.0.1 virusinfo-cloudscan-cn.heytapmobi.com
 127.0.0.1 vlive.qqvideo.tc.qq.com
 127.0.0.1 volc.bj.ad.track.66mobi.com
