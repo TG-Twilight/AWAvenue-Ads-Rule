@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 749
-#Version: 1.5.8-乙巳蛇年🐍-release
-#Update time: 2025-03-17 14:39:15 UTC+8
-#Update content: remove some invalid domain，you can check MANBA_ads
+#Total lines: 748
+#Version: 1.5.9-release
+#Update time: 2025-03-17 15:24:21 UTC+8
+#Update content: remove invalid domain.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -211,7 +211,6 @@ domain, ata-sdk-uuid-report.dreport.meituan.net
 domain, auction.unityads.unity3d.com
 domain, audid-api.taobao.com
 domain, audid.umeng.com
-domain, azr.footprintdns.com
 domain, b1-data.ads.heytapmobi.com
 domain, baichuan-sdk.alicdn.com
 domain, baichuan-sdk.taobao.com

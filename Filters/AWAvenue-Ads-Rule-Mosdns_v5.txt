@@ -197,7 +197,6 @@ domain:ata-sdk-uuid-report.dreport.meituan.net
 domain:auction.unityads.unity3d.com
 domain:audid-api.taobao.com
 domain:audid.umeng.com
-domain:azr.footprintdns.com
 domain:b1-data.ads.heytapmobi.com
 domain:baichuan-sdk.alicdn.com
 domain:baichuan-sdk.taobao.com
