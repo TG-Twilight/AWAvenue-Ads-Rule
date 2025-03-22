@@ -18,7 +18,7 @@ API:
 - rule.ip_list(获取ip列表)
 - rule.ip6_list(获取ipv6列表)
 
-> 所有变量均为列表 无需读取文件
+> 所有变量均为列表 也可以导入config.py获取
 
 模板:
 ```python
@@ -45,7 +45,7 @@ def format_ip(List): # 转换ip列表
     return ip
 
 def build(rule): # 入口函数
-    clash_list = ["payload:"] + format_ip(rule.ip_list) + format_domain(rule.domain_list) + format_regex(rule.regex_list) 合并规则
+    clash_list = ["payload:"] + format_ip(rule.ip_list) + format_domain(rule.domain_list) + format_regex(rule.regex_list)
     return clash_list, ".yaml", "#", len(clash_list)
     #
 
