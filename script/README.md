@@ -14,40 +14,10 @@
 
 API:
 - rule.domain_list(获取域名列表)
+- rule.domain_v6_list(获取支持ipv6域名列表)
 - rule.regex_list(获取正则表达式的域名列表)
 - rule.ip_list(获取ip列表)
 - rule.ip6_list(获取ipv6列表)
 
 > 所有变量均为列表 也可以导入config.py获取
-
-模板:
-```python
-
-def format_domain(List): # 转换域名规则
-    domain = []
-    for line in List:
-        domain_lines = f"  - DOMAIN,{line.strip()}"
-        domain.append(domain_lines)
-    return domain
-
-def format_regex(List): # 转换正则表达式规则
-    regex = []
-    for line in List:
-        regex_lines = f"  - DOMAIN-REGEX,'{line.strip()}'"
-        regex.append(regex_lines)
-    return regex
-
-def format_ip(List): # 转换ip列表
-    ip = []
-    for line in List:
-        ip_lines = f"  - IP-CIDR,{line.strip()}"
-        ip.append(ip_lines)
-    return ip
-
-def build(rule): # 入口函数
-    clash_list = ["payload:"] + format_ip(rule.ip_list) + format_domain(rule.domain_list) + format_regex(rule.regex_list)
-    return clash_list, ".yaml", "#", len(clash_list)
-    #
-
-```
-> 输出文件名=插件名
+输出文件名=插件名

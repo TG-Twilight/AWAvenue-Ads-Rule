@@ -24,6 +24,7 @@ jobs:
         git clone "https://${{ github.actor }}:${{ secrets.TOKEN }}@github.com/${{ github.repository }}" -b build build
         cd build
         mkdir out
+        pip install -r requirements.txt
         python main.py
         cd out
         mkdir Filters

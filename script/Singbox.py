@@ -21,4 +21,4 @@ def build(rule):
     }
     
     json_data = [json.dumps(rule, indent=2)]
-    return {'list': json_data, 'suffix': '.json', 'comment': '//', 'total': len(json_data)}
+    return {'list': json_data, 'suffix': '.json', 'comment': '', 'total': len(json_data)}
