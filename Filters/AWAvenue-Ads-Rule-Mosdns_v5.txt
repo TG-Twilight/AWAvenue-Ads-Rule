@@ -323,7 +323,6 @@ domain:hm.baidu.com
 domain:hmma.baidu.com
 domain:hotupgrade.hpplay.cn
 domain:houyi.kkmh.com
-domain:hpplay.cdn.cibn.cc
 domain:httpdns.bcelive.com
 domain:httpdns.ocloud.oppomobile.com
 domain:hugelog.fcbox.com

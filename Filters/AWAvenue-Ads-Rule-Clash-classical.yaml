@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 701
+#Total lines: 700
 #Version: 1.5.9-release
-#Update time: 2025-03-23 00:11:41 UTC+8
-#Update content: 添加读取原始规则的合法性 有效性检，对dns层拦截的插件添加ipv6屏蔽兼容
+#Update time: 2025-03-23 00:17:14 UTC+8
+#Update content: 添加读取原始规则的合法性 有效性校验以及修复之前的部分错误，对dns层拦截的插件添加ipv6屏蔽兼容
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -335,7 +335,6 @@ payload:
   - DOMAIN,hmma.baidu.com
   - DOMAIN,hotupgrade.hpplay.cn
   - DOMAIN,houyi.kkmh.com
-  - DOMAIN,hpplay.cdn.cibn.cc
   - DOMAIN,httpdns.bcelive.com
   - DOMAIN,httpdns.ocloud.oppomobile.com
   - DOMAIN,hugelog.fcbox.com
