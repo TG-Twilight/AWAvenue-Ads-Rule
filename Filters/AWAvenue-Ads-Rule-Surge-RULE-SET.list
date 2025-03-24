@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 699
+#Total lines: 700
 #Version: 1.5.9-release
-#Update time: 2025-03-23 00:17:14 UTC+8
-#Update content: 添加读取原始规则的合法性 有效性校验以及修复之前的部分错误，对dns层拦截的插件添加ipv6屏蔽兼容
+#Update time: 2025-03-24 11:36:52 UTC+8
+#Update content: Update domain.txt
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -199,6 +199,7 @@ DOMAIN,auction.unityads.unity3d.com,reject
 DOMAIN,audid-api.taobao.com,reject
 DOMAIN,audid.umeng.com,reject
 DOMAIN,b1-data.ads.heytapmobi.com,reject
+DOMAIN,badjs.weixinbridge.com,reject
 DOMAIN,baichuan-sdk.alicdn.com,reject
 DOMAIN,baichuan-sdk.taobao.com,reject
 DOMAIN,bdad.123pan.cn,reject
@@ -232,7 +233,6 @@ DOMAIN,cbjs.baidu.com,reject
 DOMAIN,ccc-x.jd.com,reject
 DOMAIN,ccs.umeng.com,reject
 DOMAIN,cctv.adsunion.com,reject
-DOMAIN,cdn-ad.wtzw.com,reject
 DOMAIN,cdn-ads.oss-cn-shanghai.aliyuncs.com,reject
 DOMAIN,cdn-plugin-sync-upgrade-juui.hismarttv.com,reject
 DOMAIN,cdn.aiclk.com,reject
@@ -334,6 +334,7 @@ DOMAIN,hm.baidu.com,reject
 DOMAIN,hmma.baidu.com,reject
 DOMAIN,hotupgrade.hpplay.cn,reject
 DOMAIN,houyi.kkmh.com,reject
+DOMAIN,hpplay.cdn.cibn.cc,reject
 DOMAIN,httpdns.bcelive.com,reject
 DOMAIN,httpdns.ocloud.oppomobile.com,reject
 DOMAIN,hugelog.fcbox.com,reject

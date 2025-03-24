@@ -188,6 +188,7 @@ domain:auction.unityads.unity3d.com
 domain:audid-api.taobao.com
 domain:audid.umeng.com
 domain:b1-data.ads.heytapmobi.com
+domain:badjs.weixinbridge.com
 domain:baichuan-sdk.alicdn.com
 domain:baichuan-sdk.taobao.com
 domain:bdad.123pan.cn
@@ -221,7 +222,6 @@ domain:cbjs.baidu.com
 domain:ccc-x.jd.com
 domain:ccs.umeng.com
 domain:cctv.adsunion.com
-domain:cdn-ad.wtzw.com
 domain:cdn-ads.oss-cn-shanghai.aliyuncs.com
 domain:cdn-plugin-sync-upgrade-juui.hismarttv.com
 domain:cdn.aiclk.com
@@ -323,6 +323,7 @@ domain:hm.baidu.com
 domain:hmma.baidu.com
 domain:hotupgrade.hpplay.cn
 domain:houyi.kkmh.com
+domain:hpplay.cdn.cibn.cc
 domain:httpdns.bcelive.com
 domain:httpdns.ocloud.oppomobile.com
 domain:hugelog.fcbox.com

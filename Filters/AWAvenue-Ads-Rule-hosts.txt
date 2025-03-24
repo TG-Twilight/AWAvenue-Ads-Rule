@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 687
+!Total lines: 688
 !Version: 1.5.9-release
-!Update time: 2025-03-23 00:17:14 UTC+8
-!Update content: 添加读取原始规则的合法性 有效性校验以及修复之前的部分错误，对dns层拦截的插件添加ipv6屏蔽兼容
+!Update time: 2025-03-24 11:36:53 UTC+8
+!Update content: Update domain.txt
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -203,6 +203,7 @@
 0.0.0.0 audid-api.taobao.com
 0.0.0.0 audid.umeng.com
 0.0.0.0 b1-data.ads.heytapmobi.com
+0.0.0.0 badjs.weixinbridge.com
 0.0.0.0 baichuan-sdk.alicdn.com
 0.0.0.0 baichuan-sdk.taobao.com
 0.0.0.0 bdad.123pan.cn
@@ -236,7 +237,6 @@
 0.0.0.0 ccc-x.jd.com
 0.0.0.0 ccs.umeng.com
 0.0.0.0 cctv.adsunion.com
-0.0.0.0 cdn-ad.wtzw.com
 0.0.0.0 cdn-ads.oss-cn-shanghai.aliyuncs.com
 0.0.0.0 cdn-plugin-sync-upgrade-juui.hismarttv.com
 0.0.0.0 cdn.aiclk.com
@@ -338,6 +338,7 @@
 0.0.0.0 hmma.baidu.com
 0.0.0.0 hotupgrade.hpplay.cn
 0.0.0.0 houyi.kkmh.com
+0.0.0.0 hpplay.cdn.cibn.cc
 0.0.0.0 httpdns.bcelive.com
 0.0.0.0 httpdns.ocloud.oppomobile.com
 0.0.0.0 hugelog.fcbox.com
@@ -756,6 +757,7 @@
 :: aspect-upush.umeng.com
 :: audid-api.taobao.com
 :: audid.umeng.com
+:: badjs.weixinbridge.com
 :: beacon-api.aliyuncs.com
 :: beaconcdn.qq.com
 :: beacons.gvt2.com

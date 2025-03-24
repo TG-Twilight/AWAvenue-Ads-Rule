@@ -2,8 +2,8 @@
 !--------------------------------------
 !Total lines: 12
 !Version: 1.5.9-release
-!Update time: 2025-03-23 00:17:14 UTC+8
-!Update content: 添加读取原始规则的合法性 有效性校验以及修复之前的部分错误，对dns层拦截的插件添加ipv6屏蔽兼容
+!Update time: 2025-03-24 11:36:53 UTC+8
+!Update content: Update domain.txt
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -199,6 +199,7 @@ ip dns static add address=240.0.0.1 name=auction.unityads.unity3d.com
 ip dns static add address=240.0.0.1 name=audid-api.taobao.com
 ip dns static add address=240.0.0.1 name=audid.umeng.com
 ip dns static add address=240.0.0.1 name=b1-data.ads.heytapmobi.com
+ip dns static add address=240.0.0.1 name=badjs.weixinbridge.com
 ip dns static add address=240.0.0.1 name=baichuan-sdk.alicdn.com
 ip dns static add address=240.0.0.1 name=baichuan-sdk.taobao.com
 ip dns static add address=240.0.0.1 name=bdad.123pan.cn
@@ -232,7 +233,6 @@ ip dns static add address=240.0.0.1 name=cbjs.baidu.com
 ip dns static add address=240.0.0.1 name=ccc-x.jd.com
 ip dns static add address=240.0.0.1 name=ccs.umeng.com
 ip dns static add address=240.0.0.1 name=cctv.adsunion.com
-ip dns static add address=240.0.0.1 name=cdn-ad.wtzw.com
 ip dns static add address=240.0.0.1 name=cdn-ads.oss-cn-shanghai.aliyuncs.com
 ip dns static add address=240.0.0.1 name=cdn-plugin-sync-upgrade-juui.hismarttv.com
 ip dns static add address=240.0.0.1 name=cdn.aiclk.com
@@ -334,6 +334,7 @@ ip dns static add address=240.0.0.1 name=hm.baidu.com
 ip dns static add address=240.0.0.1 name=hmma.baidu.com
 ip dns static add address=240.0.0.1 name=hotupgrade.hpplay.cn
 ip dns static add address=240.0.0.1 name=houyi.kkmh.com
+ip dns static add address=240.0.0.1 name=hpplay.cdn.cibn.cc
 ip dns static add address=240.0.0.1 name=httpdns.bcelive.com
 ip dns static add address=240.0.0.1 name=httpdns.ocloud.oppomobile.com
 ip dns static add address=240.0.0.1 name=hugelog.fcbox.com
@@ -752,6 +753,7 @@ ip dns static add address=:: name=applog.zijieapi.com
 ip dns static add address=:: name=aspect-upush.umeng.com
 ip dns static add address=:: name=audid-api.taobao.com
 ip dns static add address=:: name=audid.umeng.com
+ip dns static add address=:: name=badjs.weixinbridge.com
 ip dns static add address=:: name=beacon-api.aliyuncs.com
 ip dns static add address=:: name=beaconcdn.qq.com
 ip dns static add address=:: name=beacons.gvt2.com
