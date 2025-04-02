@@ -2,8 +2,8 @@
 #--------------------------------------
 #Total lines: 701
 #Version: 1.5.9-release
-#Update time: 2025-03-24 11:36:52 UTC+8
-#Update content: Update domain.txt
+#Update time: 2025-04-02 09:29:30 UTC+8
+#Update content: remove oauth-login-drcn.platform.dbankcloud.com fix #127
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -122,7 +122,6 @@ payload:
   - 'adtago.s3.amazonaws.com'
   - 'adtech.yahooinc.com'
   - 'adtrack.quark.cn'
-  - 'adv.fjtv.net'
   - 'adv.sec.intl.miui.com'
   - 'adv.sec.miui.com'
   - 'advertising-api-eu.amazon.com'
@@ -184,6 +183,7 @@ payload:
   - 'api.htp.hubcloud.com.cn'
   - 'api.hzsanjiaomao.com'
   - 'api.installer.xiaomi.com'
+  - 'api.jietuhb.com'
   - 'api.kingdata.ksyun.com'
   - 'api.statsig.com'
   - 'api.touch-moblie.com'
@@ -234,6 +234,7 @@ payload:
   - 'ccc-x.jd.com'
   - 'ccs.umeng.com'
   - 'cctv.adsunion.com'
+  - 'cdn-ad.wtzw.com'
   - 'cdn-ads.oss-cn-shanghai.aliyuncs.com'
   - 'cdn-plugin-sync-upgrade-juui.hismarttv.com'
   - 'cdn.aiclk.com'
@@ -468,7 +469,6 @@ payload:
   - 'notes-analytics-events.apple.com'
   - 'nsclick.baidu.com'
   - 'o2o.api.xiaomi.com'
-  - 'oauth-login-drcn.platform.dbankcloud.com'
   - 'offerwall.yandex.net'
   - 'omgmta.play.aiseet.atianqi.com'
   - 'open.e.kuaishou.cn'

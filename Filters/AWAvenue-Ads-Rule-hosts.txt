@@ -2,8 +2,8 @@
 !--------------------------------------
 !Total lines: 688
 !Version: 1.5.9-release
-!Update time: 2025-03-24 11:36:53 UTC+8
-!Update content: Update domain.txt
+!Update time: 2025-04-02 09:29:30 UTC+8
+!Update content: remove oauth-login-drcn.platform.dbankcloud.com fix #127
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -125,7 +125,6 @@
 0.0.0.0 adtago.s3.amazonaws.com
 0.0.0.0 adtech.yahooinc.com
 0.0.0.0 adtrack.quark.cn
-0.0.0.0 adv.fjtv.net
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 adv.sec.miui.com
 0.0.0.0 advertising-api-eu.amazon.com
@@ -187,6 +186,7 @@
 0.0.0.0 api.htp.hubcloud.com.cn
 0.0.0.0 api.hzsanjiaomao.com
 0.0.0.0 api.installer.xiaomi.com
+0.0.0.0 api.jietuhb.com
 0.0.0.0 api.kingdata.ksyun.com
 0.0.0.0 api.statsig.com
 0.0.0.0 api.touch-moblie.com
@@ -237,6 +237,7 @@
 0.0.0.0 ccc-x.jd.com
 0.0.0.0 ccs.umeng.com
 0.0.0.0 cctv.adsunion.com
+0.0.0.0 cdn-ad.wtzw.com
 0.0.0.0 cdn-ads.oss-cn-shanghai.aliyuncs.com
 0.0.0.0 cdn-plugin-sync-upgrade-juui.hismarttv.com
 0.0.0.0 cdn.aiclk.com
@@ -471,7 +472,6 @@
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 nsclick.baidu.com
 0.0.0.0 o2o.api.xiaomi.com
-0.0.0.0 oauth-login-drcn.platform.dbankcloud.com
 0.0.0.0 offerwall.yandex.net
 0.0.0.0 omgmta.play.aiseet.atianqi.com
 0.0.0.0 open.e.kuaishou.cn
@@ -740,6 +740,7 @@
 :: adstudio-assets.scdn.co
 :: adstudio.spotify.com
 :: adtech.yahooinc.com
+:: adtrack.quark.cn
 :: advertising.yahoo.com
 :: advertising.yandex.ru
 :: aegis.qq.com
@@ -750,6 +751,7 @@
 :: android.bugly.qq.com
 :: ap.dongqiudi.com
 :: api.ad.xiaomi.com
+:: api.jietuhb.com
 :: api5-normal-quic-lf.ixigua.com
 :: app-measurement.com
 :: appcfg.v.qq.com
@@ -803,7 +805,6 @@
 :: ii.gdt.qq.com
 :: image-ad.sm.cn
 :: img-c.heytapimage.com
-:: img-x.jd.com
 :: jswebcollects.kugou.com
 :: kde.qq.com
 :: ks.ferlytc.com
@@ -821,6 +822,7 @@
 :: log.zijieapi.com
 :: log1.cmpassport.com
 :: logrcv.aiclk.com
+:: logs.amap.com
 :: logtj.kugou.com
 :: m.ad.zhangyue.com
 :: m.atm.youku.com
@@ -837,7 +839,6 @@
 :: monitor.music.qq.com
 :: monsetting.toutiao.com
 :: mssdk.volces.com
-:: oauth-login-drcn.platform.dbankcloud.com
 :: offerwall.yandex.net
 :: optimus-ads.amap.com
 :: oss.cdn.aiclk.com
@@ -895,6 +896,7 @@
 :: uedas.qidian.com
 :: umini.shujupie.com
 :: update.avlyun.sec.miui.com
+:: uranus.jd.com
 :: v1-ad.video.yximgs.com
 :: v2.gdt.qq.com
 :: v2mi.gdt.qq.com

@@ -2,8 +2,8 @@
 #--------------------------------------
 #Total lines: 700
 #Version: 1.5.9-release
-#Update time: 2025-03-24 11:36:52 UTC+8
-#Update content: Update domain.txt
+#Update time: 2025-04-02 09:29:30 UTC+8
+#Update content: remove oauth-login-drcn.platform.dbankcloud.com fix #127
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -121,7 +121,6 @@ DOMAIN,adstudio.spotify.com,reject
 DOMAIN,adtago.s3.amazonaws.com,reject
 DOMAIN,adtech.yahooinc.com,reject
 DOMAIN,adtrack.quark.cn,reject
-DOMAIN,adv.fjtv.net,reject
 DOMAIN,adv.sec.intl.miui.com,reject
 DOMAIN,adv.sec.miui.com,reject
 DOMAIN,advertising-api-eu.amazon.com,reject
@@ -183,6 +182,7 @@ DOMAIN,api.e.kuaishou.com,reject
 DOMAIN,api.htp.hubcloud.com.cn,reject
 DOMAIN,api.hzsanjiaomao.com,reject
 DOMAIN,api.installer.xiaomi.com,reject
+DOMAIN,api.jietuhb.com,reject
 DOMAIN,api.kingdata.ksyun.com,reject
 DOMAIN,api.statsig.com,reject
 DOMAIN,api.touch-moblie.com,reject
@@ -233,6 +233,7 @@ DOMAIN,cbjs.baidu.com,reject
 DOMAIN,ccc-x.jd.com,reject
 DOMAIN,ccs.umeng.com,reject
 DOMAIN,cctv.adsunion.com,reject
+DOMAIN,cdn-ad.wtzw.com,reject
 DOMAIN,cdn-ads.oss-cn-shanghai.aliyuncs.com,reject
 DOMAIN,cdn-plugin-sync-upgrade-juui.hismarttv.com,reject
 DOMAIN,cdn.aiclk.com,reject
@@ -467,7 +468,6 @@ DOMAIN,nmetrics.samsung.com,reject
 DOMAIN,notes-analytics-events.apple.com,reject
 DOMAIN,nsclick.baidu.com,reject
 DOMAIN,o2o.api.xiaomi.com,reject
-DOMAIN,oauth-login-drcn.platform.dbankcloud.com,reject
 DOMAIN,offerwall.yandex.net,reject
 DOMAIN,omgmta.play.aiseet.atianqi.com,reject
 DOMAIN,open.e.kuaishou.cn,reject
