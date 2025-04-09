@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 688
+!Total lines: 701
 !Version: 1.5.9-release
-!Update time: 2025-04-02 09:29:30 UTC+8
-!Update content: remove oauth-login-drcn.platform.dbankcloud.com fix #127
+!Update time: 2025-04-09 19:27:42 UTC+8
+!Update content: Block more ads and remove invalid domain names. #130 #131
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -13,7 +13,6 @@
 ::1 localhost
 
 
-0.0.0.0 1010pic.com
 0.0.0.0 1500020991.vodplayer.wxamedia.com
 0.0.0.0 1500026601.vodplayer.wxamedia.com
 0.0.0.0 8le8le.com
@@ -57,6 +56,8 @@
 0.0.0.0 adcolony.com
 0.0.0.0 addata.jd.com
 0.0.0.0 adeng.hpplay.cn
+0.0.0.0 adexp.chinaliftoff.io
+0.0.0.0 adexp.liftoff.io
 0.0.0.0 adexpo.tencentmusic.com
 0.0.0.0 adfilter.imtt.qq.com
 0.0.0.0 adfstat.yandex.ru
@@ -125,6 +126,7 @@
 0.0.0.0 adtago.s3.amazonaws.com
 0.0.0.0 adtech.yahooinc.com
 0.0.0.0 adtrack.quark.cn
+0.0.0.0 adv.fjtv.net
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 adv.sec.miui.com
 0.0.0.0 advertising-api-eu.amazon.com
@@ -241,15 +243,20 @@
 0.0.0.0 cdn-ads.oss-cn-shanghai.aliyuncs.com
 0.0.0.0 cdn-plugin-sync-upgrade-juui.hismarttv.com
 0.0.0.0 cdn.aiclk.com
+0.0.0.0 cdn.chinaliftoff-creatives.io
 0.0.0.0 cdn.hpplay.com.cn
+0.0.0.0 cdn.liftoff-creatives.io
 0.0.0.0 cdn.ynuf.aliapp.org
 0.0.0.0 cfg.imtt.qq.com
 0.0.0.0 chat1.jd.com
 0.0.0.0 chiq-cloud.com
 0.0.0.0 cj.qidian.com
 0.0.0.0 ck.ads.oppomobile.com
+0.0.0.0 click.chinaliftoff.io
 0.0.0.0 click.googleanalytics.com
+0.0.0.0 click.liftoff.io
 0.0.0.0 click.oneplus.cn
+0.0.0.0 click4.chinaliftoff.io
 0.0.0.0 clog.miguvideo.com
 0.0.0.0 cn-api.anythinktech.com
 0.0.0.0 cnlogs.umeng.com
@@ -262,7 +269,6 @@
 0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 cpc-service-square.aiclk.com
 0.0.0.0 cpro.baidustatic.com
-0.0.0.0 crashlytics.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 csjplatform.com
 0.0.0.0 cws-cctv.conviva.com
@@ -305,6 +311,7 @@
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 flurry.com
 0.0.0.0 frontend-perf-service.e.kuaishou.com
+0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 fxgate.baidu.com
 0.0.0.0 g.dtv.cn.miaozhen.com
 0.0.0.0 g2.ganjing.world
@@ -318,6 +325,7 @@
 0.0.0.0 ggx01.miguvideo.com
 0.0.0.0 ggx03.miguvideo.com
 0.0.0.0 google-analytics.com
+0.0.0.0 googleads.g.doubleclick-cn.net
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 googleadservices-cn.com
 0.0.0.0 googleadservices.com
@@ -364,6 +372,8 @@
 0.0.0.0 img-c.heytapimage.com
 0.0.0.0 img-x.jd.com
 0.0.0.0 img.adnyg.com.w.kunlungr.com
+0.0.0.0 impression-asia.chinaliftoff.io
+0.0.0.0 impression-asia.liftoff.io
 0.0.0.0 in.treasuredata.com
 0.0.0.0 iot-eu-logser.realme.com
 0.0.0.0 iot-logser.realme.com
@@ -388,6 +398,7 @@
 0.0.0.0 launcherimg.smart-tv.cn
 0.0.0.0 lf3-ad-union-sdk.pglstatp-toutiao.com
 0.0.0.0 lf6-ad-union-sdk.pglstatp-toutiao.com
+0.0.0.0 lh3.googleadsserving.cn
 0.0.0.0 litchiads.com
 0.0.0.0 liveats-vod.video.ptqy.gitv.tv
 0.0.0.0 livemonitor.huan.tv
@@ -473,6 +484,7 @@
 0.0.0.0 nsclick.baidu.com
 0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 offerwall.yandex.net
+0.0.0.0 ogads-pa.clients6.google.com
 0.0.0.0 omgmta.play.aiseet.atianqi.com
 0.0.0.0 open.e.kuaishou.cn
 0.0.0.0 open.e.kuaishou.com
@@ -610,6 +622,8 @@
 0.0.0.0 tnc3-bjlgy.toutiaoapi.com
 0.0.0.0 tnc3-bjlgy.zijieapi.com
 0.0.0.0 toblog.ctobsnssdk.com
+0.0.0.0 tpc.googlesyndication-cn.com
+0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 trace.qq.com
 0.0.0.0 tracelog-debug.aiclk.com
 0.0.0.0 tracelog-debug.qquanquan.com
@@ -619,7 +633,6 @@
 0.0.0.0 tracker.gitee.com
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.rus.miui.com
-0.0.0.0 tsvrv.com
 0.0.0.0 tvapp.hpplay.cn
 0.0.0.0 tvuser-ch.cedock.com
 0.0.0.0 tx-ad.a.yximgs.com
@@ -712,6 +725,8 @@
 :: ad.v3mh.com
 :: ad.zijieapi.com
 :: adclick.tencentmusic.com
+:: adexp.chinaliftoff.io
+:: adexp.liftoff.io
 :: adexpo.tencentmusic.com
 :: adfilter.imtt.qq.com
 :: adfstat.yandex.ru
@@ -771,7 +786,9 @@
 :: cdn.ynuf.aliapp.org
 :: cfg.imtt.qq.com
 :: cj.qidian.com
+:: click.chinaliftoff.io
 :: click.googleanalytics.com
+:: click.liftoff.io
 :: cnlogs.umengcloud.com
 :: crashlyticsreports-pa.googleapis.com
 :: data.mistat.india.xiaomi.com
@@ -779,17 +796,18 @@
 :: dm.toutiao.com
 :: doubleclick-cn.net
 :: drcn-weather.cloud.huawei.com
-:: dualstack-logs.amap.com
 :: dxp.baidu.com
 :: ef-dongfeng.tanx.com
 :: errlog.umeng.com
 :: errnewlog.umeng.com
 :: file.daihuo.qq.com
 :: firebaselogging-pa.googleapis.com
+:: fundingchoicesmessages.google.com
 :: g.dtv.cn.miaozhen.com
 :: g2.ganjing.world
 :: geo.yahoo.com
 :: google-analytics.com
+:: googleads.g.doubleclick-cn.net
 :: googleads.g.doubleclick.net
 :: googleadservices-cn.com
 :: googletagservices-cn.com
@@ -805,12 +823,14 @@
 :: ii.gdt.qq.com
 :: image-ad.sm.cn
 :: img-c.heytapimage.com
+:: img-x.jd.com
 :: jswebcollects.kugou.com
 :: kde.qq.com
 :: ks.ferlytc.com
 :: ks.pull.yximgs.com
 :: lf3-ad-union-sdk.pglstatp-toutiao.com
 :: lf6-ad-union-sdk.pglstatp-toutiao.com
+:: lh3.googleadsserving.cn
 :: log-report.com
 :: log.ad.xiaomi.com
 :: log.fc.yahoo.com
@@ -840,6 +860,7 @@
 :: monsetting.toutiao.com
 :: mssdk.volces.com
 :: offerwall.yandex.net
+:: ogads-pa.clients6.google.com
 :: optimus-ads.amap.com
 :: oss.cdn.aiclk.com
 :: outlookads.live.com
@@ -887,6 +908,8 @@
 :: tnc3-bjlgy.bytedance.com
 :: tnc3-bjlgy.toutiaoapi.com
 :: tnc3-bjlgy.zijieapi.com
+:: tpc.googlesyndication-cn.com
+:: tpc.googlesyndication.com
 :: tracelog-debug.aiclk.com
 :: tracelog-debug.qquanquan.com
 :: tx-ad.a.yximgs.com
@@ -896,7 +919,6 @@
 :: uedas.qidian.com
 :: umini.shujupie.com
 :: update.avlyun.sec.miui.com
-:: uranus.jd.com
 :: v1-ad.video.yximgs.com
 :: v2.gdt.qq.com
 :: v2mi.gdt.qq.com

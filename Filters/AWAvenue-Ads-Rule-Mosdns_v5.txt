@@ -1,4 +1,3 @@
-domain:1010pic.com
 domain:1500020991.vodplayer.wxamedia.com
 domain:1500026601.vodplayer.wxamedia.com
 domain:8le8le.com
@@ -42,6 +41,8 @@ domain:adclick.tencentmusic.com
 domain:adcolony.com
 domain:addata.jd.com
 domain:adeng.hpplay.cn
+domain:adexp.chinaliftoff.io
+domain:adexp.liftoff.io
 domain:adexpo.tencentmusic.com
 domain:adfilter.imtt.qq.com
 domain:adfstat.yandex.ru
@@ -110,6 +111,7 @@ domain:adstudio.spotify.com
 domain:adtago.s3.amazonaws.com
 domain:adtech.yahooinc.com
 domain:adtrack.quark.cn
+domain:adv.fjtv.net
 domain:adv.sec.intl.miui.com
 domain:adv.sec.miui.com
 domain:advertising-api-eu.amazon.com
@@ -226,15 +228,20 @@ domain:cdn-ad.wtzw.com
 domain:cdn-ads.oss-cn-shanghai.aliyuncs.com
 domain:cdn-plugin-sync-upgrade-juui.hismarttv.com
 domain:cdn.aiclk.com
+domain:cdn.chinaliftoff-creatives.io
 domain:cdn.hpplay.com.cn
+domain:cdn.liftoff-creatives.io
 domain:cdn.ynuf.aliapp.org
 domain:cfg.imtt.qq.com
 domain:chat1.jd.com
 domain:chiq-cloud.com
 domain:cj.qidian.com
 domain:ck.ads.oppomobile.com
+domain:click.chinaliftoff.io
 domain:click.googleanalytics.com
+domain:click.liftoff.io
 domain:click.oneplus.cn
+domain:click4.chinaliftoff.io
 domain:clog.miguvideo.com
 domain:cn-api.anythinktech.com
 domain:cnlogs.umeng.com
@@ -247,7 +254,6 @@ domain:config.chsmarttv.com
 domain:config.unityads.unity3d.com
 domain:cpc-service-square.aiclk.com
 domain:cpro.baidustatic.com
-domain:crashlytics.com
 domain:crashlyticsreports-pa.googleapis.com
 domain:csjplatform.com
 domain:cws-cctv.conviva.com
@@ -290,6 +296,7 @@ domain:file.daihuo.qq.com
 domain:firebaselogging-pa.googleapis.com
 domain:flurry.com
 domain:frontend-perf-service.e.kuaishou.com
+domain:fundingchoicesmessages.google.com
 domain:fxgate.baidu.com
 domain:g.dtv.cn.miaozhen.com
 domain:g2.ganjing.world
@@ -303,6 +310,7 @@ domain:ggx.cmvideo.cn
 domain:ggx01.miguvideo.com
 domain:ggx03.miguvideo.com
 domain:google-analytics.com
+domain:googleads.g.doubleclick-cn.net
 domain:googleads.g.doubleclick.net
 domain:googleadservices-cn.com
 domain:googleadservices.com
@@ -349,6 +357,8 @@ domain:imdns.hpplay.cn
 domain:img-c.heytapimage.com
 domain:img-x.jd.com
 domain:img.adnyg.com.w.kunlungr.com
+domain:impression-asia.chinaliftoff.io
+domain:impression-asia.liftoff.io
 domain:in.treasuredata.com
 domain:iot-eu-logser.realme.com
 domain:iot-logser.realme.com
@@ -373,6 +383,7 @@ domain:launcher.smart-tv.cn
 domain:launcherimg.smart-tv.cn
 domain:lf3-ad-union-sdk.pglstatp-toutiao.com
 domain:lf6-ad-union-sdk.pglstatp-toutiao.com
+domain:lh3.googleadsserving.cn
 domain:litchiads.com
 domain:liveats-vod.video.ptqy.gitv.tv
 domain:livemonitor.huan.tv
@@ -458,6 +469,7 @@ domain:notes-analytics-events.apple.com
 domain:nsclick.baidu.com
 domain:o2o.api.xiaomi.com
 domain:offerwall.yandex.net
+domain:ogads-pa.clients6.google.com
 domain:omgmta.play.aiseet.atianqi.com
 domain:open.e.kuaishou.cn
 domain:open.e.kuaishou.com
@@ -595,6 +607,8 @@ domain:tnc3-bjlgy.bytedance.com
 domain:tnc3-bjlgy.toutiaoapi.com
 domain:tnc3-bjlgy.zijieapi.com
 domain:toblog.ctobsnssdk.com
+domain:tpc.googlesyndication-cn.com
+domain:tpc.googlesyndication.com
 domain:trace.qq.com
 domain:tracelog-debug.aiclk.com
 domain:tracelog-debug.qquanquan.com
@@ -604,7 +618,6 @@ domain:tracker.ai.xiaomi.com
 domain:tracker.gitee.com
 domain:tracking.miui.com
 domain:tracking.rus.miui.com
-domain:tsvrv.com
 domain:tvapp.hpplay.cn
 domain:tvuser-ch.cedock.com
 domain:tx-ad.a.yximgs.com
