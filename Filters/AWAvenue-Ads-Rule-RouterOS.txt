@@ -2,10 +2,8 @@
 !--------------------------------------
 !Total lines: 12
 !Version: 1.5.9-release
-!Update time: 2025-04-13 12:08:33 UTC+8
-!Update content: blocked a new WeChat ad and many of those annoying pcdn. #125
-
-Ohh, go to hell pcdn！
+!Update time: 2025-04-13 12:22:40 UTC+8
+!Update content: block more IPs that collect excessive privacy.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -817,9 +815,7 @@ ip dns static add address=:: name=data.mistat.rus.xiaomi.com
 ip dns static add address=:: name=dm.toutiao.com
 ip dns static add address=:: name=doubleclick-cn.net
 ip dns static add address=:: name=drcn-weather.cloud.huawei.com
-ip dns static add address=:: name=dualstack-logs.amap.com
 ip dns static add address=:: name=dxp.baidu.com
-ip dns static add address=:: name=dyp2p-ali.douyucdn.cn
 ip dns static add address=:: name=ef-dongfeng.tanx.com
 ip dns static add address=:: name=errlog.umeng.com
 ip dns static add address=:: name=errnewlog.umeng.com
