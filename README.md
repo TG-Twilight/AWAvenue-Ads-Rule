@@ -32,7 +32,7 @@
 
 相较于其它去广告的手段，这种从网络层面过滤的方式成本低、使用方便快捷、受益范围广(例如路由器部署)，您无需对每个有需求的app进行单独设置，在无感过滤的同时不影响您正常使用原有的app。
 
-*截止2025年4月，我们可以拦截提瓦特大陆现有九成以上的广告sdk内容。*
+*截止2025年5月，我们可以拦截提瓦特大陆现有九成以上的广告sdk内容。*
 
 ### *如果您对本规则的内容有意见或建议，在提交issue/进群反馈前，请您务必查看我们的[常见问题](https://awavenue.top/Knowledge.html#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98-%E4%B8%8E%E7%AD%94%E7%96%91)部分，这些内容也许可以解决您的一些疑问。*
 
@@ -61,13 +61,13 @@
 
 我们兼容现有的绝大多数广告拦截工具/代理工具，例如：
 
-AdGuard (iOS/Android)/Home/DNS 等大部分支持adblock语法的工具，不含AdGuard for Chrome；
+[AdGuard (iOS/Android)/Home/DNS](https://awavenue.top/Sub.html#adguard-ios-android-home-dns-%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5) 等大部分支持adblock语法的工具，不含AdGuard for Chrome；
 
-AdAway、大圣净化等支持hosts格式的工具；
+[AdAway、大圣净化](https://awavenue.top/Sub.html#hosts-%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5)等支持hosts格式的工具；
 
-Mosdns、广告屏蔽大师Plus+、DNS去广告等专为 OpenWrt 上一系列工具适配的规则；
+[Mosdns](https://awavenue.top/Sub.html#hosts-%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5:~:text=%E6%8E%A5%EF%BC%88.list%E6%A0%BC%E5%BC%8F%EF%BC%89-,Mosdns%20V5%20%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5,-AdClose%20rule%E6%A0%BC%E5%BC%8F)、[Dnsmasq](https://awavenue.top/Sub.html#hosts-%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5:~:text=Dnsmasq%E6%A0%BC%E5%BC%8F%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5%EF%BC%88.conf%E6%A0%BC%E5%BC%8F%EF%BC%89)、[广告屏蔽大师Plus+、DNS去广告](https://awavenue.top/Sub.html#hosts-%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5)等专为 OpenWrt 上一系列工具适配的规则；
 
-ClashMeta、QuantumultX(.list)、ShadowRocket、Surge、Surfboard、Singbox等主流代理工具，
+[ClashMeta](https://awavenue.top/Sub.html#clash-%E8%A7%84%E5%88%99%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5)、[QuantumultX(.list)](https://awavenue.top/Sub.html#clash-%E8%A7%84%E5%88%99%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5:~:text=QuantumultX%20%E8%AE%A2%E9%98%85%E9%93%BE%E6%8E%A5%EF%BC%88.list%E6%A0%BC%E5%BC%8F%EF%BC%89)、ShadowRocket、Surge、Surfboard、Singbox等主流代理工具，
 
 同时，专门为 RouterOS 的路由器适配了广告规则。  *（含240.0.0.1/0.0.0.0格式）*
 
