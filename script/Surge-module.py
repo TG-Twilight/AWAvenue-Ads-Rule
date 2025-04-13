@@ -8,7 +8,7 @@ def format_comments():
                 "#!category=广告拦截",
                 "#!author=TG-Twilight[https://github.com/TG-Twilight]",
                 "#!icon=https://avatars.githubusercontent.com/u/121682528?s=144",
-                "#!homepage = https://awavenue.top",
+                "#!homepage=https://awavenue.top",
                 "", ""]
     return comments
 
