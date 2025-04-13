@@ -332,6 +332,7 @@ domain:hanlanad.com
 domain:heads-ak.spotify.com.edgesuite.net
 domain:heads-fa.spotify.com
 domain:hexagon-analytics.com
+domain:hismarttv.com
 domain:hm.baidu.com
 domain:hmma.baidu.com
 domain:hotupgrade.hpplay.cn

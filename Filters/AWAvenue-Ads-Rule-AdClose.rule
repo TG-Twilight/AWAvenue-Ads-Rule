@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 724
-#Version: 1.5.9-release
-#Update time: 2025-04-13 12:22:40 UTC+8
-#Update content: block more IPs that collect excessive privacy.
+#Total lines: 725
+#Version: 1.6.0-release
+#Update time: 2025-04-13 13:16:43 UTC+8
+#Update content: fxxk Hisense ads center.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -346,6 +346,7 @@ domain, hanlanad.com
 domain, heads-ak.spotify.com.edgesuite.net
 domain, heads-fa.spotify.com
 domain, hexagon-analytics.com
+domain, hismarttv.com
 domain, hm.baidu.com
 domain, hmma.baidu.com
 domain, hotupgrade.hpplay.cn

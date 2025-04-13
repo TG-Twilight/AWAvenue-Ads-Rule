@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
 !Total lines: 12
-!Version: 1.5.9-release
-!Update time: 2025-04-13 12:22:40 UTC+8
-!Update content: block more IPs that collect excessive privacy.
+!Version: 1.6.0-release
+!Update time: 2025-04-13 13:16:43 UTC+8
+!Update content: fxxk Hisense ads center.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -343,6 +343,7 @@ ip dns static add address=240.0.0.1 name=hanlanad.com
 ip dns static add address=240.0.0.1 name=heads-ak.spotify.com.edgesuite.net
 ip dns static add address=240.0.0.1 name=heads-fa.spotify.com
 ip dns static add address=240.0.0.1 name=hexagon-analytics.com
+ip dns static add address=240.0.0.1 name=hismarttv.com
 ip dns static add address=240.0.0.1 name=hm.baidu.com
 ip dns static add address=240.0.0.1 name=hmma.baidu.com
 ip dns static add address=240.0.0.1 name=hotupgrade.hpplay.cn
@@ -815,6 +816,7 @@ ip dns static add address=:: name=data.mistat.rus.xiaomi.com
 ip dns static add address=:: name=dm.toutiao.com
 ip dns static add address=:: name=doubleclick-cn.net
 ip dns static add address=:: name=drcn-weather.cloud.huawei.com
+ip dns static add address=:: name=dualstack-logs.amap.com
 ip dns static add address=:: name=dxp.baidu.com
 ip dns static add address=:: name=ef-dongfeng.tanx.com
 ip dns static add address=:: name=errlog.umeng.com
@@ -866,6 +868,7 @@ ip dns static add address=:: name=log.web.kugou.com
 ip dns static add address=:: name=log.zijieapi.com
 ip dns static add address=:: name=log1.cmpassport.com
 ip dns static add address=:: name=logrcv.aiclk.com
+ip dns static add address=:: name=logs.amap.com
 ip dns static add address=:: name=logtj.kugou.com
 ip dns static add address=:: name=m.ad.zhangyue.com
 ip dns static add address=:: name=m.atm.youku.com
