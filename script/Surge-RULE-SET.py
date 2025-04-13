@@ -1,21 +1,21 @@
 def format_domain(List):
     domain = []
     for line in List:
-        domain_lines = f"DOMAIN,{line.strip()},reject"
+        domain_lines = f"DOMAIN,{line.strip()}"
         domain.append(domain_lines)
     return domain
 
 def format_regex(List):
     regex = []
     for line in List:
-        regex_lines = f"DOMAIN-KEYWORD,{line.strip()},reject"
+        regex_lines = f"DOMAIN-KEYWORD,{line.strip()}"
         regex.append(regex_lines)
     return regex
 
 def format_ip(List):
     ip = []
     for line in List:
-        ip_lines = f"IP-CIDR,{line.strip()},reject"
+        ip_lines = f"IP-CIDR,{line.strip()}"
         ip.append(ip_lines)
     return ip
 
