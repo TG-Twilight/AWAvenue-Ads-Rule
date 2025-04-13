@@ -2,8 +2,8 @@
 !--------------------------------------
 !Total lines: 12
 !Version: 1.6.0-release
-!Update time: 2025-04-13 15:50:51 UTC+8
-!Update content: add Surge Module support
+!Update time: 2025-04-13 16:40:05 UTC+8
+!Update content: 对齐注释
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -869,7 +869,6 @@ ip dns static add address=:: name=log.web.kugou.com
 ip dns static add address=:: name=log.zijieapi.com
 ip dns static add address=:: name=log1.cmpassport.com
 ip dns static add address=:: name=logrcv.aiclk.com
-ip dns static add address=:: name=logs.amap.com
 ip dns static add address=:: name=logtj.kugou.com
 ip dns static add address=:: name=m.ad.zhangyue.com
 ip dns static add address=:: name=m.atm.youku.com
