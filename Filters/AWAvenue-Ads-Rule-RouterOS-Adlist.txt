@@ -2,8 +2,8 @@
 #--------------------------------------
 #Total lines: 725
 #Version: 1.6.0-release
-#Update time: 2025-04-13 13:16:43 UTC+8
-#Update content: fxxk Hisense ads center.
+#Update time: 2025-04-13 14:44:57 UTC+8
+#Update content: fix Surge rule-set format
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -822,6 +822,7 @@
 :: drcn-weather.cloud.huawei.com
 :: dualstack-logs.amap.com
 :: dxp.baidu.com
+:: dyp2p-ali.douyucdn.cn
 :: ef-dongfeng.tanx.com
 :: errlog.umeng.com
 :: errnewlog.umeng.com
@@ -872,7 +873,6 @@
 :: log.zijieapi.com
 :: log1.cmpassport.com
 :: logrcv.aiclk.com
-:: logs.amap.com
 :: logtj.kugou.com
 :: m.ad.zhangyue.com
 :: m.atm.youku.com

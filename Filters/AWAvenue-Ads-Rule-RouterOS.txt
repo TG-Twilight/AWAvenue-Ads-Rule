@@ -2,8 +2,8 @@
 !--------------------------------------
 !Total lines: 12
 !Version: 1.6.0-release
-!Update time: 2025-04-13 13:16:43 UTC+8
-!Update content: fxxk Hisense ads center.
+!Update time: 2025-04-13 14:44:57 UTC+8
+!Update content: fix Surge rule-set format
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -818,6 +818,7 @@ ip dns static add address=:: name=doubleclick-cn.net
 ip dns static add address=:: name=drcn-weather.cloud.huawei.com
 ip dns static add address=:: name=dualstack-logs.amap.com
 ip dns static add address=:: name=dxp.baidu.com
+ip dns static add address=:: name=dyp2p-ali.douyucdn.cn
 ip dns static add address=:: name=ef-dongfeng.tanx.com
 ip dns static add address=:: name=errlog.umeng.com
 ip dns static add address=:: name=errnewlog.umeng.com
@@ -868,7 +869,6 @@ ip dns static add address=:: name=log.web.kugou.com
 ip dns static add address=:: name=log.zijieapi.com
 ip dns static add address=:: name=log1.cmpassport.com
 ip dns static add address=:: name=logrcv.aiclk.com
-ip dns static add address=:: name=logs.amap.com
 ip dns static add address=:: name=logtj.kugou.com
 ip dns static add address=:: name=m.ad.zhangyue.com
 ip dns static add address=:: name=m.atm.youku.com
