@@ -1,4 +1,5 @@
 domain:1500020991.vodplayer.wxamedia.com
+domain:1500022744.vodplayer.wxamedia.com
 domain:1500026601.vodplayer.wxamedia.com
 domain:8le8le.com
 domain:a0.app.xiaomi.com
@@ -136,6 +137,7 @@ domain:aegis.qq.com
 domain:afs.googlesyndication.com
 domain:aiseet.aa.atianqi.com
 domain:ali-ad.a.yximgs.com
+domain:ali-p2p-v2.pull.yximgs.com
 domain:alog.umeng.com
 domain:alogus.umeng.com
 domain:als.baidu.com
@@ -279,6 +281,8 @@ domain:dsp-x.jd.com
 domain:dsp.fcbox.com
 domain:dualstack-logs.amap.com
 domain:dxp.baidu.com
+domain:dyp2p-ali.douyucdn.cn
+domain:dyp2p-hw.douyucdn.cn
 domain:e.ad.xiaomi.com
 domain:eclick.baidu.com
 domain:edge.ads.twitch.tv
@@ -338,6 +342,8 @@ domain:httpdns.ocloud.oppomobile.com
 domain:hugelog.fcbox.com
 domain:huichuan.sm.cn
 domain:hw-ot-ad.a.yximgs.com
+domain:hw-p2p-pull.video-voip.com
+domain:hw-p2p.pull.yximgs.com
 domain:hwpub-s01-drcn.cloud.dbankcloud.cn
 domain:hybrid.miniapp.taobao.com
 domain:hye.comp.360os.com
@@ -377,6 +383,8 @@ domain:kepler.jd.com
 domain:kl.67it.com
 domain:klink.volceapplog.com
 domain:knicks.jd.com
+domain:ks-p2p-v2.pull.yximgs.com
+domain:ks-p2p.pull.yximgs.com
 domain:ks.ferlytc.com
 domain:ks.pull.yximgs.com
 domain:launcher.smart-tv.cn
@@ -390,6 +398,7 @@ domain:livemonitor.huan.tv
 domain:livep.l.aiseet.atianqi.com
 domain:lives.l.aiseet.atianqi.com
 domain:lives.l.ott.video.qq.com
+domain:livewebbs2pcdn.msstatic.com
 domain:lm10111.jtrincc.cn
 domain:log-api-mn.huxiu.com
 domain:log-api.huxiu.com
@@ -443,6 +452,7 @@ domain:metrika.yandex.ru
 domain:mi.gdt.qq.com
 domain:miav-cse.avlyun.com
 domain:mime.baidu.com
+domain:mini-prog-drm.vodplayvideo.net
 domain:mission-pub.smart-tv.cn
 domain:miui-fxcse.avlyun.com
 domain:mmgame.qpic.cn
@@ -487,12 +497,17 @@ domain:p.l.qq.com
 domain:p.s.360.cn
 domain:p1-lm.adkwai.com
 domain:p2-lm.adkwai.com
+domain:p2pchunk-table.douyucdn.cn
+domain:p2plive-ali.douyucdn.cn
+domain:p2pupdate.gamedl.qq.com
+domain:p2pupgrade.gamedl.qq.com
 domain:p3-be-pack-sign.pglstatp-toutiao.com
 domain:p3-lm.adkwai.com
 domain:p3-tt.byteimg.com
 domain:p6-be-pack-sign.pglstatp-toutiao.com
 domain:pagead2.googleadservices.com
 domain:pagead2.googlesyndication.com
+domain:pcdn.xmcdn.com
 domain:pcm-img.zhls.qq.com
 domain:pgdt.gtimg.cn
 domain:pgdt.ugdtimg.com
@@ -507,6 +522,7 @@ domain:pos.baidu.com
 domain:proxy.advp.apple.com
 domain:public.gdtimg.com
 domain:q.i.gdt.qq.com
+domain:qn-cdnfile1pcdn.msstatic.com
 domain:qqdata.ab.qq.com
 domain:qzs.gdtimg.com
 domain:recommend-drcn.hms.dbankcloud.cn
@@ -526,6 +542,7 @@ domain:saad.ms.zhangyue.net
 domain:samsung-com.112.2o7.net
 domain:samsungads.com
 domain:sanme2.taisantech.com
+domain:saxysec.com
 domain:scdown.qq.com
 domain:scs.openspeech.cn
 domain:sdk-ab-config.qquanquan.com
@@ -574,6 +591,7 @@ domain:stats.qiumibao.com
 domain:stats.wp.com
 domain:statsigapi.net
 domain:stg-data.ads.heytapmobi.com
+domain:stun.hitv.com
 domain:success.ctobsnssdk.com
 domain:syh-imp.cdnjtzy.com
 domain:szbdyd.com
@@ -607,6 +625,7 @@ domain:tnc3-bjlgy.bytedance.com
 domain:tnc3-bjlgy.toutiaoapi.com
 domain:tnc3-bjlgy.zijieapi.com
 domain:toblog.ctobsnssdk.com
+domain:tpa-hcdn.iqiyi.com
 domain:tpc.googlesyndication-cn.com
 domain:tpc.googlesyndication.com
 domain:trace.qq.com
@@ -622,12 +641,15 @@ domain:tvapp.hpplay.cn
 domain:tvuser-ch.cedock.com
 domain:tx-ad.a.yximgs.com
 domain:tx-kmpaudio.pull.yximgs.com
+domain:tx-p2p-pull.live-voip.com
+domain:tx-p2p-v2.pull.yximgs.com
 domain:tytx.m.cn.miaozhen.com
 domain:tz.sec.xiaomi.com
 domain:uapi.ads.heytapmobi.com
 domain:udc.yahoo.com
 domain:udcm.yahoo.com
 domain:uedas.qidian.com
+domain:uhabo.com
 domain:ulog-sdk.gifshow.com
 domain:ulogjs.gifshow.com
 domain:ulogs.umeng.com
@@ -693,6 +715,7 @@ domain:xiaomi-dtv.m.cn.miaozhen.com
 domain:xlog.jd.com
 domain:xlviiirdr.com
 domain:xlviirdr.com
+domain:xycdn.com
 domain:yk-ssp.ad.youku.com
 domain:ykad-data.youku.com
 domain:ykad-gateway.youku.com

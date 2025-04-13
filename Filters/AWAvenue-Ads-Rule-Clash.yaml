@@ -1,9 +1,11 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 714
+#Total lines: 737
 #Version: 1.5.9-release
-#Update time: 2025-04-09 19:27:42 UTC+8
-#Update content: Block more ads and remove invalid domain names. #130 #131
+#Update time: 2025-04-13 12:08:33 UTC+8
+#Update content: blocked a new WeChat ad and many of those annoying pcdn. #125
+
+Ohh, go to hell pcdn！
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -11,6 +13,7 @@
 
 payload:
   - '1500020991.vodplayer.wxamedia.com'
+  - '1500022744.vodplayer.wxamedia.com'
   - '1500026601.vodplayer.wxamedia.com'
   - '8le8le.com'
   - 'a0.app.xiaomi.com'
@@ -148,6 +151,7 @@ payload:
   - 'afs.googlesyndication.com'
   - 'aiseet.aa.atianqi.com'
   - 'ali-ad.a.yximgs.com'
+  - 'ali-p2p-v2.pull.yximgs.com'
   - 'alog.umeng.com'
   - 'alogus.umeng.com'
   - 'als.baidu.com'
@@ -291,6 +295,8 @@ payload:
   - 'dsp.fcbox.com'
   - 'dualstack-logs.amap.com'
   - 'dxp.baidu.com'
+  - 'dyp2p-ali.douyucdn.cn'
+  - 'dyp2p-hw.douyucdn.cn'
   - 'e.ad.xiaomi.com'
   - 'eclick.baidu.com'
   - 'edge.ads.twitch.tv'
@@ -350,6 +356,8 @@ payload:
   - 'hugelog.fcbox.com'
   - 'huichuan.sm.cn'
   - 'hw-ot-ad.a.yximgs.com'
+  - 'hw-p2p-pull.video-voip.com'
+  - 'hw-p2p.pull.yximgs.com'
   - 'hwpub-s01-drcn.cloud.dbankcloud.cn'
   - 'hybrid.miniapp.taobao.com'
   - 'hye.comp.360os.com'
@@ -389,6 +397,8 @@ payload:
   - 'kl.67it.com'
   - 'klink.volceapplog.com'
   - 'knicks.jd.com'
+  - 'ks-p2p-v2.pull.yximgs.com'
+  - 'ks-p2p.pull.yximgs.com'
   - 'ks.ferlytc.com'
   - 'ks.pull.yximgs.com'
   - 'launcher.smart-tv.cn'
@@ -402,6 +412,7 @@ payload:
   - 'livep.l.aiseet.atianqi.com'
   - 'lives.l.aiseet.atianqi.com'
   - 'lives.l.ott.video.qq.com'
+  - 'livewebbs2pcdn.msstatic.com'
   - 'lm10111.jtrincc.cn'
   - 'log-api-mn.huxiu.com'
   - 'log-api.huxiu.com'
@@ -455,6 +466,7 @@ payload:
   - 'mi.gdt.qq.com'
   - 'miav-cse.avlyun.com'
   - 'mime.baidu.com'
+  - 'mini-prog-drm.vodplayvideo.net'
   - 'mission-pub.smart-tv.cn'
   - 'miui-fxcse.avlyun.com'
   - 'mmgame.qpic.cn'
@@ -499,12 +511,17 @@ payload:
   - 'p.s.360.cn'
   - 'p1-lm.adkwai.com'
   - 'p2-lm.adkwai.com'
+  - 'p2pchunk-table.douyucdn.cn'
+  - 'p2plive-ali.douyucdn.cn'
+  - 'p2pupdate.gamedl.qq.com'
+  - 'p2pupgrade.gamedl.qq.com'
   - 'p3-be-pack-sign.pglstatp-toutiao.com'
   - 'p3-lm.adkwai.com'
   - 'p3-tt.byteimg.com'
   - 'p6-be-pack-sign.pglstatp-toutiao.com'
   - 'pagead2.googleadservices.com'
   - 'pagead2.googlesyndication.com'
+  - 'pcdn.xmcdn.com'
   - 'pcm-img.zhls.qq.com'
   - 'pgdt.gtimg.cn'
   - 'pgdt.ugdtimg.com'
@@ -519,6 +536,7 @@ payload:
   - 'proxy.advp.apple.com'
   - 'public.gdtimg.com'
   - 'q.i.gdt.qq.com'
+  - 'qn-cdnfile1pcdn.msstatic.com'
   - 'qqdata.ab.qq.com'
   - 'qzs.gdtimg.com'
   - 'recommend-drcn.hms.dbankcloud.cn'
@@ -538,6 +556,7 @@ payload:
   - 'samsung-com.112.2o7.net'
   - 'samsungads.com'
   - 'sanme2.taisantech.com'
+  - 'saxysec.com'
   - 'scdown.qq.com'
   - 'scs.openspeech.cn'
   - 'sdk-ab-config.qquanquan.com'
@@ -586,6 +605,7 @@ payload:
   - 'stats.wp.com'
   - 'statsigapi.net'
   - 'stg-data.ads.heytapmobi.com'
+  - 'stun.hitv.com'
   - 'success.ctobsnssdk.com'
   - 'syh-imp.cdnjtzy.com'
   - 'szbdyd.com'
@@ -619,6 +639,7 @@ payload:
   - 'tnc3-bjlgy.toutiaoapi.com'
   - 'tnc3-bjlgy.zijieapi.com'
   - 'toblog.ctobsnssdk.com'
+  - 'tpa-hcdn.iqiyi.com'
   - 'tpc.googlesyndication-cn.com'
   - 'tpc.googlesyndication.com'
   - 'trace.qq.com'
@@ -634,12 +655,15 @@ payload:
   - 'tvuser-ch.cedock.com'
   - 'tx-ad.a.yximgs.com'
   - 'tx-kmpaudio.pull.yximgs.com'
+  - 'tx-p2p-pull.live-voip.com'
+  - 'tx-p2p-v2.pull.yximgs.com'
   - 'tytx.m.cn.miaozhen.com'
   - 'tz.sec.xiaomi.com'
   - 'uapi.ads.heytapmobi.com'
   - 'udc.yahoo.com'
   - 'udcm.yahoo.com'
   - 'uedas.qidian.com'
+  - 'uhabo.com'
   - 'ulog-sdk.gifshow.com'
   - 'ulogjs.gifshow.com'
   - 'ulogs.umeng.com'
@@ -705,6 +729,7 @@ payload:
   - 'xlog.jd.com'
   - 'xlviiirdr.com'
   - 'xlviirdr.com'
+  - 'xycdn.com'
   - 'yk-ssp.ad.youku.com'
   - 'ykad-data.youku.com'
   - 'ykad-gateway.youku.com'

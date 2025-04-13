@@ -1,9 +1,11 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 701
+#Total lines: 724
 #Version: 1.5.9-release
-#Update time: 2025-04-09 19:27:42 UTC+8
-#Update content: Block more ads and remove invalid domain names. #130 #131
+#Update time: 2025-04-13 12:08:33 UTC+8
+#Update content: blocked a new WeChat ad and many of those annoying pcdn. #125
+
+Ohh, go to hell pcdn！
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -14,6 +16,7 @@
 
 
 0.0.0.0 1500020991.vodplayer.wxamedia.com
+0.0.0.0 1500022744.vodplayer.wxamedia.com
 0.0.0.0 1500026601.vodplayer.wxamedia.com
 0.0.0.0 8le8le.com
 0.0.0.0 a0.app.xiaomi.com
@@ -151,6 +154,7 @@
 0.0.0.0 afs.googlesyndication.com
 0.0.0.0 aiseet.aa.atianqi.com
 0.0.0.0 ali-ad.a.yximgs.com
+0.0.0.0 ali-p2p-v2.pull.yximgs.com
 0.0.0.0 alog.umeng.com
 0.0.0.0 alogus.umeng.com
 0.0.0.0 als.baidu.com
@@ -294,6 +298,8 @@
 0.0.0.0 dsp.fcbox.com
 0.0.0.0 dualstack-logs.amap.com
 0.0.0.0 dxp.baidu.com
+0.0.0.0 dyp2p-ali.douyucdn.cn
+0.0.0.0 dyp2p-hw.douyucdn.cn
 0.0.0.0 e.ad.xiaomi.com
 0.0.0.0 eclick.baidu.com
 0.0.0.0 edge.ads.twitch.tv
@@ -353,6 +359,8 @@
 0.0.0.0 hugelog.fcbox.com
 0.0.0.0 huichuan.sm.cn
 0.0.0.0 hw-ot-ad.a.yximgs.com
+0.0.0.0 hw-p2p-pull.video-voip.com
+0.0.0.0 hw-p2p.pull.yximgs.com
 0.0.0.0 hwpub-s01-drcn.cloud.dbankcloud.cn
 0.0.0.0 hybrid.miniapp.taobao.com
 0.0.0.0 hye.comp.360os.com
@@ -392,6 +400,8 @@
 0.0.0.0 kl.67it.com
 0.0.0.0 klink.volceapplog.com
 0.0.0.0 knicks.jd.com
+0.0.0.0 ks-p2p-v2.pull.yximgs.com
+0.0.0.0 ks-p2p.pull.yximgs.com
 0.0.0.0 ks.ferlytc.com
 0.0.0.0 ks.pull.yximgs.com
 0.0.0.0 launcher.smart-tv.cn
@@ -405,6 +415,7 @@
 0.0.0.0 livep.l.aiseet.atianqi.com
 0.0.0.0 lives.l.aiseet.atianqi.com
 0.0.0.0 lives.l.ott.video.qq.com
+0.0.0.0 livewebbs2pcdn.msstatic.com
 0.0.0.0 lm10111.jtrincc.cn
 0.0.0.0 log-api-mn.huxiu.com
 0.0.0.0 log-api.huxiu.com
@@ -458,6 +469,7 @@
 0.0.0.0 mi.gdt.qq.com
 0.0.0.0 miav-cse.avlyun.com
 0.0.0.0 mime.baidu.com
+0.0.0.0 mini-prog-drm.vodplayvideo.net
 0.0.0.0 mission-pub.smart-tv.cn
 0.0.0.0 miui-fxcse.avlyun.com
 0.0.0.0 mmgame.qpic.cn
@@ -502,12 +514,17 @@
 0.0.0.0 p.s.360.cn
 0.0.0.0 p1-lm.adkwai.com
 0.0.0.0 p2-lm.adkwai.com
+0.0.0.0 p2pchunk-table.douyucdn.cn
+0.0.0.0 p2plive-ali.douyucdn.cn
+0.0.0.0 p2pupdate.gamedl.qq.com
+0.0.0.0 p2pupgrade.gamedl.qq.com
 0.0.0.0 p3-be-pack-sign.pglstatp-toutiao.com
 0.0.0.0 p3-lm.adkwai.com
 0.0.0.0 p3-tt.byteimg.com
 0.0.0.0 p6-be-pack-sign.pglstatp-toutiao.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pcdn.xmcdn.com
 0.0.0.0 pcm-img.zhls.qq.com
 0.0.0.0 pgdt.gtimg.cn
 0.0.0.0 pgdt.ugdtimg.com
@@ -522,6 +539,7 @@
 0.0.0.0 proxy.advp.apple.com
 0.0.0.0 public.gdtimg.com
 0.0.0.0 q.i.gdt.qq.com
+0.0.0.0 qn-cdnfile1pcdn.msstatic.com
 0.0.0.0 qqdata.ab.qq.com
 0.0.0.0 qzs.gdtimg.com
 0.0.0.0 recommend-drcn.hms.dbankcloud.cn
@@ -541,6 +559,7 @@
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 samsungads.com
 0.0.0.0 sanme2.taisantech.com
+0.0.0.0 saxysec.com
 0.0.0.0 scdown.qq.com
 0.0.0.0 scs.openspeech.cn
 0.0.0.0 sdk-ab-config.qquanquan.com
@@ -589,6 +608,7 @@
 0.0.0.0 stats.wp.com
 0.0.0.0 statsigapi.net
 0.0.0.0 stg-data.ads.heytapmobi.com
+0.0.0.0 stun.hitv.com
 0.0.0.0 success.ctobsnssdk.com
 0.0.0.0 syh-imp.cdnjtzy.com
 0.0.0.0 szbdyd.com
@@ -622,6 +642,7 @@
 0.0.0.0 tnc3-bjlgy.toutiaoapi.com
 0.0.0.0 tnc3-bjlgy.zijieapi.com
 0.0.0.0 toblog.ctobsnssdk.com
+0.0.0.0 tpa-hcdn.iqiyi.com
 0.0.0.0 tpc.googlesyndication-cn.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 trace.qq.com
@@ -637,12 +658,15 @@
 0.0.0.0 tvuser-ch.cedock.com
 0.0.0.0 tx-ad.a.yximgs.com
 0.0.0.0 tx-kmpaudio.pull.yximgs.com
+0.0.0.0 tx-p2p-pull.live-voip.com
+0.0.0.0 tx-p2p-v2.pull.yximgs.com
 0.0.0.0 tytx.m.cn.miaozhen.com
 0.0.0.0 tz.sec.xiaomi.com
 0.0.0.0 uapi.ads.heytapmobi.com
 0.0.0.0 udc.yahoo.com
 0.0.0.0 udcm.yahoo.com
 0.0.0.0 uedas.qidian.com
+0.0.0.0 uhabo.com
 0.0.0.0 ulog-sdk.gifshow.com
 0.0.0.0 ulogjs.gifshow.com
 0.0.0.0 ulogs.umeng.com
@@ -708,6 +732,7 @@
 0.0.0.0 xlog.jd.com
 0.0.0.0 xlviiirdr.com
 0.0.0.0 xlviirdr.com
+0.0.0.0 xycdn.com
 0.0.0.0 yk-ssp.ad.youku.com
 0.0.0.0 ykad-data.youku.com
 0.0.0.0 ykad-gateway.youku.com
@@ -715,6 +740,7 @@
 0.0.0.0 zeus.ad.xiaomi.com
 0.0.0.0 zhihu-web-analytics.zhihu.com
 :: 1500020991.vodplayer.wxamedia.com
+:: 1500022744.vodplayer.wxamedia.com
 :: 1500026601.vodplayer.wxamedia.com
 :: aaid.umeng.com
 :: ad.12306.cn
@@ -755,7 +781,6 @@
 :: adstudio-assets.scdn.co
 :: adstudio.spotify.com
 :: adtech.yahooinc.com
-:: adtrack.quark.cn
 :: advertising.yahoo.com
 :: advertising.yandex.ru
 :: aegis.qq.com
@@ -796,7 +821,9 @@
 :: dm.toutiao.com
 :: doubleclick-cn.net
 :: drcn-weather.cloud.huawei.com
+:: dualstack-logs.amap.com
 :: dxp.baidu.com
+:: dyp2p-ali.douyucdn.cn
 :: ef-dongfeng.tanx.com
 :: errlog.umeng.com
 :: errnewlog.umeng.com
@@ -817,6 +844,8 @@
 :: houyi.kkmh.com
 :: huichuan.sm.cn
 :: hw-ot-ad.a.yximgs.com
+:: hw-p2p-pull.video-voip.com
+:: hw-p2p.pull.yximgs.com
 :: hwpub-s01-drcn.cloud.dbankcloud.cn
 :: iadsdk.apple.com
 :: ifs.tanx.com
@@ -826,11 +855,14 @@
 :: img-x.jd.com
 :: jswebcollects.kugou.com
 :: kde.qq.com
+:: ks-p2p-v2.pull.yximgs.com
+:: ks-p2p.pull.yximgs.com
 :: ks.ferlytc.com
 :: ks.pull.yximgs.com
 :: lf3-ad-union-sdk.pglstatp-toutiao.com
 :: lf6-ad-union-sdk.pglstatp-toutiao.com
 :: lh3.googleadsserving.cn
+:: livewebbs2pcdn.msstatic.com
 :: log-report.com
 :: log.ad.xiaomi.com
 :: log.fc.yahoo.com
@@ -842,7 +874,6 @@
 :: log.zijieapi.com
 :: log1.cmpassport.com
 :: logrcv.aiclk.com
-:: logs.amap.com
 :: logtj.kugou.com
 :: m.ad.zhangyue.com
 :: m.atm.youku.com
@@ -875,6 +906,7 @@
 :: pms.mb.qq.com
 :: proxy.advp.apple.com
 :: public.gdtimg.com
+:: qn-cdnfile1pcdn.msstatic.com
 :: qqdata.ab.qq.com
 :: qzs.gdtimg.com
 :: recommend-drcn.hms.dbankcloud.cn
@@ -913,6 +945,8 @@
 :: tracelog-debug.aiclk.com
 :: tracelog-debug.qquanquan.com
 :: tx-ad.a.yximgs.com
+:: tx-p2p-pull.live-voip.com
+:: tx-p2p-v2.pull.yximgs.com
 :: tytx.m.cn.miaozhen.com
 :: udc.yahoo.com
 :: udcm.yahoo.com

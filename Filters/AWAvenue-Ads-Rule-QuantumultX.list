@@ -1,15 +1,18 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 713
+#Total lines: 736
 #Version: 1.5.9-release
-#Update time: 2025-04-09 19:27:42 UTC+8
-#Update content: Block more ads and remove invalid domain names. #130 #131
+#Update time: 2025-04-13 12:08:33 UTC+8
+#Update content: blocked a new WeChat ad and many of those annoying pcdn. #125
+
+Ohh, go to hell pcdn！
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
 
 
 DOMAIN,1500020991.vodplayer.wxamedia.com,reject
+DOMAIN,1500022744.vodplayer.wxamedia.com,reject
 DOMAIN,1500026601.vodplayer.wxamedia.com,reject
 DOMAIN,8le8le.com,reject
 DOMAIN,a0.app.xiaomi.com,reject
@@ -147,6 +150,7 @@ DOMAIN,aegis.qq.com,reject
 DOMAIN,afs.googlesyndication.com,reject
 DOMAIN,aiseet.aa.atianqi.com,reject
 DOMAIN,ali-ad.a.yximgs.com,reject
+DOMAIN,ali-p2p-v2.pull.yximgs.com,reject
 DOMAIN,alog.umeng.com,reject
 DOMAIN,alogus.umeng.com,reject
 DOMAIN,als.baidu.com,reject
@@ -290,6 +294,8 @@ DOMAIN,dsp-x.jd.com,reject
 DOMAIN,dsp.fcbox.com,reject
 DOMAIN,dualstack-logs.amap.com,reject
 DOMAIN,dxp.baidu.com,reject
+DOMAIN,dyp2p-ali.douyucdn.cn,reject
+DOMAIN,dyp2p-hw.douyucdn.cn,reject
 DOMAIN,e.ad.xiaomi.com,reject
 DOMAIN,eclick.baidu.com,reject
 DOMAIN,edge.ads.twitch.tv,reject
@@ -349,6 +355,8 @@ DOMAIN,httpdns.ocloud.oppomobile.com,reject
 DOMAIN,hugelog.fcbox.com,reject
 DOMAIN,huichuan.sm.cn,reject
 DOMAIN,hw-ot-ad.a.yximgs.com,reject
+DOMAIN,hw-p2p-pull.video-voip.com,reject
+DOMAIN,hw-p2p.pull.yximgs.com,reject
 DOMAIN,hwpub-s01-drcn.cloud.dbankcloud.cn,reject
 DOMAIN,hybrid.miniapp.taobao.com,reject
 DOMAIN,hye.comp.360os.com,reject
@@ -388,6 +396,8 @@ DOMAIN,kepler.jd.com,reject
 DOMAIN,kl.67it.com,reject
 DOMAIN,klink.volceapplog.com,reject
 DOMAIN,knicks.jd.com,reject
+DOMAIN,ks-p2p-v2.pull.yximgs.com,reject
+DOMAIN,ks-p2p.pull.yximgs.com,reject
 DOMAIN,ks.ferlytc.com,reject
 DOMAIN,ks.pull.yximgs.com,reject
 DOMAIN,launcher.smart-tv.cn,reject
@@ -401,6 +411,7 @@ DOMAIN,livemonitor.huan.tv,reject
 DOMAIN,livep.l.aiseet.atianqi.com,reject
 DOMAIN,lives.l.aiseet.atianqi.com,reject
 DOMAIN,lives.l.ott.video.qq.com,reject
+DOMAIN,livewebbs2pcdn.msstatic.com,reject
 DOMAIN,lm10111.jtrincc.cn,reject
 DOMAIN,log-api-mn.huxiu.com,reject
 DOMAIN,log-api.huxiu.com,reject
@@ -454,6 +465,7 @@ DOMAIN,metrika.yandex.ru,reject
 DOMAIN,mi.gdt.qq.com,reject
 DOMAIN,miav-cse.avlyun.com,reject
 DOMAIN,mime.baidu.com,reject
+DOMAIN,mini-prog-drm.vodplayvideo.net,reject
 DOMAIN,mission-pub.smart-tv.cn,reject
 DOMAIN,miui-fxcse.avlyun.com,reject
 DOMAIN,mmgame.qpic.cn,reject
@@ -498,12 +510,17 @@ DOMAIN,p.l.qq.com,reject
 DOMAIN,p.s.360.cn,reject
 DOMAIN,p1-lm.adkwai.com,reject
 DOMAIN,p2-lm.adkwai.com,reject
+DOMAIN,p2pchunk-table.douyucdn.cn,reject
+DOMAIN,p2plive-ali.douyucdn.cn,reject
+DOMAIN,p2pupdate.gamedl.qq.com,reject
+DOMAIN,p2pupgrade.gamedl.qq.com,reject
 DOMAIN,p3-be-pack-sign.pglstatp-toutiao.com,reject
 DOMAIN,p3-lm.adkwai.com,reject
 DOMAIN,p3-tt.byteimg.com,reject
 DOMAIN,p6-be-pack-sign.pglstatp-toutiao.com,reject
 DOMAIN,pagead2.googleadservices.com,reject
 DOMAIN,pagead2.googlesyndication.com,reject
+DOMAIN,pcdn.xmcdn.com,reject
 DOMAIN,pcm-img.zhls.qq.com,reject
 DOMAIN,pgdt.gtimg.cn,reject
 DOMAIN,pgdt.ugdtimg.com,reject
@@ -518,6 +535,7 @@ DOMAIN,pos.baidu.com,reject
 DOMAIN,proxy.advp.apple.com,reject
 DOMAIN,public.gdtimg.com,reject
 DOMAIN,q.i.gdt.qq.com,reject
+DOMAIN,qn-cdnfile1pcdn.msstatic.com,reject
 DOMAIN,qqdata.ab.qq.com,reject
 DOMAIN,qzs.gdtimg.com,reject
 DOMAIN,recommend-drcn.hms.dbankcloud.cn,reject
@@ -537,6 +555,7 @@ DOMAIN,saad.ms.zhangyue.net,reject
 DOMAIN,samsung-com.112.2o7.net,reject
 DOMAIN,samsungads.com,reject
 DOMAIN,sanme2.taisantech.com,reject
+DOMAIN,saxysec.com,reject
 DOMAIN,scdown.qq.com,reject
 DOMAIN,scs.openspeech.cn,reject
 DOMAIN,sdk-ab-config.qquanquan.com,reject
@@ -585,6 +604,7 @@ DOMAIN,stats.qiumibao.com,reject
 DOMAIN,stats.wp.com,reject
 DOMAIN,statsigapi.net,reject
 DOMAIN,stg-data.ads.heytapmobi.com,reject
+DOMAIN,stun.hitv.com,reject
 DOMAIN,success.ctobsnssdk.com,reject
 DOMAIN,syh-imp.cdnjtzy.com,reject
 DOMAIN,szbdyd.com,reject
@@ -618,6 +638,7 @@ DOMAIN,tnc3-bjlgy.bytedance.com,reject
 DOMAIN,tnc3-bjlgy.toutiaoapi.com,reject
 DOMAIN,tnc3-bjlgy.zijieapi.com,reject
 DOMAIN,toblog.ctobsnssdk.com,reject
+DOMAIN,tpa-hcdn.iqiyi.com,reject
 DOMAIN,tpc.googlesyndication-cn.com,reject
 DOMAIN,tpc.googlesyndication.com,reject
 DOMAIN,trace.qq.com,reject
@@ -633,12 +654,15 @@ DOMAIN,tvapp.hpplay.cn,reject
 DOMAIN,tvuser-ch.cedock.com,reject
 DOMAIN,tx-ad.a.yximgs.com,reject
 DOMAIN,tx-kmpaudio.pull.yximgs.com,reject
+DOMAIN,tx-p2p-pull.live-voip.com,reject
+DOMAIN,tx-p2p-v2.pull.yximgs.com,reject
 DOMAIN,tytx.m.cn.miaozhen.com,reject
 DOMAIN,tz.sec.xiaomi.com,reject
 DOMAIN,uapi.ads.heytapmobi.com,reject
 DOMAIN,udc.yahoo.com,reject
 DOMAIN,udcm.yahoo.com,reject
 DOMAIN,uedas.qidian.com,reject
+DOMAIN,uhabo.com,reject
 DOMAIN,ulog-sdk.gifshow.com,reject
 DOMAIN,ulogjs.gifshow.com,reject
 DOMAIN,ulogs.umeng.com,reject
@@ -704,6 +728,7 @@ DOMAIN,xiaomi-dtv.m.cn.miaozhen.com,reject
 DOMAIN,xlog.jd.com,reject
 DOMAIN,xlviiirdr.com,reject
 DOMAIN,xlviirdr.com,reject
+DOMAIN,xycdn.com,reject
 DOMAIN,yk-ssp.ad.youku.com,reject
 DOMAIN,ykad-data.youku.com,reject
 DOMAIN,ykad-gateway.youku.com,reject
