@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 725
+!Total lines: 724
 !Version: 1.6.0-release
-!Update time: 2025-04-13 16:40:05 UTC+8
-!Update content: 对齐注释
+!Update time: 2025-04-14 18:01:09 UTC+8
+!Update content: remove stats.qiumibao.com
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -603,7 +603,6 @@
 0.0.0.0 stat.y.qq.com
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 statics.woozooo.com
-0.0.0.0 stats.qiumibao.com
 0.0.0.0 stats.wp.com
 0.0.0.0 statsigapi.net
 0.0.0.0 stg-data.ads.heytapmobi.com
@@ -822,7 +821,6 @@
 :: drcn-weather.cloud.huawei.com
 :: dualstack-logs.amap.com
 :: dxp.baidu.com
-:: dyp2p-ali.douyucdn.cn
 :: ef-dongfeng.tanx.com
 :: errlog.umeng.com
 :: errnewlog.umeng.com
@@ -873,10 +871,12 @@
 :: log.zijieapi.com
 :: log1.cmpassport.com
 :: logrcv.aiclk.com
+:: logs.amap.com
 :: logtj.kugou.com
 :: m.ad.zhangyue.com
 :: m.atm.youku.com
 :: m1.ad.10010.com
+:: mapi.m.jd.com
 :: masdkv6.3g.qq.com
 :: mazu.m.qq.com
 :: metrics.data.hicloud.com
@@ -923,7 +923,6 @@
 :: slb-p2p.vcloud.ks-live.com
 :: smartad.10010.com
 :: snowflake.qq.com
-:: stats.qiumibao.com
 :: t-dsp.pinduoduo.com
 :: tangram.e.qq.com
 :: tdc.qq.com

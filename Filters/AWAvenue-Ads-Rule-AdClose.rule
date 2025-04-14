@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 725
+#Total lines: 724
 #Version: 1.6.0-release
-#Update time: 2025-04-13 16:40:05 UTC+8
-#Update content: 对齐注释
+#Update time: 2025-04-14 18:01:09 UTC+8
+#Update content: remove stats.qiumibao.com
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -602,7 +602,6 @@ domain, stat.dongqiudi.com
 domain, stat.y.qq.com
 domain, static.ads-twitter.com
 domain, statics.woozooo.com
-domain, stats.qiumibao.com
 domain, stats.wp.com
 domain, statsigapi.net
 domain, stg-data.ads.heytapmobi.com

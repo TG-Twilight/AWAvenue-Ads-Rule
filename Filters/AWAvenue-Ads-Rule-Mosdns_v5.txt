@@ -588,7 +588,6 @@ domain:stat.dongqiudi.com
 domain:stat.y.qq.com
 domain:static.ads-twitter.com
 domain:statics.woozooo.com
-domain:stats.qiumibao.com
 domain:stats.wp.com
 domain:statsigapi.net
 domain:stg-data.ads.heytapmobi.com

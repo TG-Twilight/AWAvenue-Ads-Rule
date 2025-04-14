@@ -2,8 +2,8 @@
 !--------------------------------------
 !Total lines: 12
 !Version: 1.6.0-release
-!Update time: 2025-04-13 16:40:05 UTC+8
-!Update content: 对齐注释
+!Update time: 2025-04-14 18:01:09 UTC+8
+!Update content: remove stats.qiumibao.com
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -599,7 +599,6 @@ ip dns static add address=240.0.0.1 name=stat.dongqiudi.com
 ip dns static add address=240.0.0.1 name=stat.y.qq.com
 ip dns static add address=240.0.0.1 name=static.ads-twitter.com
 ip dns static add address=240.0.0.1 name=statics.woozooo.com
-ip dns static add address=240.0.0.1 name=stats.qiumibao.com
 ip dns static add address=240.0.0.1 name=stats.wp.com
 ip dns static add address=240.0.0.1 name=statsigapi.net
 ip dns static add address=240.0.0.1 name=stg-data.ads.heytapmobi.com
@@ -818,7 +817,6 @@ ip dns static add address=:: name=doubleclick-cn.net
 ip dns static add address=:: name=drcn-weather.cloud.huawei.com
 ip dns static add address=:: name=dualstack-logs.amap.com
 ip dns static add address=:: name=dxp.baidu.com
-ip dns static add address=:: name=dyp2p-ali.douyucdn.cn
 ip dns static add address=:: name=ef-dongfeng.tanx.com
 ip dns static add address=:: name=errlog.umeng.com
 ip dns static add address=:: name=errnewlog.umeng.com
@@ -869,10 +867,12 @@ ip dns static add address=:: name=log.web.kugou.com
 ip dns static add address=:: name=log.zijieapi.com
 ip dns static add address=:: name=log1.cmpassport.com
 ip dns static add address=:: name=logrcv.aiclk.com
+ip dns static add address=:: name=logs.amap.com
 ip dns static add address=:: name=logtj.kugou.com
 ip dns static add address=:: name=m.ad.zhangyue.com
 ip dns static add address=:: name=m.atm.youku.com
 ip dns static add address=:: name=m1.ad.10010.com
+ip dns static add address=:: name=mapi.m.jd.com
 ip dns static add address=:: name=masdkv6.3g.qq.com
 ip dns static add address=:: name=mazu.m.qq.com
 ip dns static add address=:: name=metrics.data.hicloud.com
@@ -919,7 +919,6 @@ ip dns static add address=:: name=securepubads.g.doubleclick.net
 ip dns static add address=:: name=slb-p2p.vcloud.ks-live.com
 ip dns static add address=:: name=smartad.10010.com
 ip dns static add address=:: name=snowflake.qq.com
-ip dns static add address=:: name=stats.qiumibao.com
 ip dns static add address=:: name=t-dsp.pinduoduo.com
 ip dns static add address=:: name=tangram.e.qq.com
 ip dns static add address=:: name=tdc.qq.com

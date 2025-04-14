@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2025-04-13 16:40:05 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2025-04-14 18:01:09 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -596,7 +596,6 @@ DOMAIN,stat.dongqiudi.com,REJECT,extended-matching,pre-matching
 DOMAIN,stat.y.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,static.ads-twitter.com,REJECT,extended-matching,pre-matching
 DOMAIN,statics.woozooo.com,REJECT,extended-matching,pre-matching
-DOMAIN,stats.qiumibao.com,REJECT,extended-matching,pre-matching
 DOMAIN,stats.wp.com,REJECT,extended-matching,pre-matching
 DOMAIN,statsigapi.net,REJECT,extended-matching,pre-matching
 DOMAIN,stg-data.ads.heytapmobi.com,REJECT,extended-matching,pre-matching
