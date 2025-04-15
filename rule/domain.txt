@@ -487,6 +487,7 @@ metrics2.data.hicloud.com
 metrika.yandex.ru
 mi.gdt.qq.com
 miav-cse.avlyun.com
+micro-xdb.com
 mime.baidu.com
 mine.baidu.com
 mini-prog-drm.vodplayvideo.net
