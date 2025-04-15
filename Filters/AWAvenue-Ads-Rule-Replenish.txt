@@ -49,3 +49,6 @@
 !
 ||static.wxqcloud.qq.com.cn^
 # 用于拦截 WeChat 订阅号中的特殊广告，但部小程序依赖此域名加载css，well, he's here now.
+!
+||hismarttv.com^
+# 用于拦截 Hisense TV 的广告和云控，但部分正常资源也依赖此加载，所以，它现在到这里来了。
