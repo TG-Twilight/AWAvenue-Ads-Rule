@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 724
+#Total lines: 719
 #Version: 1.6.0-release
-#Update time: 2025-04-14 18:01:09 UTC+8
-#Update content: remove stats.qiumibao.com
+#Update time: 2025-04-15 18:57:56 UTC+8
+#Update content: Move "hismarttv.com" to Supplementary Rules.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -20,9 +20,6 @@ domain, a0.app.xiaomi.com
 domain, aaid.umeng.com
 domain, abtest-ch.snssdk.com
 domain, ad-cdn.qingting.fm
-domain, ad-cmp.hismarttv.com
-domain, ad-download.hismarttv.com
-domain, ad-imp.hismarttv.com
 domain, ad-scope.com
 domain, ad-scope.com.cn
 domain, ad-sdk-config.youdao.com
@@ -346,7 +343,6 @@ domain, hanlanad.com
 domain, heads-ak.spotify.com.edgesuite.net
 domain, heads-fa.spotify.com
 domain, hexagon-analytics.com
-domain, hismarttv.com
 domain, hm.baidu.com
 domain, hmma.baidu.com
 domain, hotupgrade.hpplay.cn
@@ -712,7 +708,6 @@ domain, widgets.outbrain.com
 domain, widgets.pinterest.com
 domain, wildcard.moatads.com.edgekey.net
 domain, win.gdt.qq.com
-domain, wn.x.jd.com
 domain, ws-keyboard.shouji.sogou.com
 domain, ws.sj.qq.com
 domain, wwads.cn

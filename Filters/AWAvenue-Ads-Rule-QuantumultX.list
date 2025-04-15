@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 736
+#Total lines: 731
 #Version: 1.6.0-release
-#Update time: 2025-04-14 18:01:09 UTC+8
-#Update content: remove stats.qiumibao.com
+#Update time: 2025-04-15 18:57:56 UTC+8
+#Update content: Move "hismarttv.com" to Supplementary Rules.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -17,9 +17,6 @@ DOMAIN,a0.app.xiaomi.com,reject
 DOMAIN,aaid.umeng.com,reject
 DOMAIN,abtest-ch.snssdk.com,reject
 DOMAIN,ad-cdn.qingting.fm,reject
-DOMAIN,ad-cmp.hismarttv.com,reject
-DOMAIN,ad-download.hismarttv.com,reject
-DOMAIN,ad-imp.hismarttv.com,reject
 DOMAIN,ad-scope.com,reject
 DOMAIN,ad-scope.com.cn,reject
 DOMAIN,ad-sdk-config.youdao.com,reject
@@ -343,7 +340,6 @@ DOMAIN,hanlanad.com,reject
 DOMAIN,heads-ak.spotify.com.edgesuite.net,reject
 DOMAIN,heads-fa.spotify.com,reject
 DOMAIN,hexagon-analytics.com,reject
-DOMAIN,hismarttv.com,reject
 DOMAIN,hm.baidu.com,reject
 DOMAIN,hmma.baidu.com,reject
 DOMAIN,hotupgrade.hpplay.cn,reject
@@ -709,7 +705,6 @@ DOMAIN,widgets.outbrain.com,reject
 DOMAIN,widgets.pinterest.com,reject
 DOMAIN,wildcard.moatads.com.edgekey.net,reject
 DOMAIN,win.gdt.qq.com,reject
-DOMAIN,wn.x.jd.com,reject
 DOMAIN,ws-keyboard.shouji.sogou.com,reject
 DOMAIN,ws.sj.qq.com,reject
 DOMAIN,wwads.cn,reject

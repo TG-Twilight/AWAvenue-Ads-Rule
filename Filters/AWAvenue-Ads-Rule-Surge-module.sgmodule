@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2025-04-14 18:01:09 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2025-04-15 18:57:56 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -14,9 +14,6 @@ DOMAIN,a0.app.xiaomi.com,REJECT,extended-matching,pre-matching
 DOMAIN,aaid.umeng.com,REJECT,extended-matching,pre-matching
 DOMAIN,abtest-ch.snssdk.com,REJECT,extended-matching,pre-matching
 DOMAIN,ad-cdn.qingting.fm,REJECT,extended-matching,pre-matching
-DOMAIN,ad-cmp.hismarttv.com,REJECT,extended-matching,pre-matching
-DOMAIN,ad-download.hismarttv.com,REJECT,extended-matching,pre-matching
-DOMAIN,ad-imp.hismarttv.com,REJECT,extended-matching,pre-matching
 DOMAIN,ad-scope.com,REJECT,extended-matching,pre-matching
 DOMAIN,ad-scope.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,ad-sdk-config.youdao.com,REJECT,extended-matching,pre-matching
@@ -340,7 +337,6 @@ DOMAIN,hanlanad.com,REJECT,extended-matching,pre-matching
 DOMAIN,heads-ak.spotify.com.edgesuite.net,REJECT,extended-matching,pre-matching
 DOMAIN,heads-fa.spotify.com,REJECT,extended-matching,pre-matching
 DOMAIN,hexagon-analytics.com,REJECT,extended-matching,pre-matching
-DOMAIN,hismarttv.com,REJECT,extended-matching,pre-matching
 DOMAIN,hm.baidu.com,REJECT,extended-matching,pre-matching
 DOMAIN,hmma.baidu.com,REJECT,extended-matching,pre-matching
 DOMAIN,hotupgrade.hpplay.cn,REJECT,extended-matching,pre-matching
@@ -706,7 +702,6 @@ DOMAIN,widgets.outbrain.com,REJECT,extended-matching,pre-matching
 DOMAIN,widgets.pinterest.com,REJECT,extended-matching,pre-matching
 DOMAIN,wildcard.moatads.com.edgekey.net,REJECT,extended-matching,pre-matching
 DOMAIN,win.gdt.qq.com,REJECT,extended-matching,pre-matching
-DOMAIN,wn.x.jd.com,REJECT,extended-matching,pre-matching
 DOMAIN,ws-keyboard.shouji.sogou.com,REJECT,extended-matching,pre-matching
 DOMAIN,ws.sj.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,wwads.cn,REJECT,extended-matching,pre-matching

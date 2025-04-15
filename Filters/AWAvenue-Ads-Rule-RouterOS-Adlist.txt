@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 724
+#Total lines: 719
 #Version: 1.6.0-release
-#Update time: 2025-04-14 18:01:09 UTC+8
-#Update content: remove stats.qiumibao.com
+#Update time: 2025-04-15 18:57:56 UTC+8
+#Update content: Move "hismarttv.com" to Supplementary Rules.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -21,9 +21,6 @@
 0.0.0.0 aaid.umeng.com
 0.0.0.0 abtest-ch.snssdk.com
 0.0.0.0 ad-cdn.qingting.fm
-0.0.0.0 ad-cmp.hismarttv.com
-0.0.0.0 ad-download.hismarttv.com
-0.0.0.0 ad-imp.hismarttv.com
 0.0.0.0 ad-scope.com
 0.0.0.0 ad-scope.com.cn
 0.0.0.0 ad-sdk-config.youdao.com
@@ -347,7 +344,6 @@
 0.0.0.0 heads-ak.spotify.com.edgesuite.net
 0.0.0.0 heads-fa.spotify.com
 0.0.0.0 hexagon-analytics.com
-0.0.0.0 hismarttv.com
 0.0.0.0 hm.baidu.com
 0.0.0.0 hmma.baidu.com
 0.0.0.0 hotupgrade.hpplay.cn
@@ -713,7 +709,6 @@
 0.0.0.0 widgets.pinterest.com
 0.0.0.0 wildcard.moatads.com.edgekey.net
 0.0.0.0 win.gdt.qq.com
-0.0.0.0 wn.x.jd.com
 0.0.0.0 ws-keyboard.shouji.sogou.com
 0.0.0.0 ws.sj.qq.com
 0.0.0.0 wwads.cn
@@ -821,6 +816,7 @@
 :: drcn-weather.cloud.huawei.com
 :: dualstack-logs.amap.com
 :: dxp.baidu.com
+:: dyp2p-ali.douyucdn.cn
 :: ef-dongfeng.tanx.com
 :: errlog.umeng.com
 :: errnewlog.umeng.com
@@ -876,7 +872,6 @@
 :: m.ad.zhangyue.com
 :: m.atm.youku.com
 :: m1.ad.10010.com
-:: mapi.m.jd.com
 :: masdkv6.3g.qq.com
 :: mazu.m.qq.com
 :: metrics.data.hicloud.com

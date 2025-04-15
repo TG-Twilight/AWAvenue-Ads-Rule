@@ -2,8 +2,8 @@
 !--------------------------------------
 !Total lines: 12
 !Version: 1.6.0-release
-!Update time: 2025-04-14 18:01:09 UTC+8
-!Update content: remove stats.qiumibao.com
+!Update time: 2025-04-15 18:57:56 UTC+8
+!Update content: Move "hismarttv.com" to Supplementary Rules.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -17,9 +17,6 @@ ip dns static add address=240.0.0.1 name=a0.app.xiaomi.com
 ip dns static add address=240.0.0.1 name=aaid.umeng.com
 ip dns static add address=240.0.0.1 name=abtest-ch.snssdk.com
 ip dns static add address=240.0.0.1 name=ad-cdn.qingting.fm
-ip dns static add address=240.0.0.1 name=ad-cmp.hismarttv.com
-ip dns static add address=240.0.0.1 name=ad-download.hismarttv.com
-ip dns static add address=240.0.0.1 name=ad-imp.hismarttv.com
 ip dns static add address=240.0.0.1 name=ad-scope.com
 ip dns static add address=240.0.0.1 name=ad-scope.com.cn
 ip dns static add address=240.0.0.1 name=ad-sdk-config.youdao.com
@@ -343,7 +340,6 @@ ip dns static add address=240.0.0.1 name=hanlanad.com
 ip dns static add address=240.0.0.1 name=heads-ak.spotify.com.edgesuite.net
 ip dns static add address=240.0.0.1 name=heads-fa.spotify.com
 ip dns static add address=240.0.0.1 name=hexagon-analytics.com
-ip dns static add address=240.0.0.1 name=hismarttv.com
 ip dns static add address=240.0.0.1 name=hm.baidu.com
 ip dns static add address=240.0.0.1 name=hmma.baidu.com
 ip dns static add address=240.0.0.1 name=hotupgrade.hpplay.cn
@@ -709,7 +705,6 @@ ip dns static add address=240.0.0.1 name=widgets.outbrain.com
 ip dns static add address=240.0.0.1 name=widgets.pinterest.com
 ip dns static add address=240.0.0.1 name=wildcard.moatads.com.edgekey.net
 ip dns static add address=240.0.0.1 name=win.gdt.qq.com
-ip dns static add address=240.0.0.1 name=wn.x.jd.com
 ip dns static add address=240.0.0.1 name=ws-keyboard.shouji.sogou.com
 ip dns static add address=240.0.0.1 name=ws.sj.qq.com
 ip dns static add address=240.0.0.1 name=wwads.cn
@@ -817,6 +812,7 @@ ip dns static add address=:: name=doubleclick-cn.net
 ip dns static add address=:: name=drcn-weather.cloud.huawei.com
 ip dns static add address=:: name=dualstack-logs.amap.com
 ip dns static add address=:: name=dxp.baidu.com
+ip dns static add address=:: name=dyp2p-ali.douyucdn.cn
 ip dns static add address=:: name=ef-dongfeng.tanx.com
 ip dns static add address=:: name=errlog.umeng.com
 ip dns static add address=:: name=errnewlog.umeng.com
@@ -872,7 +868,6 @@ ip dns static add address=:: name=logtj.kugou.com
 ip dns static add address=:: name=m.ad.zhangyue.com
 ip dns static add address=:: name=m.atm.youku.com
 ip dns static add address=:: name=m1.ad.10010.com
-ip dns static add address=:: name=mapi.m.jd.com
 ip dns static add address=:: name=masdkv6.3g.qq.com
 ip dns static add address=:: name=mazu.m.qq.com
 ip dns static add address=:: name=metrics.data.hicloud.com
