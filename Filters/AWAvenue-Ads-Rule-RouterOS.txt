@@ -2,8 +2,8 @@
 !--------------------------------------
 !Total lines: 12
 !Version: 1.6.0-release
-!Update time: 2025-04-15 18:57:56 UTC+8
-!Update content: Move "hismarttv.com" to Supplementary Rules.
+!Update time: 2025-04-15 19:04:21 UTC+8
+!Update content: add “micro-xdb.com” ads.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -459,6 +459,7 @@ ip dns static add address=240.0.0.1 name=metrics2.data.hicloud.com
 ip dns static add address=240.0.0.1 name=metrika.yandex.ru
 ip dns static add address=240.0.0.1 name=mi.gdt.qq.com
 ip dns static add address=240.0.0.1 name=miav-cse.avlyun.com
+ip dns static add address=240.0.0.1 name=micro-xdb.com
 ip dns static add address=240.0.0.1 name=mime.baidu.com
 ip dns static add address=240.0.0.1 name=mini-prog-drm.vodplayvideo.net
 ip dns static add address=240.0.0.1 name=mission-pub.smart-tv.cn
@@ -705,6 +706,7 @@ ip dns static add address=240.0.0.1 name=widgets.outbrain.com
 ip dns static add address=240.0.0.1 name=widgets.pinterest.com
 ip dns static add address=240.0.0.1 name=wildcard.moatads.com.edgekey.net
 ip dns static add address=240.0.0.1 name=win.gdt.qq.com
+ip dns static add address=240.0.0.1 name=wn.x.jd.com
 ip dns static add address=240.0.0.1 name=ws-keyboard.shouji.sogou.com
 ip dns static add address=240.0.0.1 name=ws.sj.qq.com
 ip dns static add address=240.0.0.1 name=wwads.cn

@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 731
+#Total lines: 733
 #Version: 1.6.0-release
-#Update time: 2025-04-15 18:57:56 UTC+8
-#Update content: Move "hismarttv.com" to Supplementary Rules.
+#Update time: 2025-04-15 19:04:21 UTC+8
+#Update content: add “micro-xdb.com” ads.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -459,6 +459,7 @@ DOMAIN,metrics2.data.hicloud.com,reject
 DOMAIN,metrika.yandex.ru,reject
 DOMAIN,mi.gdt.qq.com,reject
 DOMAIN,miav-cse.avlyun.com,reject
+DOMAIN,micro-xdb.com,reject
 DOMAIN,mime.baidu.com,reject
 DOMAIN,mini-prog-drm.vodplayvideo.net,reject
 DOMAIN,mission-pub.smart-tv.cn,reject
@@ -705,6 +706,7 @@ DOMAIN,widgets.outbrain.com,reject
 DOMAIN,widgets.pinterest.com,reject
 DOMAIN,wildcard.moatads.com.edgekey.net,reject
 DOMAIN,win.gdt.qq.com,reject
+DOMAIN,wn.x.jd.com,reject
 DOMAIN,ws-keyboard.shouji.sogou.com,reject
 DOMAIN,ws.sj.qq.com,reject
 DOMAIN,wwads.cn,reject

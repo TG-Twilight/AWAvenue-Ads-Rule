@@ -448,6 +448,7 @@ domain:metrics2.data.hicloud.com
 domain:metrika.yandex.ru
 domain:mi.gdt.qq.com
 domain:miav-cse.avlyun.com
+domain:micro-xdb.com
 domain:mime.baidu.com
 domain:mini-prog-drm.vodplayvideo.net
 domain:mission-pub.smart-tv.cn
@@ -694,6 +695,7 @@ domain:widgets.outbrain.com
 domain:widgets.pinterest.com
 domain:wildcard.moatads.com.edgekey.net
 domain:win.gdt.qq.com
+domain:wn.x.jd.com
 domain:ws-keyboard.shouji.sogou.com
 domain:ws.sj.qq.com
 domain:wwads.cn

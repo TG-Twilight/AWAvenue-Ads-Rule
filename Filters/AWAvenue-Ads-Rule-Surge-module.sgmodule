@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2025-04-15 18:57:56 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2025-04-15 19:04:21 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -456,6 +456,7 @@ DOMAIN,metrics2.data.hicloud.com,REJECT,extended-matching,pre-matching
 DOMAIN,metrika.yandex.ru,REJECT,extended-matching,pre-matching
 DOMAIN,mi.gdt.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,miav-cse.avlyun.com,REJECT,extended-matching,pre-matching
+DOMAIN,micro-xdb.com,REJECT,extended-matching,pre-matching
 DOMAIN,mime.baidu.com,REJECT,extended-matching,pre-matching
 DOMAIN,mini-prog-drm.vodplayvideo.net,REJECT,extended-matching,pre-matching
 DOMAIN,mission-pub.smart-tv.cn,REJECT,extended-matching,pre-matching
@@ -702,6 +703,7 @@ DOMAIN,widgets.outbrain.com,REJECT,extended-matching,pre-matching
 DOMAIN,widgets.pinterest.com,REJECT,extended-matching,pre-matching
 DOMAIN,wildcard.moatads.com.edgekey.net,REJECT,extended-matching,pre-matching
 DOMAIN,win.gdt.qq.com,REJECT,extended-matching,pre-matching
+DOMAIN,wn.x.jd.com,REJECT,extended-matching,pre-matching
 DOMAIN,ws-keyboard.shouji.sogou.com,REJECT,extended-matching,pre-matching
 DOMAIN,ws.sj.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,wwads.cn,REJECT,extended-matching,pre-matching
