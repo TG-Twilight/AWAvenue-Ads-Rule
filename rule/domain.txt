@@ -247,6 +247,7 @@ cdn.ad.xiaomi.com
 cdn.aiclk.com
 cdn.chinaliftoff-creatives.io
 cdn.hpplay.com.cn
+cdn.iads.unitychina.cn
 cdn.liftoff-creatives.io
 cdn.ynuf.aliapp.org
 cfg.imtt.qq.com
@@ -274,6 +275,7 @@ cpro.baidustatic.com
 crashlyticsreports-pa.googleapis.com
 csjplatform.com
 cws-cctv.conviva.com
+d.applovin.com
 data.ads.oppomobile.com
 data.chsmarttv.com
 data.mistat.india.xiaomi.com
@@ -306,6 +308,7 @@ ef-dongfeng.tanx.com
 entry.baidu.com
 errlog.umeng.com
 errnewlog.umeng.com
+et-eus.w.inmobi.com
 event.tradplusad.com
 events-drcn.op.dbankcloud.cn
 events.reddit.com
@@ -343,6 +346,7 @@ googleadservices.com
 googletagservices-cn.com
 googletagservices.com
 gorgon.youdao.com
+graph.facebook.com
 gromore.pangolin-sdk-toutiao.com
 grs.dbankcloud.com
 grs.hicloud.com
@@ -374,6 +378,8 @@ hya.comp.360os.com
 hybrid.miniapp.taobao.com
 hye.comp.360os.com
 hyt.comp.360os.com
+i.l-new.inmobicdn.net
+i.l.inmobicdn.net
 iad.apple.com
 iadctest.qwapi.com
 iadsdk.apple.com
@@ -514,6 +520,7 @@ monitor.music.qq.com
 monitor.uu.qq.com
 monsetting.toutiao.com
 ms.applovin.com
+ms4.applovin.com
 ms4.applvn.com
 mssdk.volces.com
 mssdk.zijieapi.com
@@ -589,6 +596,7 @@ qzs.gdtimg.com
 recommend-drcn.hms.dbankcloud.cn
 report.tv.kohesport.qq.com
 res.hubcloud.com.cn
+res1.applovin.com
 res1.hubcloud.com.cn
 res2.hubcloud.com.cn
 res3.hubcloud.com.cn
@@ -618,6 +626,7 @@ scs.openspeech.cn
 sdk-ab-config.qquanquan.com
 sdk-cache.video.ptqy.gitv.tv
 sdk.1rtb.net
+sdk.ad.smaato.net
 sdk.beizi.biz
 sdk.cferw.com
 sdk.e.qq.com
@@ -668,6 +677,7 @@ statsigapi.net
 stg-data.ads.heytapmobi.com
 stun.hitv.com
 success.ctobsnssdk.com
+supply.inmobicdn.net
 sv-video.play.aiseet.atianqi.com
 syh-imp.cdnjtzy.com
 szbdyd.com
