@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 748
+#Total lines: 758
 #Version: 1.6.0-release
-#Update time: 2025-04-25 00:51:22 UTC+8
-#Update content: add “analysis.chatglm.cn”
+#Update time: 2025-04-25 01:32:05 UTC+8
+#Update content: block unity、adsmoloco、inmobi、applovin ads.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -75,6 +75,7 @@ DOMAIN,ads.google.cn,reject
 DOMAIN,ads.huan.tv,reject
 DOMAIN,ads.huantest.com,reject
 DOMAIN,ads.icloseli.cn,reject
+DOMAIN,ads.inmobi.com,reject
 DOMAIN,ads.linkedin.com,reject
 DOMAIN,ads.music.126.net,reject
 DOMAIN,ads.pinterest.com,reject
@@ -239,6 +240,7 @@ DOMAIN,ccs.umeng.com,reject
 DOMAIN,cctv.adsunion.com,reject
 DOMAIN,cdn-ad.wtzw.com,reject
 DOMAIN,cdn-ads.oss-cn-shanghai.aliyuncs.com,reject
+DOMAIN,cdn-f.adsmoloco.com,reject
 DOMAIN,cdn-plugin-sync-upgrade-juui.hismarttv.com,reject
 DOMAIN,cdn.aiclk.com,reject
 DOMAIN,cdn.chinaliftoff-creatives.io,reject
@@ -376,6 +378,7 @@ DOMAIN,img-x.jd.com,reject
 DOMAIN,img.adnyg.com.w.kunlungr.com,reject
 DOMAIN,impression-asia.chinaliftoff.io,reject
 DOMAIN,impression-asia.liftoff.io,reject
+DOMAIN,impression.appsflyer.com,reject
 DOMAIN,in.treasuredata.com,reject
 DOMAIN,iot-eu-logser.realme.com,reject
 DOMAIN,iot-logser.realme.com,reject
@@ -482,6 +485,8 @@ DOMAIN,monitor-uu.play.aiseet.atianqi.com,reject
 DOMAIN,monitor.music.qq.com,reject
 DOMAIN,monitor.uu.qq.com,reject
 DOMAIN,monsetting.toutiao.com,reject
+DOMAIN,ms.applovin.com,reject
+DOMAIN,ms4.applvn.com,reject
 DOMAIN,mssdk.volces.com,reject
 DOMAIN,mssdk.zijieapi.com,reject
 DOMAIN,mtj.baidu.com,reject
@@ -490,6 +495,7 @@ DOMAIN,newvoice.chiq5.smart-tv.cn,reject
 DOMAIN,nmetrics.samsung.com,reject
 DOMAIN,notes-analytics-events.apple.com,reject
 DOMAIN,nsclick.baidu.com,reject
+DOMAIN,o-sdk.mediation.unity3d.com,reject
 DOMAIN,o2o.api.xiaomi.com,reject
 DOMAIN,offerwall.yandex.net,reject
 DOMAIN,ogads-pa.clients6.google.com,reject
@@ -533,6 +539,7 @@ DOMAIN,plbslog.umeng.com,reject
 DOMAIN,pms.mb.qq.com,reject
 DOMAIN,policy.video.ptqy.gitv.tv,reject
 DOMAIN,pos.baidu.com,reject
+DOMAIN,prod-mediate-events.applovin.com,reject
 DOMAIN,proxy.advp.apple.com,reject
 DOMAIN,public.gdtimg.com,reject
 DOMAIN,q.i.gdt.qq.com,reject
@@ -624,6 +631,7 @@ DOMAIN,tangram.e.qq.com,reject
 DOMAIN,tdc.qq.com,reject
 DOMAIN,tdsdk.cpatrk.net,reject
 DOMAIN,tdsdk.xdrig.com,reject
+DOMAIN,telemetry.sdk.inmobi.com,reject
 DOMAIN,tencent-dtv.m.cn.miaozhen.com,reject
 DOMAIN,terms-drcn.platform.dbankcloud.cn,reject
 DOMAIN,test.ad.xiaomi.com,reject
@@ -646,6 +654,7 @@ DOMAIN,toblog.ctobsnssdk.com,reject
 DOMAIN,tpa-hcdn.iqiyi.com,reject
 DOMAIN,tpc.googlesyndication-cn.com,reject
 DOMAIN,tpc.googlesyndication.com,reject
+DOMAIN,tr-asia.adsmoloco.com,reject
 DOMAIN,trace.qq.com,reject
 DOMAIN,tracelog-debug.aiclk.com,reject
 DOMAIN,tracelog-debug.qquanquan.com,reject
@@ -724,6 +733,7 @@ DOMAIN,win.gdt.qq.com,reject
 DOMAIN,wn.x.jd.com,reject
 DOMAIN,ws-keyboard.shouji.sogou.com,reject
 DOMAIN,ws.sj.qq.com,reject
+DOMAIN,wv.inner-active.mobi,reject
 DOMAIN,wwads.cn,reject
 DOMAIN,wxa.wxs.qq.com,reject
 DOMAIN,wxaintpcos.wxqcloud.qq.com.cn,reject

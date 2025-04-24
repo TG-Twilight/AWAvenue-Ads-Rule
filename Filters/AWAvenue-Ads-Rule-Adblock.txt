@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 748
+!Total lines: 758
 !Version: 1.6.0-release
-!Update time: 2025-04-25 00:51:22 UTC+8
-!Update content: add “analysis.chatglm.cn”
+!Update time: 2025-04-25 01:32:05 UTC+8
+!Update content: block unity、adsmoloco、inmobi、applovin ads.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -75,6 +75,7 @@
 ||ads.huan.tv^
 ||ads.huantest.com^
 ||ads.icloseli.cn^
+||ads.inmobi.com^
 ||ads.linkedin.com^
 ||ads.music.126.net^
 ||ads.pinterest.com^
@@ -239,6 +240,7 @@
 ||cctv.adsunion.com^
 ||cdn-ad.wtzw.com^
 ||cdn-ads.oss-cn-shanghai.aliyuncs.com^
+||cdn-f.adsmoloco.com^
 ||cdn-plugin-sync-upgrade-juui.hismarttv.com^
 ||cdn.aiclk.com^
 ||cdn.chinaliftoff-creatives.io^
@@ -376,6 +378,7 @@
 ||img.adnyg.com.w.kunlungr.com^
 ||impression-asia.chinaliftoff.io^
 ||impression-asia.liftoff.io^
+||impression.appsflyer.com^
 ||in.treasuredata.com^
 ||iot-eu-logser.realme.com^
 ||iot-logser.realme.com^
@@ -482,6 +485,8 @@
 ||monitor.music.qq.com^
 ||monitor.uu.qq.com^
 ||monsetting.toutiao.com^
+||ms.applovin.com^
+||ms4.applvn.com^
 ||mssdk.volces.com^
 ||mssdk.zijieapi.com^
 ||mtj.baidu.com^
@@ -490,6 +495,7 @@
 ||nmetrics.samsung.com^
 ||notes-analytics-events.apple.com^
 ||nsclick.baidu.com^
+||o-sdk.mediation.unity3d.com^
 ||o2o.api.xiaomi.com^
 ||offerwall.yandex.net^
 ||ogads-pa.clients6.google.com^
@@ -533,6 +539,7 @@
 ||pms.mb.qq.com^
 ||policy.video.ptqy.gitv.tv^
 ||pos.baidu.com^
+||prod-mediate-events.applovin.com^
 ||proxy.advp.apple.com^
 ||public.gdtimg.com^
 ||q.i.gdt.qq.com^
@@ -624,6 +631,7 @@
 ||tdc.qq.com^
 ||tdsdk.cpatrk.net^
 ||tdsdk.xdrig.com^
+||telemetry.sdk.inmobi.com^
 ||tencent-dtv.m.cn.miaozhen.com^
 ||terms-drcn.platform.dbankcloud.cn^
 ||test.ad.xiaomi.com^
@@ -646,6 +654,7 @@
 ||tpa-hcdn.iqiyi.com^
 ||tpc.googlesyndication-cn.com^
 ||tpc.googlesyndication.com^
+||tr-asia.adsmoloco.com^
 ||trace.qq.com^
 ||tracelog-debug.aiclk.com^
 ||tracelog-debug.qquanquan.com^
@@ -724,6 +733,7 @@
 ||wn.x.jd.com^
 ||ws-keyboard.shouji.sogou.com^
 ||ws.sj.qq.com^
+||wv.inner-active.mobi^
 ||wwads.cn^
 ||wxa.wxs.qq.com^
 ||wxaintpcos.wxqcloud.qq.com.cn^

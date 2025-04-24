@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 736
+#Total lines: 746
 #Version: 1.6.0-release
-#Update time: 2025-04-25 00:51:22 UTC+8
-#Update content: add “analysis.chatglm.cn”
+#Update time: 2025-04-25 01:32:05 UTC+8
+#Update content: block unity、adsmoloco、inmobi、applovin ads.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -79,6 +79,7 @@
 0.0.0.0 ads.huan.tv
 0.0.0.0 ads.huantest.com
 0.0.0.0 ads.icloseli.cn
+0.0.0.0 ads.inmobi.com
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.music.126.net
 0.0.0.0 ads.pinterest.com
@@ -243,6 +244,7 @@
 0.0.0.0 cctv.adsunion.com
 0.0.0.0 cdn-ad.wtzw.com
 0.0.0.0 cdn-ads.oss-cn-shanghai.aliyuncs.com
+0.0.0.0 cdn-f.adsmoloco.com
 0.0.0.0 cdn-plugin-sync-upgrade-juui.hismarttv.com
 0.0.0.0 cdn.aiclk.com
 0.0.0.0 cdn.chinaliftoff-creatives.io
@@ -380,6 +382,7 @@
 0.0.0.0 img.adnyg.com.w.kunlungr.com
 0.0.0.0 impression-asia.chinaliftoff.io
 0.0.0.0 impression-asia.liftoff.io
+0.0.0.0 impression.appsflyer.com
 0.0.0.0 in.treasuredata.com
 0.0.0.0 iot-eu-logser.realme.com
 0.0.0.0 iot-logser.realme.com
@@ -486,6 +489,8 @@
 0.0.0.0 monitor.music.qq.com
 0.0.0.0 monitor.uu.qq.com
 0.0.0.0 monsetting.toutiao.com
+0.0.0.0 ms.applovin.com
+0.0.0.0 ms4.applvn.com
 0.0.0.0 mssdk.volces.com
 0.0.0.0 mssdk.zijieapi.com
 0.0.0.0 mtj.baidu.com
@@ -494,6 +499,7 @@
 0.0.0.0 nmetrics.samsung.com
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 nsclick.baidu.com
+0.0.0.0 o-sdk.mediation.unity3d.com
 0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 offerwall.yandex.net
 0.0.0.0 ogads-pa.clients6.google.com
@@ -537,6 +543,7 @@
 0.0.0.0 pms.mb.qq.com
 0.0.0.0 policy.video.ptqy.gitv.tv
 0.0.0.0 pos.baidu.com
+0.0.0.0 prod-mediate-events.applovin.com
 0.0.0.0 proxy.advp.apple.com
 0.0.0.0 public.gdtimg.com
 0.0.0.0 q.i.gdt.qq.com
@@ -628,6 +635,7 @@
 0.0.0.0 tdc.qq.com
 0.0.0.0 tdsdk.cpatrk.net
 0.0.0.0 tdsdk.xdrig.com
+0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 tencent-dtv.m.cn.miaozhen.com
 0.0.0.0 terms-drcn.platform.dbankcloud.cn
 0.0.0.0 test.ad.xiaomi.com
@@ -650,6 +658,7 @@
 0.0.0.0 tpa-hcdn.iqiyi.com
 0.0.0.0 tpc.googlesyndication-cn.com
 0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 tr-asia.adsmoloco.com
 0.0.0.0 trace.qq.com
 0.0.0.0 tracelog-debug.aiclk.com
 0.0.0.0 tracelog-debug.qquanquan.com
@@ -728,6 +737,7 @@
 0.0.0.0 wn.x.jd.com
 0.0.0.0 ws-keyboard.shouji.sogou.com
 0.0.0.0 ws.sj.qq.com
+0.0.0.0 wv.inner-active.mobi
 0.0.0.0 wwads.cn
 0.0.0.0 wxa.wxs.qq.com
 0.0.0.0 wxaintpcos.wxqcloud.qq.com.cn
@@ -883,7 +893,6 @@
 :: log.zijieapi.com
 :: log1.cmpassport.com
 :: logrcv.aiclk.com
-:: logs.amap.com
 :: logtj.kugou.com
 :: m.ad.zhangyue.com
 :: m.atm.youku.com
@@ -900,6 +909,7 @@
 :: mon.zijieapi.com
 :: monitor.music.qq.com
 :: monsetting.toutiao.com
+:: ms.applovin.com
 :: mssdk.volces.com
 :: offerwall.yandex.net
 :: ogads-pa.clients6.google.com

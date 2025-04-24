@@ -2,8 +2,8 @@
 !--------------------------------------
 !Total lines: 12
 !Version: 1.6.0-release
-!Update time: 2025-04-25 00:51:22 UTC+8
-!Update content: add “analysis.chatglm.cn”
+!Update time: 2025-04-25 01:32:05 UTC+8
+!Update content: block unity、adsmoloco、inmobi、applovin ads.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -75,6 +75,7 @@ ip dns static add address=240.0.0.1 name=ads.google.cn
 ip dns static add address=240.0.0.1 name=ads.huan.tv
 ip dns static add address=240.0.0.1 name=ads.huantest.com
 ip dns static add address=240.0.0.1 name=ads.icloseli.cn
+ip dns static add address=240.0.0.1 name=ads.inmobi.com
 ip dns static add address=240.0.0.1 name=ads.linkedin.com
 ip dns static add address=240.0.0.1 name=ads.music.126.net
 ip dns static add address=240.0.0.1 name=ads.pinterest.com
@@ -239,6 +240,7 @@ ip dns static add address=240.0.0.1 name=ccs.umeng.com
 ip dns static add address=240.0.0.1 name=cctv.adsunion.com
 ip dns static add address=240.0.0.1 name=cdn-ad.wtzw.com
 ip dns static add address=240.0.0.1 name=cdn-ads.oss-cn-shanghai.aliyuncs.com
+ip dns static add address=240.0.0.1 name=cdn-f.adsmoloco.com
 ip dns static add address=240.0.0.1 name=cdn-plugin-sync-upgrade-juui.hismarttv.com
 ip dns static add address=240.0.0.1 name=cdn.aiclk.com
 ip dns static add address=240.0.0.1 name=cdn.chinaliftoff-creatives.io
@@ -376,6 +378,7 @@ ip dns static add address=240.0.0.1 name=img-x.jd.com
 ip dns static add address=240.0.0.1 name=img.adnyg.com.w.kunlungr.com
 ip dns static add address=240.0.0.1 name=impression-asia.chinaliftoff.io
 ip dns static add address=240.0.0.1 name=impression-asia.liftoff.io
+ip dns static add address=240.0.0.1 name=impression.appsflyer.com
 ip dns static add address=240.0.0.1 name=in.treasuredata.com
 ip dns static add address=240.0.0.1 name=iot-eu-logser.realme.com
 ip dns static add address=240.0.0.1 name=iot-logser.realme.com
@@ -482,6 +485,8 @@ ip dns static add address=240.0.0.1 name=monitor-uu.play.aiseet.atianqi.com
 ip dns static add address=240.0.0.1 name=monitor.music.qq.com
 ip dns static add address=240.0.0.1 name=monitor.uu.qq.com
 ip dns static add address=240.0.0.1 name=monsetting.toutiao.com
+ip dns static add address=240.0.0.1 name=ms.applovin.com
+ip dns static add address=240.0.0.1 name=ms4.applvn.com
 ip dns static add address=240.0.0.1 name=mssdk.volces.com
 ip dns static add address=240.0.0.1 name=mssdk.zijieapi.com
 ip dns static add address=240.0.0.1 name=mtj.baidu.com
@@ -490,6 +495,7 @@ ip dns static add address=240.0.0.1 name=newvoice.chiq5.smart-tv.cn
 ip dns static add address=240.0.0.1 name=nmetrics.samsung.com
 ip dns static add address=240.0.0.1 name=notes-analytics-events.apple.com
 ip dns static add address=240.0.0.1 name=nsclick.baidu.com
+ip dns static add address=240.0.0.1 name=o-sdk.mediation.unity3d.com
 ip dns static add address=240.0.0.1 name=o2o.api.xiaomi.com
 ip dns static add address=240.0.0.1 name=offerwall.yandex.net
 ip dns static add address=240.0.0.1 name=ogads-pa.clients6.google.com
@@ -533,6 +539,7 @@ ip dns static add address=240.0.0.1 name=plbslog.umeng.com
 ip dns static add address=240.0.0.1 name=pms.mb.qq.com
 ip dns static add address=240.0.0.1 name=policy.video.ptqy.gitv.tv
 ip dns static add address=240.0.0.1 name=pos.baidu.com
+ip dns static add address=240.0.0.1 name=prod-mediate-events.applovin.com
 ip dns static add address=240.0.0.1 name=proxy.advp.apple.com
 ip dns static add address=240.0.0.1 name=public.gdtimg.com
 ip dns static add address=240.0.0.1 name=q.i.gdt.qq.com
@@ -624,6 +631,7 @@ ip dns static add address=240.0.0.1 name=tangram.e.qq.com
 ip dns static add address=240.0.0.1 name=tdc.qq.com
 ip dns static add address=240.0.0.1 name=tdsdk.cpatrk.net
 ip dns static add address=240.0.0.1 name=tdsdk.xdrig.com
+ip dns static add address=240.0.0.1 name=telemetry.sdk.inmobi.com
 ip dns static add address=240.0.0.1 name=tencent-dtv.m.cn.miaozhen.com
 ip dns static add address=240.0.0.1 name=terms-drcn.platform.dbankcloud.cn
 ip dns static add address=240.0.0.1 name=test.ad.xiaomi.com
@@ -646,6 +654,7 @@ ip dns static add address=240.0.0.1 name=toblog.ctobsnssdk.com
 ip dns static add address=240.0.0.1 name=tpa-hcdn.iqiyi.com
 ip dns static add address=240.0.0.1 name=tpc.googlesyndication-cn.com
 ip dns static add address=240.0.0.1 name=tpc.googlesyndication.com
+ip dns static add address=240.0.0.1 name=tr-asia.adsmoloco.com
 ip dns static add address=240.0.0.1 name=trace.qq.com
 ip dns static add address=240.0.0.1 name=tracelog-debug.aiclk.com
 ip dns static add address=240.0.0.1 name=tracelog-debug.qquanquan.com
@@ -724,6 +733,7 @@ ip dns static add address=240.0.0.1 name=win.gdt.qq.com
 ip dns static add address=240.0.0.1 name=wn.x.jd.com
 ip dns static add address=240.0.0.1 name=ws-keyboard.shouji.sogou.com
 ip dns static add address=240.0.0.1 name=ws.sj.qq.com
+ip dns static add address=240.0.0.1 name=wv.inner-active.mobi
 ip dns static add address=240.0.0.1 name=wwads.cn
 ip dns static add address=240.0.0.1 name=wxa.wxs.qq.com
 ip dns static add address=240.0.0.1 name=wxaintpcos.wxqcloud.qq.com.cn
@@ -879,7 +889,6 @@ ip dns static add address=:: name=log.web.kugou.com
 ip dns static add address=:: name=log.zijieapi.com
 ip dns static add address=:: name=log1.cmpassport.com
 ip dns static add address=:: name=logrcv.aiclk.com
-ip dns static add address=:: name=logs.amap.com
 ip dns static add address=:: name=logtj.kugou.com
 ip dns static add address=:: name=m.ad.zhangyue.com
 ip dns static add address=:: name=m.atm.youku.com
@@ -896,6 +905,7 @@ ip dns static add address=:: name=mobaliyun.res.mgtv.com
 ip dns static add address=:: name=mon.zijieapi.com
 ip dns static add address=:: name=monitor.music.qq.com
 ip dns static add address=:: name=monsetting.toutiao.com
+ip dns static add address=:: name=ms.applovin.com
 ip dns static add address=:: name=mssdk.volces.com
 ip dns static add address=:: name=offerwall.yandex.net
 ip dns static add address=:: name=ogads-pa.clients6.google.com

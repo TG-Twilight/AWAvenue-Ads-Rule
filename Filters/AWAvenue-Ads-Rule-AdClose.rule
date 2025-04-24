@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 736
+#Total lines: 746
 #Version: 1.6.0-release
-#Update time: 2025-04-25 00:51:22 UTC+8
-#Update content: add “analysis.chatglm.cn”
+#Update time: 2025-04-25 01:32:05 UTC+8
+#Update content: block unity、adsmoloco、inmobi、applovin ads.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -78,6 +78,7 @@ domain, ads.google.cn
 domain, ads.huan.tv
 domain, ads.huantest.com
 domain, ads.icloseli.cn
+domain, ads.inmobi.com
 domain, ads.linkedin.com
 domain, ads.music.126.net
 domain, ads.pinterest.com
@@ -242,6 +243,7 @@ domain, ccs.umeng.com
 domain, cctv.adsunion.com
 domain, cdn-ad.wtzw.com
 domain, cdn-ads.oss-cn-shanghai.aliyuncs.com
+domain, cdn-f.adsmoloco.com
 domain, cdn-plugin-sync-upgrade-juui.hismarttv.com
 domain, cdn.aiclk.com
 domain, cdn.chinaliftoff-creatives.io
@@ -379,6 +381,7 @@ domain, img-x.jd.com
 domain, img.adnyg.com.w.kunlungr.com
 domain, impression-asia.chinaliftoff.io
 domain, impression-asia.liftoff.io
+domain, impression.appsflyer.com
 domain, in.treasuredata.com
 domain, iot-eu-logser.realme.com
 domain, iot-logser.realme.com
@@ -485,6 +488,8 @@ domain, monitor-uu.play.aiseet.atianqi.com
 domain, monitor.music.qq.com
 domain, monitor.uu.qq.com
 domain, monsetting.toutiao.com
+domain, ms.applovin.com
+domain, ms4.applvn.com
 domain, mssdk.volces.com
 domain, mssdk.zijieapi.com
 domain, mtj.baidu.com
@@ -493,6 +498,7 @@ domain, newvoice.chiq5.smart-tv.cn
 domain, nmetrics.samsung.com
 domain, notes-analytics-events.apple.com
 domain, nsclick.baidu.com
+domain, o-sdk.mediation.unity3d.com
 domain, o2o.api.xiaomi.com
 domain, offerwall.yandex.net
 domain, ogads-pa.clients6.google.com
@@ -536,6 +542,7 @@ domain, plbslog.umeng.com
 domain, pms.mb.qq.com
 domain, policy.video.ptqy.gitv.tv
 domain, pos.baidu.com
+domain, prod-mediate-events.applovin.com
 domain, proxy.advp.apple.com
 domain, public.gdtimg.com
 domain, q.i.gdt.qq.com
@@ -627,6 +634,7 @@ domain, tangram.e.qq.com
 domain, tdc.qq.com
 domain, tdsdk.cpatrk.net
 domain, tdsdk.xdrig.com
+domain, telemetry.sdk.inmobi.com
 domain, tencent-dtv.m.cn.miaozhen.com
 domain, terms-drcn.platform.dbankcloud.cn
 domain, test.ad.xiaomi.com
@@ -649,6 +657,7 @@ domain, toblog.ctobsnssdk.com
 domain, tpa-hcdn.iqiyi.com
 domain, tpc.googlesyndication-cn.com
 domain, tpc.googlesyndication.com
+domain, tr-asia.adsmoloco.com
 domain, trace.qq.com
 domain, tracelog-debug.aiclk.com
 domain, tracelog-debug.qquanquan.com
@@ -727,6 +736,7 @@ domain, win.gdt.qq.com
 domain, wn.x.jd.com
 domain, ws-keyboard.shouji.sogou.com
 domain, ws.sj.qq.com
+domain, wv.inner-active.mobi
 domain, wwads.cn
 domain, wxa.wxs.qq.com
 domain, wxaintpcos.wxqcloud.qq.com.cn
