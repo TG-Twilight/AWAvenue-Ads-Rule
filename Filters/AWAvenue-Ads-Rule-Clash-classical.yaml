@@ -1,9 +1,11 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 769
+#Total lines: 775
 #Version: 1.6.0-release
-#Update time: 2025-04-25 01:44:37 UTC+8
-#Update content: more Unity、applovin、facebook、inmobi ads block.
+#Update time: 2025-04-25 01:54:57 UTC+8
+#Update content: More Unity、applovin、facebook、inmobi ads block again...
+
+fxxk ads.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -200,6 +202,7 @@ payload:
   - DOMAIN,applog.lc.quark.cn
   - DOMAIN,applog.uc.cn
   - DOMAIN,applog.zijieapi.com
+  - DOMAIN,applovin.com
   - DOMAIN,aspect-upush.umeng.com
   - DOMAIN,auction.unityads.unity3d.com
   - DOMAIN,audid-api.taobao.com
@@ -268,6 +271,7 @@ payload:
   - DOMAIN,commdata.v.qq.com
   - DOMAIN,conf.hpplay.cn
   - DOMAIN,config.chsmarttv.com
+  - DOMAIN,config.inmobi.com
   - DOMAIN,config.unityads.unity3d.com
   - DOMAIN,cpc-service-square.aiclk.com
   - DOMAIN,cpro.baidustatic.com
@@ -275,6 +279,7 @@ payload:
   - DOMAIN,csjplatform.com
   - DOMAIN,cws-cctv.conviva.com
   - DOMAIN,d.applovin.com
+  - DOMAIN,d.applvn.com
   - DOMAIN,data.ads.oppomobile.com
   - DOMAIN,data.chsmarttv.com
   - DOMAIN,data.mistat.india.xiaomi.com
@@ -493,6 +498,7 @@ payload:
   - DOMAIN,monitor.uu.qq.com
   - DOMAIN,monsetting.toutiao.com
   - DOMAIN,ms.applovin.com
+  - DOMAIN,ms.applvn.com
   - DOMAIN,ms4.applovin.com
   - DOMAIN,ms4.applvn.com
   - DOMAIN,mssdk.volces.com
@@ -566,6 +572,7 @@ payload:
   - DOMAIN,rp.hpplay.cn
   - DOMAIN,rps.hpplay.cn
   - DOMAIN,rpt.gdt.qq.com
+  - DOMAIN,rt.applovin.com
   - DOMAIN,rtb.voiceads.cn
   - DOMAIN,s.amazon-adsystem.com
   - DOMAIN,s8t.teads.tv
@@ -630,6 +637,7 @@ payload:
   - DOMAIN,syh-imp.cdnjtzy.com
   - DOMAIN,szbdyd.com
   - DOMAIN,t-dsp.pinduoduo.com
+  - DOMAIN,t.applovin.com
   - DOMAIN,t.teads.tv
   - DOMAIN,t.track.ad.xiaomi.com
   - DOMAIN,t1.a.market.xiaomi.com

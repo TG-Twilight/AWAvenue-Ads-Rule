@@ -188,6 +188,7 @@ domain:appcfg.v.qq.com
 domain:applog.lc.quark.cn
 domain:applog.uc.cn
 domain:applog.zijieapi.com
+domain:applovin.com
 domain:aspect-upush.umeng.com
 domain:auction.unityads.unity3d.com
 domain:audid-api.taobao.com
@@ -256,6 +257,7 @@ domain:collect.kugou.com
 domain:commdata.v.qq.com
 domain:conf.hpplay.cn
 domain:config.chsmarttv.com
+domain:config.inmobi.com
 domain:config.unityads.unity3d.com
 domain:cpc-service-square.aiclk.com
 domain:cpro.baidustatic.com
@@ -263,6 +265,7 @@ domain:crashlyticsreports-pa.googleapis.com
 domain:csjplatform.com
 domain:cws-cctv.conviva.com
 domain:d.applovin.com
+domain:d.applvn.com
 domain:data.ads.oppomobile.com
 domain:data.chsmarttv.com
 domain:data.mistat.india.xiaomi.com
@@ -481,6 +484,7 @@ domain:monitor.music.qq.com
 domain:monitor.uu.qq.com
 domain:monsetting.toutiao.com
 domain:ms.applovin.com
+domain:ms.applvn.com
 domain:ms4.applovin.com
 domain:ms4.applvn.com
 domain:mssdk.volces.com
@@ -554,6 +558,7 @@ domain:roi.soulapp.cn
 domain:rp.hpplay.cn
 domain:rps.hpplay.cn
 domain:rpt.gdt.qq.com
+domain:rt.applovin.com
 domain:rtb.voiceads.cn
 domain:s.amazon-adsystem.com
 domain:s8t.teads.tv
@@ -618,6 +623,7 @@ domain:sv-video.play.aiseet.atianqi.com
 domain:syh-imp.cdnjtzy.com
 domain:szbdyd.com
 domain:t-dsp.pinduoduo.com
+domain:t.applovin.com
 domain:t.teads.tv
 domain:t.track.ad.xiaomi.com
 domain:t1.a.market.xiaomi.com

@@ -1,9 +1,11 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 756
+#Total lines: 762
 #Version: 1.6.0-release
-#Update time: 2025-04-25 01:44:37 UTC+8
-#Update content: more Unity、applovin、facebook、inmobi ads block.
+#Update time: 2025-04-25 01:54:57 UTC+8
+#Update content: More Unity、applovin、facebook、inmobi ads block again...
+
+fxxk ads.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -203,6 +205,7 @@
 0.0.0.0 applog.lc.quark.cn
 0.0.0.0 applog.uc.cn
 0.0.0.0 applog.zijieapi.com
+0.0.0.0 applovin.com
 0.0.0.0 aspect-upush.umeng.com
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 audid-api.taobao.com
@@ -271,6 +274,7 @@
 0.0.0.0 commdata.v.qq.com
 0.0.0.0 conf.hpplay.cn
 0.0.0.0 config.chsmarttv.com
+0.0.0.0 config.inmobi.com
 0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 cpc-service-square.aiclk.com
 0.0.0.0 cpro.baidustatic.com
@@ -278,6 +282,7 @@
 0.0.0.0 csjplatform.com
 0.0.0.0 cws-cctv.conviva.com
 0.0.0.0 d.applovin.com
+0.0.0.0 d.applvn.com
 0.0.0.0 data.ads.oppomobile.com
 0.0.0.0 data.chsmarttv.com
 0.0.0.0 data.mistat.india.xiaomi.com
@@ -496,6 +501,7 @@
 0.0.0.0 monitor.uu.qq.com
 0.0.0.0 monsetting.toutiao.com
 0.0.0.0 ms.applovin.com
+0.0.0.0 ms.applvn.com
 0.0.0.0 ms4.applovin.com
 0.0.0.0 ms4.applvn.com
 0.0.0.0 mssdk.volces.com
@@ -569,6 +575,7 @@
 0.0.0.0 rp.hpplay.cn
 0.0.0.0 rps.hpplay.cn
 0.0.0.0 rpt.gdt.qq.com
+0.0.0.0 rt.applovin.com
 0.0.0.0 rtb.voiceads.cn
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 s8t.teads.tv
@@ -633,6 +640,7 @@
 0.0.0.0 syh-imp.cdnjtzy.com
 0.0.0.0 szbdyd.com
 0.0.0.0 t-dsp.pinduoduo.com
+0.0.0.0 t.applovin.com
 0.0.0.0 t.teads.tv
 0.0.0.0 t.track.ad.xiaomi.com
 0.0.0.0 t1.a.market.xiaomi.com
@@ -853,7 +861,9 @@
 :: dm.toutiao.com
 :: doubleclick-cn.net
 :: drcn-weather.cloud.huawei.com
+:: dualstack-logs.amap.com
 :: dxp.baidu.com
+:: dyp2p-ali.douyucdn.cn
 :: ef-dongfeng.tanx.com
 :: errlog.umeng.com
 :: errnewlog.umeng.com
@@ -905,6 +915,7 @@
 :: log.zijieapi.com
 :: log1.cmpassport.com
 :: logrcv.aiclk.com
+:: logs.amap.com
 :: logtj.kugou.com
 :: m.ad.zhangyue.com
 :: m.atm.youku.com
@@ -947,6 +958,7 @@
 :: review.gdtimg.com
 :: rms-drcn.platform.dbankcloud.cn
 :: rpt.gdt.qq.com
+:: rt.applovin.com
 :: s8t.teads.tv
 :: sdk.e.qq.com
 :: search.ixigua.com

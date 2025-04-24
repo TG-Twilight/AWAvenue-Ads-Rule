@@ -1,9 +1,11 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 768
+#Total lines: 774
 #Version: 1.6.0-release
-#Update time: 2025-04-25 01:44:37 UTC+8
-#Update content: more Unity、applovin、facebook、inmobi ads block.
+#Update time: 2025-04-25 01:54:57 UTC+8
+#Update content: More Unity、applovin、facebook、inmobi ads block again...
+
+fxxk ads.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -199,6 +201,7 @@ DOMAIN,appcfg.v.qq.com,reject
 DOMAIN,applog.lc.quark.cn,reject
 DOMAIN,applog.uc.cn,reject
 DOMAIN,applog.zijieapi.com,reject
+DOMAIN,applovin.com,reject
 DOMAIN,aspect-upush.umeng.com,reject
 DOMAIN,auction.unityads.unity3d.com,reject
 DOMAIN,audid-api.taobao.com,reject
@@ -267,6 +270,7 @@ DOMAIN,collect.kugou.com,reject
 DOMAIN,commdata.v.qq.com,reject
 DOMAIN,conf.hpplay.cn,reject
 DOMAIN,config.chsmarttv.com,reject
+DOMAIN,config.inmobi.com,reject
 DOMAIN,config.unityads.unity3d.com,reject
 DOMAIN,cpc-service-square.aiclk.com,reject
 DOMAIN,cpro.baidustatic.com,reject
@@ -274,6 +278,7 @@ DOMAIN,crashlyticsreports-pa.googleapis.com,reject
 DOMAIN,csjplatform.com,reject
 DOMAIN,cws-cctv.conviva.com,reject
 DOMAIN,d.applovin.com,reject
+DOMAIN,d.applvn.com,reject
 DOMAIN,data.ads.oppomobile.com,reject
 DOMAIN,data.chsmarttv.com,reject
 DOMAIN,data.mistat.india.xiaomi.com,reject
@@ -492,6 +497,7 @@ DOMAIN,monitor.music.qq.com,reject
 DOMAIN,monitor.uu.qq.com,reject
 DOMAIN,monsetting.toutiao.com,reject
 DOMAIN,ms.applovin.com,reject
+DOMAIN,ms.applvn.com,reject
 DOMAIN,ms4.applovin.com,reject
 DOMAIN,ms4.applvn.com,reject
 DOMAIN,mssdk.volces.com,reject
@@ -565,6 +571,7 @@ DOMAIN,roi.soulapp.cn,reject
 DOMAIN,rp.hpplay.cn,reject
 DOMAIN,rps.hpplay.cn,reject
 DOMAIN,rpt.gdt.qq.com,reject
+DOMAIN,rt.applovin.com,reject
 DOMAIN,rtb.voiceads.cn,reject
 DOMAIN,s.amazon-adsystem.com,reject
 DOMAIN,s8t.teads.tv,reject
@@ -629,6 +636,7 @@ DOMAIN,sv-video.play.aiseet.atianqi.com,reject
 DOMAIN,syh-imp.cdnjtzy.com,reject
 DOMAIN,szbdyd.com,reject
 DOMAIN,t-dsp.pinduoduo.com,reject
+DOMAIN,t.applovin.com,reject
 DOMAIN,t.teads.tv,reject
 DOMAIN,t.track.ad.xiaomi.com,reject
 DOMAIN,t1.a.market.xiaomi.com,reject

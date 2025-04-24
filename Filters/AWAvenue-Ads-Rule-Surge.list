@@ -1,9 +1,11 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 756
+#Total lines: 762
 #Version: 1.6.0-release
-#Update time: 2025-04-25 01:44:37 UTC+8
-#Update content: more Unity、applovin、facebook、inmobi ads block.
+#Update time: 2025-04-25 01:54:57 UTC+8
+#Update content: More Unity、applovin、facebook、inmobi ads block again...
+
+fxxk ads.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -199,6 +201,7 @@
 .applog.lc.quark.cn
 .applog.uc.cn
 .applog.zijieapi.com
+.applovin.com
 .aspect-upush.umeng.com
 .auction.unityads.unity3d.com
 .audid-api.taobao.com
@@ -267,6 +270,7 @@
 .commdata.v.qq.com
 .conf.hpplay.cn
 .config.chsmarttv.com
+.config.inmobi.com
 .config.unityads.unity3d.com
 .cpc-service-square.aiclk.com
 .cpro.baidustatic.com
@@ -274,6 +278,7 @@
 .csjplatform.com
 .cws-cctv.conviva.com
 .d.applovin.com
+.d.applvn.com
 .data.ads.oppomobile.com
 .data.chsmarttv.com
 .data.mistat.india.xiaomi.com
@@ -492,6 +497,7 @@
 .monitor.uu.qq.com
 .monsetting.toutiao.com
 .ms.applovin.com
+.ms.applvn.com
 .ms4.applovin.com
 .ms4.applvn.com
 .mssdk.volces.com
@@ -565,6 +571,7 @@
 .rp.hpplay.cn
 .rps.hpplay.cn
 .rpt.gdt.qq.com
+.rt.applovin.com
 .rtb.voiceads.cn
 .s.amazon-adsystem.com
 .s8t.teads.tv
@@ -629,6 +636,7 @@
 .syh-imp.cdnjtzy.com
 .szbdyd.com
 .t-dsp.pinduoduo.com
+.t.applovin.com
 .t.teads.tv
 .t.track.ad.xiaomi.com
 .t1.a.market.xiaomi.com
