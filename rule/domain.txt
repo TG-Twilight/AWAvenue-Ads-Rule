@@ -199,6 +199,7 @@ appcloud2.in.zhihu.com
 applog.lc.quark.cn
 applog.uc.cn
 applog.zijieapi.com
+applovin.com
 aspect-upush.umeng.com
 ata-sdk-uuid-report.dreport.meituan.net
 auction.unityads.unity3d.com
@@ -269,6 +270,7 @@ collect.kugou.com
 commdata.v.qq.com
 conf.hpplay.cn
 config.chsmarttv.com
+config.inmobi.com
 config.unityads.unity3d.com
 cpc-service-square.aiclk.com
 cpro.baidustatic.com
@@ -276,6 +278,7 @@ crashlyticsreports-pa.googleapis.com
 csjplatform.com
 cws-cctv.conviva.com
 d.applovin.com
+d.applvn.com
 data.ads.oppomobile.com
 data.chsmarttv.com
 data.mistat.india.xiaomi.com
@@ -520,6 +523,7 @@ monitor.music.qq.com
 monitor.uu.qq.com
 monsetting.toutiao.com
 ms.applovin.com
+ms.applvn.com
 ms4.applovin.com
 ms4.applvn.com
 mssdk.volces.com
@@ -609,6 +613,7 @@ roi.soulapp.cn
 rp.hpplay.cn
 rps.hpplay.cn
 rpt.gdt.qq.com
+rt.applovin.com
 rtb.voiceads.cn
 s.amazon-adsystem.com
 s1.qq.com
@@ -682,6 +687,7 @@ sv-video.play.aiseet.atianqi.com
 syh-imp.cdnjtzy.com
 szbdyd.com
 t-dsp.pinduoduo.com
+t.applovin.com
 t.l.qq.com
 t.teads.tv
 t.track.ad.xiaomi.com
