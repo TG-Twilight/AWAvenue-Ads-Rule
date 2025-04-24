@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 746
+#Total lines: 756
 #Version: 1.6.0-release
-#Update time: 2025-04-25 01:32:05 UTC+8
-#Update content: block unity、adsmoloco、inmobi、applovin ads.
+#Update time: 2025-04-25 01:44:37 UTC+8
+#Update content: more Unity、applovin、facebook、inmobi ads block.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -245,6 +245,7 @@
 .cdn.aiclk.com
 .cdn.chinaliftoff-creatives.io
 .cdn.hpplay.com.cn
+.cdn.iads.unitychina.cn
 .cdn.liftoff-creatives.io
 .cdn.ynuf.aliapp.org
 .cfg.imtt.qq.com
@@ -272,6 +273,7 @@
 .crashlyticsreports-pa.googleapis.com
 .csjplatform.com
 .cws-cctv.conviva.com
+.d.applovin.com
 .data.ads.oppomobile.com
 .data.chsmarttv.com
 .data.mistat.india.xiaomi.com
@@ -303,6 +305,7 @@
 .entry.baidu.com
 .errlog.umeng.com
 .errnewlog.umeng.com
+.et-eus.w.inmobi.com
 .event.tradplusad.com
 .events-drcn.op.dbankcloud.cn
 .events.reddit.com
@@ -333,6 +336,7 @@
 .googleadservices.com
 .googletagservices-cn.com
 .gorgon.youdao.com
+.graph.facebook.com
 .gromore.pangolin-sdk-toutiao.com
 .grs.dbankcloud.com
 .grs.hicloud.com
@@ -361,6 +365,8 @@
 .hybrid.miniapp.taobao.com
 .hye.comp.360os.com
 .hyt.comp.360os.com
+.i.l-new.inmobicdn.net
+.i.l.inmobicdn.net
 .iad.apple.com
 .iadctest.qwapi.com
 .iadsdk.apple.com
@@ -486,6 +492,7 @@
 .monitor.uu.qq.com
 .monsetting.toutiao.com
 .ms.applovin.com
+.ms4.applovin.com
 .ms4.applvn.com
 .mssdk.volces.com
 .mssdk.zijieapi.com
@@ -548,6 +555,7 @@
 .qzs.gdtimg.com
 .recommend-drcn.hms.dbankcloud.cn
 .report.tv.kohesport.qq.com
+.res1.applovin.com
 .res1.hubcloud.com.cn
 .resolve.umeng.com
 .review.gdtimg.com
@@ -571,6 +579,7 @@
 .sdk-ab-config.qquanquan.com
 .sdk-cache.video.ptqy.gitv.tv
 .sdk.1rtb.net
+.sdk.ad.smaato.net
 .sdk.beizi.biz
 .sdk.e.qq.com
 .sdk.hzsanjiaomao.com
@@ -615,6 +624,7 @@
 .stg-data.ads.heytapmobi.com
 .stun.hitv.com
 .success.ctobsnssdk.com
+.supply.inmobicdn.net
 .sv-video.play.aiseet.atianqi.com
 .syh-imp.cdnjtzy.com
 .szbdyd.com

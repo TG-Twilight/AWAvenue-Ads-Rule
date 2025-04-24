@@ -234,6 +234,7 @@ domain:cdn-plugin-sync-upgrade-juui.hismarttv.com
 domain:cdn.aiclk.com
 domain:cdn.chinaliftoff-creatives.io
 domain:cdn.hpplay.com.cn
+domain:cdn.iads.unitychina.cn
 domain:cdn.liftoff-creatives.io
 domain:cdn.ynuf.aliapp.org
 domain:cfg.imtt.qq.com
@@ -261,6 +262,7 @@ domain:cpro.baidustatic.com
 domain:crashlyticsreports-pa.googleapis.com
 domain:csjplatform.com
 domain:cws-cctv.conviva.com
+domain:d.applovin.com
 domain:data.ads.oppomobile.com
 domain:data.chsmarttv.com
 domain:data.mistat.india.xiaomi.com
@@ -292,6 +294,7 @@ domain:ef-dongfeng.tanx.com
 domain:entry.baidu.com
 domain:errlog.umeng.com
 domain:errnewlog.umeng.com
+domain:et-eus.w.inmobi.com
 domain:event.tradplusad.com
 domain:events-drcn.op.dbankcloud.cn
 domain:events.reddit.com
@@ -322,6 +325,7 @@ domain:googleadservices-cn.com
 domain:googleadservices.com
 domain:googletagservices-cn.com
 domain:gorgon.youdao.com
+domain:graph.facebook.com
 domain:gromore.pangolin-sdk-toutiao.com
 domain:grs.dbankcloud.com
 domain:grs.hicloud.com
@@ -350,6 +354,8 @@ domain:hwpub-s01-drcn.cloud.dbankcloud.cn
 domain:hybrid.miniapp.taobao.com
 domain:hye.comp.360os.com
 domain:hyt.comp.360os.com
+domain:i.l-new.inmobicdn.net
+domain:i.l.inmobicdn.net
 domain:iad.apple.com
 domain:iadctest.qwapi.com
 domain:iadsdk.apple.com
@@ -475,6 +481,7 @@ domain:monitor.music.qq.com
 domain:monitor.uu.qq.com
 domain:monsetting.toutiao.com
 domain:ms.applovin.com
+domain:ms4.applovin.com
 domain:ms4.applvn.com
 domain:mssdk.volces.com
 domain:mssdk.zijieapi.com
@@ -537,6 +544,7 @@ domain:qqdata.ab.qq.com
 domain:qzs.gdtimg.com
 domain:recommend-drcn.hms.dbankcloud.cn
 domain:report.tv.kohesport.qq.com
+domain:res1.applovin.com
 domain:res1.hubcloud.com.cn
 domain:resolve.umeng.com
 domain:review.gdtimg.com
@@ -560,6 +568,7 @@ domain:scs.openspeech.cn
 domain:sdk-ab-config.qquanquan.com
 domain:sdk-cache.video.ptqy.gitv.tv
 domain:sdk.1rtb.net
+domain:sdk.ad.smaato.net
 domain:sdk.beizi.biz
 domain:sdk.e.qq.com
 domain:sdk.hzsanjiaomao.com
@@ -604,6 +613,7 @@ domain:statsigapi.net
 domain:stg-data.ads.heytapmobi.com
 domain:stun.hitv.com
 domain:success.ctobsnssdk.com
+domain:supply.inmobicdn.net
 domain:sv-video.play.aiseet.atianqi.com
 domain:syh-imp.cdnjtzy.com
 domain:szbdyd.com

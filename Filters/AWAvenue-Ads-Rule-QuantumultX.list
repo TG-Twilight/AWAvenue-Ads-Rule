@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 758
+#Total lines: 768
 #Version: 1.6.0-release
-#Update time: 2025-04-25 01:32:05 UTC+8
-#Update content: block unity、adsmoloco、inmobi、applovin ads.
+#Update time: 2025-04-25 01:44:37 UTC+8
+#Update content: more Unity、applovin、facebook、inmobi ads block.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -245,6 +245,7 @@ DOMAIN,cdn-plugin-sync-upgrade-juui.hismarttv.com,reject
 DOMAIN,cdn.aiclk.com,reject
 DOMAIN,cdn.chinaliftoff-creatives.io,reject
 DOMAIN,cdn.hpplay.com.cn,reject
+DOMAIN,cdn.iads.unitychina.cn,reject
 DOMAIN,cdn.liftoff-creatives.io,reject
 DOMAIN,cdn.ynuf.aliapp.org,reject
 DOMAIN,cfg.imtt.qq.com,reject
@@ -272,6 +273,7 @@ DOMAIN,cpro.baidustatic.com,reject
 DOMAIN,crashlyticsreports-pa.googleapis.com,reject
 DOMAIN,csjplatform.com,reject
 DOMAIN,cws-cctv.conviva.com,reject
+DOMAIN,d.applovin.com,reject
 DOMAIN,data.ads.oppomobile.com,reject
 DOMAIN,data.chsmarttv.com,reject
 DOMAIN,data.mistat.india.xiaomi.com,reject
@@ -303,6 +305,7 @@ DOMAIN,ef-dongfeng.tanx.com,reject
 DOMAIN,entry.baidu.com,reject
 DOMAIN,errlog.umeng.com,reject
 DOMAIN,errnewlog.umeng.com,reject
+DOMAIN,et-eus.w.inmobi.com,reject
 DOMAIN,event.tradplusad.com,reject
 DOMAIN,events-drcn.op.dbankcloud.cn,reject
 DOMAIN,events.reddit.com,reject
@@ -333,6 +336,7 @@ DOMAIN,googleadservices-cn.com,reject
 DOMAIN,googleadservices.com,reject
 DOMAIN,googletagservices-cn.com,reject
 DOMAIN,gorgon.youdao.com,reject
+DOMAIN,graph.facebook.com,reject
 DOMAIN,gromore.pangolin-sdk-toutiao.com,reject
 DOMAIN,grs.dbankcloud.com,reject
 DOMAIN,grs.hicloud.com,reject
@@ -361,6 +365,8 @@ DOMAIN,hwpub-s01-drcn.cloud.dbankcloud.cn,reject
 DOMAIN,hybrid.miniapp.taobao.com,reject
 DOMAIN,hye.comp.360os.com,reject
 DOMAIN,hyt.comp.360os.com,reject
+DOMAIN,i.l-new.inmobicdn.net,reject
+DOMAIN,i.l.inmobicdn.net,reject
 DOMAIN,iad.apple.com,reject
 DOMAIN,iadctest.qwapi.com,reject
 DOMAIN,iadsdk.apple.com,reject
@@ -486,6 +492,7 @@ DOMAIN,monitor.music.qq.com,reject
 DOMAIN,monitor.uu.qq.com,reject
 DOMAIN,monsetting.toutiao.com,reject
 DOMAIN,ms.applovin.com,reject
+DOMAIN,ms4.applovin.com,reject
 DOMAIN,ms4.applvn.com,reject
 DOMAIN,mssdk.volces.com,reject
 DOMAIN,mssdk.zijieapi.com,reject
@@ -548,6 +555,7 @@ DOMAIN,qqdata.ab.qq.com,reject
 DOMAIN,qzs.gdtimg.com,reject
 DOMAIN,recommend-drcn.hms.dbankcloud.cn,reject
 DOMAIN,report.tv.kohesport.qq.com,reject
+DOMAIN,res1.applovin.com,reject
 DOMAIN,res1.hubcloud.com.cn,reject
 DOMAIN,resolve.umeng.com,reject
 DOMAIN,review.gdtimg.com,reject
@@ -571,6 +579,7 @@ DOMAIN,scs.openspeech.cn,reject
 DOMAIN,sdk-ab-config.qquanquan.com,reject
 DOMAIN,sdk-cache.video.ptqy.gitv.tv,reject
 DOMAIN,sdk.1rtb.net,reject
+DOMAIN,sdk.ad.smaato.net,reject
 DOMAIN,sdk.beizi.biz,reject
 DOMAIN,sdk.e.qq.com,reject
 DOMAIN,sdk.hzsanjiaomao.com,reject
@@ -615,6 +624,7 @@ DOMAIN,statsigapi.net,reject
 DOMAIN,stg-data.ads.heytapmobi.com,reject
 DOMAIN,stun.hitv.com,reject
 DOMAIN,success.ctobsnssdk.com,reject
+DOMAIN,supply.inmobicdn.net,reject
 DOMAIN,sv-video.play.aiseet.atianqi.com,reject
 DOMAIN,syh-imp.cdnjtzy.com,reject
 DOMAIN,szbdyd.com,reject

@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 759
+#Total lines: 769
 #Version: 1.6.0-release
-#Update time: 2025-04-25 01:32:05 UTC+8
-#Update content: block unity、adsmoloco、inmobi、applovin ads.
+#Update time: 2025-04-25 01:44:37 UTC+8
+#Update content: more Unity、applovin、facebook、inmobi ads block.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -246,6 +246,7 @@ payload:
   - DOMAIN,cdn.aiclk.com
   - DOMAIN,cdn.chinaliftoff-creatives.io
   - DOMAIN,cdn.hpplay.com.cn
+  - DOMAIN,cdn.iads.unitychina.cn
   - DOMAIN,cdn.liftoff-creatives.io
   - DOMAIN,cdn.ynuf.aliapp.org
   - DOMAIN,cfg.imtt.qq.com
@@ -273,6 +274,7 @@ payload:
   - DOMAIN,crashlyticsreports-pa.googleapis.com
   - DOMAIN,csjplatform.com
   - DOMAIN,cws-cctv.conviva.com
+  - DOMAIN,d.applovin.com
   - DOMAIN,data.ads.oppomobile.com
   - DOMAIN,data.chsmarttv.com
   - DOMAIN,data.mistat.india.xiaomi.com
@@ -304,6 +306,7 @@ payload:
   - DOMAIN,entry.baidu.com
   - DOMAIN,errlog.umeng.com
   - DOMAIN,errnewlog.umeng.com
+  - DOMAIN,et-eus.w.inmobi.com
   - DOMAIN,event.tradplusad.com
   - DOMAIN,events-drcn.op.dbankcloud.cn
   - DOMAIN,events.reddit.com
@@ -334,6 +337,7 @@ payload:
   - DOMAIN,googleadservices.com
   - DOMAIN,googletagservices-cn.com
   - DOMAIN,gorgon.youdao.com
+  - DOMAIN,graph.facebook.com
   - DOMAIN,gromore.pangolin-sdk-toutiao.com
   - DOMAIN,grs.dbankcloud.com
   - DOMAIN,grs.hicloud.com
@@ -362,6 +366,8 @@ payload:
   - DOMAIN,hybrid.miniapp.taobao.com
   - DOMAIN,hye.comp.360os.com
   - DOMAIN,hyt.comp.360os.com
+  - DOMAIN,i.l-new.inmobicdn.net
+  - DOMAIN,i.l.inmobicdn.net
   - DOMAIN,iad.apple.com
   - DOMAIN,iadctest.qwapi.com
   - DOMAIN,iadsdk.apple.com
@@ -487,6 +493,7 @@ payload:
   - DOMAIN,monitor.uu.qq.com
   - DOMAIN,monsetting.toutiao.com
   - DOMAIN,ms.applovin.com
+  - DOMAIN,ms4.applovin.com
   - DOMAIN,ms4.applvn.com
   - DOMAIN,mssdk.volces.com
   - DOMAIN,mssdk.zijieapi.com
@@ -549,6 +556,7 @@ payload:
   - DOMAIN,qzs.gdtimg.com
   - DOMAIN,recommend-drcn.hms.dbankcloud.cn
   - DOMAIN,report.tv.kohesport.qq.com
+  - DOMAIN,res1.applovin.com
   - DOMAIN,res1.hubcloud.com.cn
   - DOMAIN,resolve.umeng.com
   - DOMAIN,review.gdtimg.com
@@ -572,6 +580,7 @@ payload:
   - DOMAIN,sdk-ab-config.qquanquan.com
   - DOMAIN,sdk-cache.video.ptqy.gitv.tv
   - DOMAIN,sdk.1rtb.net
+  - DOMAIN,sdk.ad.smaato.net
   - DOMAIN,sdk.beizi.biz
   - DOMAIN,sdk.e.qq.com
   - DOMAIN,sdk.hzsanjiaomao.com
@@ -616,6 +625,7 @@ payload:
   - DOMAIN,stg-data.ads.heytapmobi.com
   - DOMAIN,stun.hitv.com
   - DOMAIN,success.ctobsnssdk.com
+  - DOMAIN,supply.inmobicdn.net
   - DOMAIN,sv-video.play.aiseet.atianqi.com
   - DOMAIN,syh-imp.cdnjtzy.com
   - DOMAIN,szbdyd.com
