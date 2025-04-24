@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
 !Total lines: 769
-!Version: 1.6.0-release
-!Update time: 2025-04-25 02:40:29 UTC+8
-!Update content: add tianqi、nangua、xingxun ads block.
+!Version: 1.6.5-release
+!Update time: 2025-04-25 03:13:15 UTC+8
+!Update content: remove "ads-us.tiktok.com" to refresh the version.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -867,8 +867,8 @@
 :: dm.toutiao.com
 :: doubleclick-cn.net
 :: drcn-weather.cloud.huawei.com
+:: dualstack-logs.amap.com
 :: dxp.baidu.com
-:: dyp2p-ali.douyucdn.cn
 :: ef-dongfeng.tanx.com
 :: errlog.umeng.com
 :: errnewlog.umeng.com
@@ -933,6 +933,7 @@
 :: metrika.yandex.ru
 :: mi.gdt.qq.com
 :: mmgame.qpic.cn
+:: mobaliyun.res.mgtv.com
 :: mon.zijieapi.com
 :: monitor.music.qq.com
 :: monsetting.toutiao.com

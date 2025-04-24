@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
 !Total lines: 12
-!Version: 1.6.0-release
-!Update time: 2025-04-25 02:40:29 UTC+8
-!Update content: add tianqi、nangua、xingxun ads block.
+!Version: 1.6.5-release
+!Update time: 2025-04-25 03:13:15 UTC+8
+!Update content: remove "ads-us.tiktok.com" to refresh the version.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -863,8 +863,8 @@ ip dns static add address=:: name=data.mistat.rus.xiaomi.com
 ip dns static add address=:: name=dm.toutiao.com
 ip dns static add address=:: name=doubleclick-cn.net
 ip dns static add address=:: name=drcn-weather.cloud.huawei.com
+ip dns static add address=:: name=dualstack-logs.amap.com
 ip dns static add address=:: name=dxp.baidu.com
-ip dns static add address=:: name=dyp2p-ali.douyucdn.cn
 ip dns static add address=:: name=ef-dongfeng.tanx.com
 ip dns static add address=:: name=errlog.umeng.com
 ip dns static add address=:: name=errnewlog.umeng.com
@@ -929,6 +929,7 @@ ip dns static add address=:: name=metrics.mzstatic.com
 ip dns static add address=:: name=metrika.yandex.ru
 ip dns static add address=:: name=mi.gdt.qq.com
 ip dns static add address=:: name=mmgame.qpic.cn
+ip dns static add address=:: name=mobaliyun.res.mgtv.com
 ip dns static add address=:: name=mon.zijieapi.com
 ip dns static add address=:: name=monitor.music.qq.com
 ip dns static add address=:: name=monsetting.toutiao.com
