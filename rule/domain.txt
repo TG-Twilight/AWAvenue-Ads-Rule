@@ -59,7 +59,6 @@ ads-img-qc.xhscdn.com
 ads-jp.tiktok.com
 ads-marketing-vivofs.vivo.com.cn
 ads-sg.tiktok.com
-ads-us.tiktok.com
 ads-video-al.xhscdn.com
 ads-video-qc.xhscdn.com
 ads.95516.com
