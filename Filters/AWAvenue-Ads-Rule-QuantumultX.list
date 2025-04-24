@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 746
+#Total lines: 748
 #Version: 1.6.0-release
-#Update time: 2025-04-24 12:22:09 UTC+8
-#Update content: more TV (yunshitin、yinheqiyiguo...) ad block.
+#Update time: 2025-04-25 00:51:22 UTC+8
+#Update content: add “analysis.chatglm.cn”
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -16,6 +16,7 @@ DOMAIN,8le8le.com,reject
 DOMAIN,a0.app.xiaomi.com,reject
 DOMAIN,aaid.umeng.com,reject
 DOMAIN,abtest-ch.snssdk.com,reject
+DOMAIN,ad-cdn.qingting.fm,reject
 DOMAIN,ad-scope.com,reject
 DOMAIN,ad-scope.com.cn,reject
 DOMAIN,ad-sdk-config.youdao.com,reject
@@ -152,6 +153,7 @@ DOMAIN,alogus.umeng.com,reject
 DOMAIN,als.baidu.com,reject
 DOMAIN,amdcopen.m.taobao.com,reject
 DOMAIN,an.facebook.com,reject
+DOMAIN,analysis.chatglm.cn,reject
 DOMAIN,analysis.yozocloud.cn,reject
 DOMAIN,analytics-api.samsunghealthcn.com,reject
 DOMAIN,analytics.google.com,reject

@@ -2,8 +2,8 @@
 !--------------------------------------
 !Total lines: 12
 !Version: 1.6.0-release
-!Update time: 2025-04-24 12:22:09 UTC+8
-!Update content: more TV (yunshitin、yinheqiyiguo...) ad block.
+!Update time: 2025-04-25 00:51:22 UTC+8
+!Update content: add “analysis.chatglm.cn”
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -16,6 +16,7 @@ ip dns static add address=240.0.0.1 name=8le8le.com
 ip dns static add address=240.0.0.1 name=a0.app.xiaomi.com
 ip dns static add address=240.0.0.1 name=aaid.umeng.com
 ip dns static add address=240.0.0.1 name=abtest-ch.snssdk.com
+ip dns static add address=240.0.0.1 name=ad-cdn.qingting.fm
 ip dns static add address=240.0.0.1 name=ad-scope.com
 ip dns static add address=240.0.0.1 name=ad-scope.com.cn
 ip dns static add address=240.0.0.1 name=ad-sdk-config.youdao.com
@@ -152,6 +153,7 @@ ip dns static add address=240.0.0.1 name=alogus.umeng.com
 ip dns static add address=240.0.0.1 name=als.baidu.com
 ip dns static add address=240.0.0.1 name=amdcopen.m.taobao.com
 ip dns static add address=240.0.0.1 name=an.facebook.com
+ip dns static add address=240.0.0.1 name=analysis.chatglm.cn
 ip dns static add address=240.0.0.1 name=analysis.yozocloud.cn
 ip dns static add address=240.0.0.1 name=analytics-api.samsunghealthcn.com
 ip dns static add address=240.0.0.1 name=analytics.google.com
@@ -826,9 +828,7 @@ ip dns static add address=:: name=data.mistat.rus.xiaomi.com
 ip dns static add address=:: name=dm.toutiao.com
 ip dns static add address=:: name=doubleclick-cn.net
 ip dns static add address=:: name=drcn-weather.cloud.huawei.com
-ip dns static add address=:: name=dualstack-logs.amap.com
 ip dns static add address=:: name=dxp.baidu.com
-ip dns static add address=:: name=dyp2p-ali.douyucdn.cn
 ip dns static add address=:: name=ef-dongfeng.tanx.com
 ip dns static add address=:: name=errlog.umeng.com
 ip dns static add address=:: name=errnewlog.umeng.com

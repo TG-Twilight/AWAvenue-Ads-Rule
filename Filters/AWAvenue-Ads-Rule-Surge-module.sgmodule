@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2025-04-24 12:22:09 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2025-04-25 00:51:22 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -13,6 +13,7 @@ DOMAIN,8le8le.com,REJECT,extended-matching,pre-matching
 DOMAIN,a0.app.xiaomi.com,REJECT,extended-matching,pre-matching
 DOMAIN,aaid.umeng.com,REJECT,extended-matching,pre-matching
 DOMAIN,abtest-ch.snssdk.com,REJECT,extended-matching,pre-matching
+DOMAIN,ad-cdn.qingting.fm,REJECT,extended-matching,pre-matching
 DOMAIN,ad-scope.com,REJECT,extended-matching,pre-matching
 DOMAIN,ad-scope.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,ad-sdk-config.youdao.com,REJECT,extended-matching,pre-matching
@@ -149,6 +150,7 @@ DOMAIN,alogus.umeng.com,REJECT,extended-matching,pre-matching
 DOMAIN,als.baidu.com,REJECT,extended-matching,pre-matching
 DOMAIN,amdcopen.m.taobao.com,REJECT,extended-matching,pre-matching
 DOMAIN,an.facebook.com,REJECT,extended-matching,pre-matching
+DOMAIN,analysis.chatglm.cn,REJECT,extended-matching,pre-matching
 DOMAIN,analysis.yozocloud.cn,REJECT,extended-matching,pre-matching
 DOMAIN,analytics-api.samsunghealthcn.com,REJECT,extended-matching,pre-matching
 DOMAIN,analytics.google.com,REJECT,extended-matching,pre-matching

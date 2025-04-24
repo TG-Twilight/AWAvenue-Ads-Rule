@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 734
+!Total lines: 736
 !Version: 1.6.0-release
-!Update time: 2025-04-24 12:22:09 UTC+8
-!Update content: more TV (yunshitin、yinheqiyiguo...) ad block.
+!Update time: 2025-04-25 00:51:22 UTC+8
+!Update content: add “analysis.chatglm.cn”
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -20,6 +20,7 @@
 0.0.0.0 a0.app.xiaomi.com
 0.0.0.0 aaid.umeng.com
 0.0.0.0 abtest-ch.snssdk.com
+0.0.0.0 ad-cdn.qingting.fm
 0.0.0.0 ad-scope.com
 0.0.0.0 ad-scope.com.cn
 0.0.0.0 ad-sdk-config.youdao.com
@@ -156,6 +157,7 @@
 0.0.0.0 als.baidu.com
 0.0.0.0 amdcopen.m.taobao.com
 0.0.0.0 an.facebook.com
+0.0.0.0 analysis.chatglm.cn
 0.0.0.0 analysis.yozocloud.cn
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics.google.com
@@ -830,9 +832,7 @@
 :: dm.toutiao.com
 :: doubleclick-cn.net
 :: drcn-weather.cloud.huawei.com
-:: dualstack-logs.amap.com
 :: dxp.baidu.com
-:: dyp2p-ali.douyucdn.cn
 :: ef-dongfeng.tanx.com
 :: errlog.umeng.com
 :: errnewlog.umeng.com
