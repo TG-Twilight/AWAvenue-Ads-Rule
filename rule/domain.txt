@@ -834,3 +834,5 @@ youku-acs.m.taobao.com
 youxi.kugou.com
 zeus.ad.xiaomi.com
 zhihu-web-analytics.zhihu.com
+rt.applvn.com
+applvn.com
