@@ -139,6 +139,8 @@ adx-open-service.youku.com
 adx-os.anythinktech.com
 adx.ads.heytapmobi.com
 adx.ads.oppomobile.com
+adx.appsdk.com.cn
+adx.sogaha.cn
 adxlog-adnet.vivo.com.cn
 adxserver.ad.cmvideo.cn
 aegis.qq.com
@@ -183,11 +185,13 @@ api-gd.hiaiabc.com
 api-htp.beizi.biz
 api.ad.xiaomi.com
 api.e.kuaishou.com
+api.fu.xcultur.com
 api.htp.hubcloud.com.cn
 api.hzsanjiaomao.com
 api.installer.xiaomi.com
 api.jietuhb.com
 api.kingdata.ksyun.com
+api.ssp.xcultur.com
 api.statsig.com
 api.touch-moblie.com
 api.yfanads.com
@@ -200,6 +204,7 @@ applog.lc.quark.cn
 applog.uc.cn
 applog.zijieapi.com
 applovin.com
+applvn.com
 aspect-upush.umeng.com
 ata-sdk-uuid-report.dreport.meituan.net
 auction.unityads.unity3d.com
@@ -614,6 +619,7 @@ rp.hpplay.cn
 rps.hpplay.cn
 rpt.gdt.qq.com
 rt.applovin.com
+rt.applvn.com
 rtb.voiceads.cn
 s.amazon-adsystem.com
 s1.qq.com
@@ -768,6 +774,7 @@ upgrade-update.hismarttv.com
 uranus.jd.com
 us.l.qq.com
 usr-api.aiclk.com
+v.110route.cn
 v.adintl.cn
 v.adx.hubcloud.com.cn
 v1-ad.video.yximgs.com
@@ -820,6 +827,7 @@ wxsnsdy.tc.qq.com
 wxsnsdy.wxs.qq.com
 wxsnsdythumb.wxs.qq.com
 xc.gdt.qq.com
+xcultur.com
 xiaomi-dtv.m.cn.miaozhen.com
 xlivrdr.com
 xlmzc.cnjp-exp.com
@@ -832,7 +840,6 @@ ykad-data.youku.com
 ykad-gateway.youku.com
 youku-acs.m.taobao.com
 youxi.kugou.com
+ytx-file.110route.cn
 zeus.ad.xiaomi.com
 zhihu-web-analytics.zhihu.com
-rt.applvn.com
-applvn.com
