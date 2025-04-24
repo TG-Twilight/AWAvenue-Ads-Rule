@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 721
+!Total lines: 734
 !Version: 1.6.0-release
-!Update time: 2025-04-15 19:04:21 UTC+8
-!Update content: add “micro-xdb.com” ads.
+!Update time: 2025-04-24 12:22:09 UTC+8
+!Update content: more TV (yunshitin、yinheqiyiguo...) ad block.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -20,13 +20,13 @@
 0.0.0.0 a0.app.xiaomi.com
 0.0.0.0 aaid.umeng.com
 0.0.0.0 abtest-ch.snssdk.com
-0.0.0.0 ad-cdn.qingting.fm
 0.0.0.0 ad-scope.com
 0.0.0.0 ad-scope.com.cn
 0.0.0.0 ad-sdk-config.youdao.com
 0.0.0.0 ad-sdk.huxiu.com
 0.0.0.0 ad.12306.cn
 0.0.0.0 ad.51wnl.com
+0.0.0.0 ad.api.3g.youku.com
 0.0.0.0 ad.bwton.com
 0.0.0.0 ad.cctv.com
 0.0.0.0 ad.cyapi.cn
@@ -147,6 +147,7 @@
 0.0.0.0 adxserver.ad.cmvideo.cn
 0.0.0.0 aegis.qq.com
 0.0.0.0 afs.googlesyndication.com
+0.0.0.0 agn.aty.sohu.com
 0.0.0.0 aiseet.aa.atianqi.com
 0.0.0.0 ali-ad.a.yximgs.com
 0.0.0.0 ali-p2p-v2.pull.yximgs.com
@@ -474,6 +475,7 @@
 0.0.0.0 mobads-logs.baidu.com
 0.0.0.0 mobads-pre-config.cdn.bcebos.com
 0.0.0.0 mobads.baidu.com
+0.0.0.0 mobaliyun.res.mgtv.com
 0.0.0.0 mobile.da.mgtv.com
 0.0.0.0 mobilelog.upqzfile.com
 0.0.0.0 mon.zijieapi.com
@@ -528,6 +530,7 @@
 0.0.0.0 pin.hpplay.cn
 0.0.0.0 pixon.ads-pixiv.net
 0.0.0.0 pkoplink.com
+0.0.0.0 pl.cp31.ott.cibntv.net
 0.0.0.0 plbslog.umeng.com
 0.0.0.0 pms.mb.qq.com
 0.0.0.0 policy.video.ptqy.gitv.tv
@@ -547,11 +550,13 @@
 0.0.0.0 rms-drcn.platform.dbankcloud.cn
 0.0.0.0 roi.soulapp.cn
 0.0.0.0 rp.hpplay.cn
+0.0.0.0 rps.hpplay.cn
 0.0.0.0 rpt.gdt.qq.com
 0.0.0.0 rtb.voiceads.cn
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 s8t.teads.tv
 0.0.0.0 saad.ms.zhangyue.net
+0.0.0.0 saas.hpplay.cn
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 samsungads.com
 0.0.0.0 sanme2.taisantech.com
@@ -605,6 +610,7 @@
 0.0.0.0 stg-data.ads.heytapmobi.com
 0.0.0.0 stun.hitv.com
 0.0.0.0 success.ctobsnssdk.com
+0.0.0.0 sv-video.play.aiseet.atianqi.com
 0.0.0.0 syh-imp.cdnjtzy.com
 0.0.0.0 szbdyd.com
 0.0.0.0 t-dsp.pinduoduo.com
@@ -614,6 +620,8 @@
 0.0.0.0 t1.teads.tv
 0.0.0.0 t2.a.market.xiaomi.com
 0.0.0.0 t3.a.market.xiaomi.com
+0.0.0.0 t7z.cupid.iqiyi.com
+0.0.0.0 t7z.cupid.ptqy.gitv.tv
 0.0.0.0 tangram.e.qq.com
 0.0.0.0 tdc.qq.com
 0.0.0.0 tdsdk.cpatrk.net
@@ -687,10 +695,15 @@
 0.0.0.0 v2mi.gdt.qq.com
 0.0.0.0 v3-ad.video.yximgs.com
 0.0.0.0 v3.gdt.qq.com
+0.0.0.0 vali-ugc.cp31.ott.cibntv.net
+0.0.0.0 vd6.l.qq.com
+0.0.0.0 vi.l.qq.com
 0.0.0.0 video-ad.sm.cn
 0.0.0.0 video-dsp.pddpic.com
 0.0.0.0 video.dispatch.tc.qq.com
+0.0.0.0 video.market.xiaomi.com
 0.0.0.0 vipauth.hpplay.cn
+0.0.0.0 vipgslb.hpplay.cn
 0.0.0.0 virusinfo-cloudscan-cn.heytapmobi.com
 0.0.0.0 vlive.qqvideo.tc.qq.com
 0.0.0.0 volc.bj.ad.track.66mobi.com
@@ -739,6 +752,7 @@
 :: 1500026601.vodplayer.wxamedia.com
 :: aaid.umeng.com
 :: ad.12306.cn
+:: ad.api.3g.youku.com
 :: ad.cctv.com
 :: ad.qingting.fm
 :: ad.qq.com
@@ -882,6 +896,7 @@
 :: metrika.yandex.ru
 :: mi.gdt.qq.com
 :: mmgame.qpic.cn
+:: mobaliyun.res.mgtv.com
 :: mon.zijieapi.com
 :: monitor.music.qq.com
 :: monsetting.toutiao.com
@@ -953,6 +968,8 @@
 :: v2mi.gdt.qq.com
 :: v3-ad.video.yximgs.com
 :: v3.gdt.qq.com
+:: vali-ugc.cp31.ott.cibntv.net
+:: vd6.l.qq.com
 :: vlive.qqvideo.tc.qq.com
 :: weather-community-drcn.weather.dbankcloud.cn
 :: webstat.qiumibao.com

@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 733
+#Total lines: 746
 #Version: 1.6.0-release
-#Update time: 2025-04-15 19:04:21 UTC+8
-#Update content: add “micro-xdb.com” ads.
+#Update time: 2025-04-24 12:22:09 UTC+8
+#Update content: more TV (yunshitin、yinheqiyiguo...) ad block.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -16,13 +16,13 @@ DOMAIN,8le8le.com,reject
 DOMAIN,a0.app.xiaomi.com,reject
 DOMAIN,aaid.umeng.com,reject
 DOMAIN,abtest-ch.snssdk.com,reject
-DOMAIN,ad-cdn.qingting.fm,reject
 DOMAIN,ad-scope.com,reject
 DOMAIN,ad-scope.com.cn,reject
 DOMAIN,ad-sdk-config.youdao.com,reject
 DOMAIN,ad-sdk.huxiu.com,reject
 DOMAIN,ad.12306.cn,reject
 DOMAIN,ad.51wnl.com,reject
+DOMAIN,ad.api.3g.youku.com,reject
 DOMAIN,ad.bwton.com,reject
 DOMAIN,ad.cctv.com,reject
 DOMAIN,ad.cyapi.cn,reject
@@ -143,6 +143,7 @@ DOMAIN,adxlog-adnet.vivo.com.cn,reject
 DOMAIN,adxserver.ad.cmvideo.cn,reject
 DOMAIN,aegis.qq.com,reject
 DOMAIN,afs.googlesyndication.com,reject
+DOMAIN,agn.aty.sohu.com,reject
 DOMAIN,aiseet.aa.atianqi.com,reject
 DOMAIN,ali-ad.a.yximgs.com,reject
 DOMAIN,ali-p2p-v2.pull.yximgs.com,reject
@@ -470,6 +471,7 @@ DOMAIN,moatads.com,reject
 DOMAIN,mobads-logs.baidu.com,reject
 DOMAIN,mobads-pre-config.cdn.bcebos.com,reject
 DOMAIN,mobads.baidu.com,reject
+DOMAIN,mobaliyun.res.mgtv.com,reject
 DOMAIN,mobile.da.mgtv.com,reject
 DOMAIN,mobilelog.upqzfile.com,reject
 DOMAIN,mon.zijieapi.com,reject
@@ -524,6 +526,7 @@ DOMAIN,pig.pupuapi.com,reject
 DOMAIN,pin.hpplay.cn,reject
 DOMAIN,pixon.ads-pixiv.net,reject
 DOMAIN,pkoplink.com,reject
+DOMAIN,pl.cp31.ott.cibntv.net,reject
 DOMAIN,plbslog.umeng.com,reject
 DOMAIN,pms.mb.qq.com,reject
 DOMAIN,policy.video.ptqy.gitv.tv,reject
@@ -543,11 +546,13 @@ DOMAIN,rlog.popin.cc,reject
 DOMAIN,rms-drcn.platform.dbankcloud.cn,reject
 DOMAIN,roi.soulapp.cn,reject
 DOMAIN,rp.hpplay.cn,reject
+DOMAIN,rps.hpplay.cn,reject
 DOMAIN,rpt.gdt.qq.com,reject
 DOMAIN,rtb.voiceads.cn,reject
 DOMAIN,s.amazon-adsystem.com,reject
 DOMAIN,s8t.teads.tv,reject
 DOMAIN,saad.ms.zhangyue.net,reject
+DOMAIN,saas.hpplay.cn,reject
 DOMAIN,samsung-com.112.2o7.net,reject
 DOMAIN,samsungads.com,reject
 DOMAIN,sanme2.taisantech.com,reject
@@ -601,6 +606,7 @@ DOMAIN,statsigapi.net,reject
 DOMAIN,stg-data.ads.heytapmobi.com,reject
 DOMAIN,stun.hitv.com,reject
 DOMAIN,success.ctobsnssdk.com,reject
+DOMAIN,sv-video.play.aiseet.atianqi.com,reject
 DOMAIN,syh-imp.cdnjtzy.com,reject
 DOMAIN,szbdyd.com,reject
 DOMAIN,t-dsp.pinduoduo.com,reject
@@ -610,6 +616,8 @@ DOMAIN,t1.a.market.xiaomi.com,reject
 DOMAIN,t1.teads.tv,reject
 DOMAIN,t2.a.market.xiaomi.com,reject
 DOMAIN,t3.a.market.xiaomi.com,reject
+DOMAIN,t7z.cupid.iqiyi.com,reject
+DOMAIN,t7z.cupid.ptqy.gitv.tv,reject
 DOMAIN,tangram.e.qq.com,reject
 DOMAIN,tdc.qq.com,reject
 DOMAIN,tdsdk.cpatrk.net,reject
@@ -683,10 +691,15 @@ DOMAIN,v2.gdt.qq.com,reject
 DOMAIN,v2mi.gdt.qq.com,reject
 DOMAIN,v3-ad.video.yximgs.com,reject
 DOMAIN,v3.gdt.qq.com,reject
+DOMAIN,vali-ugc.cp31.ott.cibntv.net,reject
+DOMAIN,vd6.l.qq.com,reject
+DOMAIN,vi.l.qq.com,reject
 DOMAIN,video-ad.sm.cn,reject
 DOMAIN,video-dsp.pddpic.com,reject
 DOMAIN,video.dispatch.tc.qq.com,reject
+DOMAIN,video.market.xiaomi.com,reject
 DOMAIN,vipauth.hpplay.cn,reject
+DOMAIN,vipgslb.hpplay.cn,reject
 DOMAIN,virusinfo-cloudscan-cn.heytapmobi.com,reject
 DOMAIN,vlive.qqvideo.tc.qq.com,reject
 DOMAIN,volc.bj.ad.track.66mobi.com,reject

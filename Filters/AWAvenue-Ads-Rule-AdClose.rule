@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 721
+#Total lines: 734
 #Version: 1.6.0-release
-#Update time: 2025-04-15 19:04:21 UTC+8
-#Update content: add “micro-xdb.com” ads.
+#Update time: 2025-04-24 12:22:09 UTC+8
+#Update content: more TV (yunshitin、yinheqiyiguo...) ad block.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -19,13 +19,13 @@ domain, 8le8le.com
 domain, a0.app.xiaomi.com
 domain, aaid.umeng.com
 domain, abtest-ch.snssdk.com
-domain, ad-cdn.qingting.fm
 domain, ad-scope.com
 domain, ad-scope.com.cn
 domain, ad-sdk-config.youdao.com
 domain, ad-sdk.huxiu.com
 domain, ad.12306.cn
 domain, ad.51wnl.com
+domain, ad.api.3g.youku.com
 domain, ad.bwton.com
 domain, ad.cctv.com
 domain, ad.cyapi.cn
@@ -146,6 +146,7 @@ domain, adxlog-adnet.vivo.com.cn
 domain, adxserver.ad.cmvideo.cn
 domain, aegis.qq.com
 domain, afs.googlesyndication.com
+domain, agn.aty.sohu.com
 domain, aiseet.aa.atianqi.com
 domain, ali-ad.a.yximgs.com
 domain, ali-p2p-v2.pull.yximgs.com
@@ -473,6 +474,7 @@ domain, moatads.com
 domain, mobads-logs.baidu.com
 domain, mobads-pre-config.cdn.bcebos.com
 domain, mobads.baidu.com
+domain, mobaliyun.res.mgtv.com
 domain, mobile.da.mgtv.com
 domain, mobilelog.upqzfile.com
 domain, mon.zijieapi.com
@@ -527,6 +529,7 @@ domain, pig.pupuapi.com
 domain, pin.hpplay.cn
 domain, pixon.ads-pixiv.net
 domain, pkoplink.com
+domain, pl.cp31.ott.cibntv.net
 domain, plbslog.umeng.com
 domain, pms.mb.qq.com
 domain, policy.video.ptqy.gitv.tv
@@ -546,11 +549,13 @@ domain, rlog.popin.cc
 domain, rms-drcn.platform.dbankcloud.cn
 domain, roi.soulapp.cn
 domain, rp.hpplay.cn
+domain, rps.hpplay.cn
 domain, rpt.gdt.qq.com
 domain, rtb.voiceads.cn
 domain, s.amazon-adsystem.com
 domain, s8t.teads.tv
 domain, saad.ms.zhangyue.net
+domain, saas.hpplay.cn
 domain, samsung-com.112.2o7.net
 domain, samsungads.com
 domain, sanme2.taisantech.com
@@ -604,6 +609,7 @@ domain, statsigapi.net
 domain, stg-data.ads.heytapmobi.com
 domain, stun.hitv.com
 domain, success.ctobsnssdk.com
+domain, sv-video.play.aiseet.atianqi.com
 domain, syh-imp.cdnjtzy.com
 domain, szbdyd.com
 domain, t-dsp.pinduoduo.com
@@ -613,6 +619,8 @@ domain, t1.a.market.xiaomi.com
 domain, t1.teads.tv
 domain, t2.a.market.xiaomi.com
 domain, t3.a.market.xiaomi.com
+domain, t7z.cupid.iqiyi.com
+domain, t7z.cupid.ptqy.gitv.tv
 domain, tangram.e.qq.com
 domain, tdc.qq.com
 domain, tdsdk.cpatrk.net
@@ -686,10 +694,15 @@ domain, v2.gdt.qq.com
 domain, v2mi.gdt.qq.com
 domain, v3-ad.video.yximgs.com
 domain, v3.gdt.qq.com
+domain, vali-ugc.cp31.ott.cibntv.net
+domain, vd6.l.qq.com
+domain, vi.l.qq.com
 domain, video-ad.sm.cn
 domain, video-dsp.pddpic.com
 domain, video.dispatch.tc.qq.com
+domain, video.market.xiaomi.com
 domain, vipauth.hpplay.cn
+domain, vipgslb.hpplay.cn
 domain, virusinfo-cloudscan-cn.heytapmobi.com
 domain, vlive.qqvideo.tc.qq.com
 domain, volc.bj.ad.track.66mobi.com

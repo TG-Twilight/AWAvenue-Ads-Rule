@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 734
+#Total lines: 747
 #Version: 1.6.0-release
-#Update time: 2025-04-15 19:04:21 UTC+8
-#Update content: add “micro-xdb.com” ads.
+#Update time: 2025-04-24 12:22:09 UTC+8
+#Update content: more TV (yunshitin、yinheqiyiguo...) ad block.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -17,13 +17,13 @@ payload:
   - DOMAIN,a0.app.xiaomi.com
   - DOMAIN,aaid.umeng.com
   - DOMAIN,abtest-ch.snssdk.com
-  - DOMAIN,ad-cdn.qingting.fm
   - DOMAIN,ad-scope.com
   - DOMAIN,ad-scope.com.cn
   - DOMAIN,ad-sdk-config.youdao.com
   - DOMAIN,ad-sdk.huxiu.com
   - DOMAIN,ad.12306.cn
   - DOMAIN,ad.51wnl.com
+  - DOMAIN,ad.api.3g.youku.com
   - DOMAIN,ad.bwton.com
   - DOMAIN,ad.cctv.com
   - DOMAIN,ad.cyapi.cn
@@ -144,6 +144,7 @@ payload:
   - DOMAIN,adxserver.ad.cmvideo.cn
   - DOMAIN,aegis.qq.com
   - DOMAIN,afs.googlesyndication.com
+  - DOMAIN,agn.aty.sohu.com
   - DOMAIN,aiseet.aa.atianqi.com
   - DOMAIN,ali-ad.a.yximgs.com
   - DOMAIN,ali-p2p-v2.pull.yximgs.com
@@ -471,6 +472,7 @@ payload:
   - DOMAIN,mobads-logs.baidu.com
   - DOMAIN,mobads-pre-config.cdn.bcebos.com
   - DOMAIN,mobads.baidu.com
+  - DOMAIN,mobaliyun.res.mgtv.com
   - DOMAIN,mobile.da.mgtv.com
   - DOMAIN,mobilelog.upqzfile.com
   - DOMAIN,mon.zijieapi.com
@@ -525,6 +527,7 @@ payload:
   - DOMAIN,pin.hpplay.cn
   - DOMAIN,pixon.ads-pixiv.net
   - DOMAIN,pkoplink.com
+  - DOMAIN,pl.cp31.ott.cibntv.net
   - DOMAIN,plbslog.umeng.com
   - DOMAIN,pms.mb.qq.com
   - DOMAIN,policy.video.ptqy.gitv.tv
@@ -544,11 +547,13 @@ payload:
   - DOMAIN,rms-drcn.platform.dbankcloud.cn
   - DOMAIN,roi.soulapp.cn
   - DOMAIN,rp.hpplay.cn
+  - DOMAIN,rps.hpplay.cn
   - DOMAIN,rpt.gdt.qq.com
   - DOMAIN,rtb.voiceads.cn
   - DOMAIN,s.amazon-adsystem.com
   - DOMAIN,s8t.teads.tv
   - DOMAIN,saad.ms.zhangyue.net
+  - DOMAIN,saas.hpplay.cn
   - DOMAIN,samsung-com.112.2o7.net
   - DOMAIN,samsungads.com
   - DOMAIN,sanme2.taisantech.com
@@ -602,6 +607,7 @@ payload:
   - DOMAIN,stg-data.ads.heytapmobi.com
   - DOMAIN,stun.hitv.com
   - DOMAIN,success.ctobsnssdk.com
+  - DOMAIN,sv-video.play.aiseet.atianqi.com
   - DOMAIN,syh-imp.cdnjtzy.com
   - DOMAIN,szbdyd.com
   - DOMAIN,t-dsp.pinduoduo.com
@@ -611,6 +617,8 @@ payload:
   - DOMAIN,t1.teads.tv
   - DOMAIN,t2.a.market.xiaomi.com
   - DOMAIN,t3.a.market.xiaomi.com
+  - DOMAIN,t7z.cupid.iqiyi.com
+  - DOMAIN,t7z.cupid.ptqy.gitv.tv
   - DOMAIN,tangram.e.qq.com
   - DOMAIN,tdc.qq.com
   - DOMAIN,tdsdk.cpatrk.net
@@ -684,10 +692,15 @@ payload:
   - DOMAIN,v2mi.gdt.qq.com
   - DOMAIN,v3-ad.video.yximgs.com
   - DOMAIN,v3.gdt.qq.com
+  - DOMAIN,vali-ugc.cp31.ott.cibntv.net
+  - DOMAIN,vd6.l.qq.com
+  - DOMAIN,vi.l.qq.com
   - DOMAIN,video-ad.sm.cn
   - DOMAIN,video-dsp.pddpic.com
   - DOMAIN,video.dispatch.tc.qq.com
+  - DOMAIN,video.market.xiaomi.com
   - DOMAIN,vipauth.hpplay.cn
+  - DOMAIN,vipgslb.hpplay.cn
   - DOMAIN,virusinfo-cloudscan-cn.heytapmobi.com
   - DOMAIN,vlive.qqvideo.tc.qq.com
   - DOMAIN,volc.bj.ad.track.66mobi.com
