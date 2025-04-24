@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 775
+#Total lines: 781
 #Version: 1.6.0-release
-#Update time: 2025-04-25 02:04:04 UTC+8
-#Update content: GO HELL applvn ads... this is the third addition !!!
+#Update time: 2025-04-25 02:40:29 UTC+8
+#Update content: add tianqi、nangua、xingxun ads block.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -141,6 +141,8 @@ DOMAIN,adx-open-service.youku.com,reject
 DOMAIN,adx-os.anythinktech.com,reject
 DOMAIN,adx.ads.heytapmobi.com,reject
 DOMAIN,adx.ads.oppomobile.com,reject
+DOMAIN,adx.appsdk.com.cn,reject
+DOMAIN,adx.sogaha.cn,reject
 DOMAIN,adxlog-adnet.vivo.com.cn,reject
 DOMAIN,adxserver.ad.cmvideo.cn,reject
 DOMAIN,aegis.qq.com,reject
@@ -184,11 +186,13 @@ DOMAIN,api-gd.hiaiabc.com,reject
 DOMAIN,api-htp.beizi.biz,reject
 DOMAIN,api.ad.xiaomi.com,reject
 DOMAIN,api.e.kuaishou.com,reject
+DOMAIN,api.fu.xcultur.com,reject
 DOMAIN,api.htp.hubcloud.com.cn,reject
 DOMAIN,api.hzsanjiaomao.com,reject
 DOMAIN,api.installer.xiaomi.com,reject
 DOMAIN,api.jietuhb.com,reject
 DOMAIN,api.kingdata.ksyun.com,reject
+DOMAIN,api.ssp.xcultur.com,reject
 DOMAIN,api.statsig.com,reject
 DOMAIN,api.touch-moblie.com,reject
 DOMAIN,api.yfanads.com,reject
@@ -710,6 +714,7 @@ DOMAIN,upgrade-update.hismarttv.com,reject
 DOMAIN,uranus.jd.com,reject
 DOMAIN,us.l.qq.com,reject
 DOMAIN,usr-api.aiclk.com,reject
+DOMAIN,v.110route.cn,reject
 DOMAIN,v.adintl.cn,reject
 DOMAIN,v.adx.hubcloud.com.cn,reject
 DOMAIN,v1-ad.video.yximgs.com,reject
@@ -770,6 +775,7 @@ DOMAIN,yk-ssp.ad.youku.com,reject
 DOMAIN,ykad-data.youku.com,reject
 DOMAIN,ykad-gateway.youku.com,reject
 DOMAIN,youku-acs.m.taobao.com,reject
+DOMAIN,ytx-file.110route.cn,reject
 DOMAIN,zeus.ad.xiaomi.com,reject
 DOMAIN,zhihu-web-analytics.zhihu.com,reject
 DOMAIN-KEYWORD,...shouji.sogou.com,reject

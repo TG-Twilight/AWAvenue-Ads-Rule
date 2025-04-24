@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2025-04-25 02:04:04 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2025-04-25 02:40:29 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -138,6 +138,8 @@ DOMAIN,adx-open-service.youku.com,REJECT,extended-matching,pre-matching
 DOMAIN,adx-os.anythinktech.com,REJECT,extended-matching,pre-matching
 DOMAIN,adx.ads.heytapmobi.com,REJECT,extended-matching,pre-matching
 DOMAIN,adx.ads.oppomobile.com,REJECT,extended-matching,pre-matching
+DOMAIN,adx.appsdk.com.cn,REJECT,extended-matching,pre-matching
+DOMAIN,adx.sogaha.cn,REJECT,extended-matching,pre-matching
 DOMAIN,adxlog-adnet.vivo.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,adxserver.ad.cmvideo.cn,REJECT,extended-matching,pre-matching
 DOMAIN,aegis.qq.com,REJECT,extended-matching,pre-matching
@@ -181,11 +183,13 @@ DOMAIN,api-gd.hiaiabc.com,REJECT,extended-matching,pre-matching
 DOMAIN,api-htp.beizi.biz,REJECT,extended-matching,pre-matching
 DOMAIN,api.ad.xiaomi.com,REJECT,extended-matching,pre-matching
 DOMAIN,api.e.kuaishou.com,REJECT,extended-matching,pre-matching
+DOMAIN,api.fu.xcultur.com,REJECT,extended-matching,pre-matching
 DOMAIN,api.htp.hubcloud.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,api.hzsanjiaomao.com,REJECT,extended-matching,pre-matching
 DOMAIN,api.installer.xiaomi.com,REJECT,extended-matching,pre-matching
 DOMAIN,api.jietuhb.com,REJECT,extended-matching,pre-matching
 DOMAIN,api.kingdata.ksyun.com,REJECT,extended-matching,pre-matching
+DOMAIN,api.ssp.xcultur.com,REJECT,extended-matching,pre-matching
 DOMAIN,api.statsig.com,REJECT,extended-matching,pre-matching
 DOMAIN,api.touch-moblie.com,REJECT,extended-matching,pre-matching
 DOMAIN,api.yfanads.com,REJECT,extended-matching,pre-matching
@@ -707,6 +711,7 @@ DOMAIN,upgrade-update.hismarttv.com,REJECT,extended-matching,pre-matching
 DOMAIN,uranus.jd.com,REJECT,extended-matching,pre-matching
 DOMAIN,us.l.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,usr-api.aiclk.com,REJECT,extended-matching,pre-matching
+DOMAIN,v.110route.cn,REJECT,extended-matching,pre-matching
 DOMAIN,v.adintl.cn,REJECT,extended-matching,pre-matching
 DOMAIN,v.adx.hubcloud.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,v1-ad.video.yximgs.com,REJECT,extended-matching,pre-matching
@@ -767,6 +772,7 @@ DOMAIN,yk-ssp.ad.youku.com,REJECT,extended-matching,pre-matching
 DOMAIN,ykad-data.youku.com,REJECT,extended-matching,pre-matching
 DOMAIN,ykad-gateway.youku.com,REJECT,extended-matching,pre-matching
 DOMAIN,youku-acs.m.taobao.com,REJECT,extended-matching,pre-matching
+DOMAIN,ytx-file.110route.cn,REJECT,extended-matching,pre-matching
 DOMAIN,zeus.ad.xiaomi.com,REJECT,extended-matching,pre-matching
 DOMAIN,zhihu-web-analytics.zhihu.com,REJECT,extended-matching,pre-matching
 DOMAIN-KEYWORD,.*\.*\.shouji\.sogou\.com,REJECT,extended-matching,pre-matching

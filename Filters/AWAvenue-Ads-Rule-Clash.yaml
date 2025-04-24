@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 776
+#Total lines: 782
 #Version: 1.6.0-release
-#Update time: 2025-04-25 02:04:04 UTC+8
-#Update content: GO HELL applvn ads... this is the third addition !!!
+#Update time: 2025-04-25 02:40:29 UTC+8
+#Update content: add tianqi、nangua、xingxun ads block.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -142,6 +142,8 @@ payload:
   - 'adx-os.anythinktech.com'
   - 'adx.ads.heytapmobi.com'
   - 'adx.ads.oppomobile.com'
+  - 'adx.appsdk.com.cn'
+  - 'adx.sogaha.cn'
   - 'adxlog-adnet.vivo.com.cn'
   - 'adxserver.ad.cmvideo.cn'
   - 'aegis.qq.com'
@@ -185,11 +187,13 @@ payload:
   - 'api-htp.beizi.biz'
   - 'api.ad.xiaomi.com'
   - 'api.e.kuaishou.com'
+  - 'api.fu.xcultur.com'
   - 'api.htp.hubcloud.com.cn'
   - 'api.hzsanjiaomao.com'
   - 'api.installer.xiaomi.com'
   - 'api.jietuhb.com'
   - 'api.kingdata.ksyun.com'
+  - 'api.ssp.xcultur.com'
   - 'api.statsig.com'
   - 'api.touch-moblie.com'
   - 'api.yfanads.com'
@@ -711,6 +715,7 @@ payload:
   - 'uranus.jd.com'
   - 'us.l.qq.com'
   - 'usr-api.aiclk.com'
+  - 'v.110route.cn'
   - 'v.adintl.cn'
   - 'v.adx.hubcloud.com.cn'
   - 'v1-ad.video.yximgs.com'
@@ -771,6 +776,7 @@ payload:
   - 'ykad-data.youku.com'
   - 'ykad-gateway.youku.com'
   - 'youku-acs.m.taobao.com'
+  - 'ytx-file.110route.cn'
   - 'zeus.ad.xiaomi.com'
   - 'zhihu-web-analytics.zhihu.com'
   - '.*\.*\.shouji\.sogou\.com'

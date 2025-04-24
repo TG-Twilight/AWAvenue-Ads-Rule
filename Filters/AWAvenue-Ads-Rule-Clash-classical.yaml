@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 776
+#Total lines: 782
 #Version: 1.6.0-release
-#Update time: 2025-04-25 02:04:04 UTC+8
-#Update content: GO HELL applvn ads... this is the third addition !!!
+#Update time: 2025-04-25 02:40:29 UTC+8
+#Update content: add tianqi、nangua、xingxun ads block.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -142,6 +142,8 @@ payload:
   - DOMAIN,adx-os.anythinktech.com
   - DOMAIN,adx.ads.heytapmobi.com
   - DOMAIN,adx.ads.oppomobile.com
+  - DOMAIN,adx.appsdk.com.cn
+  - DOMAIN,adx.sogaha.cn
   - DOMAIN,adxlog-adnet.vivo.com.cn
   - DOMAIN,adxserver.ad.cmvideo.cn
   - DOMAIN,aegis.qq.com
@@ -185,11 +187,13 @@ payload:
   - DOMAIN,api-htp.beizi.biz
   - DOMAIN,api.ad.xiaomi.com
   - DOMAIN,api.e.kuaishou.com
+  - DOMAIN,api.fu.xcultur.com
   - DOMAIN,api.htp.hubcloud.com.cn
   - DOMAIN,api.hzsanjiaomao.com
   - DOMAIN,api.installer.xiaomi.com
   - DOMAIN,api.jietuhb.com
   - DOMAIN,api.kingdata.ksyun.com
+  - DOMAIN,api.ssp.xcultur.com
   - DOMAIN,api.statsig.com
   - DOMAIN,api.touch-moblie.com
   - DOMAIN,api.yfanads.com
@@ -711,6 +715,7 @@ payload:
   - DOMAIN,uranus.jd.com
   - DOMAIN,us.l.qq.com
   - DOMAIN,usr-api.aiclk.com
+  - DOMAIN,v.110route.cn
   - DOMAIN,v.adintl.cn
   - DOMAIN,v.adx.hubcloud.com.cn
   - DOMAIN,v1-ad.video.yximgs.com
@@ -771,6 +776,7 @@ payload:
   - DOMAIN,ykad-data.youku.com
   - DOMAIN,ykad-gateway.youku.com
   - DOMAIN,youku-acs.m.taobao.com
+  - DOMAIN,ytx-file.110route.cn
   - DOMAIN,zeus.ad.xiaomi.com
   - DOMAIN,zhihu-web-analytics.zhihu.com
   - DOMAIN-REGEX,^.*\.*\.shouji\.sogou\.com$

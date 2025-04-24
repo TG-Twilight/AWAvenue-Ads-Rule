@@ -130,6 +130,8 @@ domain:adx-open-service.youku.com
 domain:adx-os.anythinktech.com
 domain:adx.ads.heytapmobi.com
 domain:adx.ads.oppomobile.com
+domain:adx.appsdk.com.cn
+domain:adx.sogaha.cn
 domain:adxlog-adnet.vivo.com.cn
 domain:adxserver.ad.cmvideo.cn
 domain:aegis.qq.com
@@ -173,11 +175,13 @@ domain:api-gd.hiaiabc.com
 domain:api-htp.beizi.biz
 domain:api.ad.xiaomi.com
 domain:api.e.kuaishou.com
+domain:api.fu.xcultur.com
 domain:api.htp.hubcloud.com.cn
 domain:api.hzsanjiaomao.com
 domain:api.installer.xiaomi.com
 domain:api.jietuhb.com
 domain:api.kingdata.ksyun.com
+domain:api.ssp.xcultur.com
 domain:api.statsig.com
 domain:api.touch-moblie.com
 domain:api.yfanads.com
@@ -699,6 +703,7 @@ domain:upgrade-update.hismarttv.com
 domain:uranus.jd.com
 domain:us.l.qq.com
 domain:usr-api.aiclk.com
+domain:v.110route.cn
 domain:v.adintl.cn
 domain:v.adx.hubcloud.com.cn
 domain:v1-ad.video.yximgs.com
@@ -759,5 +764,6 @@ domain:yk-ssp.ad.youku.com
 domain:ykad-data.youku.com
 domain:ykad-gateway.youku.com
 domain:youku-acs.m.taobao.com
+domain:ytx-file.110route.cn
 domain:zeus.ad.xiaomi.com
 domain:zhihu-web-analytics.zhihu.com

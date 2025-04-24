@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 763
+!Total lines: 769
 !Version: 1.6.0-release
-!Update time: 2025-04-25 02:04:04 UTC+8
-!Update content: GO HELL applvn ads... this is the third addition !!!
+!Update time: 2025-04-25 02:40:29 UTC+8
+!Update content: add tianqi、nangua、xingxun ads block.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -145,6 +145,8 @@
 0.0.0.0 adx-os.anythinktech.com
 0.0.0.0 adx.ads.heytapmobi.com
 0.0.0.0 adx.ads.oppomobile.com
+0.0.0.0 adx.appsdk.com.cn
+0.0.0.0 adx.sogaha.cn
 0.0.0.0 adxlog-adnet.vivo.com.cn
 0.0.0.0 adxserver.ad.cmvideo.cn
 0.0.0.0 aegis.qq.com
@@ -188,11 +190,13 @@
 0.0.0.0 api-htp.beizi.biz
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 api.e.kuaishou.com
+0.0.0.0 api.fu.xcultur.com
 0.0.0.0 api.htp.hubcloud.com.cn
 0.0.0.0 api.hzsanjiaomao.com
 0.0.0.0 api.installer.xiaomi.com
 0.0.0.0 api.jietuhb.com
 0.0.0.0 api.kingdata.ksyun.com
+0.0.0.0 api.ssp.xcultur.com
 0.0.0.0 api.statsig.com
 0.0.0.0 api.touch-moblie.com
 0.0.0.0 api.yfanads.com
@@ -714,6 +718,7 @@
 0.0.0.0 uranus.jd.com
 0.0.0.0 us.l.qq.com
 0.0.0.0 usr-api.aiclk.com
+0.0.0.0 v.110route.cn
 0.0.0.0 v.adintl.cn
 0.0.0.0 v.adx.hubcloud.com.cn
 0.0.0.0 v1-ad.video.yximgs.com
@@ -774,6 +779,7 @@
 0.0.0.0 ykad-data.youku.com
 0.0.0.0 ykad-gateway.youku.com
 0.0.0.0 youku-acs.m.taobao.com
+0.0.0.0 ytx-file.110route.cn
 0.0.0.0 zeus.ad.xiaomi.com
 0.0.0.0 zhihu-web-analytics.zhihu.com
 :: 1500020991.vodplayer.wxamedia.com
@@ -829,6 +835,7 @@
 :: android.bugly.qq.com
 :: ap.dongqiudi.com
 :: api.ad.xiaomi.com
+:: api.fu.xcultur.com
 :: api.jietuhb.com
 :: api5-normal-quic-lf.ixigua.com
 :: app-measurement.com
@@ -860,7 +867,6 @@
 :: dm.toutiao.com
 :: doubleclick-cn.net
 :: drcn-weather.cloud.huawei.com
-:: dualstack-logs.amap.com
 :: dxp.baidu.com
 :: dyp2p-ali.douyucdn.cn
 :: ef-dongfeng.tanx.com
@@ -892,6 +898,7 @@
 :: ii.gdt.qq.com
 :: image-ad.sm.cn
 :: img-c.heytapimage.com
+:: img-x.jd.com
 :: jswebcollects.kugou.com
 :: kde.qq.com
 :: ks-p2p-v2.pull.yximgs.com
