@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2025-04-25 01:54:57 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2025-04-25 02:04:04 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -567,6 +567,7 @@ DOMAIN,rp.hpplay.cn,REJECT,extended-matching,pre-matching
 DOMAIN,rps.hpplay.cn,REJECT,extended-matching,pre-matching
 DOMAIN,rpt.gdt.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,rt.applovin.com,REJECT,extended-matching,pre-matching
+DOMAIN,rt.applvn.com,REJECT,extended-matching,pre-matching
 DOMAIN,rtb.voiceads.cn,REJECT,extended-matching,pre-matching
 DOMAIN,s.amazon-adsystem.com,REJECT,extended-matching,pre-matching
 DOMAIN,s8t.teads.tv,REJECT,extended-matching,pre-matching

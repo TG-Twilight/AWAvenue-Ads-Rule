@@ -1,11 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 774
+#Total lines: 775
 #Version: 1.6.0-release
-#Update time: 2025-04-25 01:54:57 UTC+8
-#Update content: More Unity、applovin、facebook、inmobi ads block again...
-
-fxxk ads.
+#Update time: 2025-04-25 02:04:04 UTC+8
+#Update content: GO HELL applvn ads... this is the third addition !!!
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -572,6 +570,7 @@ DOMAIN,rp.hpplay.cn,reject
 DOMAIN,rps.hpplay.cn,reject
 DOMAIN,rpt.gdt.qq.com,reject
 DOMAIN,rt.applovin.com,reject
+DOMAIN,rt.applvn.com,reject
 DOMAIN,rtb.voiceads.cn,reject
 DOMAIN,s.amazon-adsystem.com,reject
 DOMAIN,s8t.teads.tv,reject

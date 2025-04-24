@@ -2,10 +2,8 @@
 !--------------------------------------
 !Total lines: 12
 !Version: 1.6.0-release
-!Update time: 2025-04-25 01:54:57 UTC+8
-!Update content: More Unity、applovin、facebook、inmobi ads block again...
-
-fxxk ads.
+!Update time: 2025-04-25 02:04:04 UTC+8
+!Update content: GO HELL applvn ads... this is the third addition !!!
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -572,6 +570,7 @@ ip dns static add address=240.0.0.1 name=rp.hpplay.cn
 ip dns static add address=240.0.0.1 name=rps.hpplay.cn
 ip dns static add address=240.0.0.1 name=rpt.gdt.qq.com
 ip dns static add address=240.0.0.1 name=rt.applovin.com
+ip dns static add address=240.0.0.1 name=rt.applvn.com
 ip dns static add address=240.0.0.1 name=rtb.voiceads.cn
 ip dns static add address=240.0.0.1 name=s.amazon-adsystem.com
 ip dns static add address=240.0.0.1 name=s8t.teads.tv
@@ -889,7 +888,6 @@ ip dns static add address=:: name=ifs.tanx.com
 ip dns static add address=:: name=ii.gdt.qq.com
 ip dns static add address=:: name=image-ad.sm.cn
 ip dns static add address=:: name=img-c.heytapimage.com
-ip dns static add address=:: name=img-x.jd.com
 ip dns static add address=:: name=jswebcollects.kugou.com
 ip dns static add address=:: name=kde.qq.com
 ip dns static add address=:: name=ks-p2p-v2.pull.yximgs.com
@@ -955,6 +953,7 @@ ip dns static add address=:: name=review.gdtimg.com
 ip dns static add address=:: name=rms-drcn.platform.dbankcloud.cn
 ip dns static add address=:: name=rpt.gdt.qq.com
 ip dns static add address=:: name=rt.applovin.com
+ip dns static add address=:: name=rt.applvn.com
 ip dns static add address=:: name=s8t.teads.tv
 ip dns static add address=:: name=sdk.e.qq.com
 ip dns static add address=:: name=search.ixigua.com
