@@ -151,6 +151,7 @@ alogus.umeng.com
 als.baidu.com
 amdcopen.m.taobao.com
 an.facebook.com
+analysis.chatglm.cn
 analysis.yozocloud.cn
 analytics-api.samsunghealthcn.com
 analytics.google.com
