@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 769
+#Total lines: 775
 #Version: 1.6.5-release
-#Update time: 2025-04-25 03:13:15 UTC+8
-#Update content: remove "ads-us.tiktok.com" to refresh the version.
+#Update time: 2025-04-29 17:54:37 UTC+8
+#Update content: block zhangyu、tuia、yuedong、leyou、huichuan ads.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -31,6 +31,7 @@ domain, ad.bwton.com
 domain, ad.cctv.com
 domain, ad.cyapi.cn
 domain, ad.doubleclick.net
+domain, ad.gameley.com
 domain, ad.hpplay.cn
 domain, ad.partner.gifshow.com
 domain, ad.qingting.fm
@@ -69,6 +70,7 @@ domain, ads-api.tiktok.com
 domain, ads-api.twitter.com
 domain, ads-img-qc.xhscdn.com
 domain, ads-marketing-vivofs.vivo.com.cn
+domain, ads-sdk-api.ranfenghd.com
 domain, ads-sg.tiktok.com
 domain, ads-video-al.xhscdn.com
 domain, ads-video-qc.xhscdn.com
@@ -97,6 +99,7 @@ domain, ads5-normal-hl.zijieapi.com
 domain, ads5-normal-lf.zijieapi.com
 domain, ads5-normal-lq.zijieapi.com
 domain, ads5-normal.zijieapi.com
+domain, adsdk.vivo.com.cn
 domain, adse.test.ximalaya.com
 domain, adse.wsa.ximalaya.com
 domain, adse.ximalaya.com
@@ -146,6 +149,7 @@ domain, adx.ads.heytapmobi.com
 domain, adx.ads.oppomobile.com
 domain, adx.appsdk.com.cn
 domain, adx.sogaha.cn
+domain, adx.tuia.cn
 domain, adxlog-adnet.vivo.com.cn
 domain, adxserver.ad.cmvideo.cn
 domain, aegis.qq.com
@@ -356,6 +360,7 @@ domain, h-adashx.ut.taobao.com
 domain, h.trace.qq.com
 domain, h5.hpplay.com.cn
 domain, hanlanad.com
+domain, hc-ssp.sm.cn
 domain, heads-ak.spotify.com.edgesuite.net
 domain, heads-fa.spotify.com
 domain, hexagon-analytics.com
@@ -505,6 +510,7 @@ domain, ms.applovin.com
 domain, ms.applvn.com
 domain, ms4.applovin.com
 domain, ms4.applvn.com
+domain, msdk.voiceads.cn
 domain, mssdk.volces.com
 domain, mssdk.zijieapi.com
 domain, mtj.baidu.com

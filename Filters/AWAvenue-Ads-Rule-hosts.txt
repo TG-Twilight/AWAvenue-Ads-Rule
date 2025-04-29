@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 769
+!Total lines: 775
 !Version: 1.6.5-release
-!Update time: 2025-04-25 03:13:15 UTC+8
-!Update content: remove "ads-us.tiktok.com" to refresh the version.
+!Update time: 2025-04-29 17:54:37 UTC+8
+!Update content: block zhangyu、tuia、yuedong、leyou、huichuan ads.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -32,6 +32,7 @@
 0.0.0.0 ad.cctv.com
 0.0.0.0 ad.cyapi.cn
 0.0.0.0 ad.doubleclick.net
+0.0.0.0 ad.gameley.com
 0.0.0.0 ad.hpplay.cn
 0.0.0.0 ad.partner.gifshow.com
 0.0.0.0 ad.qingting.fm
@@ -70,6 +71,7 @@
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 ads-img-qc.xhscdn.com
 0.0.0.0 ads-marketing-vivofs.vivo.com.cn
+0.0.0.0 ads-sdk-api.ranfenghd.com
 0.0.0.0 ads-sg.tiktok.com
 0.0.0.0 ads-video-al.xhscdn.com
 0.0.0.0 ads-video-qc.xhscdn.com
@@ -98,6 +100,7 @@
 0.0.0.0 ads5-normal-lf.zijieapi.com
 0.0.0.0 ads5-normal-lq.zijieapi.com
 0.0.0.0 ads5-normal.zijieapi.com
+0.0.0.0 adsdk.vivo.com.cn
 0.0.0.0 adse.test.ximalaya.com
 0.0.0.0 adse.wsa.ximalaya.com
 0.0.0.0 adse.ximalaya.com
@@ -147,6 +150,7 @@
 0.0.0.0 adx.ads.oppomobile.com
 0.0.0.0 adx.appsdk.com.cn
 0.0.0.0 adx.sogaha.cn
+0.0.0.0 adx.tuia.cn
 0.0.0.0 adxlog-adnet.vivo.com.cn
 0.0.0.0 adxserver.ad.cmvideo.cn
 0.0.0.0 aegis.qq.com
@@ -357,6 +361,7 @@
 0.0.0.0 h.trace.qq.com
 0.0.0.0 h5.hpplay.com.cn
 0.0.0.0 hanlanad.com
+0.0.0.0 hc-ssp.sm.cn
 0.0.0.0 heads-ak.spotify.com.edgesuite.net
 0.0.0.0 heads-fa.spotify.com
 0.0.0.0 hexagon-analytics.com
@@ -506,6 +511,7 @@
 0.0.0.0 ms.applvn.com
 0.0.0.0 ms4.applovin.com
 0.0.0.0 ms4.applvn.com
+0.0.0.0 msdk.voiceads.cn
 0.0.0.0 mssdk.volces.com
 0.0.0.0 mssdk.zijieapi.com
 0.0.0.0 mtj.baidu.com
@@ -801,6 +807,7 @@
 :: adfilter.imtt.qq.com
 :: adfstat.yandex.ru
 :: ads-img-qc.xhscdn.com
+:: ads-sdk-api.ranfenghd.com
 :: ads-video-al.xhscdn.com
 :: ads-video-qc.xhscdn.com
 :: ads.95516.com
@@ -837,6 +844,7 @@
 :: api.ad.xiaomi.com
 :: api.fu.xcultur.com
 :: api.jietuhb.com
+:: api.kingdata.ksyun.com
 :: api5-normal-quic-lf.ixigua.com
 :: app-measurement.com
 :: appcfg.v.qq.com
@@ -869,6 +877,7 @@
 :: drcn-weather.cloud.huawei.com
 :: dualstack-logs.amap.com
 :: dxp.baidu.com
+:: dyp2p-ali.douyucdn.cn
 :: ef-dongfeng.tanx.com
 :: errlog.umeng.com
 :: errnewlog.umeng.com
@@ -885,6 +894,7 @@
 :: googletagservices-cn.com
 :: graph.facebook.com
 :: h.trace.qq.com
+:: hc-ssp.sm.cn
 :: heads-ak.spotify.com.edgesuite.net
 :: heads-fa.spotify.com
 :: houyi.kkmh.com
@@ -920,7 +930,6 @@
 :: log.zijieapi.com
 :: log1.cmpassport.com
 :: logrcv.aiclk.com
-:: logs.amap.com
 :: logtj.kugou.com
 :: m.ad.zhangyue.com
 :: m.atm.youku.com
@@ -1004,6 +1013,7 @@
 :: uedas.qidian.com
 :: umini.shujupie.com
 :: update.avlyun.sec.miui.com
+:: uranus.jd.com
 :: v1-ad.video.yximgs.com
 :: v2.gdt.qq.com
 :: v2mi.gdt.qq.com

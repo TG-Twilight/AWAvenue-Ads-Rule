@@ -2,8 +2,8 @@
 !--------------------------------------
 !Total lines: 12
 !Version: 1.6.5-release
-!Update time: 2025-04-25 03:13:15 UTC+8
-!Update content: remove "ads-us.tiktok.com" to refresh the version.
+!Update time: 2025-04-29 17:54:37 UTC+8
+!Update content: block zhangyu、tuia、yuedong、leyou、huichuan ads.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -28,6 +28,7 @@ ip dns static add address=240.0.0.1 name=ad.bwton.com
 ip dns static add address=240.0.0.1 name=ad.cctv.com
 ip dns static add address=240.0.0.1 name=ad.cyapi.cn
 ip dns static add address=240.0.0.1 name=ad.doubleclick.net
+ip dns static add address=240.0.0.1 name=ad.gameley.com
 ip dns static add address=240.0.0.1 name=ad.hpplay.cn
 ip dns static add address=240.0.0.1 name=ad.partner.gifshow.com
 ip dns static add address=240.0.0.1 name=ad.qingting.fm
@@ -66,6 +67,7 @@ ip dns static add address=240.0.0.1 name=ads-api.tiktok.com
 ip dns static add address=240.0.0.1 name=ads-api.twitter.com
 ip dns static add address=240.0.0.1 name=ads-img-qc.xhscdn.com
 ip dns static add address=240.0.0.1 name=ads-marketing-vivofs.vivo.com.cn
+ip dns static add address=240.0.0.1 name=ads-sdk-api.ranfenghd.com
 ip dns static add address=240.0.0.1 name=ads-sg.tiktok.com
 ip dns static add address=240.0.0.1 name=ads-video-al.xhscdn.com
 ip dns static add address=240.0.0.1 name=ads-video-qc.xhscdn.com
@@ -94,6 +96,7 @@ ip dns static add address=240.0.0.1 name=ads5-normal-hl.zijieapi.com
 ip dns static add address=240.0.0.1 name=ads5-normal-lf.zijieapi.com
 ip dns static add address=240.0.0.1 name=ads5-normal-lq.zijieapi.com
 ip dns static add address=240.0.0.1 name=ads5-normal.zijieapi.com
+ip dns static add address=240.0.0.1 name=adsdk.vivo.com.cn
 ip dns static add address=240.0.0.1 name=adse.test.ximalaya.com
 ip dns static add address=240.0.0.1 name=adse.wsa.ximalaya.com
 ip dns static add address=240.0.0.1 name=adse.ximalaya.com
@@ -143,6 +146,7 @@ ip dns static add address=240.0.0.1 name=adx.ads.heytapmobi.com
 ip dns static add address=240.0.0.1 name=adx.ads.oppomobile.com
 ip dns static add address=240.0.0.1 name=adx.appsdk.com.cn
 ip dns static add address=240.0.0.1 name=adx.sogaha.cn
+ip dns static add address=240.0.0.1 name=adx.tuia.cn
 ip dns static add address=240.0.0.1 name=adxlog-adnet.vivo.com.cn
 ip dns static add address=240.0.0.1 name=adxserver.ad.cmvideo.cn
 ip dns static add address=240.0.0.1 name=aegis.qq.com
@@ -353,6 +357,7 @@ ip dns static add address=240.0.0.1 name=h-adashx.ut.taobao.com
 ip dns static add address=240.0.0.1 name=h.trace.qq.com
 ip dns static add address=240.0.0.1 name=h5.hpplay.com.cn
 ip dns static add address=240.0.0.1 name=hanlanad.com
+ip dns static add address=240.0.0.1 name=hc-ssp.sm.cn
 ip dns static add address=240.0.0.1 name=heads-ak.spotify.com.edgesuite.net
 ip dns static add address=240.0.0.1 name=heads-fa.spotify.com
 ip dns static add address=240.0.0.1 name=hexagon-analytics.com
@@ -502,6 +507,7 @@ ip dns static add address=240.0.0.1 name=ms.applovin.com
 ip dns static add address=240.0.0.1 name=ms.applvn.com
 ip dns static add address=240.0.0.1 name=ms4.applovin.com
 ip dns static add address=240.0.0.1 name=ms4.applvn.com
+ip dns static add address=240.0.0.1 name=msdk.voiceads.cn
 ip dns static add address=240.0.0.1 name=mssdk.volces.com
 ip dns static add address=240.0.0.1 name=mssdk.zijieapi.com
 ip dns static add address=240.0.0.1 name=mtj.baidu.com
@@ -797,6 +803,7 @@ ip dns static add address=:: name=adexpo.tencentmusic.com
 ip dns static add address=:: name=adfilter.imtt.qq.com
 ip dns static add address=:: name=adfstat.yandex.ru
 ip dns static add address=:: name=ads-img-qc.xhscdn.com
+ip dns static add address=:: name=ads-sdk-api.ranfenghd.com
 ip dns static add address=:: name=ads-video-al.xhscdn.com
 ip dns static add address=:: name=ads-video-qc.xhscdn.com
 ip dns static add address=:: name=ads.95516.com
@@ -833,6 +840,7 @@ ip dns static add address=:: name=ap.dongqiudi.com
 ip dns static add address=:: name=api.ad.xiaomi.com
 ip dns static add address=:: name=api.fu.xcultur.com
 ip dns static add address=:: name=api.jietuhb.com
+ip dns static add address=:: name=api.kingdata.ksyun.com
 ip dns static add address=:: name=api5-normal-quic-lf.ixigua.com
 ip dns static add address=:: name=app-measurement.com
 ip dns static add address=:: name=appcfg.v.qq.com
@@ -865,6 +873,7 @@ ip dns static add address=:: name=doubleclick-cn.net
 ip dns static add address=:: name=drcn-weather.cloud.huawei.com
 ip dns static add address=:: name=dualstack-logs.amap.com
 ip dns static add address=:: name=dxp.baidu.com
+ip dns static add address=:: name=dyp2p-ali.douyucdn.cn
 ip dns static add address=:: name=ef-dongfeng.tanx.com
 ip dns static add address=:: name=errlog.umeng.com
 ip dns static add address=:: name=errnewlog.umeng.com
@@ -881,6 +890,7 @@ ip dns static add address=:: name=googleadservices-cn.com
 ip dns static add address=:: name=googletagservices-cn.com
 ip dns static add address=:: name=graph.facebook.com
 ip dns static add address=:: name=h.trace.qq.com
+ip dns static add address=:: name=hc-ssp.sm.cn
 ip dns static add address=:: name=heads-ak.spotify.com.edgesuite.net
 ip dns static add address=:: name=heads-fa.spotify.com
 ip dns static add address=:: name=houyi.kkmh.com
@@ -916,7 +926,6 @@ ip dns static add address=:: name=log.web.kugou.com
 ip dns static add address=:: name=log.zijieapi.com
 ip dns static add address=:: name=log1.cmpassport.com
 ip dns static add address=:: name=logrcv.aiclk.com
-ip dns static add address=:: name=logs.amap.com
 ip dns static add address=:: name=logtj.kugou.com
 ip dns static add address=:: name=m.ad.zhangyue.com
 ip dns static add address=:: name=m.atm.youku.com
@@ -1000,6 +1009,7 @@ ip dns static add address=:: name=udcm.yahoo.com
 ip dns static add address=:: name=uedas.qidian.com
 ip dns static add address=:: name=umini.shujupie.com
 ip dns static add address=:: name=update.avlyun.sec.miui.com
+ip dns static add address=:: name=uranus.jd.com
 ip dns static add address=:: name=v1-ad.video.yximgs.com
 ip dns static add address=:: name=v2.gdt.qq.com
 ip dns static add address=:: name=v2mi.gdt.qq.com
