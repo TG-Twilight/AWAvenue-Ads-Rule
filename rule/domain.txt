@@ -17,6 +17,7 @@ ad.bwton.com
 ad.cctv.com
 ad.cyapi.cn
 ad.doubleclick.net
+ad.gameley.com
 ad.hpplay.cn
 ad.partner.gifshow.com
 ad.qingting.fm
@@ -58,6 +59,7 @@ ads-api.twitter.com
 ads-img-qc.xhscdn.com
 ads-jp.tiktok.com
 ads-marketing-vivofs.vivo.com.cn
+ads-sdk-api.ranfenghd.com
 ads-sg.tiktok.com
 ads-video-al.xhscdn.com
 ads-video-qc.xhscdn.com
@@ -87,6 +89,7 @@ ads5-normal-hl.zijieapi.com
 ads5-normal-lf.zijieapi.com
 ads5-normal-lq.zijieapi.com
 ads5-normal.zijieapi.com
+adsdk.vivo.com.cn
 adse.test.ximalaya.com
 adse.wsa.ximalaya.com
 adse.ximalaya.com
@@ -140,6 +143,7 @@ adx.ads.heytapmobi.com
 adx.ads.oppomobile.com
 adx.appsdk.com.cn
 adx.sogaha.cn
+adx.tuia.cn
 adxlog-adnet.vivo.com.cn
 adxserver.ad.cmvideo.cn
 aegis.qq.com
@@ -365,6 +369,7 @@ h-adashx.ut.taobao.com
 h.trace.qq.com
 h5.hpplay.com.cn
 hanlanad.com
+hc-ssp.sm.cn
 heads-ak.spotify.com.edgesuite.net
 heads-fa.spotify.com
 hexagon-analytics.com
@@ -530,6 +535,7 @@ ms.applovin.com
 ms.applvn.com
 ms4.applovin.com
 ms4.applvn.com
+msdk.voiceads.cn
 mssdk.volces.com
 mssdk.zijieapi.com
 mtj.baidu.com
