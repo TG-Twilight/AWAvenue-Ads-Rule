@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2025-04-29 17:54:37 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2025-04-29 18:01:30 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -755,7 +755,6 @@ DOMAIN,widgets.outbrain.com,REJECT,extended-matching,pre-matching
 DOMAIN,widgets.pinterest.com,REJECT,extended-matching,pre-matching
 DOMAIN,wildcard.moatads.com.edgekey.net,REJECT,extended-matching,pre-matching
 DOMAIN,win.gdt.qq.com,REJECT,extended-matching,pre-matching
-DOMAIN,wn.x.jd.com,REJECT,extended-matching,pre-matching
 DOMAIN,ws-keyboard.shouji.sogou.com,REJECT,extended-matching,pre-matching
 DOMAIN,ws.sj.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,wv.inner-active.mobi,REJECT,extended-matching,pre-matching
@@ -782,9 +781,17 @@ DOMAIN,ytx-file.110route.cn,REJECT,extended-matching,pre-matching
 DOMAIN,zeus.ad.xiaomi.com,REJECT,extended-matching,pre-matching
 DOMAIN,zhihu-web-analytics.zhihu.com,REJECT,extended-matching,pre-matching
 DOMAIN-KEYWORD,.*\.*\.shouji\.sogou\.com,REJECT,extended-matching,pre-matching
+DOMAIN-KEYWORD,.*\.1rtb\.com,REJECT,extended-matching,pre-matching
 DOMAIN-KEYWORD,.*\.a\.market\.xiaomi\.com,REJECT,extended-matching,pre-matching
+DOMAIN-KEYWORD,.*\.ad\.gameley\.com,REJECT,extended-matching,pre-matching
+DOMAIN-KEYWORD,.*\.adintl\.cn,REJECT,extended-matching,pre-matching
+DOMAIN-KEYWORD,.*\.adx\.adwangmai\.com,REJECT,extended-matching,pre-matching
 DOMAIN-KEYWORD,.*\.data\.hicloud\.com,REJECT,extended-matching,pre-matching
 DOMAIN-KEYWORD,.*\.log\.aliyuncs\.com,REJECT,extended-matching,pre-matching
+DOMAIN-KEYWORD,.*\.ubixioe\.com,REJECT,extended-matching,pre-matching
+DOMAIN-KEYWORD,.*\.vlion\.cn,REJECT,extended-matching,pre-matching
+DOMAIN-KEYWORD,.*\.yfanads\.com,REJECT,extended-matching,pre-matching
+DOMAIN-KEYWORD,.*\.zhangyuyidong\.cn,REJECT,extended-matching,pre-matching
 DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*\.byteimg\.com,REJECT,extended-matching,pre-matching
 DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad\.sm\.cn,REJECT,extended-matching,pre-matching
 DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad\.video\.yximgs\.com,REJECT,extended-matching,pre-matching

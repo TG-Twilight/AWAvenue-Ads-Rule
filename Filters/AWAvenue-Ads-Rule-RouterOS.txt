@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 12
+!Total lines: 20
 !Version: 1.6.5-release
-!Update time: 2025-04-29 17:54:37 UTC+8
-!Update content: block zhangyu、tuia、yuedong、leyou、huichuan ads.
+!Update time: 2025-04-29 18:01:30 UTC+8
+!Update content: add ubixai、zhangyu、yuedong、ruishi ads block.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -758,7 +758,6 @@ ip dns static add address=240.0.0.1 name=widgets.outbrain.com
 ip dns static add address=240.0.0.1 name=widgets.pinterest.com
 ip dns static add address=240.0.0.1 name=wildcard.moatads.com.edgekey.net
 ip dns static add address=240.0.0.1 name=win.gdt.qq.com
-ip dns static add address=240.0.0.1 name=wn.x.jd.com
 ip dns static add address=240.0.0.1 name=ws-keyboard.shouji.sogou.com
 ip dns static add address=240.0.0.1 name=ws.sj.qq.com
 ip dns static add address=240.0.0.1 name=wv.inner-active.mobi
@@ -871,9 +870,7 @@ ip dns static add address=:: name=data.mistat.rus.xiaomi.com
 ip dns static add address=:: name=dm.toutiao.com
 ip dns static add address=:: name=doubleclick-cn.net
 ip dns static add address=:: name=drcn-weather.cloud.huawei.com
-ip dns static add address=:: name=dualstack-logs.amap.com
 ip dns static add address=:: name=dxp.baidu.com
-ip dns static add address=:: name=dyp2p-ali.douyucdn.cn
 ip dns static add address=:: name=ef-dongfeng.tanx.com
 ip dns static add address=:: name=errlog.umeng.com
 ip dns static add address=:: name=errnewlog.umeng.com
@@ -904,7 +901,6 @@ ip dns static add address=:: name=ifs.tanx.com
 ip dns static add address=:: name=ii.gdt.qq.com
 ip dns static add address=:: name=image-ad.sm.cn
 ip dns static add address=:: name=img-c.heytapimage.com
-ip dns static add address=:: name=img-x.jd.com
 ip dns static add address=:: name=jswebcollects.kugou.com
 ip dns static add address=:: name=kde.qq.com
 ip dns static add address=:: name=ks-p2p-v2.pull.yximgs.com

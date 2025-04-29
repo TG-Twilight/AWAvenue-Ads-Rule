@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 775
+#Total lines: 774
 #Version: 1.6.5-release
-#Update time: 2025-04-29 17:54:37 UTC+8
-#Update content: block zhangyu、tuia、yuedong、leyou、huichuan ads.
+#Update time: 2025-04-29 18:01:30 UTC+8
+#Update content: add ubixai、zhangyu、yuedong、ruishi ads block.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -762,7 +762,6 @@
 0.0.0.0 widgets.pinterest.com
 0.0.0.0 wildcard.moatads.com.edgekey.net
 0.0.0.0 win.gdt.qq.com
-0.0.0.0 wn.x.jd.com
 0.0.0.0 ws-keyboard.shouji.sogou.com
 0.0.0.0 ws.sj.qq.com
 0.0.0.0 wv.inner-active.mobi
@@ -875,9 +874,7 @@
 :: dm.toutiao.com
 :: doubleclick-cn.net
 :: drcn-weather.cloud.huawei.com
-:: dualstack-logs.amap.com
 :: dxp.baidu.com
-:: dyp2p-ali.douyucdn.cn
 :: ef-dongfeng.tanx.com
 :: errlog.umeng.com
 :: errnewlog.umeng.com
@@ -908,7 +905,6 @@
 :: ii.gdt.qq.com
 :: image-ad.sm.cn
 :: img-c.heytapimage.com
-:: img-x.jd.com
 :: jswebcollects.kugou.com
 :: kde.qq.com
 :: ks-p2p-v2.pull.yximgs.com

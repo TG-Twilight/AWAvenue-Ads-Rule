@@ -747,7 +747,6 @@ domain:widgets.outbrain.com
 domain:widgets.pinterest.com
 domain:wildcard.moatads.com.edgekey.net
 domain:win.gdt.qq.com
-domain:wn.x.jd.com
 domain:ws-keyboard.shouji.sogou.com
 domain:ws.sj.qq.com
 domain:wv.inner-active.mobi
