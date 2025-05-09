@@ -54,6 +54,7 @@ domain:adm.funshion.com
 domain:ads-api-o.api.leiniao.com
 domain:ads-api.tiktok.com
 domain:ads-api.twitter.com
+domain:ads-img-al.xhscdn.com
 domain:ads-img-qc.xhscdn.com
 domain:ads-marketing-vivofs.vivo.com.cn
 domain:ads-sdk-api.ranfenghd.com
@@ -61,7 +62,6 @@ domain:ads-sg.tiktok.com
 domain:ads-video-al.xhscdn.com
 domain:ads-video-qc.xhscdn.com
 domain:ads.95516.com
-domain:ads.flurry.com
 domain:ads.google.cn
 domain:ads.huan.tv
 domain:ads.huantest.com
@@ -71,6 +71,7 @@ domain:ads.linkedin.com
 domain:ads.music.126.net
 domain:ads.pinterest.com
 domain:ads.pubmatic.com
+domain:ads.raidrive.com
 domain:ads.servebom.com
 domain:ads.service.kugou.com
 domain:ads.tiktok.com
@@ -536,6 +537,7 @@ domain:p3-tt.byteimg.com
 domain:p6-be-pack-sign.pglstatp-toutiao.com
 domain:pagead2.googleadservices.com
 domain:pagead2.googlesyndication.com
+domain:pay.sboot.cn
 domain:pcdn.xmcdn.com
 domain:pcm-img.zhls.qq.com
 domain:pgdt.gtimg.cn
@@ -747,6 +749,7 @@ domain:widgets.outbrain.com
 domain:widgets.pinterest.com
 domain:wildcard.moatads.com.edgekey.net
 domain:win.gdt.qq.com
+domain:wn.x.jd.com
 domain:ws-keyboard.shouji.sogou.com
 domain:ws.sj.qq.com
 domain:wv.inner-active.mobi

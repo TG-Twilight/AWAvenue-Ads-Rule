@@ -2,8 +2,8 @@
 !--------------------------------------
 !Total lines: 20
 !Version: 1.6.5-release
-!Update time: 2025-04-29 18:01:30 UTC+8
-!Update content: add ubixai、zhangyu、yuedong、ruishi ads block.
+!Update time: 2025-05-10 00:22:18 UTC+8
+!Update content: more xiaohongshu ads block. #136
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -65,6 +65,7 @@ ip dns static add address=240.0.0.1 name=adm.funshion.com
 ip dns static add address=240.0.0.1 name=ads-api-o.api.leiniao.com
 ip dns static add address=240.0.0.1 name=ads-api.tiktok.com
 ip dns static add address=240.0.0.1 name=ads-api.twitter.com
+ip dns static add address=240.0.0.1 name=ads-img-al.xhscdn.com
 ip dns static add address=240.0.0.1 name=ads-img-qc.xhscdn.com
 ip dns static add address=240.0.0.1 name=ads-marketing-vivofs.vivo.com.cn
 ip dns static add address=240.0.0.1 name=ads-sdk-api.ranfenghd.com
@@ -72,7 +73,6 @@ ip dns static add address=240.0.0.1 name=ads-sg.tiktok.com
 ip dns static add address=240.0.0.1 name=ads-video-al.xhscdn.com
 ip dns static add address=240.0.0.1 name=ads-video-qc.xhscdn.com
 ip dns static add address=240.0.0.1 name=ads.95516.com
-ip dns static add address=240.0.0.1 name=ads.flurry.com
 ip dns static add address=240.0.0.1 name=ads.google.cn
 ip dns static add address=240.0.0.1 name=ads.huan.tv
 ip dns static add address=240.0.0.1 name=ads.huantest.com
@@ -82,6 +82,7 @@ ip dns static add address=240.0.0.1 name=ads.linkedin.com
 ip dns static add address=240.0.0.1 name=ads.music.126.net
 ip dns static add address=240.0.0.1 name=ads.pinterest.com
 ip dns static add address=240.0.0.1 name=ads.pubmatic.com
+ip dns static add address=240.0.0.1 name=ads.raidrive.com
 ip dns static add address=240.0.0.1 name=ads.servebom.com
 ip dns static add address=240.0.0.1 name=ads.service.kugou.com
 ip dns static add address=240.0.0.1 name=ads.tiktok.com
@@ -547,6 +548,7 @@ ip dns static add address=240.0.0.1 name=p3-tt.byteimg.com
 ip dns static add address=240.0.0.1 name=p6-be-pack-sign.pglstatp-toutiao.com
 ip dns static add address=240.0.0.1 name=pagead2.googleadservices.com
 ip dns static add address=240.0.0.1 name=pagead2.googlesyndication.com
+ip dns static add address=240.0.0.1 name=pay.sboot.cn
 ip dns static add address=240.0.0.1 name=pcdn.xmcdn.com
 ip dns static add address=240.0.0.1 name=pcm-img.zhls.qq.com
 ip dns static add address=240.0.0.1 name=pgdt.gtimg.cn
@@ -758,6 +760,7 @@ ip dns static add address=240.0.0.1 name=widgets.outbrain.com
 ip dns static add address=240.0.0.1 name=widgets.pinterest.com
 ip dns static add address=240.0.0.1 name=wildcard.moatads.com.edgekey.net
 ip dns static add address=240.0.0.1 name=win.gdt.qq.com
+ip dns static add address=240.0.0.1 name=wn.x.jd.com
 ip dns static add address=240.0.0.1 name=ws-keyboard.shouji.sogou.com
 ip dns static add address=240.0.0.1 name=ws.sj.qq.com
 ip dns static add address=240.0.0.1 name=wv.inner-active.mobi
@@ -801,6 +804,7 @@ ip dns static add address=:: name=adexp.liftoff.io
 ip dns static add address=:: name=adexpo.tencentmusic.com
 ip dns static add address=:: name=adfilter.imtt.qq.com
 ip dns static add address=:: name=adfstat.yandex.ru
+ip dns static add address=:: name=ads-img-al.xhscdn.com
 ip dns static add address=:: name=ads-img-qc.xhscdn.com
 ip dns static add address=:: name=ads-sdk-api.ranfenghd.com
 ip dns static add address=:: name=ads-video-al.xhscdn.com
@@ -870,6 +874,7 @@ ip dns static add address=:: name=data.mistat.rus.xiaomi.com
 ip dns static add address=:: name=dm.toutiao.com
 ip dns static add address=:: name=doubleclick-cn.net
 ip dns static add address=:: name=drcn-weather.cloud.huawei.com
+ip dns static add address=:: name=dualstack-logs.amap.com
 ip dns static add address=:: name=dxp.baidu.com
 ip dns static add address=:: name=ef-dongfeng.tanx.com
 ip dns static add address=:: name=errlog.umeng.com
@@ -901,6 +906,7 @@ ip dns static add address=:: name=ifs.tanx.com
 ip dns static add address=:: name=ii.gdt.qq.com
 ip dns static add address=:: name=image-ad.sm.cn
 ip dns static add address=:: name=img-c.heytapimage.com
+ip dns static add address=:: name=img-x.jd.com
 ip dns static add address=:: name=jswebcollects.kugou.com
 ip dns static add address=:: name=kde.qq.com
 ip dns static add address=:: name=ks-p2p-v2.pull.yximgs.com
@@ -922,6 +928,7 @@ ip dns static add address=:: name=log.web.kugou.com
 ip dns static add address=:: name=log.zijieapi.com
 ip dns static add address=:: name=log1.cmpassport.com
 ip dns static add address=:: name=logrcv.aiclk.com
+ip dns static add address=:: name=logs.amap.com
 ip dns static add address=:: name=logtj.kugou.com
 ip dns static add address=:: name=m.ad.zhangyue.com
 ip dns static add address=:: name=m.atm.youku.com
@@ -1005,7 +1012,6 @@ ip dns static add address=:: name=udcm.yahoo.com
 ip dns static add address=:: name=uedas.qidian.com
 ip dns static add address=:: name=umini.shujupie.com
 ip dns static add address=:: name=update.avlyun.sec.miui.com
-ip dns static add address=:: name=uranus.jd.com
 ip dns static add address=:: name=v1-ad.video.yximgs.com
 ip dns static add address=:: name=v2.gdt.qq.com
 ip dns static add address=:: name=v2mi.gdt.qq.com

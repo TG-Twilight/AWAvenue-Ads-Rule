@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 774
+!Total lines: 777
 !Version: 1.6.5-release
-!Update time: 2025-04-29 18:01:30 UTC+8
-!Update content: add ubixai、zhangyu、yuedong、ruishi ads block.
+!Update time: 2025-05-10 00:22:18 UTC+8
+!Update content: more xiaohongshu ads block. #136
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -69,6 +69,7 @@
 0.0.0.0 ads-api-o.api.leiniao.com
 0.0.0.0 ads-api.tiktok.com
 0.0.0.0 ads-api.twitter.com
+0.0.0.0 ads-img-al.xhscdn.com
 0.0.0.0 ads-img-qc.xhscdn.com
 0.0.0.0 ads-marketing-vivofs.vivo.com.cn
 0.0.0.0 ads-sdk-api.ranfenghd.com
@@ -76,7 +77,6 @@
 0.0.0.0 ads-video-al.xhscdn.com
 0.0.0.0 ads-video-qc.xhscdn.com
 0.0.0.0 ads.95516.com
-0.0.0.0 ads.flurry.com
 0.0.0.0 ads.google.cn
 0.0.0.0 ads.huan.tv
 0.0.0.0 ads.huantest.com
@@ -86,6 +86,7 @@
 0.0.0.0 ads.music.126.net
 0.0.0.0 ads.pinterest.com
 0.0.0.0 ads.pubmatic.com
+0.0.0.0 ads.raidrive.com
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads.service.kugou.com
 0.0.0.0 ads.tiktok.com
@@ -551,6 +552,7 @@
 0.0.0.0 p6-be-pack-sign.pglstatp-toutiao.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pay.sboot.cn
 0.0.0.0 pcdn.xmcdn.com
 0.0.0.0 pcm-img.zhls.qq.com
 0.0.0.0 pgdt.gtimg.cn
@@ -762,6 +764,7 @@
 0.0.0.0 widgets.pinterest.com
 0.0.0.0 wildcard.moatads.com.edgekey.net
 0.0.0.0 win.gdt.qq.com
+0.0.0.0 wn.x.jd.com
 0.0.0.0 ws-keyboard.shouji.sogou.com
 0.0.0.0 ws.sj.qq.com
 0.0.0.0 wv.inner-active.mobi
@@ -805,6 +808,7 @@
 :: adexpo.tencentmusic.com
 :: adfilter.imtt.qq.com
 :: adfstat.yandex.ru
+:: ads-img-al.xhscdn.com
 :: ads-img-qc.xhscdn.com
 :: ads-sdk-api.ranfenghd.com
 :: ads-video-al.xhscdn.com
@@ -874,6 +878,7 @@
 :: dm.toutiao.com
 :: doubleclick-cn.net
 :: drcn-weather.cloud.huawei.com
+:: dualstack-logs.amap.com
 :: dxp.baidu.com
 :: ef-dongfeng.tanx.com
 :: errlog.umeng.com
@@ -905,6 +910,7 @@
 :: ii.gdt.qq.com
 :: image-ad.sm.cn
 :: img-c.heytapimage.com
+:: img-x.jd.com
 :: jswebcollects.kugou.com
 :: kde.qq.com
 :: ks-p2p-v2.pull.yximgs.com
@@ -926,6 +932,7 @@
 :: log.zijieapi.com
 :: log1.cmpassport.com
 :: logrcv.aiclk.com
+:: logs.amap.com
 :: logtj.kugou.com
 :: m.ad.zhangyue.com
 :: m.atm.youku.com
@@ -1009,7 +1016,6 @@
 :: uedas.qidian.com
 :: umini.shujupie.com
 :: update.avlyun.sec.miui.com
-:: uranus.jd.com
 :: v1-ad.video.yximgs.com
 :: v2.gdt.qq.com
 :: v2mi.gdt.qq.com

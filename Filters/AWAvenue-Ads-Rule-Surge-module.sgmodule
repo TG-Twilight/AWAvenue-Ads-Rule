@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2025-04-29 18:01:30 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2025-05-10 00:22:18 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -62,6 +62,7 @@ DOMAIN,adm.funshion.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads-api-o.api.leiniao.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads-api.tiktok.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads-api.twitter.com,REJECT,extended-matching,pre-matching
+DOMAIN,ads-img-al.xhscdn.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads-img-qc.xhscdn.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads-marketing-vivofs.vivo.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,ads-sdk-api.ranfenghd.com,REJECT,extended-matching,pre-matching
@@ -69,7 +70,6 @@ DOMAIN,ads-sg.tiktok.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads-video-al.xhscdn.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads-video-qc.xhscdn.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads.95516.com,REJECT,extended-matching,pre-matching
-DOMAIN,ads.flurry.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads.google.cn,REJECT,extended-matching,pre-matching
 DOMAIN,ads.huan.tv,REJECT,extended-matching,pre-matching
 DOMAIN,ads.huantest.com,REJECT,extended-matching,pre-matching
@@ -79,6 +79,7 @@ DOMAIN,ads.linkedin.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads.music.126.net,REJECT,extended-matching,pre-matching
 DOMAIN,ads.pinterest.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads.pubmatic.com,REJECT,extended-matching,pre-matching
+DOMAIN,ads.raidrive.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads.servebom.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads.service.kugou.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads.tiktok.com,REJECT,extended-matching,pre-matching
@@ -544,6 +545,7 @@ DOMAIN,p3-tt.byteimg.com,REJECT,extended-matching,pre-matching
 DOMAIN,p6-be-pack-sign.pglstatp-toutiao.com,REJECT,extended-matching,pre-matching
 DOMAIN,pagead2.googleadservices.com,REJECT,extended-matching,pre-matching
 DOMAIN,pagead2.googlesyndication.com,REJECT,extended-matching,pre-matching
+DOMAIN,pay.sboot.cn,REJECT,extended-matching,pre-matching
 DOMAIN,pcdn.xmcdn.com,REJECT,extended-matching,pre-matching
 DOMAIN,pcm-img.zhls.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,pgdt.gtimg.cn,REJECT,extended-matching,pre-matching
@@ -755,6 +757,7 @@ DOMAIN,widgets.outbrain.com,REJECT,extended-matching,pre-matching
 DOMAIN,widgets.pinterest.com,REJECT,extended-matching,pre-matching
 DOMAIN,wildcard.moatads.com.edgekey.net,REJECT,extended-matching,pre-matching
 DOMAIN,win.gdt.qq.com,REJECT,extended-matching,pre-matching
+DOMAIN,wn.x.jd.com,REJECT,extended-matching,pre-matching
 DOMAIN,ws-keyboard.shouji.sogou.com,REJECT,extended-matching,pre-matching
 DOMAIN,ws.sj.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,wv.inner-active.mobi,REJECT,extended-matching,pre-matching

@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 794
+#Total lines: 797
 #Version: 1.6.5-release
-#Update time: 2025-04-29 18:01:30 UTC+8
-#Update content: add ubixai、zhangyu、yuedong、ruishi ads block.
+#Update time: 2025-05-10 00:22:18 UTC+8
+#Update content: more xiaohongshu ads block. #136
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -65,6 +65,7 @@ DOMAIN,adm.funshion.com,reject
 DOMAIN,ads-api-o.api.leiniao.com,reject
 DOMAIN,ads-api.tiktok.com,reject
 DOMAIN,ads-api.twitter.com,reject
+DOMAIN,ads-img-al.xhscdn.com,reject
 DOMAIN,ads-img-qc.xhscdn.com,reject
 DOMAIN,ads-marketing-vivofs.vivo.com.cn,reject
 DOMAIN,ads-sdk-api.ranfenghd.com,reject
@@ -72,7 +73,6 @@ DOMAIN,ads-sg.tiktok.com,reject
 DOMAIN,ads-video-al.xhscdn.com,reject
 DOMAIN,ads-video-qc.xhscdn.com,reject
 DOMAIN,ads.95516.com,reject
-DOMAIN,ads.flurry.com,reject
 DOMAIN,ads.google.cn,reject
 DOMAIN,ads.huan.tv,reject
 DOMAIN,ads.huantest.com,reject
@@ -82,6 +82,7 @@ DOMAIN,ads.linkedin.com,reject
 DOMAIN,ads.music.126.net,reject
 DOMAIN,ads.pinterest.com,reject
 DOMAIN,ads.pubmatic.com,reject
+DOMAIN,ads.raidrive.com,reject
 DOMAIN,ads.servebom.com,reject
 DOMAIN,ads.service.kugou.com,reject
 DOMAIN,ads.tiktok.com,reject
@@ -547,6 +548,7 @@ DOMAIN,p3-tt.byteimg.com,reject
 DOMAIN,p6-be-pack-sign.pglstatp-toutiao.com,reject
 DOMAIN,pagead2.googleadservices.com,reject
 DOMAIN,pagead2.googlesyndication.com,reject
+DOMAIN,pay.sboot.cn,reject
 DOMAIN,pcdn.xmcdn.com,reject
 DOMAIN,pcm-img.zhls.qq.com,reject
 DOMAIN,pgdt.gtimg.cn,reject
@@ -758,6 +760,7 @@ DOMAIN,widgets.outbrain.com,reject
 DOMAIN,widgets.pinterest.com,reject
 DOMAIN,wildcard.moatads.com.edgekey.net,reject
 DOMAIN,win.gdt.qq.com,reject
+DOMAIN,wn.x.jd.com,reject
 DOMAIN,ws-keyboard.shouji.sogou.com,reject
 DOMAIN,ws.sj.qq.com,reject
 DOMAIN,wv.inner-active.mobi,reject

@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 795
+#Total lines: 798
 #Version: 1.6.5-release
-#Update time: 2025-04-29 18:01:30 UTC+8
-#Update content: add ubixai、zhangyu、yuedong、ruishi ads block.
+#Update time: 2025-05-10 00:22:18 UTC+8
+#Update content: more xiaohongshu ads block. #136
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -66,6 +66,7 @@ payload:
   - DOMAIN,ads-api-o.api.leiniao.com
   - DOMAIN,ads-api.tiktok.com
   - DOMAIN,ads-api.twitter.com
+  - DOMAIN,ads-img-al.xhscdn.com
   - DOMAIN,ads-img-qc.xhscdn.com
   - DOMAIN,ads-marketing-vivofs.vivo.com.cn
   - DOMAIN,ads-sdk-api.ranfenghd.com
@@ -73,7 +74,6 @@ payload:
   - DOMAIN,ads-video-al.xhscdn.com
   - DOMAIN,ads-video-qc.xhscdn.com
   - DOMAIN,ads.95516.com
-  - DOMAIN,ads.flurry.com
   - DOMAIN,ads.google.cn
   - DOMAIN,ads.huan.tv
   - DOMAIN,ads.huantest.com
@@ -83,6 +83,7 @@ payload:
   - DOMAIN,ads.music.126.net
   - DOMAIN,ads.pinterest.com
   - DOMAIN,ads.pubmatic.com
+  - DOMAIN,ads.raidrive.com
   - DOMAIN,ads.servebom.com
   - DOMAIN,ads.service.kugou.com
   - DOMAIN,ads.tiktok.com
@@ -548,6 +549,7 @@ payload:
   - DOMAIN,p6-be-pack-sign.pglstatp-toutiao.com
   - DOMAIN,pagead2.googleadservices.com
   - DOMAIN,pagead2.googlesyndication.com
+  - DOMAIN,pay.sboot.cn
   - DOMAIN,pcdn.xmcdn.com
   - DOMAIN,pcm-img.zhls.qq.com
   - DOMAIN,pgdt.gtimg.cn
@@ -759,6 +761,7 @@ payload:
   - DOMAIN,widgets.pinterest.com
   - DOMAIN,wildcard.moatads.com.edgekey.net
   - DOMAIN,win.gdt.qq.com
+  - DOMAIN,wn.x.jd.com
   - DOMAIN,ws-keyboard.shouji.sogou.com
   - DOMAIN,ws.sj.qq.com
   - DOMAIN,wv.inner-active.mobi
