@@ -56,6 +56,7 @@ adm.funshion.com
 ads-api-o.api.leiniao.com
 ads-api.tiktok.com
 ads-api.twitter.com
+ads-img-al.xhscdn.com
 ads-img-qc.xhscdn.com
 ads-jp.tiktok.com
 ads-marketing-vivofs.vivo.com.cn
@@ -75,6 +76,7 @@ ads.music.126.net
 ads.pinterest.com
 ads.pubmatic.com
 ads.servebom.com
+ads.raidrive.com
 ads.service.kugou.com
 ads.service.kugou.com
 ads.tiktok.com
