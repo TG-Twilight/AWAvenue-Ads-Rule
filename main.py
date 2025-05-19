@@ -34,7 +34,7 @@ class RuleList:
         
         valid_domains = set()
         valid_domains_v6 = set()
-        with concurrent.futures.ThreadPoolExecutor(max_workers=50) as executor:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=8) as executor:
             future_to_domain = {executor.submit(config.check_domain, domain): domain for domain in domains}
             for future in concurrent.futures.as_completed(future_to_domain):
                 domain = future_to_domain[future]

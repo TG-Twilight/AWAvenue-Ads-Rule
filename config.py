@@ -14,8 +14,8 @@ ip6_file=RULE_PATH + "/ip6.txt" # IPv6规则文件
 
 def check_domain(domain):
     resolver = dns.resolver.Resolver(configure=False)
-    resolver.nameservers = ['8.8.8.8', '1.1.1.1', '223.5.5.5', '9.9.9.9', '94.140.14.140']
-    resolver.timeout = 1
+    resolver.nameservers = [ '223.5.5.5', '119.29.29.29', '8.8.8.8', '1.1.1.1', '2400:3200:baba::1']
+    resolver.timeout = 3
     resolver.lifetime = 5
 
     result = {"A": False, "AAAA": False}
