@@ -7,4 +7,4 @@ def format_domain(List):
 
 def build(rule):
     list = format_domain(rule.domain_list)
-    return {'list': list, 'suffix': '.list', 'comment': '#', 'total': len(list)}
+    return {'list': list, 'suffix': '.list', 'comment': '', 'total': len(list)}
