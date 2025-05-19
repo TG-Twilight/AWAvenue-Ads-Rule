@@ -12,4 +12,5 @@ def format_domain(List, Listv6):
 
 
 def build(rule):
-    return {'list': format_domain(rule.domain_list, rule.domainv6_list), 'suffix': '.conf', 'comment': '#', 'total': len(rule.domain_list)}
+    list = format_domain(rule.domain_list, rule.domainv6_list)
+    return {'list': list, 'suffix': '.conf', 'comment': '#', 'total': len(list)}

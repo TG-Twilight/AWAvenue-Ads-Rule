@@ -23,10 +23,10 @@ def check_domain(domain):
         A = resolver.resolve(domain, "A", raise_on_no_answer=False)
         result["A"] = bool(A and A.rrset)
     except Exception as e:
-        print(f"解析 A 记录时出错: {e}")
+        print(f"{domain} 解析 A 记录时出错 从domain_list中去除 {e}")
     try:
         AAAA = resolver.resolve(domain, "AAAA", raise_on_no_answer=False)
         result["AAAA"] = bool(AAAA and AAAA.rrset)
     except Exception as e:
-        print(f"解析 AAAA 记录时出错: {e}")
+        print(f"{domain} 解析 AAAA 记录时出错 从domainv6_list中去除 {e}")
     return result

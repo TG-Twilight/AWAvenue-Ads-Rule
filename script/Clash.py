@@ -15,5 +15,5 @@ def format_regex(List):
 
 
 def build(rule):
-    list = ["payload:"] + format_domain(rule.domain_list) + format_regex(rule.regex_list)
-    return {'list': list, 'suffix': '.yaml', 'comment': '#', 'total': len(list)}
+    list =format_domain(rule.domain_list) + format_regex(rule.regex_list)
+    return {'list': ["payload:"] + list, 'suffix': '.yaml', 'comment': '#', 'total': len(list)}
