@@ -75,8 +75,8 @@ ads.linkedin.com
 ads.music.126.net
 ads.pinterest.com
 ads.pubmatic.com
-ads.servebom.com
 ads.raidrive.com
+ads.servebom.com
 ads.service.kugou.com
 ads.service.kugou.com
 ads.tiktok.com
@@ -359,7 +359,6 @@ googleadservices.com
 googletagservices-cn.com
 googletagservices.com
 gorgon.youdao.com
-graph.facebook.com
 gromore.pangolin-sdk-toutiao.com
 grs.dbankcloud.com
 grs.hicloud.com
@@ -545,6 +544,7 @@ nadvideo2.baidu.com
 newvoice.chiq5.smart-tv.cn
 nmetrics.samsung.com
 notes-analytics-events.apple.com
+notify.sec.miui.com
 nsclick.baidu.com
 o-sdk.mediation.unity3d.com
 o2o.api.xiaomi.com
@@ -685,6 +685,7 @@ smetrics.samsung.com
 sms.ads.oppomobile.com
 sngmta.qq.com
 snowflake.qq.com
+staging-notify.sec.miui.com
 stat.dongqiudi.com
 stat.y.qq.com
 stat.y.qq.com
