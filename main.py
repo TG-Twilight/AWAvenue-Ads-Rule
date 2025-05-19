@@ -20,7 +20,7 @@ def get_latest_git_tag(): # 获取最新的git tag
 
 class RuleList:
     def __init__(self, domain_file, regex_file, ip_file, ip6_file):
-        self.domain_list, self.domainv6_list = self.domain_file(domain_file)
+        self.domain_list = self.domain_file(domain_file)
         self.regex_list = self.regex_file(regex_file)
         self.ip_list = self.ip_file(ip_file)
         self.ip6_list = self.ip6_file(ip6_file)
@@ -30,20 +30,7 @@ class RuleList:
 
     def domain_file(self, filename):
         with open(filename, 'r') as file:
-            domains = {line.strip() for line in file}
-        
-        valid_domains = set()
-        valid_domains_v6 = set()
-        with concurrent.futures.ThreadPoolExecutor(max_workers=8) as executor:
-            future_to_domain = {executor.submit(config.check_domain, domain): domain for domain in domains}
-            for future in concurrent.futures.as_completed(future_to_domain):
-                domain = future_to_domain[future]
-                result = future.result()
-                if result["A"] or result["AAAA"]:
-                    valid_domains.add(domain)
-                if result["AAAA"]:
-                    valid_domains_v6.add(domain)
-        return sorted(valid_domains), sorted(valid_domains_v6)
+            return sorted({line.strip() for line in file})
     
     def regex_file(self, filename):
         with open(filename, 'r') as file:
@@ -118,7 +105,7 @@ def RunScript():
                 # 判断插件是否有list、total、suffix、comment四个属性
                 if len(plugins) == 4:
                     WriteFile(plugins_name, plugins['list'], plugins['suffix'], plugins['comment'], str(plugins['total']))
-                    print(f"{plugins_name}转换成功")
+                    print(f"{plugins_name}转换成功 共计 "+ str(plugins['total'])+ " 条规则")
                 else:
                     print(f"转换插件:{plugins_name}执行失败: 缺少必要属性")
                 
