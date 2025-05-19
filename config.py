@@ -11,20 +11,22 @@ ip_file=RULE_PATH + "/ip.txt" # IP规则文件
 ip6_file=RULE_PATH + "/ip6.txt" # IPv6规则文件
 
 
-def check_domain(domain):
-    try:
-        resolver = dns.resolver.Resolver()
-        resolver.nameservers = ['8.8.8.8', '1.1.1.1', '223.5.5.5', '9.9.9.9', '94.140.14.140']
-        resolver.timeout = 1
-        resolver.lifetime = 5
 
+def check_domain(domain):
+    resolver = dns.resolver.Resolver(configure=False)
+    resolver.nameservers = ['8.8.8.8', '1.1.1.1', '223.5.5.5', '9.9.9.9', '94.140.14.140']
+    resolver.timeout = 1
+    resolver.lifetime = 5
+
+    result = {"A": False, "AAAA": False}
+    try:
         A = resolver.resolve(domain, "A", raise_on_no_answer=False)
-        AAAA = resolver.resolve(domain, "AAAA", raise_on_no_answer=False)
-        # 返回包含 A 和 AAAA 记录的字典
-        return {"A": bool(A.rrset), "AAAA": bool(AAAA.rrset)}
-    except dns.resolver.NXDOMAIN:
-        print(f"未查询到 {domain} 的解析记录")
-        return {"A": False, "AAAA": False}
+        result["A"] = bool(A and A.rrset)
     except Exception as e:
-        print(f"查询 {domain} 时发生错误: {e}")
-        return {"A": False, "AAAA": False}
+        print(f"解析 A 记录时出错: {e}")
+    try:
+        AAAA = resolver.resolve(domain, "AAAA", raise_on_no_answer=False)
+        result["AAAA"] = bool(AAAA and AAAA.rrset)
+    except Exception as e:
+        print(f"解析 AAAA 记录时出错: {e}")
+    return result
