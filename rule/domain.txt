@@ -49,6 +49,7 @@ adfstat.yandex.ru
 adguanggao.eee114.com
 adjust.cn
 adjust.com
+adks.hpplay.cn
 adlink-api.huan.tv
 adm.funshion.com
 ads-api-o.api.leiniao.com
@@ -159,6 +160,7 @@ an.facebook.com
 analysis.chatglm.cn
 analysis.yozocloud.cn
 analytics-api.samsunghealthcn.com
+analytics.adjust.cn
 analytics.google.com
 analytics.pinterest.com
 analytics.pointdrive.linkedin.com
