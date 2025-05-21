@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2025-05-21 17:05:09 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2025-05-21 17:53:35 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -57,6 +57,7 @@ DOMAIN,adfstat.yandex.ru,REJECT,extended-matching,pre-matching
 DOMAIN,adguanggao.eee114.com,REJECT,extended-matching,pre-matching
 DOMAIN,adjust.cn,REJECT,extended-matching,pre-matching
 DOMAIN,adjust.com,REJECT,extended-matching,pre-matching
+DOMAIN,adks.hpplay.cn,REJECT,extended-matching,pre-matching
 DOMAIN,adlink-api.huan.tv,REJECT,extended-matching,pre-matching
 DOMAIN,adm.funshion.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads-api-o.api.leiniao.com,REJECT,extended-matching,pre-matching
@@ -164,6 +165,7 @@ DOMAIN,an.facebook.com,REJECT,extended-matching,pre-matching
 DOMAIN,analysis.chatglm.cn,REJECT,extended-matching,pre-matching
 DOMAIN,analysis.yozocloud.cn,REJECT,extended-matching,pre-matching
 DOMAIN,analytics-api.samsunghealthcn.com,REJECT,extended-matching,pre-matching
+DOMAIN,analytics.adjust.cn,REJECT,extended-matching,pre-matching
 DOMAIN,analytics.google.com,REJECT,extended-matching,pre-matching
 DOMAIN,analytics.pinterest.com,REJECT,extended-matching,pre-matching
 DOMAIN,analytics.pointdrive.linkedin.com,REJECT,extended-matching,pre-matching

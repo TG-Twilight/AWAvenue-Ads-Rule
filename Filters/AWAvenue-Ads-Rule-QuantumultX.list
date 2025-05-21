@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 839
+#Total lines: 841
 #Version: 1.6.5-release
-#Update time: 2025-05-21 17:05:09 UTC+8
-#Update content: Rename Clash-classical.py to Clash-Classical.py
+#Update time: 2025-05-21 17:53:35 UTC+8
+#Update content: block more lebo、adjust ads.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -60,6 +60,7 @@ DOMAIN,adfstat.yandex.ru,reject
 DOMAIN,adguanggao.eee114.com,reject
 DOMAIN,adjust.cn,reject
 DOMAIN,adjust.com,reject
+DOMAIN,adks.hpplay.cn,reject
 DOMAIN,adlink-api.huan.tv,reject
 DOMAIN,adm.funshion.com,reject
 DOMAIN,ads-api-o.api.leiniao.com,reject
@@ -167,6 +168,7 @@ DOMAIN,an.facebook.com,reject
 DOMAIN,analysis.chatglm.cn,reject
 DOMAIN,analysis.yozocloud.cn,reject
 DOMAIN,analytics-api.samsunghealthcn.com,reject
+DOMAIN,analytics.adjust.cn,reject
 DOMAIN,analytics.google.com,reject
 DOMAIN,analytics.pinterest.com,reject
 DOMAIN,analytics.pointdrive.linkedin.com,reject

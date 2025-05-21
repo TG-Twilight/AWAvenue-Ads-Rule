@@ -49,6 +49,7 @@ full:adfstat.yandex.ru
 full:adguanggao.eee114.com
 full:adjust.cn
 full:adjust.com
+full:adks.hpplay.cn
 full:adlink-api.huan.tv
 full:adm.funshion.com
 full:ads-api-o.api.leiniao.com
@@ -156,6 +157,7 @@ full:an.facebook.com
 full:analysis.chatglm.cn
 full:analysis.yozocloud.cn
 full:analytics-api.samsunghealthcn.com
+full:analytics.adjust.cn
 full:analytics.google.com
 full:analytics.pinterest.com
 full:analytics.pointdrive.linkedin.com

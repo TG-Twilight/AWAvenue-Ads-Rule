@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1638
+!Total lines: 1642
 !Version: 1.6.5-release
-!Update time: 2025-05-21 17:05:10 UTC+8
-!Update content: Rename Clash-classical.py to Clash-Classical.py
+!Update time: 2025-05-21 17:53:35 UTC+8
+!Update content: block more lebo、adjust ads.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -111,6 +111,8 @@ ip dns static add address=240.0.0.1 name=adjust.cn
 ip dns static add address=:: name=adjust.cn
 ip dns static add address=240.0.0.1 name=adjust.com
 ip dns static add address=:: name=adjust.com
+ip dns static add address=240.0.0.1 name=adks.hpplay.cn
+ip dns static add address=:: name=adks.hpplay.cn
 ip dns static add address=240.0.0.1 name=adlink-api.huan.tv
 ip dns static add address=:: name=adlink-api.huan.tv
 ip dns static add address=240.0.0.1 name=adm.funshion.com
@@ -325,6 +327,8 @@ ip dns static add address=240.0.0.1 name=analysis.yozocloud.cn
 ip dns static add address=:: name=analysis.yozocloud.cn
 ip dns static add address=240.0.0.1 name=analytics-api.samsunghealthcn.com
 ip dns static add address=:: name=analytics-api.samsunghealthcn.com
+ip dns static add address=240.0.0.1 name=analytics.adjust.cn
+ip dns static add address=:: name=analytics.adjust.cn
 ip dns static add address=240.0.0.1 name=analytics.google.com
 ip dns static add address=:: name=analytics.google.com
 ip dns static add address=240.0.0.1 name=analytics.pinterest.com

@@ -49,6 +49,7 @@ domain:adfstat.yandex.ru
 domain:adguanggao.eee114.com
 domain:adjust.cn
 domain:adjust.com
+domain:adks.hpplay.cn
 domain:adlink-api.huan.tv
 domain:adm.funshion.com
 domain:ads-api-o.api.leiniao.com
@@ -156,6 +157,7 @@ domain:an.facebook.com
 domain:analysis.chatglm.cn
 domain:analysis.yozocloud.cn
 domain:analytics-api.samsunghealthcn.com
+domain:analytics.adjust.cn
 domain:analytics.google.com
 domain:analytics.pinterest.com
 domain:analytics.pointdrive.linkedin.com

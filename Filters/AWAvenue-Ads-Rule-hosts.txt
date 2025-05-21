@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1642
+!Total lines: 1646
 !Version: 1.6.5-release
-!Update time: 2025-05-21 17:05:09 UTC+8
-!Update content: Rename Clash-classical.py to Clash-Classical.py
+!Update time: 2025-05-21 17:53:35 UTC+8
+!Update content: block more lebo、adjust ads.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -115,6 +115,8 @@
 :: adjust.cn
 0.0.0.0 adjust.com
 :: adjust.com
+0.0.0.0 adks.hpplay.cn
+:: adks.hpplay.cn
 0.0.0.0 adlink-api.huan.tv
 :: adlink-api.huan.tv
 0.0.0.0 adm.funshion.com
@@ -329,6 +331,8 @@
 :: analysis.yozocloud.cn
 0.0.0.0 analytics-api.samsunghealthcn.com
 :: analytics-api.samsunghealthcn.com
+0.0.0.0 analytics.adjust.cn
+:: analytics.adjust.cn
 0.0.0.0 analytics.google.com
 :: analytics.google.com
 0.0.0.0 analytics.pinterest.com
