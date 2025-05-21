@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1686
+!Total lines: 1642
 !Version: 1.6.5-release
-!Update time: 2025-05-19 15:22:32 UTC+8
-!Update content: 移除无效域名查询(action无法判断正确判断是否有效)
+!Update time: 2025-05-21 09:34:42 UTC+8
+!Update content: remove some invalid domain.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -71,8 +71,6 @@
 :: ad.v3mh.com
 0.0.0.0 ad.winrar.com.cn
 :: ad.winrar.com.cn
-0.0.0.0 ad.xiaomi.com
-:: ad.xiaomi.com
 0.0.0.0 ad.ximalaya.com
 :: ad.ximalaya.com
 0.0.0.0 ad.zijieapi.com
@@ -117,8 +115,6 @@
 :: adjust.cn
 0.0.0.0 adjust.com
 :: adjust.com
-0.0.0.0 adkwai.com
-:: adkwai.com
 0.0.0.0 adlink-api.huan.tv
 :: adlink-api.huan.tv
 0.0.0.0 adm.funshion.com
@@ -257,8 +253,6 @@
 :: adtech.yahooinc.com
 0.0.0.0 adtrack.quark.cn
 :: adtrack.quark.cn
-0.0.0.0 adukwai.com
-:: adukwai.com
 0.0.0.0 adv.fjtv.net
 :: adv.fjtv.net
 0.0.0.0 adv.sec.intl.miui.com
@@ -419,8 +413,6 @@
 :: app-measurement.com
 0.0.0.0 appcfg.v.qq.com
 :: appcfg.v.qq.com
-0.0.0.0 appcloud2.in.zhihu.com
-:: appcloud2.in.zhihu.com
 0.0.0.0 applog.lc.quark.cn
 :: applog.lc.quark.cn
 0.0.0.0 applog.uc.cn
@@ -431,10 +423,10 @@
 :: applovin.com
 0.0.0.0 applvn.com
 :: applvn.com
+0.0.0.0 appversion.115.com
+:: appversion.115.com
 0.0.0.0 aspect-upush.umeng.com
 :: aspect-upush.umeng.com
-0.0.0.0 ata-sdk-uuid-report.dreport.meituan.net
-:: ata-sdk-uuid-report.dreport.meituan.net
 0.0.0.0 auction.unityads.unity3d.com
 :: auction.unityads.unity3d.com
 0.0.0.0 audid-api.taobao.com
@@ -631,8 +623,6 @@
 :: dsp.fcbox.com
 0.0.0.0 dualstack-logs.amap.com
 :: dualstack-logs.amap.com
-0.0.0.0 dutils.com
-:: dutils.com
 0.0.0.0 dxp.baidu.com
 :: dxp.baidu.com
 0.0.0.0 dyp2p-ali.douyucdn.cn
@@ -699,8 +689,6 @@
 :: getui.cn
 0.0.0.0 getui.com
 :: getui.com
-0.0.0.0 getui.net
-:: getui.net
 0.0.0.0 ggx.cmvideo.cn
 :: ggx.cmvideo.cn
 0.0.0.0 ggx01.miguvideo.com
@@ -723,8 +711,6 @@
 :: googleadservices.com
 0.0.0.0 googletagservices-cn.com
 :: googletagservices-cn.com
-0.0.0.0 googletagservices.com
-:: googletagservices.com
 0.0.0.0 gorgon.youdao.com
 :: gorgon.youdao.com
 0.0.0.0 gromore.pangolin-sdk-toutiao.com
@@ -733,8 +719,6 @@
 :: grs.dbankcloud.com
 0.0.0.0 grs.hicloud.com
 :: grs.hicloud.com
-0.0.0.0 grs.platform.dbankcloud.ru
-:: grs.platform.dbankcloud.ru
 0.0.0.0 gslb.hpplay.cn
 :: gslb.hpplay.cn
 0.0.0.0 gvideo.qpic.cn
@@ -781,8 +765,6 @@
 :: hw-p2p.pull.yximgs.com
 0.0.0.0 hwpub-s01-drcn.cloud.dbankcloud.cn
 :: hwpub-s01-drcn.cloud.dbankcloud.cn
-0.0.0.0 hya.comp.360os.com
-:: hya.comp.360os.com
 0.0.0.0 hybrid.miniapp.taobao.com
 :: hybrid.miniapp.taobao.com
 0.0.0.0 hye.comp.360os.com
@@ -805,8 +787,6 @@
 :: ifacelog.iqiyi.com
 0.0.0.0 ifs.tanx.com
 :: ifs.tanx.com
-0.0.0.0 igexin.com
-:: igexin.com
 0.0.0.0 ii.gdt.qq.com
 :: ii.gdt.qq.com
 0.0.0.0 imag8.pubmatic.com
@@ -885,8 +865,6 @@
 :: ks.ferlytc.com
 0.0.0.0 ks.pull.yximgs.com
 :: ks.pull.yximgs.com
-0.0.0.0 kuiniuca.com
-:: kuiniuca.com
 0.0.0.0 launcher.smart-tv.cn
 :: launcher.smart-tv.cn
 0.0.0.0 launcherimg.smart-tv.cn
@@ -1007,8 +985,6 @@
 :: mazu.m.qq.com
 0.0.0.0 mbdlog.iqiyi.com
 :: mbdlog.iqiyi.com
-0.0.0.0 metrics.apple.com
-:: metrics.apple.com
 0.0.0.0 metrics.data.hicloud.com
 :: metrics.data.hicloud.com
 0.0.0.0 metrics.icloud.com
@@ -1053,8 +1029,6 @@
 :: mobile.da.mgtv.com
 0.0.0.0 mobilelog.upqzfile.com
 :: mobilelog.upqzfile.com
-0.0.0.0 mobileservice.cn
-:: mobileservice.cn
 0.0.0.0 mon.zijieapi.com
 :: mon.zijieapi.com
 0.0.0.0 monitor-ads-test.huan.tv
@@ -1211,8 +1185,6 @@
 :: qn-cdnfile1pcdn.msstatic.com
 0.0.0.0 qqdata.ab.qq.com
 :: qqdata.ab.qq.com
-0.0.0.0 qwapi.apple.com
-:: qwapi.apple.com
 0.0.0.0 qzs.gdtimg.com
 :: qzs.gdtimg.com
 0.0.0.0 recommend-drcn.hms.dbankcloud.cn
@@ -1255,12 +1227,6 @@
 :: rtb.voiceads.cn
 0.0.0.0 s.amazon-adsystem.com
 :: s.amazon-adsystem.com
-0.0.0.0 s1.qq.com
-:: s1.qq.com
-0.0.0.0 s2.qq.com
-:: s2.qq.com
-0.0.0.0 s3.qq.com
-:: s3.qq.com
 0.0.0.0 s8t.teads.tv
 :: s8t.teads.tv
 0.0.0.0 saad.ms.zhangyue.net
@@ -1275,8 +1241,6 @@
 :: sanme2.taisantech.com
 0.0.0.0 saxysec.com
 :: saxysec.com
-0.0.0.0 scdown.qq.com
-:: scdown.qq.com
 0.0.0.0 scs.openspeech.cn
 :: scs.openspeech.cn
 0.0.0.0 sdk-ab-config.qquanquan.com
@@ -1537,8 +1501,6 @@
 :: umengjmacs.m.taobao.com
 0.0.0.0 umini.shujupie.com
 :: umini.shujupie.com
-0.0.0.0 umsns.com
-:: umsns.com
 0.0.0.0 union.baidu.cn
 :: union.baidu.cn
 0.0.0.0 union.baidu.com
@@ -1667,10 +1629,6 @@
 :: xcultur.com
 0.0.0.0 xiaomi-dtv.m.cn.miaozhen.com
 :: xiaomi-dtv.m.cn.miaozhen.com
-0.0.0.0 xlivrdr.com
-:: xlivrdr.com
-0.0.0.0 xlmzc.cnjp-exp.com
-:: xlmzc.cnjp-exp.com
 0.0.0.0 xlog.jd.com
 :: xlog.jd.com
 0.0.0.0 xlviiirdr.com
@@ -1687,8 +1645,6 @@
 :: ykad-gateway.youku.com
 0.0.0.0 youku-acs.m.taobao.com
 :: youku-acs.m.taobao.com
-0.0.0.0 youxi.kugou.com
-:: youxi.kugou.com
 0.0.0.0 ytx-file.110route.cn
 :: ytx-file.110route.cn
 0.0.0.0 zeus.ad.xiaomi.com

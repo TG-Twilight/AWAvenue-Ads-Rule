@@ -27,7 +27,6 @@ full:ad.tencentmusic.com
 full:ad.toutiao.com
 full:ad.v3mh.com
 full:ad.winrar.com.cn
-full:ad.xiaomi.com
 full:ad.ximalaya.com
 full:ad.zijieapi.com
 full:ad2.ettoday.net
@@ -50,7 +49,6 @@ full:adfstat.yandex.ru
 full:adguanggao.eee114.com
 full:adjust.cn
 full:adjust.com
-full:adkwai.com
 full:adlink-api.huan.tv
 full:adm.funshion.com
 full:ads-api-o.api.leiniao.com
@@ -120,7 +118,6 @@ full:adstudio.spotify.com
 full:adtago.s3.amazonaws.com
 full:adtech.yahooinc.com
 full:adtrack.quark.cn
-full:adukwai.com
 full:adv.fjtv.net
 full:adv.sec.intl.miui.com
 full:adv.sec.miui.com
@@ -201,14 +198,13 @@ full:api5-normal-quic-lf.ixigua.com
 full:apiyd.my91app.com
 full:app-measurement.com
 full:appcfg.v.qq.com
-full:appcloud2.in.zhihu.com
 full:applog.lc.quark.cn
 full:applog.uc.cn
 full:applog.zijieapi.com
 full:applovin.com
 full:applvn.com
+full:appversion.115.com
 full:aspect-upush.umeng.com
-full:ata-sdk-uuid-report.dreport.meituan.net
 full:auction.unityads.unity3d.com
 full:audid-api.taobao.com
 full:audid.umeng.com
@@ -307,7 +303,6 @@ full:drcn-weather.cloud.huawei.com
 full:dsp-x.jd.com
 full:dsp.fcbox.com
 full:dualstack-logs.amap.com
-full:dutils.com
 full:dxp.baidu.com
 full:dyp2p-ali.douyucdn.cn
 full:dyp2p-hw.douyucdn.cn
@@ -341,7 +336,6 @@ full:gemini.yahoo.com
 full:geo.yahoo.com
 full:getui.cn
 full:getui.com
-full:getui.net
 full:ggx.cmvideo.cn
 full:ggx01.miguvideo.com
 full:ggx03.miguvideo.com
@@ -353,12 +347,10 @@ full:googleads.g.doubleclick.net
 full:googleadservices-cn.com
 full:googleadservices.com
 full:googletagservices-cn.com
-full:googletagservices.com
 full:gorgon.youdao.com
 full:gromore.pangolin-sdk-toutiao.com
 full:grs.dbankcloud.com
 full:grs.hicloud.com
-full:grs.platform.dbankcloud.ru
 full:gslb.hpplay.cn
 full:gvideo.qpic.cn
 full:h-adashx.ut.taobao.com
@@ -382,7 +374,6 @@ full:hw-ot-ad.a.yximgs.com
 full:hw-p2p-pull.video-voip.com
 full:hw-p2p.pull.yximgs.com
 full:hwpub-s01-drcn.cloud.dbankcloud.cn
-full:hya.comp.360os.com
 full:hybrid.miniapp.taobao.com
 full:hye.comp.360os.com
 full:hyt.comp.360os.com
@@ -394,7 +385,6 @@ full:iadsdk.apple.com
 full:iadworkbench.apple.com
 full:ifacelog.iqiyi.com
 full:ifs.tanx.com
-full:igexin.com
 full:ii.gdt.qq.com
 full:imag8.pubmatic.com
 full:imag86.pubmatic.com
@@ -434,7 +424,6 @@ full:ks-p2p-v2.pull.yximgs.com
 full:ks-p2p.pull.yximgs.com
 full:ks.ferlytc.com
 full:ks.pull.yximgs.com
-full:kuiniuca.com
 full:launcher.smart-tv.cn
 full:launcherimg.smart-tv.cn
 full:lf3-ad-union-sdk.pglstatp-toutiao.com
@@ -495,7 +484,6 @@ full:mapi.m.jd.com
 full:masdkv6.3g.qq.com
 full:mazu.m.qq.com
 full:mbdlog.iqiyi.com
-full:metrics.apple.com
 full:metrics.data.hicloud.com
 full:metrics.icloud.com
 full:metrics.mzstatic.com
@@ -518,7 +506,6 @@ full:mobads.baidu.com
 full:mobaliyun.res.mgtv.com
 full:mobile.da.mgtv.com
 full:mobilelog.upqzfile.com
-full:mobileservice.cn
 full:mon.zijieapi.com
 full:monitor-ads-test.huan.tv
 full:monitor-uu.play.aiseet.atianqi.com
@@ -597,7 +584,6 @@ full:public.gdtimg.com
 full:q.i.gdt.qq.com
 full:qn-cdnfile1pcdn.msstatic.com
 full:qqdata.ab.qq.com
-full:qwapi.apple.com
 full:qzs.gdtimg.com
 full:recommend-drcn.hms.dbankcloud.cn
 full:report.tv.kohesport.qq.com
@@ -619,9 +605,6 @@ full:rt.applovin.com
 full:rt.applvn.com
 full:rtb.voiceads.cn
 full:s.amazon-adsystem.com
-full:s1.qq.com
-full:s2.qq.com
-full:s3.qq.com
 full:s8t.teads.tv
 full:saad.ms.zhangyue.net
 full:saas.hpplay.cn
@@ -629,7 +612,6 @@ full:samsung-com.112.2o7.net
 full:samsungads.com
 full:sanme2.taisantech.com
 full:saxysec.com
-full:scdown.qq.com
 full:scs.openspeech.cn
 full:sdk-ab-config.qquanquan.com
 full:sdk-cache.video.ptqy.gitv.tv
@@ -760,7 +742,6 @@ full:ulogs.umengcloud.com
 full:umengacs.m.taobao.com
 full:umengjmacs.m.taobao.com
 full:umini.shujupie.com
-full:umsns.com
 full:union.baidu.cn
 full:union.baidu.com
 full:update.avlyun.sec.miui.com
@@ -825,8 +806,6 @@ full:wxsnsdythumb.wxs.qq.com
 full:xc.gdt.qq.com
 full:xcultur.com
 full:xiaomi-dtv.m.cn.miaozhen.com
-full:xlivrdr.com
-full:xlmzc.cnjp-exp.com
 full:xlog.jd.com
 full:xlviiirdr.com
 full:xlviirdr.com
@@ -835,7 +814,6 @@ full:yk-ssp.ad.youku.com
 full:ykad-data.youku.com
 full:ykad-gateway.youku.com
 full:youku-acs.m.taobao.com
-full:youxi.kugou.com
 full:ytx-file.110route.cn
 full:zeus.ad.xiaomi.com
 full:zhihu-web-analytics.zhihu.com

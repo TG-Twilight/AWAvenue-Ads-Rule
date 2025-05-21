@@ -27,7 +27,6 @@ domain:ad.tencentmusic.com
 domain:ad.toutiao.com
 domain:ad.v3mh.com
 domain:ad.winrar.com.cn
-domain:ad.xiaomi.com
 domain:ad.ximalaya.com
 domain:ad.zijieapi.com
 domain:ad2.ettoday.net
@@ -50,7 +49,6 @@ domain:adfstat.yandex.ru
 domain:adguanggao.eee114.com
 domain:adjust.cn
 domain:adjust.com
-domain:adkwai.com
 domain:adlink-api.huan.tv
 domain:adm.funshion.com
 domain:ads-api-o.api.leiniao.com
@@ -120,7 +118,6 @@ domain:adstudio.spotify.com
 domain:adtago.s3.amazonaws.com
 domain:adtech.yahooinc.com
 domain:adtrack.quark.cn
-domain:adukwai.com
 domain:adv.fjtv.net
 domain:adv.sec.intl.miui.com
 domain:adv.sec.miui.com
@@ -201,14 +198,13 @@ domain:api5-normal-quic-lf.ixigua.com
 domain:apiyd.my91app.com
 domain:app-measurement.com
 domain:appcfg.v.qq.com
-domain:appcloud2.in.zhihu.com
 domain:applog.lc.quark.cn
 domain:applog.uc.cn
 domain:applog.zijieapi.com
 domain:applovin.com
 domain:applvn.com
+domain:appversion.115.com
 domain:aspect-upush.umeng.com
-domain:ata-sdk-uuid-report.dreport.meituan.net
 domain:auction.unityads.unity3d.com
 domain:audid-api.taobao.com
 domain:audid.umeng.com
@@ -307,7 +303,6 @@ domain:drcn-weather.cloud.huawei.com
 domain:dsp-x.jd.com
 domain:dsp.fcbox.com
 domain:dualstack-logs.amap.com
-domain:dutils.com
 domain:dxp.baidu.com
 domain:dyp2p-ali.douyucdn.cn
 domain:dyp2p-hw.douyucdn.cn
@@ -341,7 +336,6 @@ domain:gemini.yahoo.com
 domain:geo.yahoo.com
 domain:getui.cn
 domain:getui.com
-domain:getui.net
 domain:ggx.cmvideo.cn
 domain:ggx01.miguvideo.com
 domain:ggx03.miguvideo.com
@@ -353,12 +347,10 @@ domain:googleads.g.doubleclick.net
 domain:googleadservices-cn.com
 domain:googleadservices.com
 domain:googletagservices-cn.com
-domain:googletagservices.com
 domain:gorgon.youdao.com
 domain:gromore.pangolin-sdk-toutiao.com
 domain:grs.dbankcloud.com
 domain:grs.hicloud.com
-domain:grs.platform.dbankcloud.ru
 domain:gslb.hpplay.cn
 domain:gvideo.qpic.cn
 domain:h-adashx.ut.taobao.com
@@ -382,7 +374,6 @@ domain:hw-ot-ad.a.yximgs.com
 domain:hw-p2p-pull.video-voip.com
 domain:hw-p2p.pull.yximgs.com
 domain:hwpub-s01-drcn.cloud.dbankcloud.cn
-domain:hya.comp.360os.com
 domain:hybrid.miniapp.taobao.com
 domain:hye.comp.360os.com
 domain:hyt.comp.360os.com
@@ -394,7 +385,6 @@ domain:iadsdk.apple.com
 domain:iadworkbench.apple.com
 domain:ifacelog.iqiyi.com
 domain:ifs.tanx.com
-domain:igexin.com
 domain:ii.gdt.qq.com
 domain:imag8.pubmatic.com
 domain:imag86.pubmatic.com
@@ -434,7 +424,6 @@ domain:ks-p2p-v2.pull.yximgs.com
 domain:ks-p2p.pull.yximgs.com
 domain:ks.ferlytc.com
 domain:ks.pull.yximgs.com
-domain:kuiniuca.com
 domain:launcher.smart-tv.cn
 domain:launcherimg.smart-tv.cn
 domain:lf3-ad-union-sdk.pglstatp-toutiao.com
@@ -495,7 +484,6 @@ domain:mapi.m.jd.com
 domain:masdkv6.3g.qq.com
 domain:mazu.m.qq.com
 domain:mbdlog.iqiyi.com
-domain:metrics.apple.com
 domain:metrics.data.hicloud.com
 domain:metrics.icloud.com
 domain:metrics.mzstatic.com
@@ -518,7 +506,6 @@ domain:mobads.baidu.com
 domain:mobaliyun.res.mgtv.com
 domain:mobile.da.mgtv.com
 domain:mobilelog.upqzfile.com
-domain:mobileservice.cn
 domain:mon.zijieapi.com
 domain:monitor-ads-test.huan.tv
 domain:monitor-uu.play.aiseet.atianqi.com
@@ -597,7 +584,6 @@ domain:public.gdtimg.com
 domain:q.i.gdt.qq.com
 domain:qn-cdnfile1pcdn.msstatic.com
 domain:qqdata.ab.qq.com
-domain:qwapi.apple.com
 domain:qzs.gdtimg.com
 domain:recommend-drcn.hms.dbankcloud.cn
 domain:report.tv.kohesport.qq.com
@@ -619,9 +605,6 @@ domain:rt.applovin.com
 domain:rt.applvn.com
 domain:rtb.voiceads.cn
 domain:s.amazon-adsystem.com
-domain:s1.qq.com
-domain:s2.qq.com
-domain:s3.qq.com
 domain:s8t.teads.tv
 domain:saad.ms.zhangyue.net
 domain:saas.hpplay.cn
@@ -629,7 +612,6 @@ domain:samsung-com.112.2o7.net
 domain:samsungads.com
 domain:sanme2.taisantech.com
 domain:saxysec.com
-domain:scdown.qq.com
 domain:scs.openspeech.cn
 domain:sdk-ab-config.qquanquan.com
 domain:sdk-cache.video.ptqy.gitv.tv
@@ -760,7 +742,6 @@ domain:ulogs.umengcloud.com
 domain:umengacs.m.taobao.com
 domain:umengjmacs.m.taobao.com
 domain:umini.shujupie.com
-domain:umsns.com
 domain:union.baidu.cn
 domain:union.baidu.com
 domain:update.avlyun.sec.miui.com
@@ -825,8 +806,6 @@ domain:wxsnsdythumb.wxs.qq.com
 domain:xc.gdt.qq.com
 domain:xcultur.com
 domain:xiaomi-dtv.m.cn.miaozhen.com
-domain:xlivrdr.com
-domain:xlmzc.cnjp-exp.com
 domain:xlog.jd.com
 domain:xlviiirdr.com
 domain:xlviirdr.com
@@ -835,7 +814,6 @@ domain:yk-ssp.ad.youku.com
 domain:ykad-data.youku.com
 domain:ykad-gateway.youku.com
 domain:youku-acs.m.taobao.com
-domain:youxi.kugou.com
 domain:ytx-file.110route.cn
 domain:zeus.ad.xiaomi.com
 domain:zhihu-web-analytics.zhihu.com
