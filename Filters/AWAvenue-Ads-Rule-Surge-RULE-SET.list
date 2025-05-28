@@ -2,8 +2,8 @@
 #--------------------------------------
 #Total lines: 841
 #Version: 1.6.5-release
-#Update time: 2025-05-21 17:53:35 UTC+8
-#Update content: block more lebo、adjust ads.
+#Update time: 2025-05-28 15:24:23 UTC+8
+#Update content: Update domain_regex.txt
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -830,23 +830,23 @@ DOMAIN,youku-acs.m.taobao.com
 DOMAIN,ytx-file.110route.cn
 DOMAIN,zeus.ad.xiaomi.com
 DOMAIN,zhihu-web-analytics.zhihu.com
-DOMAIN-KEYWORD,.*\.*\.shouji\.sogou\.com
-DOMAIN-KEYWORD,.*\.1rtb\.com
-DOMAIN-KEYWORD,.*\.a\.market\.xiaomi\.com
-DOMAIN-KEYWORD,.*\.ad\.gameley\.com
-DOMAIN-KEYWORD,.*\.adintl\.cn
-DOMAIN-KEYWORD,.*\.adx\.adwangmai\.com
-DOMAIN-KEYWORD,.*\.data\.hicloud\.com
-DOMAIN-KEYWORD,.*\.log\.aliyuncs\.com
-DOMAIN-KEYWORD,.*\.ubixioe\.com
-DOMAIN-KEYWORD,.*\.vlion\.cn
-DOMAIN-KEYWORD,.*\.yfanads\.com
-DOMAIN-KEYWORD,.*\.zhangyuyidong\.cn
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*\.byteimg\.com
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad\.sm\.cn
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad\.video\.yximgs\.com
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad\.wtzw\.com
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-be-pack-sign\.pglstatp-toutiao\.com
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-normal\.zijieapi\.com
-DOMAIN-KEYWORD,cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com
+DOMAIN-KEYWORD,.*.*.shouji.sogou.com
+DOMAIN-KEYWORD,.*.1rtb.com
+DOMAIN-KEYWORD,.*.a.market.xiaomi.com
+DOMAIN-KEYWORD,.*.ad.gameley.com
+DOMAIN-KEYWORD,.*.adintl.cn
+DOMAIN-KEYWORD,.*.adx.adwangmai.com
+DOMAIN-KEYWORD,.*.data.hicloud.com
+DOMAIN-KEYWORD,.*.log.aliyuncs.com
+DOMAIN-KEYWORD,.*.ubixioe.com
+DOMAIN-KEYWORD,.*.vlion.cn
+DOMAIN-KEYWORD,.*.yfanads.com
+DOMAIN-KEYWORD,.*.zhangyuyidong.cn
+DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*.byteimg.com
+DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad.sm.cn
+DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad.video.yximgs.com
+DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad.wtzw.com
+DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-be-pack-sign.pglstatp-toutiao.com
+DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*.zijieapi.com
+DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-normal.zijieapi.com
+DOMAIN-KEYWORD,cloudinject[a-zA-Z0-9.-]*-dev.*.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*.amazonaws.com

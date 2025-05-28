@@ -2,8 +2,8 @@
 #--------------------------------------
 #Total lines: 1646
 #Version: 1.6.5-release
-#Update time: 2025-05-21 17:53:35 UTC+8
-#Update content: block more lebo、adjust ads.
+#Update time: 2025-05-28 15:24:23 UTC+8
+#Update content: Update domain_regex.txt
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE

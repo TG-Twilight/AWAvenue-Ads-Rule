@@ -2,8 +2,8 @@
 #--------------------------------------
 #Total lines: 841
 #Version: 1.6.5-release
-#Update time: 2025-05-21 17:53:35 UTC+8
-#Update content: block more lebo、adjust ads.
+#Update time: 2025-05-28 15:24:23 UTC+8
+#Update content: Update domain_regex.txt
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -831,23 +831,23 @@ payload:
   - DOMAIN,ytx-file.110route.cn
   - DOMAIN,zeus.ad.xiaomi.com
   - DOMAIN,zhihu-web-analytics.zhihu.com
-  - DOMAIN-REGEX,^.*\.*\.shouji\.sogou\.com$
-  - DOMAIN-REGEX,^.*\.1rtb\.com$
-  - DOMAIN-REGEX,^.*\.a\.market\.xiaomi\.com$
-  - DOMAIN-REGEX,^.*\.ad\.gameley\.com$
-  - DOMAIN-REGEX,^.*\.adintl\.cn$
-  - DOMAIN-REGEX,^.*\.adx\.adwangmai\.com$
-  - DOMAIN-REGEX,^.*\.data\.hicloud\.com$
-  - DOMAIN-REGEX,^.*\.log\.aliyuncs\.com$
-  - DOMAIN-REGEX,^.*\.ubixioe\.com$
-  - DOMAIN-REGEX,^.*\.vlion\.cn$
-  - DOMAIN-REGEX,^.*\.yfanads\.com$
-  - DOMAIN-REGEX,^.*\.zhangyuyidong\.cn$
-  - DOMAIN-REGEX,^[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*\.byteimg\.com$
-  - DOMAIN-REGEX,^[a-zA-Z0-9.-]*-ad\.sm\.cn$
-  - DOMAIN-REGEX,^[a-zA-Z0-9.-]*-ad\.video\.yximgs\.com$
-  - DOMAIN-REGEX,^[a-zA-Z0-9.-]*-ad\.wtzw\.com$
-  - DOMAIN-REGEX,^[a-zA-Z0-9.-]*-be-pack-sign\.pglstatp-toutiao\.com$
-  - DOMAIN-REGEX,^[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*\.zijieapi\.com$
-  - DOMAIN-REGEX,^[a-zA-Z0-9.-]*-normal\.zijieapi\.com$
-  - DOMAIN-REGEX,^cloudinject[a-zA-Z0-9.-]*-dev\.*\.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*\.amazonaws\.com$
+  - DOMAIN-REGEX,^.*.*.shouji.sogou.com$
+  - DOMAIN-REGEX,^.*.1rtb.com$
+  - DOMAIN-REGEX,^.*.a.market.xiaomi.com$
+  - DOMAIN-REGEX,^.*.ad.gameley.com$
+  - DOMAIN-REGEX,^.*.adintl.cn$
+  - DOMAIN-REGEX,^.*.adx.adwangmai.com$
+  - DOMAIN-REGEX,^.*.data.hicloud.com$
+  - DOMAIN-REGEX,^.*.log.aliyuncs.com$
+  - DOMAIN-REGEX,^.*.ubixioe.com$
+  - DOMAIN-REGEX,^.*.vlion.cn$
+  - DOMAIN-REGEX,^.*.yfanads.com$
+  - DOMAIN-REGEX,^.*.zhangyuyidong.cn$
+  - DOMAIN-REGEX,^[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*.byteimg.com$
+  - DOMAIN-REGEX,^[a-zA-Z0-9.-]*-ad.sm.cn$
+  - DOMAIN-REGEX,^[a-zA-Z0-9.-]*-ad.video.yximgs.com$
+  - DOMAIN-REGEX,^[a-zA-Z0-9.-]*-ad.wtzw.com$
+  - DOMAIN-REGEX,^[a-zA-Z0-9.-]*-be-pack-sign.pglstatp-toutiao.com$
+  - DOMAIN-REGEX,^[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*.zijieapi.com$
+  - DOMAIN-REGEX,^[a-zA-Z0-9.-]*-normal.zijieapi.com$
+  - DOMAIN-REGEX,^cloudinject[a-zA-Z0-9.-]*-dev.*.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*.amazonaws.com$
