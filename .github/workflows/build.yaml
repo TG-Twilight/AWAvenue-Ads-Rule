@@ -21,7 +21,7 @@ jobs:
         
     - name: Execute Python script
       run: |
-        git clone "https://${{ github.actor }}:${{ secrets.TOKEN }}@github.com/${{ github.repository }}" -b build build
+        git clone "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" -b build build
         cd build
         mkdir out
         pip install -r requirements.txt
@@ -66,3 +66,13 @@ jobs:
           git commit -m "${{ github.event.head_commit.message }}"
           git push --set-upstream origin main
         fi
+
+    - name: Purge jsdelivr CDN cache
+      run: |
+        cd push/Filters
+        echo "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/AWAvenue-Ads-Rule.txt"
+        curl -i "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/AWAvenue-Ads-Rule.txt"
+        for file in $(ls); do
+          echo "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/Filters/${file}"
+          curl -i "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/Filters/${file}"
+        done
