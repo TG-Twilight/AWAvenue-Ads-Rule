@@ -98,7 +98,7 @@
 
 - [AdClose（Xposed module）](https://github.com/zjyzip/AdClose)    *Xposed模块，可以通过hook拦截常见广告，内置秋风广告规则，感谢@zjyzip*
 
-</details>
+- [geosite (@elysias123分支)](https://github.com/elysias123/geosite) *适用于 V2Ray、Xray-core、mihomo、hysteria、Trojan-Go、leaf 的路由规则资源文件，已加入秋风广告规则分类*
 
 ---
 
