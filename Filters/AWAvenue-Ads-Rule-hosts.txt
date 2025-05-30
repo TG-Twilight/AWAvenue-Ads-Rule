@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1646
+!Total lines: 1654
 !Version: 1.6.5-release
-!Update time: 2025-05-28 16:42:07 UTC+8
-!Update content: Purge jsdelivr CDN cache
+!Update time: 2025-05-30 20:03:25 UTC+8
+!Update content: add HKTVMALL ads block. #143
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -21,6 +21,8 @@
 :: 1500026601.vodplayer.wxamedia.com
 0.0.0.0 8le8le.com
 :: 8le8le.com
+0.0.0.0 8rn1y79f02-1.algolianet.com
+:: 8rn1y79f02-1.algolianet.com
 0.0.0.0 a0.app.xiaomi.com
 :: a0.app.xiaomi.com
 0.0.0.0 aaid.umeng.com
@@ -37,6 +39,10 @@
 :: ad-sdk-config.youdao.com
 0.0.0.0 ad-sdk.huxiu.com
 :: ad-sdk.huxiu.com
+0.0.0.0 ad-splash-tracking.hktvmall.com
+:: ad-splash-tracking.hktvmall.com
+0.0.0.0 ad-splash.hktvmall.com
+:: ad-splash.hktvmall.com
 0.0.0.0 ad.12306.cn
 :: ad.12306.cn
 0.0.0.0 ad.51wnl.com
@@ -881,6 +887,8 @@
 :: lh3.googleadsserving.cn
 0.0.0.0 litchiads.com
 :: litchiads.com
+0.0.0.0 live-api.hktvmall.com
+:: live-api.hktvmall.com
 0.0.0.0 liveats-vod.video.ptqy.gitv.tv
 :: liveats-vod.video.ptqy.gitv.tv
 0.0.0.0 livemonitor.huan.tv

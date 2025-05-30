@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 841
+#Total lines: 845
 #Version: 1.6.5-release
-#Update time: 2025-05-28 16:42:07 UTC+8
-#Update content: Purge jsdelivr CDN cache
+#Update time: 2025-05-30 20:03:25 UTC+8
+#Update content: add HKTVMALL ads block. #143
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -13,6 +13,7 @@ DOMAIN,1500020991.vodplayer.wxamedia.com,reject
 DOMAIN,1500022744.vodplayer.wxamedia.com,reject
 DOMAIN,1500026601.vodplayer.wxamedia.com,reject
 DOMAIN,8le8le.com,reject
+DOMAIN,8rn1y79f02-1.algolianet.com,reject
 DOMAIN,a0.app.xiaomi.com,reject
 DOMAIN,aaid.umeng.com,reject
 DOMAIN,abtest-ch.snssdk.com,reject
@@ -21,6 +22,8 @@ DOMAIN,ad-scope.com,reject
 DOMAIN,ad-scope.com.cn,reject
 DOMAIN,ad-sdk-config.youdao.com,reject
 DOMAIN,ad-sdk.huxiu.com,reject
+DOMAIN,ad-splash-tracking.hktvmall.com,reject
+DOMAIN,ad-splash.hktvmall.com,reject
 DOMAIN,ad.12306.cn,reject
 DOMAIN,ad.51wnl.com,reject
 DOMAIN,ad.api.3g.youku.com,reject
@@ -443,6 +446,7 @@ DOMAIN,lf3-ad-union-sdk.pglstatp-toutiao.com,reject
 DOMAIN,lf6-ad-union-sdk.pglstatp-toutiao.com,reject
 DOMAIN,lh3.googleadsserving.cn,reject
 DOMAIN,litchiads.com,reject
+DOMAIN,live-api.hktvmall.com,reject
 DOMAIN,liveats-vod.video.ptqy.gitv.tv,reject
 DOMAIN,livemonitor.huan.tv,reject
 DOMAIN,livep.l.aiseet.atianqi.com,reject

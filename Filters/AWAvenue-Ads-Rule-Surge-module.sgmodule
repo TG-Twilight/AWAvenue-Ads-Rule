@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2025-05-28 16:42:07 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2025-05-30 20:03:25 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -10,6 +10,7 @@ DOMAIN,1500020991.vodplayer.wxamedia.com,REJECT,extended-matching,pre-matching
 DOMAIN,1500022744.vodplayer.wxamedia.com,REJECT,extended-matching,pre-matching
 DOMAIN,1500026601.vodplayer.wxamedia.com,REJECT,extended-matching,pre-matching
 DOMAIN,8le8le.com,REJECT,extended-matching,pre-matching
+DOMAIN,8rn1y79f02-1.algolianet.com,REJECT,extended-matching,pre-matching
 DOMAIN,a0.app.xiaomi.com,REJECT,extended-matching,pre-matching
 DOMAIN,aaid.umeng.com,REJECT,extended-matching,pre-matching
 DOMAIN,abtest-ch.snssdk.com,REJECT,extended-matching,pre-matching
@@ -18,6 +19,8 @@ DOMAIN,ad-scope.com,REJECT,extended-matching,pre-matching
 DOMAIN,ad-scope.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,ad-sdk-config.youdao.com,REJECT,extended-matching,pre-matching
 DOMAIN,ad-sdk.huxiu.com,REJECT,extended-matching,pre-matching
+DOMAIN,ad-splash-tracking.hktvmall.com,REJECT,extended-matching,pre-matching
+DOMAIN,ad-splash.hktvmall.com,REJECT,extended-matching,pre-matching
 DOMAIN,ad.12306.cn,REJECT,extended-matching,pre-matching
 DOMAIN,ad.51wnl.com,REJECT,extended-matching,pre-matching
 DOMAIN,ad.api.3g.youku.com,REJECT,extended-matching,pre-matching
@@ -440,6 +443,7 @@ DOMAIN,lf3-ad-union-sdk.pglstatp-toutiao.com,REJECT,extended-matching,pre-matchi
 DOMAIN,lf6-ad-union-sdk.pglstatp-toutiao.com,REJECT,extended-matching,pre-matching
 DOMAIN,lh3.googleadsserving.cn,REJECT,extended-matching,pre-matching
 DOMAIN,litchiads.com,REJECT,extended-matching,pre-matching
+DOMAIN,live-api.hktvmall.com,REJECT,extended-matching,pre-matching
 DOMAIN,liveats-vod.video.ptqy.gitv.tv,REJECT,extended-matching,pre-matching
 DOMAIN,livemonitor.huan.tv,REJECT,extended-matching,pre-matching
 DOMAIN,livep.l.aiseet.atianqi.com,REJECT,extended-matching,pre-matching

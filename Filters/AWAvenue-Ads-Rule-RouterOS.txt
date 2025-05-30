@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1642
+!Total lines: 1650
 !Version: 1.6.5-release
-!Update time: 2025-05-28 16:42:07 UTC+8
-!Update content: Purge jsdelivr CDN cache
+!Update time: 2025-05-30 20:03:25 UTC+8
+!Update content: add HKTVMALL ads block. #143
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -17,6 +17,8 @@ ip dns static add address=240.0.0.1 name=1500026601.vodplayer.wxamedia.com
 ip dns static add address=:: name=1500026601.vodplayer.wxamedia.com
 ip dns static add address=240.0.0.1 name=8le8le.com
 ip dns static add address=:: name=8le8le.com
+ip dns static add address=240.0.0.1 name=8rn1y79f02-1.algolianet.com
+ip dns static add address=:: name=8rn1y79f02-1.algolianet.com
 ip dns static add address=240.0.0.1 name=a0.app.xiaomi.com
 ip dns static add address=:: name=a0.app.xiaomi.com
 ip dns static add address=240.0.0.1 name=aaid.umeng.com
@@ -33,6 +35,10 @@ ip dns static add address=240.0.0.1 name=ad-sdk-config.youdao.com
 ip dns static add address=:: name=ad-sdk-config.youdao.com
 ip dns static add address=240.0.0.1 name=ad-sdk.huxiu.com
 ip dns static add address=:: name=ad-sdk.huxiu.com
+ip dns static add address=240.0.0.1 name=ad-splash-tracking.hktvmall.com
+ip dns static add address=:: name=ad-splash-tracking.hktvmall.com
+ip dns static add address=240.0.0.1 name=ad-splash.hktvmall.com
+ip dns static add address=:: name=ad-splash.hktvmall.com
 ip dns static add address=240.0.0.1 name=ad.12306.cn
 ip dns static add address=:: name=ad.12306.cn
 ip dns static add address=240.0.0.1 name=ad.51wnl.com
@@ -877,6 +883,8 @@ ip dns static add address=240.0.0.1 name=lh3.googleadsserving.cn
 ip dns static add address=:: name=lh3.googleadsserving.cn
 ip dns static add address=240.0.0.1 name=litchiads.com
 ip dns static add address=:: name=litchiads.com
+ip dns static add address=240.0.0.1 name=live-api.hktvmall.com
+ip dns static add address=:: name=live-api.hktvmall.com
 ip dns static add address=240.0.0.1 name=liveats-vod.video.ptqy.gitv.tv
 ip dns static add address=:: name=liveats-vod.video.ptqy.gitv.tv
 ip dns static add address=240.0.0.1 name=livemonitor.huan.tv

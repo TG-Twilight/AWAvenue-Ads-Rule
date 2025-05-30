@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 841
+#Total lines: 845
 #Version: 1.6.5-release
-#Update time: 2025-05-28 16:42:07 UTC+8
-#Update content: Purge jsdelivr CDN cache
+#Update time: 2025-05-30 20:03:25 UTC+8
+#Update content: add HKTVMALL ads block. #143
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -13,6 +13,7 @@ DOMAIN,1500020991.vodplayer.wxamedia.com
 DOMAIN,1500022744.vodplayer.wxamedia.com
 DOMAIN,1500026601.vodplayer.wxamedia.com
 DOMAIN,8le8le.com
+DOMAIN,8rn1y79f02-1.algolianet.com
 DOMAIN,a0.app.xiaomi.com
 DOMAIN,aaid.umeng.com
 DOMAIN,abtest-ch.snssdk.com
@@ -21,6 +22,8 @@ DOMAIN,ad-scope.com
 DOMAIN,ad-scope.com.cn
 DOMAIN,ad-sdk-config.youdao.com
 DOMAIN,ad-sdk.huxiu.com
+DOMAIN,ad-splash-tracking.hktvmall.com
+DOMAIN,ad-splash.hktvmall.com
 DOMAIN,ad.12306.cn
 DOMAIN,ad.51wnl.com
 DOMAIN,ad.api.3g.youku.com
@@ -443,6 +446,7 @@ DOMAIN,lf3-ad-union-sdk.pglstatp-toutiao.com
 DOMAIN,lf6-ad-union-sdk.pglstatp-toutiao.com
 DOMAIN,lh3.googleadsserving.cn
 DOMAIN,litchiads.com
+DOMAIN,live-api.hktvmall.com
 DOMAIN,liveats-vod.video.ptqy.gitv.tv
 DOMAIN,livemonitor.huan.tv
 DOMAIN,livep.l.aiseet.atianqi.com

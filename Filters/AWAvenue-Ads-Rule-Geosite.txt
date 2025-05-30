@@ -2,6 +2,7 @@ full:1500020991.vodplayer.wxamedia.com
 full:1500022744.vodplayer.wxamedia.com
 full:1500026601.vodplayer.wxamedia.com
 full:8le8le.com
+full:8rn1y79f02-1.algolianet.com
 full:a0.app.xiaomi.com
 full:aaid.umeng.com
 full:abtest-ch.snssdk.com
@@ -10,6 +11,8 @@ full:ad-scope.com
 full:ad-scope.com.cn
 full:ad-sdk-config.youdao.com
 full:ad-sdk.huxiu.com
+full:ad-splash-tracking.hktvmall.com
+full:ad-splash.hktvmall.com
 full:ad.12306.cn
 full:ad.51wnl.com
 full:ad.api.3g.youku.com
@@ -432,6 +435,7 @@ full:lf3-ad-union-sdk.pglstatp-toutiao.com
 full:lf6-ad-union-sdk.pglstatp-toutiao.com
 full:lh3.googleadsserving.cn
 full:litchiads.com
+full:live-api.hktvmall.com
 full:liveats-vod.video.ptqy.gitv.tv
 full:livemonitor.huan.tv
 full:livep.l.aiseet.atianqi.com
