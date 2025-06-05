@@ -121,13 +121,9 @@
 [![Stargazers over time](https://starchart.cc/TG-Twilight/AWAvenue-Ads-Rule.svg?variant=adaptive)](https://starchart.cc/TG-Twilight/AWAvenue-Ads-Rule)
 
 ---
-
-<img src="https://badges.toozhao.com/badges/01JWZEBJ8ZB8S32W2X55J05RHZ/green.svg" />
-
----
 ![:访问数](https://moe-counter.glitch.me/get/@TG-Twiligh?theme=gelbooru)
 
-2024年6月开始统计，统计偶尔会寄......
+2024年6月开始统计，统计偶尔会寄...... <img src="https://badges.toozhao.com/badges/01JWZEBJ8ZB8S32W2X55J05RHZ/green.svg" />
 ---
 
 > [@Github](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) · [@Telegram Channel](https://t.me/AWAvenueAdsRule) · [@Telegram Group](https://t.me/AWAvenueAdsChat) · [Official WebSite](https://awavenue.top/) · [E-Mail](mailto:admin@awads.cc)
