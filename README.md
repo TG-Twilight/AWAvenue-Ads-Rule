@@ -122,11 +122,7 @@
 
 ---
 
-### ***保持互联网清洁！***
-
----
-
-[![https://gafam.info](https://ptrace.gafam.info/unofficial/img/color/lqdn-gafam-poster-zh-color-5x1-2560x.png)](https://gafam.info)
+<img src="https://badges.toozhao.com/badges/01JWZEBJ8ZB8S32W2X55J05RHZ/green.svg" />
 
 ---
 ![:访问数](https://moe-counter.glitch.me/get/@TG-Twiligh?theme=gelbooru)
