@@ -623,6 +623,7 @@ full:sdk-ab-config.qquanquan.com
 full:sdk-cache.video.ptqy.gitv.tv
 full:sdk.1rtb.net
 full:sdk.ad.smaato.net
+full:sdk.adx.adwangmai.com
 full:sdk.beizi.biz
 full:sdk.cferw.com
 full:sdk.e.qq.com

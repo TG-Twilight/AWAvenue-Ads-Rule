@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1650
+!Total lines: 1652
 !Version: 1.6.5-release
-!Update time: 2025-05-30 20:03:25 UTC+8
-!Update content: add HKTVMALL ads block. #143
+!Update time: 2025-06-11 16:53:46 UTC+8
+!Update content: add more wangmai ads block. #148
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -1259,6 +1259,8 @@ ip dns static add address=240.0.0.1 name=sdk.1rtb.net
 ip dns static add address=:: name=sdk.1rtb.net
 ip dns static add address=240.0.0.1 name=sdk.ad.smaato.net
 ip dns static add address=:: name=sdk.ad.smaato.net
+ip dns static add address=240.0.0.1 name=sdk.adx.adwangmai.com
+ip dns static add address=:: name=sdk.adx.adwangmai.com
 ip dns static add address=240.0.0.1 name=sdk.beizi.biz
 ip dns static add address=:: name=sdk.beizi.biz
 ip dns static add address=240.0.0.1 name=sdk.cferw.com

@@ -623,6 +623,7 @@ domain:sdk-ab-config.qquanquan.com
 domain:sdk-cache.video.ptqy.gitv.tv
 domain:sdk.1rtb.net
 domain:sdk.ad.smaato.net
+domain:sdk.adx.adwangmai.com
 domain:sdk.beizi.biz
 domain:sdk.cferw.com
 domain:sdk.e.qq.com

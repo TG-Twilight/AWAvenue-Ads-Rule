@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 845
+#Total lines: 846
 #Version: 1.6.5-release
-#Update time: 2025-05-30 20:03:25 UTC+8
-#Update content: add HKTVMALL ads block. #143
+#Update time: 2025-06-11 16:53:46 UTC+8
+#Update content: add more wangmai ads block. #148
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -634,6 +634,7 @@ DOMAIN,sdk-ab-config.qquanquan.com,reject
 DOMAIN,sdk-cache.video.ptqy.gitv.tv,reject
 DOMAIN,sdk.1rtb.net,reject
 DOMAIN,sdk.ad.smaato.net,reject
+DOMAIN,sdk.adx.adwangmai.com,reject
 DOMAIN,sdk.beizi.biz,reject
 DOMAIN,sdk.cferw.com,reject
 DOMAIN,sdk.e.qq.com,reject
