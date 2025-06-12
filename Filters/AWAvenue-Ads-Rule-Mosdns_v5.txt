@@ -161,7 +161,6 @@ domain:analysis.chatglm.cn
 domain:analysis.yozocloud.cn
 domain:analytics-api.samsunghealthcn.com
 domain:analytics.adjust.cn
-domain:analytics.google.com
 domain:analytics.pinterest.com
 domain:analytics.pointdrive.linkedin.com
 domain:analytics.query.yahoo.com

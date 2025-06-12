@@ -161,7 +161,6 @@ full:analysis.chatglm.cn
 full:analysis.yozocloud.cn
 full:analytics-api.samsunghealthcn.com
 full:analytics.adjust.cn
-full:analytics.google.com
 full:analytics.pinterest.com
 full:analytics.pointdrive.linkedin.com
 full:analytics.query.yahoo.com

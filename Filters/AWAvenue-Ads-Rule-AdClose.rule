@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 826
-#Version: 1.6.5-release
-#Update time: 2025-06-11 16:53:46 UTC+8
-#Update content: add more wangmai ads block. #148
+#Total lines: 825
+#Version: 1.6.6-release
+#Update time: 2025-06-12 17:20:33 UTC+8
+#Update content: remove Google Analytics, its reasonable.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -175,7 +175,6 @@ domain, analysis.chatglm.cn
 domain, analysis.yozocloud.cn
 domain, analytics-api.samsunghealthcn.com
 domain, analytics.adjust.cn
-domain, analytics.google.com
 domain, analytics.pinterest.com
 domain, analytics.pointdrive.linkedin.com
 domain, analytics.query.yahoo.com
