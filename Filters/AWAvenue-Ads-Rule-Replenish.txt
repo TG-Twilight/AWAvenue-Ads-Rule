@@ -52,3 +52,9 @@
 !
 ||hismarttv.com^
 # 用于拦截 Hisense TV 的广告和云控，但部分正常资源也依赖此加载，所以，它现在到这里来了。
+!
+||open-iflow.meizu.com^
+||api-flow.flyme.cn^
+||reader.meizu.com^
+||dw-reader.meizu.com^
+# 用于拦截魅族手机Flyme系统内置天气app二级页面中的低质推广资讯，但该内容并非广告，故添加于此。
