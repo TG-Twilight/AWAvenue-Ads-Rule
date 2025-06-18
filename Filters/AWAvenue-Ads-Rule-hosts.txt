@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1654
+!Total lines: 1662
 !Version: 1.6.6-release
-!Update time: 2025-06-12 17:20:33 UTC+8
-!Update content: remove Google Analytics, its reasonable.
+!Update time: 2025-06-18 13:13:16 UTC+8
+!Update content: block netese analytics、ifly logs、meituan analytics.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -589,6 +589,8 @@
 :: d.applovin.com
 0.0.0.0 d.applvn.com
 :: d.applvn.com
+0.0.0.0 data-sdk-uuid-log.d.meituan.net
+:: data-sdk-uuid-log.d.meituan.net
 0.0.0.0 data.ads.oppomobile.com
 :: data.ads.oppomobile.com
 0.0.0.0 data.chsmarttv.com
@@ -735,6 +737,8 @@
 :: h-adashx.ut.taobao.com
 0.0.0.0 h.trace.qq.com
 :: h.trace.qq.com
+0.0.0.0 h5.analytics.126.net
+:: h5.analytics.126.net
 0.0.0.0 h5.hpplay.com.cn
 :: h5.hpplay.com.cn
 0.0.0.0 hanlanad.com
@@ -939,6 +943,8 @@
 :: log.byteoversea.com
 0.0.0.0 log.fc.yahoo.com
 :: log.fc.yahoo.com
+0.0.0.0 log.iflytek.com
+:: log.iflytek.com
 0.0.0.0 log.kuwo.cn
 :: log.kuwo.cn
 0.0.0.0 log.pinterest.com
@@ -1307,6 +1313,8 @@
 :: securepubads.g.doubleclick.net
 0.0.0.0 sensors-log.dongqiudi.com
 :: sensors-log.dongqiudi.com
+0.0.0.0 sentry.music.163.com
+:: sentry.music.163.com
 0.0.0.0 service.changhong.upgrade2.huan.tv
 :: service.changhong.upgrade2.huan.tv
 0.0.0.0 service.vmos.cn

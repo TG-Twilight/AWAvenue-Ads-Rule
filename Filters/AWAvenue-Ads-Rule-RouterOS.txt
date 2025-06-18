@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1650
+!Total lines: 1658
 !Version: 1.6.6-release
-!Update time: 2025-06-12 17:20:33 UTC+8
-!Update content: remove Google Analytics, its reasonable.
+!Update time: 2025-06-18 13:13:16 UTC+8
+!Update content: block netese analytics、ifly logs、meituan analytics.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -585,6 +585,8 @@ ip dns static add address=240.0.0.1 name=d.applovin.com
 ip dns static add address=:: name=d.applovin.com
 ip dns static add address=240.0.0.1 name=d.applvn.com
 ip dns static add address=:: name=d.applvn.com
+ip dns static add address=240.0.0.1 name=data-sdk-uuid-log.d.meituan.net
+ip dns static add address=:: name=data-sdk-uuid-log.d.meituan.net
 ip dns static add address=240.0.0.1 name=data.ads.oppomobile.com
 ip dns static add address=:: name=data.ads.oppomobile.com
 ip dns static add address=240.0.0.1 name=data.chsmarttv.com
@@ -731,6 +733,8 @@ ip dns static add address=240.0.0.1 name=h-adashx.ut.taobao.com
 ip dns static add address=:: name=h-adashx.ut.taobao.com
 ip dns static add address=240.0.0.1 name=h.trace.qq.com
 ip dns static add address=:: name=h.trace.qq.com
+ip dns static add address=240.0.0.1 name=h5.analytics.126.net
+ip dns static add address=:: name=h5.analytics.126.net
 ip dns static add address=240.0.0.1 name=h5.hpplay.com.cn
 ip dns static add address=:: name=h5.hpplay.com.cn
 ip dns static add address=240.0.0.1 name=hanlanad.com
@@ -935,6 +939,8 @@ ip dns static add address=240.0.0.1 name=log.byteoversea.com
 ip dns static add address=:: name=log.byteoversea.com
 ip dns static add address=240.0.0.1 name=log.fc.yahoo.com
 ip dns static add address=:: name=log.fc.yahoo.com
+ip dns static add address=240.0.0.1 name=log.iflytek.com
+ip dns static add address=:: name=log.iflytek.com
 ip dns static add address=240.0.0.1 name=log.kuwo.cn
 ip dns static add address=:: name=log.kuwo.cn
 ip dns static add address=240.0.0.1 name=log.pinterest.com
@@ -1303,6 +1309,8 @@ ip dns static add address=240.0.0.1 name=securepubads.g.doubleclick.net
 ip dns static add address=:: name=securepubads.g.doubleclick.net
 ip dns static add address=240.0.0.1 name=sensors-log.dongqiudi.com
 ip dns static add address=:: name=sensors-log.dongqiudi.com
+ip dns static add address=240.0.0.1 name=sentry.music.163.com
+ip dns static add address=:: name=sentry.music.163.com
 ip dns static add address=240.0.0.1 name=service.changhong.upgrade2.huan.tv
 ip dns static add address=:: name=service.changhong.upgrade2.huan.tv
 ip dns static add address=240.0.0.1 name=service.vmos.cn

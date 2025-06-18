@@ -286,6 +286,7 @@ domain:csjplatform.com
 domain:cws-cctv.conviva.com
 domain:d.applovin.com
 domain:d.applvn.com
+domain:data-sdk-uuid-log.d.meituan.net
 domain:data.ads.oppomobile.com
 domain:data.chsmarttv.com
 domain:data.mistat.india.xiaomi.com
@@ -359,6 +360,7 @@ domain:gslb.hpplay.cn
 domain:gvideo.qpic.cn
 domain:h-adashx.ut.taobao.com
 domain:h.trace.qq.com
+domain:h5.analytics.126.net
 domain:h5.hpplay.com.cn
 domain:hanlanad.com
 domain:hc-ssp.sm.cn
@@ -461,6 +463,7 @@ domain:log.avlyun.com
 domain:log.avlyun.sec.intl.miui.com
 domain:log.byteoversea.com
 domain:log.fc.yahoo.com
+domain:log.iflytek.com
 domain:log.kuwo.cn
 domain:log.pinterest.com
 domain:log.popin.cc
@@ -645,6 +648,7 @@ domain:search5-search.ixigua.com
 domain:securemetrics.apple.com
 domain:securepubads.g.doubleclick.net
 domain:sensors-log.dongqiudi.com
+domain:sentry.music.163.com
 domain:service.changhong.upgrade2.huan.tv
 domain:service.vmos.cn
 domain:sf16-static.i18n-pglstatp.com

@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 845
+#Total lines: 849
 #Version: 1.6.6-release
-#Update time: 2025-06-12 17:20:33 UTC+8
-#Update content: remove Google Analytics, its reasonable.
+#Update time: 2025-06-18 13:13:16 UTC+8
+#Update content: block netese analytics、ifly logs、meituan analytics.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -297,6 +297,7 @@ DOMAIN,csjplatform.com,reject
 DOMAIN,cws-cctv.conviva.com,reject
 DOMAIN,d.applovin.com,reject
 DOMAIN,d.applvn.com,reject
+DOMAIN,data-sdk-uuid-log.d.meituan.net,reject
 DOMAIN,data.ads.oppomobile.com,reject
 DOMAIN,data.chsmarttv.com,reject
 DOMAIN,data.mistat.india.xiaomi.com,reject
@@ -370,6 +371,7 @@ DOMAIN,gslb.hpplay.cn,reject
 DOMAIN,gvideo.qpic.cn,reject
 DOMAIN,h-adashx.ut.taobao.com,reject
 DOMAIN,h.trace.qq.com,reject
+DOMAIN,h5.analytics.126.net,reject
 DOMAIN,h5.hpplay.com.cn,reject
 DOMAIN,hanlanad.com,reject
 DOMAIN,hc-ssp.sm.cn,reject
@@ -472,6 +474,7 @@ DOMAIN,log.avlyun.com,reject
 DOMAIN,log.avlyun.sec.intl.miui.com,reject
 DOMAIN,log.byteoversea.com,reject
 DOMAIN,log.fc.yahoo.com,reject
+DOMAIN,log.iflytek.com,reject
 DOMAIN,log.kuwo.cn,reject
 DOMAIN,log.pinterest.com,reject
 DOMAIN,log.popin.cc,reject
@@ -656,6 +659,7 @@ DOMAIN,search5-search.ixigua.com,reject
 DOMAIN,securemetrics.apple.com,reject
 DOMAIN,securepubads.g.doubleclick.net,reject
 DOMAIN,sensors-log.dongqiudi.com,reject
+DOMAIN,sentry.music.163.com,reject
 DOMAIN,service.changhong.upgrade2.huan.tv,reject
 DOMAIN,service.vmos.cn,reject
 DOMAIN,sf16-static.i18n-pglstatp.com,reject

@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2025-06-12 17:20:33 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2025-06-18 13:13:16 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -294,6 +294,7 @@ DOMAIN,csjplatform.com,REJECT,extended-matching,pre-matching
 DOMAIN,cws-cctv.conviva.com,REJECT,extended-matching,pre-matching
 DOMAIN,d.applovin.com,REJECT,extended-matching,pre-matching
 DOMAIN,d.applvn.com,REJECT,extended-matching,pre-matching
+DOMAIN,data-sdk-uuid-log.d.meituan.net,REJECT,extended-matching,pre-matching
 DOMAIN,data.ads.oppomobile.com,REJECT,extended-matching,pre-matching
 DOMAIN,data.chsmarttv.com,REJECT,extended-matching,pre-matching
 DOMAIN,data.mistat.india.xiaomi.com,REJECT,extended-matching,pre-matching
@@ -367,6 +368,7 @@ DOMAIN,gslb.hpplay.cn,REJECT,extended-matching,pre-matching
 DOMAIN,gvideo.qpic.cn,REJECT,extended-matching,pre-matching
 DOMAIN,h-adashx.ut.taobao.com,REJECT,extended-matching,pre-matching
 DOMAIN,h.trace.qq.com,REJECT,extended-matching,pre-matching
+DOMAIN,h5.analytics.126.net,REJECT,extended-matching,pre-matching
 DOMAIN,h5.hpplay.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,hanlanad.com,REJECT,extended-matching,pre-matching
 DOMAIN,hc-ssp.sm.cn,REJECT,extended-matching,pre-matching
@@ -469,6 +471,7 @@ DOMAIN,log.avlyun.com,REJECT,extended-matching,pre-matching
 DOMAIN,log.avlyun.sec.intl.miui.com,REJECT,extended-matching,pre-matching
 DOMAIN,log.byteoversea.com,REJECT,extended-matching,pre-matching
 DOMAIN,log.fc.yahoo.com,REJECT,extended-matching,pre-matching
+DOMAIN,log.iflytek.com,REJECT,extended-matching,pre-matching
 DOMAIN,log.kuwo.cn,REJECT,extended-matching,pre-matching
 DOMAIN,log.pinterest.com,REJECT,extended-matching,pre-matching
 DOMAIN,log.popin.cc,REJECT,extended-matching,pre-matching
@@ -653,6 +656,7 @@ DOMAIN,search5-search.ixigua.com,REJECT,extended-matching,pre-matching
 DOMAIN,securemetrics.apple.com,REJECT,extended-matching,pre-matching
 DOMAIN,securepubads.g.doubleclick.net,REJECT,extended-matching,pre-matching
 DOMAIN,sensors-log.dongqiudi.com,REJECT,extended-matching,pre-matching
+DOMAIN,sentry.music.163.com,REJECT,extended-matching,pre-matching
 DOMAIN,service.changhong.upgrade2.huan.tv,REJECT,extended-matching,pre-matching
 DOMAIN,service.vmos.cn,REJECT,extended-matching,pre-matching
 DOMAIN,sf16-static.i18n-pglstatp.com,REJECT,extended-matching,pre-matching

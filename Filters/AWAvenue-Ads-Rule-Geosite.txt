@@ -286,6 +286,7 @@ full:csjplatform.com
 full:cws-cctv.conviva.com
 full:d.applovin.com
 full:d.applvn.com
+full:data-sdk-uuid-log.d.meituan.net
 full:data.ads.oppomobile.com
 full:data.chsmarttv.com
 full:data.mistat.india.xiaomi.com
@@ -359,6 +360,7 @@ full:gslb.hpplay.cn
 full:gvideo.qpic.cn
 full:h-adashx.ut.taobao.com
 full:h.trace.qq.com
+full:h5.analytics.126.net
 full:h5.hpplay.com.cn
 full:hanlanad.com
 full:hc-ssp.sm.cn
@@ -461,6 +463,7 @@ full:log.avlyun.com
 full:log.avlyun.sec.intl.miui.com
 full:log.byteoversea.com
 full:log.fc.yahoo.com
+full:log.iflytek.com
 full:log.kuwo.cn
 full:log.pinterest.com
 full:log.popin.cc
@@ -645,6 +648,7 @@ full:search5-search.ixigua.com
 full:securemetrics.apple.com
 full:securepubads.g.doubleclick.net
 full:sensors-log.dongqiudi.com
+full:sentry.music.163.com
 full:service.changhong.upgrade2.huan.tv
 full:service.vmos.cn
 full:sf16-static.i18n-pglstatp.com
