@@ -2,7 +2,7 @@
 <a href="/README.md">中文</a>&nbsp;|&nbsp;
 <a href="/assets/README_en-US.md">English</a> &nbsp;|&nbsp;
 <a href="/assets/README_Update.md">更新日志</a> &nbsp;|&nbsp;
-<a href="https://awavenue.top/">官方网站</a> 
+<a href="https://awavenue.top/?source=GitHub">官方网站</a> 
 </div>
 
 
@@ -126,4 +126,4 @@
 2024年6月开始统计，统计偶尔会寄......
 ---
 
-> [@Github](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) · [@Telegram Channel](https://t.me/AWAvenueAdsRule) · [@Telegram Group](https://t.me/AWAvenueAdsChat) · [Official WebSite](https://awavenue.top/) · [E-Mail](mailto:admin@awads.cc)
+> [@Github](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) · [Channel](https://t.me/AWAvenueAdsRule) · [Group](https://t.me/AWAvenueAdsChat) · [Twilight's page](https://zyc.su/)
