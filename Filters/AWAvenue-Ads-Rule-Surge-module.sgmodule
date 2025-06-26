@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2025-06-18 13:13:16 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2025-06-26 21:44:45 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -835,7 +835,6 @@ DOMAIN,youku-acs.m.taobao.com,REJECT,extended-matching,pre-matching
 DOMAIN,ytx-file.110route.cn,REJECT,extended-matching,pre-matching
 DOMAIN,zeus.ad.xiaomi.com,REJECT,extended-matching,pre-matching
 DOMAIN,zhihu-web-analytics.zhihu.com,REJECT,extended-matching,pre-matching
-DOMAIN-KEYWORD,.*.*.shouji.sogou.com,REJECT,extended-matching,pre-matching
 DOMAIN-KEYWORD,.*.1rtb.com,REJECT,extended-matching,pre-matching
 DOMAIN-KEYWORD,.*.a.market.xiaomi.com,REJECT,extended-matching,pre-matching
 DOMAIN-KEYWORD,.*.ad.gameley.com,REJECT,extended-matching,pre-matching

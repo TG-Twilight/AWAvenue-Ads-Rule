@@ -2,8 +2,8 @@
 !--------------------------------------
 !Total lines: 1662
 !Version: 1.6.6-release
-!Update time: 2025-06-18 13:13:16 UTC+8
-!Update content: block netese analytics、ifly logs、meituan analytics.
+!Update time: 2025-06-26 21:44:45 UTC+8
+!Update content: Update domain_regex.txt
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE

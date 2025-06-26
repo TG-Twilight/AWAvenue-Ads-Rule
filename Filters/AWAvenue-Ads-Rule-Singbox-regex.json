@@ -834,7 +834,6 @@
         "zhihu-web-analytics.zhihu.com"
       ],
       "domain_regex": [
-        ".*.*.shouji.sogou.com",
         ".*.1rtb.com",
         ".*.a.market.xiaomi.com",
         ".*.ad.gameley.com",
