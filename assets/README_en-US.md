@@ -2,7 +2,8 @@
 <a href="/README.md">Chinese</a>&nbsp;|&nbsp;
 <a href="/assets/README_en-US.md">English</a> &nbsp;|&nbsp;
 <a href="/assets/README_Update.md">Changelog</a> &nbsp;|&nbsp;
-<a href="https://awavenue.top/?source=GitHub">Official Website</a>
+<a href="https://doc.awads.cc/?source=GitHub">WebSite [CHINA]</a> &nbsp;|&nbsp;
+<a href="https://awavenue.top/?source=GitHub">WebSite [GLOBAL]</a> 
 </div>
 
 <h1 align="center">-AWAvenue Ads Rule-</h1>
