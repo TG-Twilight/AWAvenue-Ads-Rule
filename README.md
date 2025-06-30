@@ -126,4 +126,4 @@
 2024年6月开始统计，统计偶尔会寄......
 ---
 
-> [@Github](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) · [Channel](https://t.me/AWAvenueAdsRule) · [Group](https://t.me/AWAvenueAdsChat) · [Twilight's page](https://zyc.su/)
+> [@Github](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) · [Channel](https://t.me/AWAvenueAdsRule) · [Group](https://t.me/AWAvenueAdsChat) · [Twilight's page](https://zyc.su/) · [秋风塬上](https://awads.cc/)
