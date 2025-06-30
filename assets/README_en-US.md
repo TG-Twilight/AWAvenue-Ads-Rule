@@ -125,4 +125,4 @@ Statistics started from June 2024. The statistics service may occasionally be un
 
 ---
 
-> [@Github](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) · [Channel](https://t.me/AWAvenueAdsRule) · [Group](https://t.me/AWAvenueAdsChat) · [Twilight's page](https://zyc.su/)
+> [@Github](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) · [Channel](https://t.me/AWAvenueAdsRule) · [Group](https://t.me/AWAvenueAdsChat) · [Twilight's page](https://zyc.su/) · [秋风塬上](https://awads.cc/)
