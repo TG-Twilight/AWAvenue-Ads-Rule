@@ -110,7 +110,7 @@
 [XTCloud - 畅游世界，高速互联](https://cloud.xtyun.top/register?code=M1w4rjdl)
 
 ### 本项目官方文档赞助商：
-[Tencent Edge One CDN](https://edgeone.ai/zh?from=github)
+[Tencent Edge One](https://edgeone.ai/zh?from=github)
 
 ---
 
