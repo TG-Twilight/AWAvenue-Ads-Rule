@@ -698,7 +698,6 @@ full:tdsdk.cpatrk.net
 full:tdsdk.xdrig.com
 full:telemetry.sdk.inmobi.com
 full:tencent-dtv.m.cn.miaozhen.com
-full:terms-drcn.platform.dbankcloud.cn
 full:test.ad.xiaomi.com
 full:test.e.ad.xiaomi.com
 full:tj.b.qq.com

@@ -698,7 +698,6 @@ domain:tdsdk.cpatrk.net
 domain:tdsdk.xdrig.com
 domain:telemetry.sdk.inmobi.com
 domain:tencent-dtv.m.cn.miaozhen.com
-domain:terms-drcn.platform.dbankcloud.cn
 domain:test.ad.xiaomi.com
 domain:test.e.ad.xiaomi.com
 domain:tj.b.qq.com

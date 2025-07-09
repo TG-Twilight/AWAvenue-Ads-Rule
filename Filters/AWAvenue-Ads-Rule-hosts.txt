@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1662
+!Total lines: 1660
 !Version: 1.6.6-release
-!Update time: 2025-06-26 21:44:45 UTC+8
-!Update content: Update domain_regex.txt
+!Update time: 2025-07-09 22:19:32 UTC+8
+!Update content: remove “terms-drcn.platform.dbankcloud.cn” fix #155
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -1413,8 +1413,6 @@
 :: telemetry.sdk.inmobi.com
 0.0.0.0 tencent-dtv.m.cn.miaozhen.com
 :: tencent-dtv.m.cn.miaozhen.com
-0.0.0.0 terms-drcn.platform.dbankcloud.cn
-:: terms-drcn.platform.dbankcloud.cn
 0.0.0.0 test.ad.xiaomi.com
 :: test.ad.xiaomi.com
 0.0.0.0 test.e.ad.xiaomi.com
