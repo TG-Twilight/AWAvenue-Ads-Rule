@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1660
+!Total lines: 1662
 !Version: 1.6.6-release
-!Update time: 2025-07-09 22:19:32 UTC+8
-!Update content: remove “terms-drcn.platform.dbankcloud.cn” fix #155
+!Update time: 2025-07-12 02:38:03 UTC+8
+!Update content: 屏蔽某app开屏广告 #156
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -601,6 +601,8 @@
 :: data.mistat.rus.xiaomi.com
 0.0.0.0 data.mistat.xiaomi.com
 :: data.mistat.xiaomi.com
+0.0.0.0 datacollection.uve.weibo.com
+:: datacollection.uve.weibo.com
 0.0.0.0 datk.anythinktech.com
 :: datk.anythinktech.com
 0.0.0.0 dc.sigmob.cn

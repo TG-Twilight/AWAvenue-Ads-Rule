@@ -292,6 +292,7 @@ domain:data.chsmarttv.com
 domain:data.mistat.india.xiaomi.com
 domain:data.mistat.rus.xiaomi.com
 domain:data.mistat.xiaomi.com
+domain:datacollection.uve.weibo.com
 domain:datk.anythinktech.com
 domain:dc.sigmob.cn
 domain:de.tynt.com

@@ -292,6 +292,7 @@ full:data.chsmarttv.com
 full:data.mistat.india.xiaomi.com
 full:data.mistat.rus.xiaomi.com
 full:data.mistat.xiaomi.com
+full:datacollection.uve.weibo.com
 full:datk.anythinktech.com
 full:dc.sigmob.cn
 full:de.tynt.com
