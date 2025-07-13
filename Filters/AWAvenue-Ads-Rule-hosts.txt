@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1662
+!Total lines: 1674
 !Version: 1.6.6-release
-!Update time: 2025-07-12 02:38:03 UTC+8
-!Update content: 屏蔽某app开屏广告 #156
+!Update time: 2025-07-14 02:10:40 UTC+8
+!Update content: 拦截 zuiyou、netease mail master 之广告
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -245,6 +245,8 @@
 :: adsmind.ugdtimg.com
 0.0.0.0 adsp.xunlei.com
 :: adsp.xunlei.com
+0.0.0.0 adstat.izuiyou.com
+:: adstat.izuiyou.com
 0.0.0.0 adstats.tencentmusic.com
 :: adstats.tencentmusic.com
 0.0.0.0 adstore-1252524079.file.myqcloud.com
@@ -391,6 +393,8 @@
 :: api-htp.beizi.biz
 0.0.0.0 api.ad.xiaomi.com
 :: api.ad.xiaomi.com
+0.0.0.0 api.anythinktech.com
+:: api.anythinktech.com
 0.0.0.0 api.e.kuaishou.com
 :: api.e.kuaishou.com
 0.0.0.0 api.fu.xcultur.com
@@ -589,6 +593,8 @@
 :: d.applovin.com
 0.0.0.0 d.applvn.com
 :: d.applvn.com
+0.0.0.0 da.anythinktech.com
+:: da.anythinktech.com
 0.0.0.0 data-sdk-uuid-log.d.meituan.net
 :: data-sdk-uuid-log.d.meituan.net
 0.0.0.0 data.ads.oppomobile.com
@@ -603,8 +609,6 @@
 :: data.mistat.xiaomi.com
 0.0.0.0 datacollection.uve.weibo.com
 :: datacollection.uve.weibo.com
-0.0.0.0 datk.anythinktech.com
-:: datk.anythinktech.com
 0.0.0.0 dc.sigmob.cn
 :: dc.sigmob.cn
 0.0.0.0 de.tynt.com
@@ -791,6 +795,8 @@
 :: i.l.inmobicdn.net
 0.0.0.0 iad.apple.com
 :: iad.apple.com
+0.0.0.0 iad.g.163.com
+:: iad.g.163.com
 0.0.0.0 iadctest.qwapi.com
 :: iadctest.qwapi.com
 0.0.0.0 iadsdk.apple.com
@@ -835,6 +841,8 @@
 :: impression.appsflyer.com
 0.0.0.0 in.treasuredata.com
 :: in.treasuredata.com
+0.0.0.0 ios.bugly.qq.com
+:: ios.bugly.qq.com
 0.0.0.0 iot-eu-logser.realme.com
 :: iot-eu-logser.realme.com
 0.0.0.0 iot-logser.realme.com
@@ -1079,6 +1087,8 @@
 :: nadvideo2.baidu.com
 0.0.0.0 newvoice.chiq5.smart-tv.cn
 :: newvoice.chiq5.smart-tv.cn
+0.0.0.0 nex.163.com
+:: nex.163.com
 0.0.0.0 nmetrics.samsung.com
 :: nmetrics.samsung.com
 0.0.0.0 notes-analytics-events.apple.com
@@ -1423,6 +1433,8 @@
 :: tj.b.qq.com
 0.0.0.0 tj.video.qq.com
 :: tj.video.qq.com
+0.0.0.0 tk.anythinktech.com
+:: tk.anythinktech.com
 0.0.0.0 tmead.y.qq.com
 :: tmead.y.qq.com
 0.0.0.0 tmeadcomm.y.qq.com

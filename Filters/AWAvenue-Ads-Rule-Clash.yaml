@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 848
+#Total lines: 854
 #Version: 1.6.6-release
-#Update time: 2025-07-12 02:38:03 UTC+8
-#Update content: 屏蔽某app开屏广告 #156
+#Update time: 2025-07-14 02:10:40 UTC+8
+#Update content: 拦截 zuiyou、netease mail master 之广告
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -126,6 +126,7 @@ payload:
   - 'adsmind.gdtimg.com'
   - 'adsmind.ugdtimg.com'
   - 'adsp.xunlei.com'
+  - 'adstat.izuiyou.com'
   - 'adstats.tencentmusic.com'
   - 'adstore-1252524079.file.myqcloud.com'
   - 'adstore-index-1252524079.file.myqcloud.com'
@@ -199,6 +200,7 @@ payload:
   - 'api-gd.hiaiabc.com'
   - 'api-htp.beizi.biz'
   - 'api.ad.xiaomi.com'
+  - 'api.anythinktech.com'
   - 'api.e.kuaishou.com'
   - 'api.fu.xcultur.com'
   - 'api.htp.hubcloud.com.cn'
@@ -298,6 +300,7 @@ payload:
   - 'cws-cctv.conviva.com'
   - 'd.applovin.com'
   - 'd.applvn.com'
+  - 'da.anythinktech.com'
   - 'data-sdk-uuid-log.d.meituan.net'
   - 'data.ads.oppomobile.com'
   - 'data.chsmarttv.com'
@@ -305,7 +308,6 @@ payload:
   - 'data.mistat.rus.xiaomi.com'
   - 'data.mistat.xiaomi.com'
   - 'datacollection.uve.weibo.com'
-  - 'datk.anythinktech.com'
   - 'dc.sigmob.cn'
   - 'de.tynt.com'
   - 'diagnosis.ad.xiaomi.com'
@@ -399,6 +401,7 @@ payload:
   - 'i.l-new.inmobicdn.net'
   - 'i.l.inmobicdn.net'
   - 'iad.apple.com'
+  - 'iad.g.163.com'
   - 'iadctest.qwapi.com'
   - 'iadsdk.apple.com'
   - 'iadworkbench.apple.com'
@@ -421,6 +424,7 @@ payload:
   - 'impression-asia.liftoff.io'
   - 'impression.appsflyer.com'
   - 'in.treasuredata.com'
+  - 'ios.bugly.qq.com'
   - 'iot-eu-logser.realme.com'
   - 'iot-logser.realme.com'
   - 'ipv4.kkmh.com'
@@ -543,6 +547,7 @@ payload:
   - 'mtj.baidu.com'
   - 'nadvideo2.baidu.com'
   - 'newvoice.chiq5.smart-tv.cn'
+  - 'nex.163.com'
   - 'nmetrics.samsung.com'
   - 'notes-analytics-events.apple.com'
   - 'notify.sec.miui.com'
@@ -715,6 +720,7 @@ payload:
   - 'test.e.ad.xiaomi.com'
   - 'tj.b.qq.com'
   - 'tj.video.qq.com'
+  - 'tk.anythinktech.com'
   - 'tmead.y.qq.com'
   - 'tmeadcomm.y.qq.com'
   - 'tmfmazu-wangka.m.qq.com'

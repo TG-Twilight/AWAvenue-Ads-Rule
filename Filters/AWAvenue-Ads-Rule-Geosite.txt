@@ -114,6 +114,7 @@ full:adsmart.konka.com
 full:adsmind.gdtimg.com
 full:adsmind.ugdtimg.com
 full:adsp.xunlei.com
+full:adstat.izuiyou.com
 full:adstats.tencentmusic.com
 full:adstore-1252524079.file.myqcloud.com
 full:adstore-index-1252524079.file.myqcloud.com
@@ -187,6 +188,7 @@ full:api-adservices.apple.com
 full:api-gd.hiaiabc.com
 full:api-htp.beizi.biz
 full:api.ad.xiaomi.com
+full:api.anythinktech.com
 full:api.e.kuaishou.com
 full:api.fu.xcultur.com
 full:api.htp.hubcloud.com.cn
@@ -286,6 +288,7 @@ full:csjplatform.com
 full:cws-cctv.conviva.com
 full:d.applovin.com
 full:d.applvn.com
+full:da.anythinktech.com
 full:data-sdk-uuid-log.d.meituan.net
 full:data.ads.oppomobile.com
 full:data.chsmarttv.com
@@ -293,7 +296,6 @@ full:data.mistat.india.xiaomi.com
 full:data.mistat.rus.xiaomi.com
 full:data.mistat.xiaomi.com
 full:datacollection.uve.weibo.com
-full:datk.anythinktech.com
 full:dc.sigmob.cn
 full:de.tynt.com
 full:diagnosis.ad.xiaomi.com
@@ -387,6 +389,7 @@ full:hyt.comp.360os.com
 full:i.l-new.inmobicdn.net
 full:i.l.inmobicdn.net
 full:iad.apple.com
+full:iad.g.163.com
 full:iadctest.qwapi.com
 full:iadsdk.apple.com
 full:iadworkbench.apple.com
@@ -409,6 +412,7 @@ full:impression-asia.chinaliftoff.io
 full:impression-asia.liftoff.io
 full:impression.appsflyer.com
 full:in.treasuredata.com
+full:ios.bugly.qq.com
 full:iot-eu-logser.realme.com
 full:iot-logser.realme.com
 full:ipv4.kkmh.com
@@ -531,6 +535,7 @@ full:mssdk.zijieapi.com
 full:mtj.baidu.com
 full:nadvideo2.baidu.com
 full:newvoice.chiq5.smart-tv.cn
+full:nex.163.com
 full:nmetrics.samsung.com
 full:notes-analytics-events.apple.com
 full:notify.sec.miui.com
@@ -703,6 +708,7 @@ full:test.ad.xiaomi.com
 full:test.e.ad.xiaomi.com
 full:tj.b.qq.com
 full:tj.video.qq.com
+full:tk.anythinktech.com
 full:tmead.y.qq.com
 full:tmeadcomm.y.qq.com
 full:tmfmazu-wangka.m.qq.com

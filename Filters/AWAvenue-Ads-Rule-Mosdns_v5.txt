@@ -114,6 +114,7 @@ domain:adsmart.konka.com
 domain:adsmind.gdtimg.com
 domain:adsmind.ugdtimg.com
 domain:adsp.xunlei.com
+domain:adstat.izuiyou.com
 domain:adstats.tencentmusic.com
 domain:adstore-1252524079.file.myqcloud.com
 domain:adstore-index-1252524079.file.myqcloud.com
@@ -187,6 +188,7 @@ domain:api-adservices.apple.com
 domain:api-gd.hiaiabc.com
 domain:api-htp.beizi.biz
 domain:api.ad.xiaomi.com
+domain:api.anythinktech.com
 domain:api.e.kuaishou.com
 domain:api.fu.xcultur.com
 domain:api.htp.hubcloud.com.cn
@@ -286,6 +288,7 @@ domain:csjplatform.com
 domain:cws-cctv.conviva.com
 domain:d.applovin.com
 domain:d.applvn.com
+domain:da.anythinktech.com
 domain:data-sdk-uuid-log.d.meituan.net
 domain:data.ads.oppomobile.com
 domain:data.chsmarttv.com
@@ -293,7 +296,6 @@ domain:data.mistat.india.xiaomi.com
 domain:data.mistat.rus.xiaomi.com
 domain:data.mistat.xiaomi.com
 domain:datacollection.uve.weibo.com
-domain:datk.anythinktech.com
 domain:dc.sigmob.cn
 domain:de.tynt.com
 domain:diagnosis.ad.xiaomi.com
@@ -387,6 +389,7 @@ domain:hyt.comp.360os.com
 domain:i.l-new.inmobicdn.net
 domain:i.l.inmobicdn.net
 domain:iad.apple.com
+domain:iad.g.163.com
 domain:iadctest.qwapi.com
 domain:iadsdk.apple.com
 domain:iadworkbench.apple.com
@@ -409,6 +412,7 @@ domain:impression-asia.chinaliftoff.io
 domain:impression-asia.liftoff.io
 domain:impression.appsflyer.com
 domain:in.treasuredata.com
+domain:ios.bugly.qq.com
 domain:iot-eu-logser.realme.com
 domain:iot-logser.realme.com
 domain:ipv4.kkmh.com
@@ -531,6 +535,7 @@ domain:mssdk.zijieapi.com
 domain:mtj.baidu.com
 domain:nadvideo2.baidu.com
 domain:newvoice.chiq5.smart-tv.cn
+domain:nex.163.com
 domain:nmetrics.samsung.com
 domain:notes-analytics-events.apple.com
 domain:notify.sec.miui.com
@@ -703,6 +708,7 @@ domain:test.ad.xiaomi.com
 domain:test.e.ad.xiaomi.com
 domain:tj.b.qq.com
 domain:tj.video.qq.com
+domain:tk.anythinktech.com
 domain:tmead.y.qq.com
 domain:tmeadcomm.y.qq.com
 domain:tmfmazu-wangka.m.qq.com

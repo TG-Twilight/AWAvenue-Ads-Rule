@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 848
+#Total lines: 854
 #Version: 1.6.6-release
-#Update time: 2025-07-12 02:38:03 UTC+8
-#Update content: 屏蔽某app开屏广告 #156
+#Update time: 2025-07-14 02:10:40 UTC+8
+#Update content: 拦截 zuiyou、netease mail master 之广告
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -125,6 +125,7 @@ DOMAIN,adsmart.konka.com
 DOMAIN,adsmind.gdtimg.com
 DOMAIN,adsmind.ugdtimg.com
 DOMAIN,adsp.xunlei.com
+DOMAIN,adstat.izuiyou.com
 DOMAIN,adstats.tencentmusic.com
 DOMAIN,adstore-1252524079.file.myqcloud.com
 DOMAIN,adstore-index-1252524079.file.myqcloud.com
@@ -198,6 +199,7 @@ DOMAIN,api-adservices.apple.com
 DOMAIN,api-gd.hiaiabc.com
 DOMAIN,api-htp.beizi.biz
 DOMAIN,api.ad.xiaomi.com
+DOMAIN,api.anythinktech.com
 DOMAIN,api.e.kuaishou.com
 DOMAIN,api.fu.xcultur.com
 DOMAIN,api.htp.hubcloud.com.cn
@@ -297,6 +299,7 @@ DOMAIN,csjplatform.com
 DOMAIN,cws-cctv.conviva.com
 DOMAIN,d.applovin.com
 DOMAIN,d.applvn.com
+DOMAIN,da.anythinktech.com
 DOMAIN,data-sdk-uuid-log.d.meituan.net
 DOMAIN,data.ads.oppomobile.com
 DOMAIN,data.chsmarttv.com
@@ -304,7 +307,6 @@ DOMAIN,data.mistat.india.xiaomi.com
 DOMAIN,data.mistat.rus.xiaomi.com
 DOMAIN,data.mistat.xiaomi.com
 DOMAIN,datacollection.uve.weibo.com
-DOMAIN,datk.anythinktech.com
 DOMAIN,dc.sigmob.cn
 DOMAIN,de.tynt.com
 DOMAIN,diagnosis.ad.xiaomi.com
@@ -398,6 +400,7 @@ DOMAIN,hyt.comp.360os.com
 DOMAIN,i.l-new.inmobicdn.net
 DOMAIN,i.l.inmobicdn.net
 DOMAIN,iad.apple.com
+DOMAIN,iad.g.163.com
 DOMAIN,iadctest.qwapi.com
 DOMAIN,iadsdk.apple.com
 DOMAIN,iadworkbench.apple.com
@@ -420,6 +423,7 @@ DOMAIN,impression-asia.chinaliftoff.io
 DOMAIN,impression-asia.liftoff.io
 DOMAIN,impression.appsflyer.com
 DOMAIN,in.treasuredata.com
+DOMAIN,ios.bugly.qq.com
 DOMAIN,iot-eu-logser.realme.com
 DOMAIN,iot-logser.realme.com
 DOMAIN,ipv4.kkmh.com
@@ -542,6 +546,7 @@ DOMAIN,mssdk.zijieapi.com
 DOMAIN,mtj.baidu.com
 DOMAIN,nadvideo2.baidu.com
 DOMAIN,newvoice.chiq5.smart-tv.cn
+DOMAIN,nex.163.com
 DOMAIN,nmetrics.samsung.com
 DOMAIN,notes-analytics-events.apple.com
 DOMAIN,notify.sec.miui.com
@@ -714,6 +719,7 @@ DOMAIN,test.ad.xiaomi.com
 DOMAIN,test.e.ad.xiaomi.com
 DOMAIN,tj.b.qq.com
 DOMAIN,tj.video.qq.com
+DOMAIN,tk.anythinktech.com
 DOMAIN,tmead.y.qq.com
 DOMAIN,tmeadcomm.y.qq.com
 DOMAIN,tmfmazu-wangka.m.qq.com

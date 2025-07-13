@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 848
+#Total lines: 854
 #Version: 1.6.6-release
-#Update time: 2025-07-12 02:38:03 UTC+8
-#Update content: 屏蔽某app开屏广告 #156
+#Update time: 2025-07-14 02:10:40 UTC+8
+#Update content: 拦截 zuiyou、netease mail master 之广告
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -125,6 +125,7 @@ DOMAIN,adsmart.konka.com,reject
 DOMAIN,adsmind.gdtimg.com,reject
 DOMAIN,adsmind.ugdtimg.com,reject
 DOMAIN,adsp.xunlei.com,reject
+DOMAIN,adstat.izuiyou.com,reject
 DOMAIN,adstats.tencentmusic.com,reject
 DOMAIN,adstore-1252524079.file.myqcloud.com,reject
 DOMAIN,adstore-index-1252524079.file.myqcloud.com,reject
@@ -198,6 +199,7 @@ DOMAIN,api-adservices.apple.com,reject
 DOMAIN,api-gd.hiaiabc.com,reject
 DOMAIN,api-htp.beizi.biz,reject
 DOMAIN,api.ad.xiaomi.com,reject
+DOMAIN,api.anythinktech.com,reject
 DOMAIN,api.e.kuaishou.com,reject
 DOMAIN,api.fu.xcultur.com,reject
 DOMAIN,api.htp.hubcloud.com.cn,reject
@@ -297,6 +299,7 @@ DOMAIN,csjplatform.com,reject
 DOMAIN,cws-cctv.conviva.com,reject
 DOMAIN,d.applovin.com,reject
 DOMAIN,d.applvn.com,reject
+DOMAIN,da.anythinktech.com,reject
 DOMAIN,data-sdk-uuid-log.d.meituan.net,reject
 DOMAIN,data.ads.oppomobile.com,reject
 DOMAIN,data.chsmarttv.com,reject
@@ -304,7 +307,6 @@ DOMAIN,data.mistat.india.xiaomi.com,reject
 DOMAIN,data.mistat.rus.xiaomi.com,reject
 DOMAIN,data.mistat.xiaomi.com,reject
 DOMAIN,datacollection.uve.weibo.com,reject
-DOMAIN,datk.anythinktech.com,reject
 DOMAIN,dc.sigmob.cn,reject
 DOMAIN,de.tynt.com,reject
 DOMAIN,diagnosis.ad.xiaomi.com,reject
@@ -398,6 +400,7 @@ DOMAIN,hyt.comp.360os.com,reject
 DOMAIN,i.l-new.inmobicdn.net,reject
 DOMAIN,i.l.inmobicdn.net,reject
 DOMAIN,iad.apple.com,reject
+DOMAIN,iad.g.163.com,reject
 DOMAIN,iadctest.qwapi.com,reject
 DOMAIN,iadsdk.apple.com,reject
 DOMAIN,iadworkbench.apple.com,reject
@@ -420,6 +423,7 @@ DOMAIN,impression-asia.chinaliftoff.io,reject
 DOMAIN,impression-asia.liftoff.io,reject
 DOMAIN,impression.appsflyer.com,reject
 DOMAIN,in.treasuredata.com,reject
+DOMAIN,ios.bugly.qq.com,reject
 DOMAIN,iot-eu-logser.realme.com,reject
 DOMAIN,iot-logser.realme.com,reject
 DOMAIN,ipv4.kkmh.com,reject
@@ -542,6 +546,7 @@ DOMAIN,mssdk.zijieapi.com,reject
 DOMAIN,mtj.baidu.com,reject
 DOMAIN,nadvideo2.baidu.com,reject
 DOMAIN,newvoice.chiq5.smart-tv.cn,reject
+DOMAIN,nex.163.com,reject
 DOMAIN,nmetrics.samsung.com,reject
 DOMAIN,notes-analytics-events.apple.com,reject
 DOMAIN,notify.sec.miui.com,reject
@@ -714,6 +719,7 @@ DOMAIN,test.ad.xiaomi.com,reject
 DOMAIN,test.e.ad.xiaomi.com,reject
 DOMAIN,tj.b.qq.com,reject
 DOMAIN,tj.video.qq.com,reject
+DOMAIN,tk.anythinktech.com,reject
 DOMAIN,tmead.y.qq.com,reject
 DOMAIN,tmeadcomm.y.qq.com,reject
 DOMAIN,tmfmazu-wangka.m.qq.com,reject
