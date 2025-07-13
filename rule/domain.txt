@@ -296,7 +296,7 @@ data.mistat.india.xiaomi.com
 data.mistat.rus.xiaomi.com
 data.mistat.xiaomi.com
 datacollection.uve.weibo.com
-datk.anythinktech.com
+tk.anythinktech.com
 dc.sigmob.cn
 de.tynt.com
 diagnosis.ad.xiaomi.com
@@ -839,3 +839,10 @@ youku-acs.m.taobao.com
 ytx-file.110route.cn
 zeus.ad.xiaomi.com
 zhihu-web-analytics.zhihu.com
+adstat.izuiyou.com
+ios.bugly.qq.com
+mi.gdt.qq.com
+nex.163.com
+iad.g.163.com
+api.anythinktech.com
+da.anythinktech.com
