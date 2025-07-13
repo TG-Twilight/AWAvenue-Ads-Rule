@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2025-07-14 02:10:40 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2025-07-14 02:25:18 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -291,6 +291,7 @@ DOMAIN,config.inmobi.com,REJECT,extended-matching,pre-matching
 DOMAIN,config.unityads.unity3d.com,REJECT,extended-matching,pre-matching
 DOMAIN,cpc-service-square.aiclk.com,REJECT,extended-matching,pre-matching
 DOMAIN,cpro.baidustatic.com,REJECT,extended-matching,pre-matching
+DOMAIN,crash2.zhihu.com,REJECT,extended-matching,pre-matching
 DOMAIN,crashlyticsreports-pa.googleapis.com,REJECT,extended-matching,pre-matching
 DOMAIN,csjplatform.com,REJECT,extended-matching,pre-matching
 DOMAIN,cws-cctv.conviva.com,REJECT,extended-matching,pre-matching
@@ -386,6 +387,7 @@ DOMAIN,hpplay.cdn.cibn.cc,REJECT,extended-matching,pre-matching
 DOMAIN,httpdns.bcelive.com,REJECT,extended-matching,pre-matching
 DOMAIN,httpdns.ocloud.oppomobile.com,REJECT,extended-matching,pre-matching
 DOMAIN,hugelog.fcbox.com,REJECT,extended-matching,pre-matching
+DOMAIN,huichuan-mc.sm.cn,REJECT,extended-matching,pre-matching
 DOMAIN,huichuan.sm.cn,REJECT,extended-matching,pre-matching
 DOMAIN,hw-ot-ad.a.yximgs.com,REJECT,extended-matching,pre-matching
 DOMAIN,hw-p2p-pull.video-voip.com,REJECT,extended-matching,pre-matching
@@ -841,6 +843,7 @@ DOMAIN,youku-acs.m.taobao.com,REJECT,extended-matching,pre-matching
 DOMAIN,ytx-file.110route.cn,REJECT,extended-matching,pre-matching
 DOMAIN,zeus.ad.xiaomi.com,REJECT,extended-matching,pre-matching
 DOMAIN,zhihu-web-analytics.zhihu.com,REJECT,extended-matching,pre-matching
+DOMAIN,zxid-m.mobileservice.cn,REJECT,extended-matching,pre-matching
 DOMAIN-KEYWORD,.*.1rtb.com,REJECT,extended-matching,pre-matching
 DOMAIN-KEYWORD,.*.a.market.xiaomi.com,REJECT,extended-matching,pre-matching
 DOMAIN-KEYWORD,.*.ad.gameley.com,REJECT,extended-matching,pre-matching

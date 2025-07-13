@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 854
+#Total lines: 857
 #Version: 1.6.6-release
-#Update time: 2025-07-14 02:10:40 UTC+8
-#Update content: 拦截 zuiyou、netease mail master 之广告
+#Update time: 2025-07-14 02:25:18 UTC+8
+#Update content: 拦截一些 Huichuan、zhuoxin 等不良广告
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -294,6 +294,7 @@ DOMAIN,config.inmobi.com
 DOMAIN,config.unityads.unity3d.com
 DOMAIN,cpc-service-square.aiclk.com
 DOMAIN,cpro.baidustatic.com
+DOMAIN,crash2.zhihu.com
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,csjplatform.com
 DOMAIN,cws-cctv.conviva.com
@@ -389,6 +390,7 @@ DOMAIN,hpplay.cdn.cibn.cc
 DOMAIN,httpdns.bcelive.com
 DOMAIN,httpdns.ocloud.oppomobile.com
 DOMAIN,hugelog.fcbox.com
+DOMAIN,huichuan-mc.sm.cn
 DOMAIN,huichuan.sm.cn
 DOMAIN,hw-ot-ad.a.yximgs.com
 DOMAIN,hw-p2p-pull.video-voip.com
@@ -844,6 +846,7 @@ DOMAIN,youku-acs.m.taobao.com
 DOMAIN,ytx-file.110route.cn
 DOMAIN,zeus.ad.xiaomi.com
 DOMAIN,zhihu-web-analytics.zhihu.com
+DOMAIN,zxid-m.mobileservice.cn
 DOMAIN-KEYWORD,.*.1rtb.com
 DOMAIN-KEYWORD,.*.a.market.xiaomi.com
 DOMAIN-KEYWORD,.*.ad.gameley.com

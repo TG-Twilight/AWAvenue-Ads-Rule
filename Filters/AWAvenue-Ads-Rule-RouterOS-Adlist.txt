@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 1674
+#Total lines: 1680
 #Version: 1.6.6-release
-#Update time: 2025-07-14 02:10:40 UTC+8
-#Update content: 拦截 zuiyou、netease mail master 之广告
+#Update time: 2025-07-14 02:25:18 UTC+8
+#Update content: 拦截一些 Huichuan、zhuoxin 等不良广告
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -583,6 +583,8 @@
 :: cpc-service-square.aiclk.com
 0.0.0.0 cpro.baidustatic.com
 :: cpro.baidustatic.com
+0.0.0.0 crash2.zhihu.com
+:: crash2.zhihu.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 :: crashlyticsreports-pa.googleapis.com
 0.0.0.0 csjplatform.com
@@ -773,6 +775,8 @@
 :: httpdns.ocloud.oppomobile.com
 0.0.0.0 hugelog.fcbox.com
 :: hugelog.fcbox.com
+0.0.0.0 huichuan-mc.sm.cn
+:: huichuan-mc.sm.cn
 0.0.0.0 huichuan.sm.cn
 :: huichuan.sm.cn
 0.0.0.0 hw-ot-ad.a.yximgs.com
@@ -1683,3 +1687,5 @@
 :: zeus.ad.xiaomi.com
 0.0.0.0 zhihu-web-analytics.zhihu.com
 :: zhihu-web-analytics.zhihu.com
+0.0.0.0 zxid-m.mobileservice.cn
+:: zxid-m.mobileservice.cn

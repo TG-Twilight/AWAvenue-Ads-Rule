@@ -288,6 +288,7 @@
         "config.unityads.unity3d.com",
         "cpc-service-square.aiclk.com",
         "cpro.baidustatic.com",
+        "crash2.zhihu.com",
         "crashlyticsreports-pa.googleapis.com",
         "csjplatform.com",
         "cws-cctv.conviva.com",
@@ -383,6 +384,7 @@
         "httpdns.bcelive.com",
         "httpdns.ocloud.oppomobile.com",
         "hugelog.fcbox.com",
+        "huichuan-mc.sm.cn",
         "huichuan.sm.cn",
         "hw-ot-ad.a.yximgs.com",
         "hw-p2p-pull.video-voip.com",
@@ -837,7 +839,8 @@
         "youku-acs.m.taobao.com",
         "ytx-file.110route.cn",
         "zeus.ad.xiaomi.com",
-        "zhihu-web-analytics.zhihu.com"
+        "zhihu-web-analytics.zhihu.com",
+        "zxid-m.mobileservice.cn"
       ],
       "domain_regex": [
         ".*.1rtb.com",

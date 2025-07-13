@@ -283,6 +283,7 @@ domain:config.inmobi.com
 domain:config.unityads.unity3d.com
 domain:cpc-service-square.aiclk.com
 domain:cpro.baidustatic.com
+domain:crash2.zhihu.com
 domain:crashlyticsreports-pa.googleapis.com
 domain:csjplatform.com
 domain:cws-cctv.conviva.com
@@ -378,6 +379,7 @@ domain:hpplay.cdn.cibn.cc
 domain:httpdns.bcelive.com
 domain:httpdns.ocloud.oppomobile.com
 domain:hugelog.fcbox.com
+domain:huichuan-mc.sm.cn
 domain:huichuan.sm.cn
 domain:hw-ot-ad.a.yximgs.com
 domain:hw-p2p-pull.video-voip.com
@@ -833,3 +835,4 @@ domain:youku-acs.m.taobao.com
 domain:ytx-file.110route.cn
 domain:zeus.ad.xiaomi.com
 domain:zhihu-web-analytics.zhihu.com
+domain:zxid-m.mobileservice.cn

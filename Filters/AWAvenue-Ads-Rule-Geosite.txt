@@ -283,6 +283,7 @@ full:config.inmobi.com
 full:config.unityads.unity3d.com
 full:cpc-service-square.aiclk.com
 full:cpro.baidustatic.com
+full:crash2.zhihu.com
 full:crashlyticsreports-pa.googleapis.com
 full:csjplatform.com
 full:cws-cctv.conviva.com
@@ -378,6 +379,7 @@ full:hpplay.cdn.cibn.cc
 full:httpdns.bcelive.com
 full:httpdns.ocloud.oppomobile.com
 full:hugelog.fcbox.com
+full:huichuan-mc.sm.cn
 full:huichuan.sm.cn
 full:hw-ot-ad.a.yximgs.com
 full:hw-p2p-pull.video-voip.com
@@ -833,3 +835,4 @@ full:youku-acs.m.taobao.com
 full:ytx-file.110route.cn
 full:zeus.ad.xiaomi.com
 full:zhihu-web-analytics.zhihu.com
+full:zxid-m.mobileservice.cn

@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1670
+!Total lines: 1676
 !Version: 1.6.6-release
-!Update time: 2025-07-14 02:10:40 UTC+8
-!Update content: 拦截 zuiyou、netease mail master 之广告
+!Update time: 2025-07-14 02:25:18 UTC+8
+!Update content: 拦截一些 Huichuan、zhuoxin 等不良广告
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -579,6 +579,8 @@ ip dns static add address=240.0.0.1 name=cpc-service-square.aiclk.com
 ip dns static add address=:: name=cpc-service-square.aiclk.com
 ip dns static add address=240.0.0.1 name=cpro.baidustatic.com
 ip dns static add address=:: name=cpro.baidustatic.com
+ip dns static add address=240.0.0.1 name=crash2.zhihu.com
+ip dns static add address=:: name=crash2.zhihu.com
 ip dns static add address=240.0.0.1 name=crashlyticsreports-pa.googleapis.com
 ip dns static add address=:: name=crashlyticsreports-pa.googleapis.com
 ip dns static add address=240.0.0.1 name=csjplatform.com
@@ -769,6 +771,8 @@ ip dns static add address=240.0.0.1 name=httpdns.ocloud.oppomobile.com
 ip dns static add address=:: name=httpdns.ocloud.oppomobile.com
 ip dns static add address=240.0.0.1 name=hugelog.fcbox.com
 ip dns static add address=:: name=hugelog.fcbox.com
+ip dns static add address=240.0.0.1 name=huichuan-mc.sm.cn
+ip dns static add address=:: name=huichuan-mc.sm.cn
 ip dns static add address=240.0.0.1 name=huichuan.sm.cn
 ip dns static add address=:: name=huichuan.sm.cn
 ip dns static add address=240.0.0.1 name=hw-ot-ad.a.yximgs.com
@@ -1679,3 +1683,5 @@ ip dns static add address=240.0.0.1 name=zeus.ad.xiaomi.com
 ip dns static add address=:: name=zeus.ad.xiaomi.com
 ip dns static add address=240.0.0.1 name=zhihu-web-analytics.zhihu.com
 ip dns static add address=:: name=zhihu-web-analytics.zhihu.com
+ip dns static add address=240.0.0.1 name=zxid-m.mobileservice.cn
+ip dns static add address=:: name=zxid-m.mobileservice.cn
