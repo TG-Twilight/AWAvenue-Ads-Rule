@@ -111,12 +111,6 @@ This is a personal project, updated as time permits. Issues and PRs are welcome.
 
 ---
 
-## 🍁Contributors
-
-<p align="left"><a href="https://github.com/TG-Twilight/AWAvenue-Ads-Rule/graphs/contributors"><img src="https://contrib.rocks/image?repo=TG-Twilight/AWAvenue-Ads-Rule&max=50" /></a></p>
-
----
-
 ## Star History
 
 [![Stargazers over time](https://starchart.cc/TG-Twilight/AWAvenue-Ads-Rule.svg?variant=adaptive)](https://starchart.cc/TG-Twilight/AWAvenue-Ads-Rule)
