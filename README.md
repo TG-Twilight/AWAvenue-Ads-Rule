@@ -2,8 +2,8 @@
 <a href="/README.md">中文</a>&nbsp;|&nbsp;
 <a href="/assets/README_en-US.md">English</a> &nbsp;|&nbsp;
 <a href="/assets/README_Update.md">更新日志</a> &nbsp;|&nbsp;
-<a href="https://doc.awads.cc/?source=GitHub">官方网站[CHINA]</a> &nbsp;|&nbsp;
-<a href="https://awavenue.top/?source=GitHub">官方网站[GLOBAL]</a> 
+<a href="https://awavenue.top/?source=GitHub">官方网站[CLOUDFLARE]</a> &nbsp;|&nbsp;
+<a href="https://doc.awads.cc/?source=GitHub">官方网站[Edge One]</a> 
 </div>
 
 
