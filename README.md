@@ -107,7 +107,7 @@
 
 ## 🍁赞助商 | Special sponsors
 
-### 特别赞助商：[XTCloud - 畅游世界，高速互联](https://cloud.xtyun.top/register?code=M1w4rjdl)
+### [XTCloud - 畅游世界，高速互联](https://cloud.xtyun.top/register?code=M1w4rjdl)
 
 <p align="center">
   <a href="https://www.cloudflare.com/" target="_blank">
