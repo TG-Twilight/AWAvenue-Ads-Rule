@@ -107,9 +107,17 @@
 
 ## 🍁赞助商 | Special sponsors
 
-[XTCloud - 畅游世界，高速互联](https://cloud.xtyun.top/register?code=M1w4rjdl)
+### 特别赞助商：[XTCloud - 畅游世界，高速互联](https://cloud.xtyun.top/register?code=M1w4rjdl)
 
-*本项目文档之 CDN 加速及安全防护由 [Tencent EdgeOne](https://edgeone.ai/zh?from=github) 赞助*
+<p align="center">
+  <a href="https://www.cloudflare.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/CLOUDFLARE/CF_logo_stacked_whitetype.svg" alt="Cloudflare" height="50">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://edgeone.ai/zh?from=github" target="_blank">
+    <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/Tencent/tencentcloud-color.svg" alt="Tencent Cloud" height="50">
+  </a>
+</p>
 
 ---
 
