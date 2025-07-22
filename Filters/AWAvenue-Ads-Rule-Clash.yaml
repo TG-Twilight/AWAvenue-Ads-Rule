@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 862
+#Total lines: 850
 #Version: 1.6.7-release
-#Update time: 2025-07-22 17:23:06 UTC+8
-#Update content: 清理前200行中的无效域名
+#Update time: 2025-07-22 17:37:34 UTC+8
+#Update content: 清理失效域名完毕，暂时告一段落
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -215,7 +215,6 @@ payload:
   - 'applog.uc.cn'
   - 'applog.zijieapi.com'
   - 'applovin.com'
-  - 'applvn.com'
   - 'appversion.115.com'
   - 'aspect-upush.umeng.com'
   - 'auction.unityads.unity3d.com'
@@ -260,7 +259,6 @@ payload:
   - 'cdn-ads.oss-cn-shanghai.aliyuncs.com'
   - 'cdn-f.adsmoloco.com'
   - 'cdn-plugin-sync-upgrade-juui.hismarttv.com'
-  - 'cdn.ad.xiaomi.com'
   - 'cdn.aiclk.com'
   - 'cdn.chinaliftoff-creatives.io'
   - 'cdn.hpplay.com.cn'
@@ -405,17 +403,13 @@ payload:
   - 'ifacelog.iqiyi.com'
   - 'ifs.tanx.com'
   - 'ii.gdt.qq.com'
-  - 'imag8.pubmatic.com'
-  - 'imag86.pubmatic.com'
   - 'image-ad.sm.cn'
   - 'image.hpplay.cn'
-  - 'imageplus.baidu.com'
   - 'images.outbrainimg.com'
   - 'images.pinduoduo.com'
   - 'imdns.hpplay.cn'
   - 'img-c.heytapimage.com'
   - 'img-x.jd.com'
-  - 'img.adnyg.com'
   - 'img.adnyg.com.w.kunlungr.com'
   - 'impression-asia.chinaliftoff.io'
   - 'impression-asia.liftoff.io'
@@ -474,7 +468,6 @@ payload:
   - 'log.amemv.com'
   - 'log.appstore3.huan.tv'
   - 'log.avlyun.com'
-  - 'log.avlyun.sec.intl.miui.com'
   - 'log.byteoversea.com'
   - 'log.fc.yahoo.com'
   - 'log.iflytek.com'
@@ -499,7 +492,6 @@ payload:
   - 'm-adnet.hiaiabc.com'
   - 'm.ad.zhangyue.com'
   - 'm.atm.youku.com'
-  - 'm.kubiqq.com'
   - 'm1.ad.10010.com'
   - 'mapi.m.jd.com'
   - 'masdkv6.3g.qq.com'
@@ -514,8 +506,6 @@ payload:
   - 'mi.gdt.qq.com'
   - 'miav-cse.avlyun.com'
   - 'micro-xdb.com'
-  - 'mime.baidu.com'
-  - 'mine.baidu.com'
   - 'mini-prog-drm.vodplayvideo.net'
   - 'mission-pub.smart-tv.cn'
   - 'miui-fxcse.avlyun.com'
@@ -829,7 +819,6 @@ payload:
   - 'ws.sj.qq.com'
   - 'wv.inner-active.mobi'
   - 'wwads.cn'
-  - 'www42.zskwai.com'
   - 'wxa.wxs.qq.com'
   - 'wxaintpcos.wxqcloud.qq.com.cn'
   - 'wximg.wxs.qq.com'
@@ -839,7 +828,6 @@ payload:
   - 'wxsnsdy.wxs.qq.com'
   - 'wxsnsdythumb.wxs.qq.com'
   - 'xc.gdt.qq.com'
-  - 'xcultur.com'
   - 'xiaomi-dtv.m.cn.miaozhen.com'
   - 'xlog.jd.com'
   - 'xlviiirdr.com'

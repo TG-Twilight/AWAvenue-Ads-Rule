@@ -203,7 +203,6 @@ full:applog.lc.quark.cn
 full:applog.uc.cn
 full:applog.zijieapi.com
 full:applovin.com
-full:applvn.com
 full:appversion.115.com
 full:aspect-upush.umeng.com
 full:auction.unityads.unity3d.com
@@ -248,7 +247,6 @@ full:cdn-ad.wtzw.com
 full:cdn-ads.oss-cn-shanghai.aliyuncs.com
 full:cdn-f.adsmoloco.com
 full:cdn-plugin-sync-upgrade-juui.hismarttv.com
-full:cdn.ad.xiaomi.com
 full:cdn.aiclk.com
 full:cdn.chinaliftoff-creatives.io
 full:cdn.hpplay.com.cn
@@ -393,17 +391,13 @@ full:iadworkbench.apple.com
 full:ifacelog.iqiyi.com
 full:ifs.tanx.com
 full:ii.gdt.qq.com
-full:imag8.pubmatic.com
-full:imag86.pubmatic.com
 full:image-ad.sm.cn
 full:image.hpplay.cn
-full:imageplus.baidu.com
 full:images.outbrainimg.com
 full:images.pinduoduo.com
 full:imdns.hpplay.cn
 full:img-c.heytapimage.com
 full:img-x.jd.com
-full:img.adnyg.com
 full:img.adnyg.com.w.kunlungr.com
 full:impression-asia.chinaliftoff.io
 full:impression-asia.liftoff.io
@@ -462,7 +456,6 @@ full:log.aispeech.com
 full:log.amemv.com
 full:log.appstore3.huan.tv
 full:log.avlyun.com
-full:log.avlyun.sec.intl.miui.com
 full:log.byteoversea.com
 full:log.fc.yahoo.com
 full:log.iflytek.com
@@ -487,7 +480,6 @@ full:luimg.baidu.com
 full:m-adnet.hiaiabc.com
 full:m.ad.zhangyue.com
 full:m.atm.youku.com
-full:m.kubiqq.com
 full:m1.ad.10010.com
 full:mapi.m.jd.com
 full:masdkv6.3g.qq.com
@@ -502,8 +494,6 @@ full:metrika.yandex.ru
 full:mi.gdt.qq.com
 full:miav-cse.avlyun.com
 full:micro-xdb.com
-full:mime.baidu.com
-full:mine.baidu.com
 full:mini-prog-drm.vodplayvideo.net
 full:mission-pub.smart-tv.cn
 full:miui-fxcse.avlyun.com
@@ -817,7 +807,6 @@ full:ws-keyboard.shouji.sogou.com
 full:ws.sj.qq.com
 full:wv.inner-active.mobi
 full:wwads.cn
-full:www42.zskwai.com
 full:wxa.wxs.qq.com
 full:wxaintpcos.wxqcloud.qq.com.cn
 full:wximg.wxs.qq.com
@@ -827,7 +816,6 @@ full:wxsnsdy.tc.qq.com
 full:wxsnsdy.wxs.qq.com
 full:wxsnsdythumb.wxs.qq.com
 full:xc.gdt.qq.com
-full:xcultur.com
 full:xiaomi-dtv.m.cn.miaozhen.com
 full:xlog.jd.com
 full:xlviiirdr.com

@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 862
+#Total lines: 850
 #Version: 1.6.7-release
-#Update time: 2025-07-22 17:23:06 UTC+8
-#Update content: 清理前200行中的无效域名
+#Update time: 2025-07-22 17:37:34 UTC+8
+#Update content: 清理失效域名完毕，暂时告一段落
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -214,7 +214,6 @@ DOMAIN,applog.lc.quark.cn
 DOMAIN,applog.uc.cn
 DOMAIN,applog.zijieapi.com
 DOMAIN,applovin.com
-DOMAIN,applvn.com
 DOMAIN,appversion.115.com
 DOMAIN,aspect-upush.umeng.com
 DOMAIN,auction.unityads.unity3d.com
@@ -259,7 +258,6 @@ DOMAIN,cdn-ad.wtzw.com
 DOMAIN,cdn-ads.oss-cn-shanghai.aliyuncs.com
 DOMAIN,cdn-f.adsmoloco.com
 DOMAIN,cdn-plugin-sync-upgrade-juui.hismarttv.com
-DOMAIN,cdn.ad.xiaomi.com
 DOMAIN,cdn.aiclk.com
 DOMAIN,cdn.chinaliftoff-creatives.io
 DOMAIN,cdn.hpplay.com.cn
@@ -404,17 +402,13 @@ DOMAIN,iadworkbench.apple.com
 DOMAIN,ifacelog.iqiyi.com
 DOMAIN,ifs.tanx.com
 DOMAIN,ii.gdt.qq.com
-DOMAIN,imag8.pubmatic.com
-DOMAIN,imag86.pubmatic.com
 DOMAIN,image-ad.sm.cn
 DOMAIN,image.hpplay.cn
-DOMAIN,imageplus.baidu.com
 DOMAIN,images.outbrainimg.com
 DOMAIN,images.pinduoduo.com
 DOMAIN,imdns.hpplay.cn
 DOMAIN,img-c.heytapimage.com
 DOMAIN,img-x.jd.com
-DOMAIN,img.adnyg.com
 DOMAIN,img.adnyg.com.w.kunlungr.com
 DOMAIN,impression-asia.chinaliftoff.io
 DOMAIN,impression-asia.liftoff.io
@@ -473,7 +467,6 @@ DOMAIN,log.aispeech.com
 DOMAIN,log.amemv.com
 DOMAIN,log.appstore3.huan.tv
 DOMAIN,log.avlyun.com
-DOMAIN,log.avlyun.sec.intl.miui.com
 DOMAIN,log.byteoversea.com
 DOMAIN,log.fc.yahoo.com
 DOMAIN,log.iflytek.com
@@ -498,7 +491,6 @@ DOMAIN,luimg.baidu.com
 DOMAIN,m-adnet.hiaiabc.com
 DOMAIN,m.ad.zhangyue.com
 DOMAIN,m.atm.youku.com
-DOMAIN,m.kubiqq.com
 DOMAIN,m1.ad.10010.com
 DOMAIN,mapi.m.jd.com
 DOMAIN,masdkv6.3g.qq.com
@@ -513,8 +505,6 @@ DOMAIN,metrika.yandex.ru
 DOMAIN,mi.gdt.qq.com
 DOMAIN,miav-cse.avlyun.com
 DOMAIN,micro-xdb.com
-DOMAIN,mime.baidu.com
-DOMAIN,mine.baidu.com
 DOMAIN,mini-prog-drm.vodplayvideo.net
 DOMAIN,mission-pub.smart-tv.cn
 DOMAIN,miui-fxcse.avlyun.com
@@ -828,7 +818,6 @@ DOMAIN,ws-keyboard.shouji.sogou.com
 DOMAIN,ws.sj.qq.com
 DOMAIN,wv.inner-active.mobi
 DOMAIN,wwads.cn
-DOMAIN,www42.zskwai.com
 DOMAIN,wxa.wxs.qq.com
 DOMAIN,wxaintpcos.wxqcloud.qq.com.cn
 DOMAIN,wximg.wxs.qq.com
@@ -838,7 +827,6 @@ DOMAIN,wxsnsdy.tc.qq.com
 DOMAIN,wxsnsdy.wxs.qq.com
 DOMAIN,wxsnsdythumb.wxs.qq.com
 DOMAIN,xc.gdt.qq.com
-DOMAIN,xcultur.com
 DOMAIN,xiaomi-dtv.m.cn.miaozhen.com
 DOMAIN,xlog.jd.com
 DOMAIN,xlviiirdr.com

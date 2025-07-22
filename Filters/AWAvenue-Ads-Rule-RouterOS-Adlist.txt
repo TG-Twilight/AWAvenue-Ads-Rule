@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 1690
+#Total lines: 1666
 #Version: 1.6.7-release
-#Update time: 2025-07-22 17:23:06 UTC+8
-#Update content: 清理前200行中的无效域名
+#Update time: 2025-07-22 17:37:34 UTC+8
+#Update content: 清理失效域名完毕，暂时告一段落
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -423,8 +423,6 @@
 :: applog.zijieapi.com
 0.0.0.0 applovin.com
 :: applovin.com
-0.0.0.0 applvn.com
-:: applvn.com
 0.0.0.0 appversion.115.com
 :: appversion.115.com
 0.0.0.0 aspect-upush.umeng.com
@@ -513,8 +511,6 @@
 :: cdn-f.adsmoloco.com
 0.0.0.0 cdn-plugin-sync-upgrade-juui.hismarttv.com
 :: cdn-plugin-sync-upgrade-juui.hismarttv.com
-0.0.0.0 cdn.ad.xiaomi.com
-:: cdn.ad.xiaomi.com
 0.0.0.0 cdn.aiclk.com
 :: cdn.aiclk.com
 0.0.0.0 cdn.chinaliftoff-creatives.io
@@ -803,16 +799,10 @@
 :: ifs.tanx.com
 0.0.0.0 ii.gdt.qq.com
 :: ii.gdt.qq.com
-0.0.0.0 imag8.pubmatic.com
-:: imag8.pubmatic.com
-0.0.0.0 imag86.pubmatic.com
-:: imag86.pubmatic.com
 0.0.0.0 image-ad.sm.cn
 :: image-ad.sm.cn
 0.0.0.0 image.hpplay.cn
 :: image.hpplay.cn
-0.0.0.0 imageplus.baidu.com
-:: imageplus.baidu.com
 0.0.0.0 images.outbrainimg.com
 :: images.outbrainimg.com
 0.0.0.0 images.pinduoduo.com
@@ -823,8 +813,6 @@
 :: img-c.heytapimage.com
 0.0.0.0 img-x.jd.com
 :: img-x.jd.com
-0.0.0.0 img.adnyg.com
-:: img.adnyg.com
 0.0.0.0 img.adnyg.com.w.kunlungr.com
 :: img.adnyg.com.w.kunlungr.com
 0.0.0.0 impression-asia.chinaliftoff.io
@@ -941,8 +929,6 @@
 :: log.appstore3.huan.tv
 0.0.0.0 log.avlyun.com
 :: log.avlyun.com
-0.0.0.0 log.avlyun.sec.intl.miui.com
-:: log.avlyun.sec.intl.miui.com
 0.0.0.0 log.byteoversea.com
 :: log.byteoversea.com
 0.0.0.0 log.fc.yahoo.com
@@ -991,8 +977,6 @@
 :: m.ad.zhangyue.com
 0.0.0.0 m.atm.youku.com
 :: m.atm.youku.com
-0.0.0.0 m.kubiqq.com
-:: m.kubiqq.com
 0.0.0.0 m1.ad.10010.com
 :: m1.ad.10010.com
 0.0.0.0 mapi.m.jd.com
@@ -1021,10 +1005,6 @@
 :: miav-cse.avlyun.com
 0.0.0.0 micro-xdb.com
 :: micro-xdb.com
-0.0.0.0 mime.baidu.com
-:: mime.baidu.com
-0.0.0.0 mine.baidu.com
-:: mine.baidu.com
 0.0.0.0 mini-prog-drm.vodplayvideo.net
 :: mini-prog-drm.vodplayvideo.net
 0.0.0.0 mission-pub.smart-tv.cn
@@ -1651,8 +1631,6 @@
 :: wv.inner-active.mobi
 0.0.0.0 wwads.cn
 :: wwads.cn
-0.0.0.0 www42.zskwai.com
-:: www42.zskwai.com
 0.0.0.0 wxa.wxs.qq.com
 :: wxa.wxs.qq.com
 0.0.0.0 wxaintpcos.wxqcloud.qq.com.cn
@@ -1671,8 +1649,6 @@
 :: wxsnsdythumb.wxs.qq.com
 0.0.0.0 xc.gdt.qq.com
 :: xc.gdt.qq.com
-0.0.0.0 xcultur.com
-:: xcultur.com
 0.0.0.0 xiaomi-dtv.m.cn.miaozhen.com
 :: xiaomi-dtv.m.cn.miaozhen.com
 0.0.0.0 xlog.jd.com

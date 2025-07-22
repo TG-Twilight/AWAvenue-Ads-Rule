@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 843
+#Total lines: 831
 #Version: 1.6.7-release
-#Update time: 2025-07-22 17:23:06 UTC+8
-#Update content: 清理前200行中的无效域名
+#Update time: 2025-07-22 17:37:34 UTC+8
+#Update content: 清理失效域名完毕，暂时告一段落
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -217,7 +217,6 @@ domain, applog.lc.quark.cn
 domain, applog.uc.cn
 domain, applog.zijieapi.com
 domain, applovin.com
-domain, applvn.com
 domain, appversion.115.com
 domain, aspect-upush.umeng.com
 domain, auction.unityads.unity3d.com
@@ -262,7 +261,6 @@ domain, cdn-ad.wtzw.com
 domain, cdn-ads.oss-cn-shanghai.aliyuncs.com
 domain, cdn-f.adsmoloco.com
 domain, cdn-plugin-sync-upgrade-juui.hismarttv.com
-domain, cdn.ad.xiaomi.com
 domain, cdn.aiclk.com
 domain, cdn.chinaliftoff-creatives.io
 domain, cdn.hpplay.com.cn
@@ -407,17 +405,13 @@ domain, iadworkbench.apple.com
 domain, ifacelog.iqiyi.com
 domain, ifs.tanx.com
 domain, ii.gdt.qq.com
-domain, imag8.pubmatic.com
-domain, imag86.pubmatic.com
 domain, image-ad.sm.cn
 domain, image.hpplay.cn
-domain, imageplus.baidu.com
 domain, images.outbrainimg.com
 domain, images.pinduoduo.com
 domain, imdns.hpplay.cn
 domain, img-c.heytapimage.com
 domain, img-x.jd.com
-domain, img.adnyg.com
 domain, img.adnyg.com.w.kunlungr.com
 domain, impression-asia.chinaliftoff.io
 domain, impression-asia.liftoff.io
@@ -476,7 +470,6 @@ domain, log.aispeech.com
 domain, log.amemv.com
 domain, log.appstore3.huan.tv
 domain, log.avlyun.com
-domain, log.avlyun.sec.intl.miui.com
 domain, log.byteoversea.com
 domain, log.fc.yahoo.com
 domain, log.iflytek.com
@@ -501,7 +494,6 @@ domain, luimg.baidu.com
 domain, m-adnet.hiaiabc.com
 domain, m.ad.zhangyue.com
 domain, m.atm.youku.com
-domain, m.kubiqq.com
 domain, m1.ad.10010.com
 domain, mapi.m.jd.com
 domain, masdkv6.3g.qq.com
@@ -516,8 +508,6 @@ domain, metrika.yandex.ru
 domain, mi.gdt.qq.com
 domain, miav-cse.avlyun.com
 domain, micro-xdb.com
-domain, mime.baidu.com
-domain, mine.baidu.com
 domain, mini-prog-drm.vodplayvideo.net
 domain, mission-pub.smart-tv.cn
 domain, miui-fxcse.avlyun.com
@@ -831,7 +821,6 @@ domain, ws-keyboard.shouji.sogou.com
 domain, ws.sj.qq.com
 domain, wv.inner-active.mobi
 domain, wwads.cn
-domain, www42.zskwai.com
 domain, wxa.wxs.qq.com
 domain, wxaintpcos.wxqcloud.qq.com.cn
 domain, wximg.wxs.qq.com
@@ -841,7 +830,6 @@ domain, wxsnsdy.tc.qq.com
 domain, wxsnsdy.wxs.qq.com
 domain, wxsnsdythumb.wxs.qq.com
 domain, xc.gdt.qq.com
-domain, xcultur.com
 domain, xiaomi-dtv.m.cn.miaozhen.com
 domain, xlog.jd.com
 domain, xlviiirdr.com
