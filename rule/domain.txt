@@ -206,7 +206,6 @@ applog.lc.quark.cn
 applog.uc.cn
 applog.zijieapi.com
 applovin.com
-applvn.com
 appversion.115.com
 aspect-upush.umeng.com
 auction.unityads.unity3d.com
@@ -251,7 +250,6 @@ cdn-ad.wtzw.com
 cdn-ads.oss-cn-shanghai.aliyuncs.com
 cdn-f.adsmoloco.com
 cdn-plugin-sync-upgrade-juui.hismarttv.com
-cdn.ad.xiaomi.com
 cdn.aiclk.com
 cdn.chinaliftoff-creatives.io
 cdn.hpplay.com.cn
@@ -398,17 +396,13 @@ iadworkbench.apple.com
 ifacelog.iqiyi.com
 ifs.tanx.com
 ii.gdt.qq.com
-imag8.pubmatic.com
-imag86.pubmatic.com
 image-ad.sm.cn
 image.hpplay.cn
-imageplus.baidu.com
 images.outbrainimg.com
 images.pinduoduo.com
 imdns.hpplay.cn
 img-c.heytapimage.com
 img-x.jd.com
-img.adnyg.com
 img.adnyg.com.w.kunlungr.com
 impression-asia.chinaliftoff.io
 impression-asia.liftoff.io
@@ -467,7 +461,6 @@ log.aispeech.com
 log.amemv.com
 log.appstore3.huan.tv
 log.avlyun.com
-log.avlyun.sec.intl.miui.com
 log.byteoversea.com
 log.fc.yahoo.com
 log.iflytek.com
@@ -494,7 +487,6 @@ luimg.baidu.com
 m-adnet.hiaiabc.com
 m.ad.zhangyue.com
 m.atm.youku.com
-m.kubiqq.com
 m1.ad.10010.com
 mapi.m.jd.com
 masdkv6.3g.qq.com
@@ -510,8 +502,6 @@ mi.gdt.qq.com
 mi.gdt.qq.com
 miav-cse.avlyun.com
 micro-xdb.com
-mime.baidu.com
-mine.baidu.com
 mini-prog-drm.vodplayvideo.net
 mission-pub.smart-tv.cn
 miui-fxcse.avlyun.com
@@ -831,7 +821,6 @@ ws-keyboard.shouji.sogou.com
 ws.sj.qq.com
 wv.inner-active.mobi
 wwads.cn
-www42.zskwai.com
 wxa.wxs.qq.com
 wxaintpcos.wxqcloud.qq.com.cn
 wximg.wxs.qq.com
@@ -841,7 +830,6 @@ wxsnsdy.tc.qq.com
 wxsnsdy.wxs.qq.com
 wxsnsdythumb.wxs.qq.com
 xc.gdt.qq.com
-xcultur.com
 xiaomi-dtv.m.cn.miaozhen.com
 xlog.jd.com
 xlviiirdr.com
