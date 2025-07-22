@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1676
+!Total lines: 1698
 !Version: 1.6.7-release
-!Update time: 2025-07-14 02:48:08 UTC+8
-!Update content: 拦截一些 Huichuan、zhuoxin 等不良广告
+!Update time: 2025-07-22 17:10:06 UTC+8
+!Update content: 补充更多的 "tncX" 类 zijie 系列域名，同时感谢 @kanao7 和 @saldry
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -283,6 +283,8 @@ ip dns static add address=240.0.0.1 name=adview.cn
 ip dns static add address=:: name=adview.cn
 ip dns static add address=240.0.0.1 name=adx-ad.smart-tv.cn
 ip dns static add address=:: name=adx-ad.smart-tv.cn
+ip dns static add address=240.0.0.1 name=adx-bj-req.anythinktech.com
+ip dns static add address=:: name=adx-bj-req.anythinktech.com
 ip dns static add address=240.0.0.1 name=adx-bj.anythinktech.com
 ip dns static add address=:: name=adx-bj.anythinktech.com
 ip dns static add address=240.0.0.1 name=adx-cn.anythinktech.com
@@ -961,8 +963,6 @@ ip dns static add address=240.0.0.1 name=log.pinterest.com
 ip dns static add address=:: name=log.pinterest.com
 ip dns static add address=240.0.0.1 name=log.popin.cc
 ip dns static add address=:: name=log.popin.cc
-ip dns static add address=240.0.0.1 name=log.snssdk.com
-ip dns static add address=:: name=log.snssdk.com
 ip dns static add address=240.0.0.1 name=log.stat.kugou.com
 ip dns static add address=:: name=log.stat.kugou.com
 ip dns static add address=240.0.0.1 name=log.tagtic.cn
@@ -1011,6 +1011,8 @@ ip dns static add address=240.0.0.1 name=mazu.m.qq.com
 ip dns static add address=:: name=mazu.m.qq.com
 ip dns static add address=240.0.0.1 name=mbdlog.iqiyi.com
 ip dns static add address=:: name=mbdlog.iqiyi.com
+ip dns static add address=240.0.0.1 name=mcs.zijieapi.com
+ip dns static add address=:: name=mcs.zijieapi.com
 ip dns static add address=240.0.0.1 name=metrics.data.hicloud.com
 ip dns static add address=:: name=metrics.data.hicloud.com
 ip dns static add address=240.0.0.1 name=metrics.icloud.com
@@ -1203,6 +1205,8 @@ ip dns static add address=240.0.0.1 name=pos.baidu.com
 ip dns static add address=:: name=pos.baidu.com
 ip dns static add address=240.0.0.1 name=prod-mediate-events.applovin.com
 ip dns static add address=:: name=prod-mediate-events.applovin.com
+ip dns static add address=240.0.0.1 name=promotion-partner.kuaishou.com
+ip dns static add address=:: name=promotion-partner.kuaishou.com
 ip dns static add address=240.0.0.1 name=proxy.advp.apple.com
 ip dns static add address=:: name=proxy.advp.apple.com
 ip dns static add address=240.0.0.1 name=public.gdtimg.com
@@ -1421,6 +1425,8 @@ ip dns static add address=240.0.0.1 name=tdsdk.cpatrk.net
 ip dns static add address=:: name=tdsdk.cpatrk.net
 ip dns static add address=240.0.0.1 name=tdsdk.xdrig.com
 ip dns static add address=:: name=tdsdk.xdrig.com
+ip dns static add address=240.0.0.1 name=telecome.cn
+ip dns static add address=:: name=telecome.cn
 ip dns static add address=240.0.0.1 name=telemetry.sdk.inmobi.com
 ip dns static add address=:: name=telemetry.sdk.inmobi.com
 ip dns static add address=240.0.0.1 name=tencent-dtv.m.cn.miaozhen.com
@@ -1447,20 +1453,36 @@ ip dns static add address=240.0.0.1 name=tmfsdk.m.qq.com
 ip dns static add address=:: name=tmfsdk.m.qq.com
 ip dns static add address=240.0.0.1 name=tmfsdktcpv4.m.qq.com
 ip dns static add address=:: name=tmfsdktcpv4.m.qq.com
+ip dns static add address=240.0.0.1 name=tnc0-aliec2.zijieapi.com
+ip dns static add address=:: name=tnc0-aliec2.zijieapi.com
+ip dns static add address=240.0.0.1 name=tnc0-alisc1.zijieapi.com
+ip dns static add address=:: name=tnc0-alisc1.zijieapi.com
+ip dns static add address=240.0.0.1 name=tnc0-bjlgy.zijieapi.com
+ip dns static add address=:: name=tnc0-bjlgy.zijieapi.com
 ip dns static add address=240.0.0.1 name=tnc3-aliec1.toutiaoapi.com
 ip dns static add address=:: name=tnc3-aliec1.toutiaoapi.com
 ip dns static add address=240.0.0.1 name=tnc3-aliec2.bytedance.com
 ip dns static add address=:: name=tnc3-aliec2.bytedance.com
+ip dns static add address=240.0.0.1 name=tnc3-aliec2.snssdk.com
+ip dns static add address=:: name=tnc3-aliec2.snssdk.com
 ip dns static add address=240.0.0.1 name=tnc3-aliec2.toutiaoapi.com
 ip dns static add address=:: name=tnc3-aliec2.toutiaoapi.com
+ip dns static add address=240.0.0.1 name=tnc3-aliec2.zijieapi.com
+ip dns static add address=:: name=tnc3-aliec2.zijieapi.com
 ip dns static add address=240.0.0.1 name=tnc3-alisc1.bytedance.com
 ip dns static add address=:: name=tnc3-alisc1.bytedance.com
+ip dns static add address=240.0.0.1 name=tnc3-alisc1.snssdk.com
+ip dns static add address=:: name=tnc3-alisc1.snssdk.com
+ip dns static add address=240.0.0.1 name=tnc3-alisc1.toutiaoapi.com
+ip dns static add address=:: name=tnc3-alisc1.toutiaoapi.com
 ip dns static add address=240.0.0.1 name=tnc3-alisc1.zijieapi.com
 ip dns static add address=:: name=tnc3-alisc1.zijieapi.com
 ip dns static add address=240.0.0.1 name=tnc3-alisc2.zijieapi.com
 ip dns static add address=:: name=tnc3-alisc2.zijieapi.com
 ip dns static add address=240.0.0.1 name=tnc3-bjlgy.bytedance.com
 ip dns static add address=:: name=tnc3-bjlgy.bytedance.com
+ip dns static add address=240.0.0.1 name=tnc3-bjlgy.snssdk.com
+ip dns static add address=:: name=tnc3-bjlgy.snssdk.com
 ip dns static add address=240.0.0.1 name=tnc3-bjlgy.toutiaoapi.com
 ip dns static add address=:: name=tnc3-bjlgy.toutiaoapi.com
 ip dns static add address=240.0.0.1 name=tnc3-bjlgy.zijieapi.com

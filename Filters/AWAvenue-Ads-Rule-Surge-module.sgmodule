@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2025-07-14 02:48:08 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2025-07-22 17:10:06 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -143,6 +143,7 @@ DOMAIN,advertising.yandex.ru,REJECT,extended-matching,pre-matching
 DOMAIN,advice-ads.s3.amazonaws.com,REJECT,extended-matching,pre-matching
 DOMAIN,adview.cn,REJECT,extended-matching,pre-matching
 DOMAIN,adx-ad.smart-tv.cn,REJECT,extended-matching,pre-matching
+DOMAIN,adx-bj-req.anythinktech.com,REJECT,extended-matching,pre-matching
 DOMAIN,adx-bj.anythinktech.com,REJECT,extended-matching,pre-matching
 DOMAIN,adx-cn.anythinktech.com,REJECT,extended-matching,pre-matching
 DOMAIN,adx-drcn.op.dbankcloud.cn,REJECT,extended-matching,pre-matching
@@ -482,7 +483,6 @@ DOMAIN,log.iflytek.com,REJECT,extended-matching,pre-matching
 DOMAIN,log.kuwo.cn,REJECT,extended-matching,pre-matching
 DOMAIN,log.pinterest.com,REJECT,extended-matching,pre-matching
 DOMAIN,log.popin.cc,REJECT,extended-matching,pre-matching
-DOMAIN,log.snssdk.com,REJECT,extended-matching,pre-matching
 DOMAIN,log.stat.kugou.com,REJECT,extended-matching,pre-matching
 DOMAIN,log.tagtic.cn,REJECT,extended-matching,pre-matching
 DOMAIN,log.tbs.qq.com,REJECT,extended-matching,pre-matching
@@ -507,6 +507,7 @@ DOMAIN,mapi.m.jd.com,REJECT,extended-matching,pre-matching
 DOMAIN,masdkv6.3g.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,mazu.m.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,mbdlog.iqiyi.com,REJECT,extended-matching,pre-matching
+DOMAIN,mcs.zijieapi.com,REJECT,extended-matching,pre-matching
 DOMAIN,metrics.data.hicloud.com,REJECT,extended-matching,pre-matching
 DOMAIN,metrics.icloud.com,REJECT,extended-matching,pre-matching
 DOMAIN,metrics.mzstatic.com,REJECT,extended-matching,pre-matching
@@ -603,6 +604,7 @@ DOMAIN,pms.mb.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,policy.video.ptqy.gitv.tv,REJECT,extended-matching,pre-matching
 DOMAIN,pos.baidu.com,REJECT,extended-matching,pre-matching
 DOMAIN,prod-mediate-events.applovin.com,REJECT,extended-matching,pre-matching
+DOMAIN,promotion-partner.kuaishou.com,REJECT,extended-matching,pre-matching
 DOMAIN,proxy.advp.apple.com,REJECT,extended-matching,pre-matching
 DOMAIN,public.gdtimg.com,REJECT,extended-matching,pre-matching
 DOMAIN,q.i.gdt.qq.com,REJECT,extended-matching,pre-matching
@@ -712,6 +714,7 @@ DOMAIN,tangram.e.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,tdc.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,tdsdk.cpatrk.net,REJECT,extended-matching,pre-matching
 DOMAIN,tdsdk.xdrig.com,REJECT,extended-matching,pre-matching
+DOMAIN,telecome.cn,REJECT,extended-matching,pre-matching
 DOMAIN,telemetry.sdk.inmobi.com,REJECT,extended-matching,pre-matching
 DOMAIN,tencent-dtv.m.cn.miaozhen.com,REJECT,extended-matching,pre-matching
 DOMAIN,test.ad.xiaomi.com,REJECT,extended-matching,pre-matching
@@ -725,13 +728,21 @@ DOMAIN,tmfmazu-wangka.m.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,tmfmazu.m.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,tmfsdk.m.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,tmfsdktcpv4.m.qq.com,REJECT,extended-matching,pre-matching
+DOMAIN,tnc0-aliec2.zijieapi.com,REJECT,extended-matching,pre-matching
+DOMAIN,tnc0-alisc1.zijieapi.com,REJECT,extended-matching,pre-matching
+DOMAIN,tnc0-bjlgy.zijieapi.com,REJECT,extended-matching,pre-matching
 DOMAIN,tnc3-aliec1.toutiaoapi.com,REJECT,extended-matching,pre-matching
 DOMAIN,tnc3-aliec2.bytedance.com,REJECT,extended-matching,pre-matching
+DOMAIN,tnc3-aliec2.snssdk.com,REJECT,extended-matching,pre-matching
 DOMAIN,tnc3-aliec2.toutiaoapi.com,REJECT,extended-matching,pre-matching
+DOMAIN,tnc3-aliec2.zijieapi.com,REJECT,extended-matching,pre-matching
 DOMAIN,tnc3-alisc1.bytedance.com,REJECT,extended-matching,pre-matching
+DOMAIN,tnc3-alisc1.snssdk.com,REJECT,extended-matching,pre-matching
+DOMAIN,tnc3-alisc1.toutiaoapi.com,REJECT,extended-matching,pre-matching
 DOMAIN,tnc3-alisc1.zijieapi.com,REJECT,extended-matching,pre-matching
 DOMAIN,tnc3-alisc2.zijieapi.com,REJECT,extended-matching,pre-matching
 DOMAIN,tnc3-bjlgy.bytedance.com,REJECT,extended-matching,pre-matching
+DOMAIN,tnc3-bjlgy.snssdk.com,REJECT,extended-matching,pre-matching
 DOMAIN,tnc3-bjlgy.toutiaoapi.com,REJECT,extended-matching,pre-matching
 DOMAIN,tnc3-bjlgy.zijieapi.com,REJECT,extended-matching,pre-matching
 DOMAIN,toblog.ctobsnssdk.com,REJECT,extended-matching,pre-matching

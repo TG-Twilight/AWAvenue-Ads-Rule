@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 857
+#Total lines: 868
 #Version: 1.6.7-release
-#Update time: 2025-07-14 02:48:08 UTC+8
-#Update content: 拦截一些 Huichuan、zhuoxin 等不良广告
+#Update time: 2025-07-22 17:10:06 UTC+8
+#Update content: 补充更多的 "tncX" 类 zijie 系列域名，同时感谢 @kanao7 和 @saldry
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -146,6 +146,7 @@ DOMAIN,advertising.yandex.ru,reject
 DOMAIN,advice-ads.s3.amazonaws.com,reject
 DOMAIN,adview.cn,reject
 DOMAIN,adx-ad.smart-tv.cn,reject
+DOMAIN,adx-bj-req.anythinktech.com,reject
 DOMAIN,adx-bj.anythinktech.com,reject
 DOMAIN,adx-cn.anythinktech.com,reject
 DOMAIN,adx-drcn.op.dbankcloud.cn,reject
@@ -485,7 +486,6 @@ DOMAIN,log.iflytek.com,reject
 DOMAIN,log.kuwo.cn,reject
 DOMAIN,log.pinterest.com,reject
 DOMAIN,log.popin.cc,reject
-DOMAIN,log.snssdk.com,reject
 DOMAIN,log.stat.kugou.com,reject
 DOMAIN,log.tagtic.cn,reject
 DOMAIN,log.tbs.qq.com,reject
@@ -510,6 +510,7 @@ DOMAIN,mapi.m.jd.com,reject
 DOMAIN,masdkv6.3g.qq.com,reject
 DOMAIN,mazu.m.qq.com,reject
 DOMAIN,mbdlog.iqiyi.com,reject
+DOMAIN,mcs.zijieapi.com,reject
 DOMAIN,metrics.data.hicloud.com,reject
 DOMAIN,metrics.icloud.com,reject
 DOMAIN,metrics.mzstatic.com,reject
@@ -606,6 +607,7 @@ DOMAIN,pms.mb.qq.com,reject
 DOMAIN,policy.video.ptqy.gitv.tv,reject
 DOMAIN,pos.baidu.com,reject
 DOMAIN,prod-mediate-events.applovin.com,reject
+DOMAIN,promotion-partner.kuaishou.com,reject
 DOMAIN,proxy.advp.apple.com,reject
 DOMAIN,public.gdtimg.com,reject
 DOMAIN,q.i.gdt.qq.com,reject
@@ -715,6 +717,7 @@ DOMAIN,tangram.e.qq.com,reject
 DOMAIN,tdc.qq.com,reject
 DOMAIN,tdsdk.cpatrk.net,reject
 DOMAIN,tdsdk.xdrig.com,reject
+DOMAIN,telecome.cn,reject
 DOMAIN,telemetry.sdk.inmobi.com,reject
 DOMAIN,tencent-dtv.m.cn.miaozhen.com,reject
 DOMAIN,test.ad.xiaomi.com,reject
@@ -728,13 +731,21 @@ DOMAIN,tmfmazu-wangka.m.qq.com,reject
 DOMAIN,tmfmazu.m.qq.com,reject
 DOMAIN,tmfsdk.m.qq.com,reject
 DOMAIN,tmfsdktcpv4.m.qq.com,reject
+DOMAIN,tnc0-aliec2.zijieapi.com,reject
+DOMAIN,tnc0-alisc1.zijieapi.com,reject
+DOMAIN,tnc0-bjlgy.zijieapi.com,reject
 DOMAIN,tnc3-aliec1.toutiaoapi.com,reject
 DOMAIN,tnc3-aliec2.bytedance.com,reject
+DOMAIN,tnc3-aliec2.snssdk.com,reject
 DOMAIN,tnc3-aliec2.toutiaoapi.com,reject
+DOMAIN,tnc3-aliec2.zijieapi.com,reject
 DOMAIN,tnc3-alisc1.bytedance.com,reject
+DOMAIN,tnc3-alisc1.snssdk.com,reject
+DOMAIN,tnc3-alisc1.toutiaoapi.com,reject
 DOMAIN,tnc3-alisc1.zijieapi.com,reject
 DOMAIN,tnc3-alisc2.zijieapi.com,reject
 DOMAIN,tnc3-bjlgy.bytedance.com,reject
+DOMAIN,tnc3-bjlgy.snssdk.com,reject
 DOMAIN,tnc3-bjlgy.toutiaoapi.com,reject
 DOMAIN,tnc3-bjlgy.zijieapi.com,reject
 DOMAIN,toblog.ctobsnssdk.com,reject

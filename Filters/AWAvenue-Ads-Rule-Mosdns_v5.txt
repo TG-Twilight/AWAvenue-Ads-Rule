@@ -135,6 +135,7 @@ domain:advertising.yandex.ru
 domain:advice-ads.s3.amazonaws.com
 domain:adview.cn
 domain:adx-ad.smart-tv.cn
+domain:adx-bj-req.anythinktech.com
 domain:adx-bj.anythinktech.com
 domain:adx-cn.anythinktech.com
 domain:adx-drcn.op.dbankcloud.cn
@@ -474,7 +475,6 @@ domain:log.iflytek.com
 domain:log.kuwo.cn
 domain:log.pinterest.com
 domain:log.popin.cc
-domain:log.snssdk.com
 domain:log.stat.kugou.com
 domain:log.tagtic.cn
 domain:log.tbs.qq.com
@@ -499,6 +499,7 @@ domain:mapi.m.jd.com
 domain:masdkv6.3g.qq.com
 domain:mazu.m.qq.com
 domain:mbdlog.iqiyi.com
+domain:mcs.zijieapi.com
 domain:metrics.data.hicloud.com
 domain:metrics.icloud.com
 domain:metrics.mzstatic.com
@@ -595,6 +596,7 @@ domain:pms.mb.qq.com
 domain:policy.video.ptqy.gitv.tv
 domain:pos.baidu.com
 domain:prod-mediate-events.applovin.com
+domain:promotion-partner.kuaishou.com
 domain:proxy.advp.apple.com
 domain:public.gdtimg.com
 domain:q.i.gdt.qq.com
@@ -704,6 +706,7 @@ domain:tangram.e.qq.com
 domain:tdc.qq.com
 domain:tdsdk.cpatrk.net
 domain:tdsdk.xdrig.com
+domain:telecome.cn
 domain:telemetry.sdk.inmobi.com
 domain:tencent-dtv.m.cn.miaozhen.com
 domain:test.ad.xiaomi.com
@@ -717,13 +720,21 @@ domain:tmfmazu-wangka.m.qq.com
 domain:tmfmazu.m.qq.com
 domain:tmfsdk.m.qq.com
 domain:tmfsdktcpv4.m.qq.com
+domain:tnc0-aliec2.zijieapi.com
+domain:tnc0-alisc1.zijieapi.com
+domain:tnc0-bjlgy.zijieapi.com
 domain:tnc3-aliec1.toutiaoapi.com
 domain:tnc3-aliec2.bytedance.com
+domain:tnc3-aliec2.snssdk.com
 domain:tnc3-aliec2.toutiaoapi.com
+domain:tnc3-aliec2.zijieapi.com
 domain:tnc3-alisc1.bytedance.com
+domain:tnc3-alisc1.snssdk.com
+domain:tnc3-alisc1.toutiaoapi.com
 domain:tnc3-alisc1.zijieapi.com
 domain:tnc3-alisc2.zijieapi.com
 domain:tnc3-bjlgy.bytedance.com
+domain:tnc3-bjlgy.snssdk.com
 domain:tnc3-bjlgy.toutiaoapi.com
 domain:tnc3-bjlgy.zijieapi.com
 domain:toblog.ctobsnssdk.com

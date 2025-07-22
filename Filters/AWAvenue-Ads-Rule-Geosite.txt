@@ -135,6 +135,7 @@ full:advertising.yandex.ru
 full:advice-ads.s3.amazonaws.com
 full:adview.cn
 full:adx-ad.smart-tv.cn
+full:adx-bj-req.anythinktech.com
 full:adx-bj.anythinktech.com
 full:adx-cn.anythinktech.com
 full:adx-drcn.op.dbankcloud.cn
@@ -474,7 +475,6 @@ full:log.iflytek.com
 full:log.kuwo.cn
 full:log.pinterest.com
 full:log.popin.cc
-full:log.snssdk.com
 full:log.stat.kugou.com
 full:log.tagtic.cn
 full:log.tbs.qq.com
@@ -499,6 +499,7 @@ full:mapi.m.jd.com
 full:masdkv6.3g.qq.com
 full:mazu.m.qq.com
 full:mbdlog.iqiyi.com
+full:mcs.zijieapi.com
 full:metrics.data.hicloud.com
 full:metrics.icloud.com
 full:metrics.mzstatic.com
@@ -595,6 +596,7 @@ full:pms.mb.qq.com
 full:policy.video.ptqy.gitv.tv
 full:pos.baidu.com
 full:prod-mediate-events.applovin.com
+full:promotion-partner.kuaishou.com
 full:proxy.advp.apple.com
 full:public.gdtimg.com
 full:q.i.gdt.qq.com
@@ -704,6 +706,7 @@ full:tangram.e.qq.com
 full:tdc.qq.com
 full:tdsdk.cpatrk.net
 full:tdsdk.xdrig.com
+full:telecome.cn
 full:telemetry.sdk.inmobi.com
 full:tencent-dtv.m.cn.miaozhen.com
 full:test.ad.xiaomi.com
@@ -717,13 +720,21 @@ full:tmfmazu-wangka.m.qq.com
 full:tmfmazu.m.qq.com
 full:tmfsdk.m.qq.com
 full:tmfsdktcpv4.m.qq.com
+full:tnc0-aliec2.zijieapi.com
+full:tnc0-alisc1.zijieapi.com
+full:tnc0-bjlgy.zijieapi.com
 full:tnc3-aliec1.toutiaoapi.com
 full:tnc3-aliec2.bytedance.com
+full:tnc3-aliec2.snssdk.com
 full:tnc3-aliec2.toutiaoapi.com
+full:tnc3-aliec2.zijieapi.com
 full:tnc3-alisc1.bytedance.com
+full:tnc3-alisc1.snssdk.com
+full:tnc3-alisc1.toutiaoapi.com
 full:tnc3-alisc1.zijieapi.com
 full:tnc3-alisc2.zijieapi.com
 full:tnc3-bjlgy.bytedance.com
+full:tnc3-bjlgy.snssdk.com
 full:tnc3-bjlgy.toutiaoapi.com
 full:tnc3-bjlgy.zijieapi.com
 full:toblog.ctobsnssdk.com

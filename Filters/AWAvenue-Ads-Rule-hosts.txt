@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1680
+!Total lines: 1702
 !Version: 1.6.7-release
-!Update time: 2025-07-14 02:48:08 UTC+8
-!Update content: 拦截一些 Huichuan、zhuoxin 等不良广告
+!Update time: 2025-07-22 17:10:06 UTC+8
+!Update content: 补充更多的 "tncX" 类 zijie 系列域名，同时感谢 @kanao7 和 @saldry
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -287,6 +287,8 @@
 :: adview.cn
 0.0.0.0 adx-ad.smart-tv.cn
 :: adx-ad.smart-tv.cn
+0.0.0.0 adx-bj-req.anythinktech.com
+:: adx-bj-req.anythinktech.com
 0.0.0.0 adx-bj.anythinktech.com
 :: adx-bj.anythinktech.com
 0.0.0.0 adx-cn.anythinktech.com
@@ -965,8 +967,6 @@
 :: log.pinterest.com
 0.0.0.0 log.popin.cc
 :: log.popin.cc
-0.0.0.0 log.snssdk.com
-:: log.snssdk.com
 0.0.0.0 log.stat.kugou.com
 :: log.stat.kugou.com
 0.0.0.0 log.tagtic.cn
@@ -1015,6 +1015,8 @@
 :: mazu.m.qq.com
 0.0.0.0 mbdlog.iqiyi.com
 :: mbdlog.iqiyi.com
+0.0.0.0 mcs.zijieapi.com
+:: mcs.zijieapi.com
 0.0.0.0 metrics.data.hicloud.com
 :: metrics.data.hicloud.com
 0.0.0.0 metrics.icloud.com
@@ -1207,6 +1209,8 @@
 :: pos.baidu.com
 0.0.0.0 prod-mediate-events.applovin.com
 :: prod-mediate-events.applovin.com
+0.0.0.0 promotion-partner.kuaishou.com
+:: promotion-partner.kuaishou.com
 0.0.0.0 proxy.advp.apple.com
 :: proxy.advp.apple.com
 0.0.0.0 public.gdtimg.com
@@ -1425,6 +1429,8 @@
 :: tdsdk.cpatrk.net
 0.0.0.0 tdsdk.xdrig.com
 :: tdsdk.xdrig.com
+0.0.0.0 telecome.cn
+:: telecome.cn
 0.0.0.0 telemetry.sdk.inmobi.com
 :: telemetry.sdk.inmobi.com
 0.0.0.0 tencent-dtv.m.cn.miaozhen.com
@@ -1451,20 +1457,36 @@
 :: tmfsdk.m.qq.com
 0.0.0.0 tmfsdktcpv4.m.qq.com
 :: tmfsdktcpv4.m.qq.com
+0.0.0.0 tnc0-aliec2.zijieapi.com
+:: tnc0-aliec2.zijieapi.com
+0.0.0.0 tnc0-alisc1.zijieapi.com
+:: tnc0-alisc1.zijieapi.com
+0.0.0.0 tnc0-bjlgy.zijieapi.com
+:: tnc0-bjlgy.zijieapi.com
 0.0.0.0 tnc3-aliec1.toutiaoapi.com
 :: tnc3-aliec1.toutiaoapi.com
 0.0.0.0 tnc3-aliec2.bytedance.com
 :: tnc3-aliec2.bytedance.com
+0.0.0.0 tnc3-aliec2.snssdk.com
+:: tnc3-aliec2.snssdk.com
 0.0.0.0 tnc3-aliec2.toutiaoapi.com
 :: tnc3-aliec2.toutiaoapi.com
+0.0.0.0 tnc3-aliec2.zijieapi.com
+:: tnc3-aliec2.zijieapi.com
 0.0.0.0 tnc3-alisc1.bytedance.com
 :: tnc3-alisc1.bytedance.com
+0.0.0.0 tnc3-alisc1.snssdk.com
+:: tnc3-alisc1.snssdk.com
+0.0.0.0 tnc3-alisc1.toutiaoapi.com
+:: tnc3-alisc1.toutiaoapi.com
 0.0.0.0 tnc3-alisc1.zijieapi.com
 :: tnc3-alisc1.zijieapi.com
 0.0.0.0 tnc3-alisc2.zijieapi.com
 :: tnc3-alisc2.zijieapi.com
 0.0.0.0 tnc3-bjlgy.bytedance.com
 :: tnc3-bjlgy.bytedance.com
+0.0.0.0 tnc3-bjlgy.snssdk.com
+:: tnc3-bjlgy.snssdk.com
 0.0.0.0 tnc3-bjlgy.toutiaoapi.com
 :: tnc3-bjlgy.toutiaoapi.com
 0.0.0.0 tnc3-bjlgy.zijieapi.com

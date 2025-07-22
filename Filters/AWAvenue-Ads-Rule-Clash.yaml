@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 857
+#Total lines: 868
 #Version: 1.6.7-release
-#Update time: 2025-07-14 02:48:08 UTC+8
-#Update content: 拦截一些 Huichuan、zhuoxin 等不良广告
+#Update time: 2025-07-22 17:10:06 UTC+8
+#Update content: 补充更多的 "tncX" 类 zijie 系列域名，同时感谢 @kanao7 和 @saldry
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -147,6 +147,7 @@ payload:
   - 'advice-ads.s3.amazonaws.com'
   - 'adview.cn'
   - 'adx-ad.smart-tv.cn'
+  - 'adx-bj-req.anythinktech.com'
   - 'adx-bj.anythinktech.com'
   - 'adx-cn.anythinktech.com'
   - 'adx-drcn.op.dbankcloud.cn'
@@ -486,7 +487,6 @@ payload:
   - 'log.kuwo.cn'
   - 'log.pinterest.com'
   - 'log.popin.cc'
-  - 'log.snssdk.com'
   - 'log.stat.kugou.com'
   - 'log.tagtic.cn'
   - 'log.tbs.qq.com'
@@ -511,6 +511,7 @@ payload:
   - 'masdkv6.3g.qq.com'
   - 'mazu.m.qq.com'
   - 'mbdlog.iqiyi.com'
+  - 'mcs.zijieapi.com'
   - 'metrics.data.hicloud.com'
   - 'metrics.icloud.com'
   - 'metrics.mzstatic.com'
@@ -607,6 +608,7 @@ payload:
   - 'policy.video.ptqy.gitv.tv'
   - 'pos.baidu.com'
   - 'prod-mediate-events.applovin.com'
+  - 'promotion-partner.kuaishou.com'
   - 'proxy.advp.apple.com'
   - 'public.gdtimg.com'
   - 'q.i.gdt.qq.com'
@@ -716,6 +718,7 @@ payload:
   - 'tdc.qq.com'
   - 'tdsdk.cpatrk.net'
   - 'tdsdk.xdrig.com'
+  - 'telecome.cn'
   - 'telemetry.sdk.inmobi.com'
   - 'tencent-dtv.m.cn.miaozhen.com'
   - 'test.ad.xiaomi.com'
@@ -729,13 +732,21 @@ payload:
   - 'tmfmazu.m.qq.com'
   - 'tmfsdk.m.qq.com'
   - 'tmfsdktcpv4.m.qq.com'
+  - 'tnc0-aliec2.zijieapi.com'
+  - 'tnc0-alisc1.zijieapi.com'
+  - 'tnc0-bjlgy.zijieapi.com'
   - 'tnc3-aliec1.toutiaoapi.com'
   - 'tnc3-aliec2.bytedance.com'
+  - 'tnc3-aliec2.snssdk.com'
   - 'tnc3-aliec2.toutiaoapi.com'
+  - 'tnc3-aliec2.zijieapi.com'
   - 'tnc3-alisc1.bytedance.com'
+  - 'tnc3-alisc1.snssdk.com'
+  - 'tnc3-alisc1.toutiaoapi.com'
   - 'tnc3-alisc1.zijieapi.com'
   - 'tnc3-alisc2.zijieapi.com'
   - 'tnc3-bjlgy.bytedance.com'
+  - 'tnc3-bjlgy.snssdk.com'
   - 'tnc3-bjlgy.toutiaoapi.com'
   - 'tnc3-bjlgy.zijieapi.com'
   - 'toblog.ctobsnssdk.com'
