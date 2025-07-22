@@ -10,7 +10,6 @@ ad-cdn.qingting.fm
 ad-scope.com
 ad-scope.com.cn
 ad-sdk-config.youdao.com
-ad-sdk.huxiu.com
 ad-splash-tracking.hktvmall.com
 ad-splash.hktvmall.com
 ad.12306.cn
@@ -32,7 +31,6 @@ ad.v3mh.com
 ad.winrar.com.cn
 ad.ximalaya.com
 ad.zijieapi.com
-ad2.ettoday.net
 adapi.izuiyou.com
 adapi.yynetwk.com
 adashbc.ut.taobao.com
@@ -48,7 +46,6 @@ adexp.chinaliftoff.io
 adexp.liftoff.io
 adexpo.tencentmusic.com
 adfilter.imtt.qq.com
-adfstat.yandex.ru
 adguanggao.eee114.com
 adjust.cn
 adjust.com
@@ -67,14 +64,12 @@ ads-sg.tiktok.com
 ads-video-al.xhscdn.com
 ads-video-qc.xhscdn.com
 ads.95516.com
-ads.flurry.com
 ads.google.cn
 ads.huan.tv
 ads.huantest.com
 ads.icloseli.cn
 ads.inmobi.com
 ads.linkedin.com
-ads.music.126.net
 ads.pinterest.com
 ads.pubmatic.com
 ads.raidrive.com
@@ -126,7 +121,6 @@ adstudio.spotify.com
 adtago.s3.amazonaws.com
 adtech.yahooinc.com
 adtrack.quark.cn
-adv.fjtv.net
 adv.sec.intl.miui.com
 adv.sec.miui.com
 advertising-api-eu.amazon.com
