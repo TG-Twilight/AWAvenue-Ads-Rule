@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2025-07-22 17:10:06 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2025-07-22 17:23:06 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -18,7 +18,6 @@ DOMAIN,ad-cdn.qingting.fm,REJECT,extended-matching,pre-matching
 DOMAIN,ad-scope.com,REJECT,extended-matching,pre-matching
 DOMAIN,ad-scope.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,ad-sdk-config.youdao.com,REJECT,extended-matching,pre-matching
-DOMAIN,ad-sdk.huxiu.com,REJECT,extended-matching,pre-matching
 DOMAIN,ad-splash-tracking.hktvmall.com,REJECT,extended-matching,pre-matching
 DOMAIN,ad-splash.hktvmall.com,REJECT,extended-matching,pre-matching
 DOMAIN,ad.12306.cn,REJECT,extended-matching,pre-matching
@@ -40,7 +39,6 @@ DOMAIN,ad.v3mh.com,REJECT,extended-matching,pre-matching
 DOMAIN,ad.winrar.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,ad.ximalaya.com,REJECT,extended-matching,pre-matching
 DOMAIN,ad.zijieapi.com,REJECT,extended-matching,pre-matching
-DOMAIN,ad2.ettoday.net,REJECT,extended-matching,pre-matching
 DOMAIN,adapi.izuiyou.com,REJECT,extended-matching,pre-matching
 DOMAIN,adapi.yynetwk.com,REJECT,extended-matching,pre-matching
 DOMAIN,adashbc.ut.taobao.com,REJECT,extended-matching,pre-matching
@@ -56,7 +54,6 @@ DOMAIN,adexp.chinaliftoff.io,REJECT,extended-matching,pre-matching
 DOMAIN,adexp.liftoff.io,REJECT,extended-matching,pre-matching
 DOMAIN,adexpo.tencentmusic.com,REJECT,extended-matching,pre-matching
 DOMAIN,adfilter.imtt.qq.com,REJECT,extended-matching,pre-matching
-DOMAIN,adfstat.yandex.ru,REJECT,extended-matching,pre-matching
 DOMAIN,adguanggao.eee114.com,REJECT,extended-matching,pre-matching
 DOMAIN,adjust.cn,REJECT,extended-matching,pre-matching
 DOMAIN,adjust.com,REJECT,extended-matching,pre-matching
@@ -75,14 +72,12 @@ DOMAIN,ads-sg.tiktok.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads-video-al.xhscdn.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads-video-qc.xhscdn.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads.95516.com,REJECT,extended-matching,pre-matching
-DOMAIN,ads.flurry.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads.google.cn,REJECT,extended-matching,pre-matching
 DOMAIN,ads.huan.tv,REJECT,extended-matching,pre-matching
 DOMAIN,ads.huantest.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads.icloseli.cn,REJECT,extended-matching,pre-matching
 DOMAIN,ads.inmobi.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads.linkedin.com,REJECT,extended-matching,pre-matching
-DOMAIN,ads.music.126.net,REJECT,extended-matching,pre-matching
 DOMAIN,ads.pinterest.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads.pubmatic.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads.raidrive.com,REJECT,extended-matching,pre-matching
@@ -131,7 +126,6 @@ DOMAIN,adstudio.spotify.com,REJECT,extended-matching,pre-matching
 DOMAIN,adtago.s3.amazonaws.com,REJECT,extended-matching,pre-matching
 DOMAIN,adtech.yahooinc.com,REJECT,extended-matching,pre-matching
 DOMAIN,adtrack.quark.cn,REJECT,extended-matching,pre-matching
-DOMAIN,adv.fjtv.net,REJECT,extended-matching,pre-matching
 DOMAIN,adv.sec.intl.miui.com,REJECT,extended-matching,pre-matching
 DOMAIN,adv.sec.miui.com,REJECT,extended-matching,pre-matching
 DOMAIN,advertising-api-eu.amazon.com,REJECT,extended-matching,pre-matching

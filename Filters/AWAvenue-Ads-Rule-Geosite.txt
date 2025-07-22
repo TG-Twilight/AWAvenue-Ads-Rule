@@ -10,7 +10,6 @@ full:ad-cdn.qingting.fm
 full:ad-scope.com
 full:ad-scope.com.cn
 full:ad-sdk-config.youdao.com
-full:ad-sdk.huxiu.com
 full:ad-splash-tracking.hktvmall.com
 full:ad-splash.hktvmall.com
 full:ad.12306.cn
@@ -32,7 +31,6 @@ full:ad.v3mh.com
 full:ad.winrar.com.cn
 full:ad.ximalaya.com
 full:ad.zijieapi.com
-full:ad2.ettoday.net
 full:adapi.izuiyou.com
 full:adapi.yynetwk.com
 full:adashbc.ut.taobao.com
@@ -48,7 +46,6 @@ full:adexp.chinaliftoff.io
 full:adexp.liftoff.io
 full:adexpo.tencentmusic.com
 full:adfilter.imtt.qq.com
-full:adfstat.yandex.ru
 full:adguanggao.eee114.com
 full:adjust.cn
 full:adjust.com
@@ -67,14 +64,12 @@ full:ads-sg.tiktok.com
 full:ads-video-al.xhscdn.com
 full:ads-video-qc.xhscdn.com
 full:ads.95516.com
-full:ads.flurry.com
 full:ads.google.cn
 full:ads.huan.tv
 full:ads.huantest.com
 full:ads.icloseli.cn
 full:ads.inmobi.com
 full:ads.linkedin.com
-full:ads.music.126.net
 full:ads.pinterest.com
 full:ads.pubmatic.com
 full:ads.raidrive.com
@@ -123,7 +118,6 @@ full:adstudio.spotify.com
 full:adtago.s3.amazonaws.com
 full:adtech.yahooinc.com
 full:adtrack.quark.cn
-full:adv.fjtv.net
 full:adv.sec.intl.miui.com
 full:adv.sec.miui.com
 full:advertising-api-eu.amazon.com

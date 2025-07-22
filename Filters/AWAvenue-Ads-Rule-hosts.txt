@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1702
+!Total lines: 1690
 !Version: 1.6.7-release
-!Update time: 2025-07-22 17:10:06 UTC+8
-!Update content: 补充更多的 "tncX" 类 zijie 系列域名，同时感谢 @kanao7 和 @saldry
+!Update time: 2025-07-22 17:23:06 UTC+8
+!Update content: 清理前200行中的无效域名
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -37,8 +37,6 @@
 :: ad-scope.com.cn
 0.0.0.0 ad-sdk-config.youdao.com
 :: ad-sdk-config.youdao.com
-0.0.0.0 ad-sdk.huxiu.com
-:: ad-sdk.huxiu.com
 0.0.0.0 ad-splash-tracking.hktvmall.com
 :: ad-splash-tracking.hktvmall.com
 0.0.0.0 ad-splash.hktvmall.com
@@ -81,8 +79,6 @@
 :: ad.ximalaya.com
 0.0.0.0 ad.zijieapi.com
 :: ad.zijieapi.com
-0.0.0.0 ad2.ettoday.net
-:: ad2.ettoday.net
 0.0.0.0 adapi.izuiyou.com
 :: adapi.izuiyou.com
 0.0.0.0 adapi.yynetwk.com
@@ -113,8 +109,6 @@
 :: adexpo.tencentmusic.com
 0.0.0.0 adfilter.imtt.qq.com
 :: adfilter.imtt.qq.com
-0.0.0.0 adfstat.yandex.ru
-:: adfstat.yandex.ru
 0.0.0.0 adguanggao.eee114.com
 :: adguanggao.eee114.com
 0.0.0.0 adjust.cn
@@ -151,8 +145,6 @@
 :: ads-video-qc.xhscdn.com
 0.0.0.0 ads.95516.com
 :: ads.95516.com
-0.0.0.0 ads.flurry.com
-:: ads.flurry.com
 0.0.0.0 ads.google.cn
 :: ads.google.cn
 0.0.0.0 ads.huan.tv
@@ -165,8 +157,6 @@
 :: ads.inmobi.com
 0.0.0.0 ads.linkedin.com
 :: ads.linkedin.com
-0.0.0.0 ads.music.126.net
-:: ads.music.126.net
 0.0.0.0 ads.pinterest.com
 :: ads.pinterest.com
 0.0.0.0 ads.pubmatic.com
@@ -263,8 +253,6 @@
 :: adtech.yahooinc.com
 0.0.0.0 adtrack.quark.cn
 :: adtrack.quark.cn
-0.0.0.0 adv.fjtv.net
-:: adv.fjtv.net
 0.0.0.0 adv.sec.intl.miui.com
 :: adv.sec.intl.miui.com
 0.0.0.0 adv.sec.miui.com

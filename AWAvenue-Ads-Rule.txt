@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 868
+!Total lines: 862
 !Version: 1.6.7-release
-!Update time: 2025-07-22 17:10:06 UTC+8
-!Update content: 补充更多的 "tncX" 类 zijie 系列域名，同时感谢 @kanao7 和 @saldry
+!Update time: 2025-07-22 17:23:06 UTC+8
+!Update content: 清理前200行中的无效域名
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -21,7 +21,6 @@
 ||ad-scope.com^
 ||ad-scope.com.cn^
 ||ad-sdk-config.youdao.com^
-||ad-sdk.huxiu.com^
 ||ad-splash-tracking.hktvmall.com^
 ||ad-splash.hktvmall.com^
 ||ad.12306.cn^
@@ -43,7 +42,6 @@
 ||ad.winrar.com.cn^
 ||ad.ximalaya.com^
 ||ad.zijieapi.com^
-||ad2.ettoday.net^
 ||adapi.izuiyou.com^
 ||adapi.yynetwk.com^
 ||adashbc.ut.taobao.com^
@@ -59,7 +57,6 @@
 ||adexp.liftoff.io^
 ||adexpo.tencentmusic.com^
 ||adfilter.imtt.qq.com^
-||adfstat.yandex.ru^
 ||adguanggao.eee114.com^
 ||adjust.cn^
 ||adjust.com^
@@ -78,14 +75,12 @@
 ||ads-video-al.xhscdn.com^
 ||ads-video-qc.xhscdn.com^
 ||ads.95516.com^
-||ads.flurry.com^
 ||ads.google.cn^
 ||ads.huan.tv^
 ||ads.huantest.com^
 ||ads.icloseli.cn^
 ||ads.inmobi.com^
 ||ads.linkedin.com^
-||ads.music.126.net^
 ||ads.pinterest.com^
 ||ads.pubmatic.com^
 ||ads.raidrive.com^
@@ -134,7 +129,6 @@
 ||adtago.s3.amazonaws.com^
 ||adtech.yahooinc.com^
 ||adtrack.quark.cn^
-||adv.fjtv.net^
 ||adv.sec.intl.miui.com^
 ||adv.sec.miui.com^
 ||advertising-api-eu.amazon.com^

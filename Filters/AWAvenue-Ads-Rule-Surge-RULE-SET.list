@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 868
+#Total lines: 862
 #Version: 1.6.7-release
-#Update time: 2025-07-22 17:10:06 UTC+8
-#Update content: 补充更多的 "tncX" 类 zijie 系列域名，同时感谢 @kanao7 和 @saldry
+#Update time: 2025-07-22 17:23:06 UTC+8
+#Update content: 清理前200行中的无效域名
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -21,7 +21,6 @@ DOMAIN,ad-cdn.qingting.fm
 DOMAIN,ad-scope.com
 DOMAIN,ad-scope.com.cn
 DOMAIN,ad-sdk-config.youdao.com
-DOMAIN,ad-sdk.huxiu.com
 DOMAIN,ad-splash-tracking.hktvmall.com
 DOMAIN,ad-splash.hktvmall.com
 DOMAIN,ad.12306.cn
@@ -43,7 +42,6 @@ DOMAIN,ad.v3mh.com
 DOMAIN,ad.winrar.com.cn
 DOMAIN,ad.ximalaya.com
 DOMAIN,ad.zijieapi.com
-DOMAIN,ad2.ettoday.net
 DOMAIN,adapi.izuiyou.com
 DOMAIN,adapi.yynetwk.com
 DOMAIN,adashbc.ut.taobao.com
@@ -59,7 +57,6 @@ DOMAIN,adexp.chinaliftoff.io
 DOMAIN,adexp.liftoff.io
 DOMAIN,adexpo.tencentmusic.com
 DOMAIN,adfilter.imtt.qq.com
-DOMAIN,adfstat.yandex.ru
 DOMAIN,adguanggao.eee114.com
 DOMAIN,adjust.cn
 DOMAIN,adjust.com
@@ -78,14 +75,12 @@ DOMAIN,ads-sg.tiktok.com
 DOMAIN,ads-video-al.xhscdn.com
 DOMAIN,ads-video-qc.xhscdn.com
 DOMAIN,ads.95516.com
-DOMAIN,ads.flurry.com
 DOMAIN,ads.google.cn
 DOMAIN,ads.huan.tv
 DOMAIN,ads.huantest.com
 DOMAIN,ads.icloseli.cn
 DOMAIN,ads.inmobi.com
 DOMAIN,ads.linkedin.com
-DOMAIN,ads.music.126.net
 DOMAIN,ads.pinterest.com
 DOMAIN,ads.pubmatic.com
 DOMAIN,ads.raidrive.com
@@ -134,7 +129,6 @@ DOMAIN,adstudio.spotify.com
 DOMAIN,adtago.s3.amazonaws.com
 DOMAIN,adtech.yahooinc.com
 DOMAIN,adtrack.quark.cn
-DOMAIN,adv.fjtv.net
 DOMAIN,adv.sec.intl.miui.com
 DOMAIN,adv.sec.miui.com
 DOMAIN,advertising-api-eu.amazon.com

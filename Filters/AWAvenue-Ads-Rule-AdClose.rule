@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 849
+#Total lines: 843
 #Version: 1.6.7-release
-#Update time: 2025-07-22 17:10:06 UTC+8
-#Update content: 补充更多的 "tncX" 类 zijie 系列域名，同时感谢 @kanao7 和 @saldry
+#Update time: 2025-07-22 17:23:06 UTC+8
+#Update content: 清理前200行中的无效域名
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -24,7 +24,6 @@ domain, ad-cdn.qingting.fm
 domain, ad-scope.com
 domain, ad-scope.com.cn
 domain, ad-sdk-config.youdao.com
-domain, ad-sdk.huxiu.com
 domain, ad-splash-tracking.hktvmall.com
 domain, ad-splash.hktvmall.com
 domain, ad.12306.cn
@@ -46,7 +45,6 @@ domain, ad.v3mh.com
 domain, ad.winrar.com.cn
 domain, ad.ximalaya.com
 domain, ad.zijieapi.com
-domain, ad2.ettoday.net
 domain, adapi.izuiyou.com
 domain, adapi.yynetwk.com
 domain, adashbc.ut.taobao.com
@@ -62,7 +60,6 @@ domain, adexp.chinaliftoff.io
 domain, adexp.liftoff.io
 domain, adexpo.tencentmusic.com
 domain, adfilter.imtt.qq.com
-domain, adfstat.yandex.ru
 domain, adguanggao.eee114.com
 domain, adjust.cn
 domain, adjust.com
@@ -81,14 +78,12 @@ domain, ads-sg.tiktok.com
 domain, ads-video-al.xhscdn.com
 domain, ads-video-qc.xhscdn.com
 domain, ads.95516.com
-domain, ads.flurry.com
 domain, ads.google.cn
 domain, ads.huan.tv
 domain, ads.huantest.com
 domain, ads.icloseli.cn
 domain, ads.inmobi.com
 domain, ads.linkedin.com
-domain, ads.music.126.net
 domain, ads.pinterest.com
 domain, ads.pubmatic.com
 domain, ads.raidrive.com
@@ -137,7 +132,6 @@ domain, adstudio.spotify.com
 domain, adtago.s3.amazonaws.com
 domain, adtech.yahooinc.com
 domain, adtrack.quark.cn
-domain, adv.fjtv.net
 domain, adv.sec.intl.miui.com
 domain, adv.sec.miui.com
 domain, advertising-api-eu.amazon.com

@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 868
+#Total lines: 862
 #Version: 1.6.7-release
-#Update time: 2025-07-22 17:10:06 UTC+8
-#Update content: 补充更多的 "tncX" 类 zijie 系列域名，同时感谢 @kanao7 和 @saldry
+#Update time: 2025-07-22 17:23:06 UTC+8
+#Update content: 清理前200行中的无效域名
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -21,7 +21,6 @@ DOMAIN,ad-cdn.qingting.fm,reject
 DOMAIN,ad-scope.com,reject
 DOMAIN,ad-scope.com.cn,reject
 DOMAIN,ad-sdk-config.youdao.com,reject
-DOMAIN,ad-sdk.huxiu.com,reject
 DOMAIN,ad-splash-tracking.hktvmall.com,reject
 DOMAIN,ad-splash.hktvmall.com,reject
 DOMAIN,ad.12306.cn,reject
@@ -43,7 +42,6 @@ DOMAIN,ad.v3mh.com,reject
 DOMAIN,ad.winrar.com.cn,reject
 DOMAIN,ad.ximalaya.com,reject
 DOMAIN,ad.zijieapi.com,reject
-DOMAIN,ad2.ettoday.net,reject
 DOMAIN,adapi.izuiyou.com,reject
 DOMAIN,adapi.yynetwk.com,reject
 DOMAIN,adashbc.ut.taobao.com,reject
@@ -59,7 +57,6 @@ DOMAIN,adexp.chinaliftoff.io,reject
 DOMAIN,adexp.liftoff.io,reject
 DOMAIN,adexpo.tencentmusic.com,reject
 DOMAIN,adfilter.imtt.qq.com,reject
-DOMAIN,adfstat.yandex.ru,reject
 DOMAIN,adguanggao.eee114.com,reject
 DOMAIN,adjust.cn,reject
 DOMAIN,adjust.com,reject
@@ -78,14 +75,12 @@ DOMAIN,ads-sg.tiktok.com,reject
 DOMAIN,ads-video-al.xhscdn.com,reject
 DOMAIN,ads-video-qc.xhscdn.com,reject
 DOMAIN,ads.95516.com,reject
-DOMAIN,ads.flurry.com,reject
 DOMAIN,ads.google.cn,reject
 DOMAIN,ads.huan.tv,reject
 DOMAIN,ads.huantest.com,reject
 DOMAIN,ads.icloseli.cn,reject
 DOMAIN,ads.inmobi.com,reject
 DOMAIN,ads.linkedin.com,reject
-DOMAIN,ads.music.126.net,reject
 DOMAIN,ads.pinterest.com,reject
 DOMAIN,ads.pubmatic.com,reject
 DOMAIN,ads.raidrive.com,reject
@@ -134,7 +129,6 @@ DOMAIN,adstudio.spotify.com,reject
 DOMAIN,adtago.s3.amazonaws.com,reject
 DOMAIN,adtech.yahooinc.com,reject
 DOMAIN,adtrack.quark.cn,reject
-DOMAIN,adv.fjtv.net,reject
 DOMAIN,adv.sec.intl.miui.com,reject
 DOMAIN,adv.sec.miui.com,reject
 DOMAIN,advertising-api-eu.amazon.com,reject
