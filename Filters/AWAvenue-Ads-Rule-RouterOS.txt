@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1678
+!Total lines: 1680
 !Version: 1.6.7-release
-!Update time: 2025-07-23 18:48:52 UTC+8
-!Update content: 同上，拦截更多 71edge 的无良广告
+!Update time: 2025-07-23 18:59:17 UTC+8
+!Update content: Block 360's intrusive shopping ads.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -819,6 +819,8 @@ ip dns static add address=240.0.0.1 name=img-x.jd.com
 ip dns static add address=:: name=img-x.jd.com
 ip dns static add address=240.0.0.1 name=img.adnyg.com.w.kunlungr.com
 ip dns static add address=:: name=img.adnyg.com.w.kunlungr.com
+ip dns static add address=240.0.0.1 name=img2.360buyimg.com
+ip dns static add address=:: name=img2.360buyimg.com
 ip dns static add address=240.0.0.1 name=impression-asia.chinaliftoff.io
 ip dns static add address=:: name=impression-asia.chinaliftoff.io
 ip dns static add address=240.0.0.1 name=impression-asia.liftoff.io

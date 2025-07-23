@@ -403,6 +403,7 @@ full:imdns.hpplay.cn
 full:img-c.heytapimage.com
 full:img-x.jd.com
 full:img.adnyg.com.w.kunlungr.com
+full:img2.360buyimg.com
 full:impression-asia.chinaliftoff.io
 full:impression-asia.liftoff.io
 full:impression.appsflyer.com

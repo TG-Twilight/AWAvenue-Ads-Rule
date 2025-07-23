@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 1682
+#Total lines: 1684
 #Version: 1.6.7-release
-#Update time: 2025-07-23 18:48:52 UTC+8
-#Update content: 同上，拦截更多 71edge 的无良广告
+#Update time: 2025-07-23 18:59:17 UTC+8
+#Update content: Block 360's intrusive shopping ads.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -823,6 +823,8 @@
 :: img-x.jd.com
 0.0.0.0 img.adnyg.com.w.kunlungr.com
 :: img.adnyg.com.w.kunlungr.com
+0.0.0.0 img2.360buyimg.com
+:: img2.360buyimg.com
 0.0.0.0 impression-asia.chinaliftoff.io
 :: impression-asia.chinaliftoff.io
 0.0.0.0 impression-asia.liftoff.io

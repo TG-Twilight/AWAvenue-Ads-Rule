@@ -403,6 +403,7 @@ domain:imdns.hpplay.cn
 domain:img-c.heytapimage.com
 domain:img-x.jd.com
 domain:img.adnyg.com.w.kunlungr.com
+domain:img2.360buyimg.com
 domain:impression-asia.chinaliftoff.io
 domain:impression-asia.liftoff.io
 domain:impression.appsflyer.com

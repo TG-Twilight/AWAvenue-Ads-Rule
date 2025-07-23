@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 839
+#Total lines: 840
 #Version: 1.6.7-release
-#Update time: 2025-07-23 18:48:52 UTC+8
-#Update content: 同上，拦截更多 71edge 的无良广告
+#Update time: 2025-07-23 18:59:17 UTC+8
+#Update content: Block 360's intrusive shopping ads.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -417,6 +417,7 @@ domain, imdns.hpplay.cn
 domain, img-c.heytapimage.com
 domain, img-x.jd.com
 domain, img.adnyg.com.w.kunlungr.com
+domain, img2.360buyimg.com
 domain, impression-asia.chinaliftoff.io
 domain, impression-asia.liftoff.io
 domain, impression.appsflyer.com
