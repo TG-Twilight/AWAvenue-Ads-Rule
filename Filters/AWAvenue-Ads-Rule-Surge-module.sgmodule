@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2025-07-23 17:51:25 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2025-07-23 18:37:55 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -157,6 +157,7 @@ DOMAIN,agn.aty.sohu.com,REJECT,extended-matching,pre-matching
 DOMAIN,aiseet.aa.atianqi.com,REJECT,extended-matching,pre-matching
 DOMAIN,ali-ad.a.yximgs.com,REJECT,extended-matching,pre-matching
 DOMAIN,ali-p2p-v2.pull.yximgs.com,REJECT,extended-matching,pre-matching
+DOMAIN,alicoccdncnc-xn.inter.71edge.com,REJECT,extended-matching,pre-matching
 DOMAIN,alog.umeng.com,REJECT,extended-matching,pre-matching
 DOMAIN,alogus.umeng.com,REJECT,extended-matching,pre-matching
 DOMAIN,als.baidu.com,REJECT,extended-matching,pre-matching
@@ -225,6 +226,7 @@ DOMAIN,bdad.123pan.cn,REJECT,extended-matching,pre-matching
 DOMAIN,bdapi-ads.realmemobile.com,REJECT,extended-matching,pre-matching
 DOMAIN,bdapi-in-ads.realmemobile.com,REJECT,extended-matching,pre-matching
 DOMAIN,bdapi.ads.oppomobile.com,REJECT,extended-matching,pre-matching
+DOMAIN,bdcdncnc.inter.71edge.com,REJECT,extended-matching,pre-matching
 DOMAIN,beacon-api.aliyuncs.com,REJECT,extended-matching,pre-matching
 DOMAIN,beacon.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,beaconcdn.qq.com,REJECT,extended-matching,pre-matching
@@ -489,6 +491,7 @@ DOMAIN,luimg.baidu.com,REJECT,extended-matching,pre-matching
 DOMAIN,m-adnet.hiaiabc.com,REJECT,extended-matching,pre-matching
 DOMAIN,m.ad.zhangyue.com,REJECT,extended-matching,pre-matching
 DOMAIN,m.atm.youku.com,REJECT,extended-matching,pre-matching
+DOMAIN,m.iqiyipic.com,REJECT,extended-matching,pre-matching
 DOMAIN,m1.ad.10010.com,REJECT,extended-matching,pre-matching
 DOMAIN,mapi.m.jd.com,REJECT,extended-matching,pre-matching
 DOMAIN,masdkv6.3g.qq.com,REJECT,extended-matching,pre-matching
@@ -672,6 +675,7 @@ DOMAIN,snowflake.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,staging-notify.sec.miui.com,REJECT,extended-matching,pre-matching
 DOMAIN,stat.dongqiudi.com,REJECT,extended-matching,pre-matching
 DOMAIN,stat.y.qq.com,REJECT,extended-matching,pre-matching
+DOMAIN,static-s.iqiyi.com,REJECT,extended-matching,pre-matching
 DOMAIN,static.ads-twitter.com,REJECT,extended-matching,pre-matching
 DOMAIN,statics.woozooo.com,REJECT,extended-matching,pre-matching
 DOMAIN,stats.wp.com,REJECT,extended-matching,pre-matching

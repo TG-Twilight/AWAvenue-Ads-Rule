@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 834
+#Total lines: 838
 #Version: 1.6.7-release
-#Update time: 2025-07-23 17:51:25 UTC+8
-#Update content: 拦截 shihuo 的开屏广告
+#Update time: 2025-07-23 18:37:55 UTC+8
+#Update content: 拦截 更多的无良 iQIYI Ads.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -160,6 +160,7 @@
 .aiseet.aa.atianqi.com
 .ali-ad.a.yximgs.com
 .ali-p2p-v2.pull.yximgs.com
+.alicoccdncnc-xn.inter.71edge.com
 .alog.umeng.com
 .alogus.umeng.com
 .als.baidu.com
@@ -228,6 +229,7 @@
 .bdapi-ads.realmemobile.com
 .bdapi-in-ads.realmemobile.com
 .bdapi.ads.oppomobile.com
+.bdcdncnc.inter.71edge.com
 .beacon-api.aliyuncs.com
 .beacon.qq.com
 .beaconcdn.qq.com
@@ -492,6 +494,7 @@
 .m-adnet.hiaiabc.com
 .m.ad.zhangyue.com
 .m.atm.youku.com
+.m.iqiyipic.com
 .m1.ad.10010.com
 .mapi.m.jd.com
 .masdkv6.3g.qq.com
@@ -675,6 +678,7 @@
 .staging-notify.sec.miui.com
 .stat.dongqiudi.com
 .stat.y.qq.com
+.static-s.iqiyi.com
 .static.ads-twitter.com
 .statics.woozooo.com
 .stats.wp.com

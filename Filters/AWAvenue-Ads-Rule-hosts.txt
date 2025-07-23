@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1672
+!Total lines: 1680
 !Version: 1.6.7-release
-!Update time: 2025-07-23 17:51:25 UTC+8
-!Update content: 拦截 shihuo 的开屏广告
+!Update time: 2025-07-23 18:37:55 UTC+8
+!Update content: 拦截 更多的无良 iQIYI Ads.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -315,6 +315,8 @@
 :: ali-ad.a.yximgs.com
 0.0.0.0 ali-p2p-v2.pull.yximgs.com
 :: ali-p2p-v2.pull.yximgs.com
+0.0.0.0 alicoccdncnc-xn.inter.71edge.com
+:: alicoccdncnc-xn.inter.71edge.com
 0.0.0.0 alog.umeng.com
 :: alog.umeng.com
 0.0.0.0 alogus.umeng.com
@@ -451,6 +453,8 @@
 :: bdapi-in-ads.realmemobile.com
 0.0.0.0 bdapi.ads.oppomobile.com
 :: bdapi.ads.oppomobile.com
+0.0.0.0 bdcdncnc.inter.71edge.com
+:: bdcdncnc.inter.71edge.com
 0.0.0.0 beacon-api.aliyuncs.com
 :: beacon-api.aliyuncs.com
 0.0.0.0 beacon.qq.com
@@ -979,6 +983,8 @@
 :: m.ad.zhangyue.com
 0.0.0.0 m.atm.youku.com
 :: m.atm.youku.com
+0.0.0.0 m.iqiyipic.com
+:: m.iqiyipic.com
 0.0.0.0 m1.ad.10010.com
 :: m1.ad.10010.com
 0.0.0.0 mapi.m.jd.com
@@ -1345,6 +1351,8 @@
 :: stat.dongqiudi.com
 0.0.0.0 stat.y.qq.com
 :: stat.y.qq.com
+0.0.0.0 static-s.iqiyi.com
+:: static-s.iqiyi.com
 0.0.0.0 static.ads-twitter.com
 :: static.ads-twitter.com
 0.0.0.0 statics.woozooo.com

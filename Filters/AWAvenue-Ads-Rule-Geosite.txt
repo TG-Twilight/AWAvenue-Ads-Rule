@@ -149,6 +149,7 @@ full:agn.aty.sohu.com
 full:aiseet.aa.atianqi.com
 full:ali-ad.a.yximgs.com
 full:ali-p2p-v2.pull.yximgs.com
+full:alicoccdncnc-xn.inter.71edge.com
 full:alog.umeng.com
 full:alogus.umeng.com
 full:als.baidu.com
@@ -217,6 +218,7 @@ full:bdad.123pan.cn
 full:bdapi-ads.realmemobile.com
 full:bdapi-in-ads.realmemobile.com
 full:bdapi.ads.oppomobile.com
+full:bdcdncnc.inter.71edge.com
 full:beacon-api.aliyuncs.com
 full:beacon.qq.com
 full:beaconcdn.qq.com
@@ -481,6 +483,7 @@ full:luimg.baidu.com
 full:m-adnet.hiaiabc.com
 full:m.ad.zhangyue.com
 full:m.atm.youku.com
+full:m.iqiyipic.com
 full:m1.ad.10010.com
 full:mapi.m.jd.com
 full:masdkv6.3g.qq.com
@@ -664,6 +667,7 @@ full:snowflake.qq.com
 full:staging-notify.sec.miui.com
 full:stat.dongqiudi.com
 full:stat.y.qq.com
+full:static-s.iqiyi.com
 full:static.ads-twitter.com
 full:statics.woozooo.com
 full:stats.wp.com

@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 853
+#Total lines: 857
 #Version: 1.6.7-release
-#Update time: 2025-07-23 17:51:25 UTC+8
-#Update content: 拦截 shihuo 的开屏广告
+#Update time: 2025-07-23 18:37:55 UTC+8
+#Update content: 拦截 更多的无良 iQIYI Ads.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -160,6 +160,7 @@ DOMAIN,agn.aty.sohu.com
 DOMAIN,aiseet.aa.atianqi.com
 DOMAIN,ali-ad.a.yximgs.com
 DOMAIN,ali-p2p-v2.pull.yximgs.com
+DOMAIN,alicoccdncnc-xn.inter.71edge.com
 DOMAIN,alog.umeng.com
 DOMAIN,alogus.umeng.com
 DOMAIN,als.baidu.com
@@ -228,6 +229,7 @@ DOMAIN,bdad.123pan.cn
 DOMAIN,bdapi-ads.realmemobile.com
 DOMAIN,bdapi-in-ads.realmemobile.com
 DOMAIN,bdapi.ads.oppomobile.com
+DOMAIN,bdcdncnc.inter.71edge.com
 DOMAIN,beacon-api.aliyuncs.com
 DOMAIN,beacon.qq.com
 DOMAIN,beaconcdn.qq.com
@@ -492,6 +494,7 @@ DOMAIN,luimg.baidu.com
 DOMAIN,m-adnet.hiaiabc.com
 DOMAIN,m.ad.zhangyue.com
 DOMAIN,m.atm.youku.com
+DOMAIN,m.iqiyipic.com
 DOMAIN,m1.ad.10010.com
 DOMAIN,mapi.m.jd.com
 DOMAIN,masdkv6.3g.qq.com
@@ -675,6 +678,7 @@ DOMAIN,snowflake.qq.com
 DOMAIN,staging-notify.sec.miui.com
 DOMAIN,stat.dongqiudi.com
 DOMAIN,stat.y.qq.com
+DOMAIN,static-s.iqiyi.com
 DOMAIN,static.ads-twitter.com
 DOMAIN,statics.woozooo.com
 DOMAIN,stats.wp.com

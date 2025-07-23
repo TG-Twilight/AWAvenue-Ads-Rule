@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1668
+!Total lines: 1676
 !Version: 1.6.7-release
-!Update time: 2025-07-23 17:51:25 UTC+8
-!Update content: 拦截 shihuo 的开屏广告
+!Update time: 2025-07-23 18:37:55 UTC+8
+!Update content: 拦截 更多的无良 iQIYI Ads.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -311,6 +311,8 @@ ip dns static add address=240.0.0.1 name=ali-ad.a.yximgs.com
 ip dns static add address=:: name=ali-ad.a.yximgs.com
 ip dns static add address=240.0.0.1 name=ali-p2p-v2.pull.yximgs.com
 ip dns static add address=:: name=ali-p2p-v2.pull.yximgs.com
+ip dns static add address=240.0.0.1 name=alicoccdncnc-xn.inter.71edge.com
+ip dns static add address=:: name=alicoccdncnc-xn.inter.71edge.com
 ip dns static add address=240.0.0.1 name=alog.umeng.com
 ip dns static add address=:: name=alog.umeng.com
 ip dns static add address=240.0.0.1 name=alogus.umeng.com
@@ -447,6 +449,8 @@ ip dns static add address=240.0.0.1 name=bdapi-in-ads.realmemobile.com
 ip dns static add address=:: name=bdapi-in-ads.realmemobile.com
 ip dns static add address=240.0.0.1 name=bdapi.ads.oppomobile.com
 ip dns static add address=:: name=bdapi.ads.oppomobile.com
+ip dns static add address=240.0.0.1 name=bdcdncnc.inter.71edge.com
+ip dns static add address=:: name=bdcdncnc.inter.71edge.com
 ip dns static add address=240.0.0.1 name=beacon-api.aliyuncs.com
 ip dns static add address=:: name=beacon-api.aliyuncs.com
 ip dns static add address=240.0.0.1 name=beacon.qq.com
@@ -975,6 +979,8 @@ ip dns static add address=240.0.0.1 name=m.ad.zhangyue.com
 ip dns static add address=:: name=m.ad.zhangyue.com
 ip dns static add address=240.0.0.1 name=m.atm.youku.com
 ip dns static add address=:: name=m.atm.youku.com
+ip dns static add address=240.0.0.1 name=m.iqiyipic.com
+ip dns static add address=:: name=m.iqiyipic.com
 ip dns static add address=240.0.0.1 name=m1.ad.10010.com
 ip dns static add address=:: name=m1.ad.10010.com
 ip dns static add address=240.0.0.1 name=mapi.m.jd.com
@@ -1341,6 +1347,8 @@ ip dns static add address=240.0.0.1 name=stat.dongqiudi.com
 ip dns static add address=:: name=stat.dongqiudi.com
 ip dns static add address=240.0.0.1 name=stat.y.qq.com
 ip dns static add address=:: name=stat.y.qq.com
+ip dns static add address=240.0.0.1 name=static-s.iqiyi.com
+ip dns static add address=:: name=static-s.iqiyi.com
 ip dns static add address=240.0.0.1 name=static.ads-twitter.com
 ip dns static add address=:: name=static.ads-twitter.com
 ip dns static add address=240.0.0.1 name=statics.woozooo.com

@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 853
+#Total lines: 857
 #Version: 1.6.7-release
-#Update time: 2025-07-23 17:51:25 UTC+8
-#Update content: 拦截 shihuo 的开屏广告
+#Update time: 2025-07-23 18:37:55 UTC+8
+#Update content: 拦截 更多的无良 iQIYI Ads.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -160,6 +160,7 @@ DOMAIN,agn.aty.sohu.com,reject
 DOMAIN,aiseet.aa.atianqi.com,reject
 DOMAIN,ali-ad.a.yximgs.com,reject
 DOMAIN,ali-p2p-v2.pull.yximgs.com,reject
+DOMAIN,alicoccdncnc-xn.inter.71edge.com,reject
 DOMAIN,alog.umeng.com,reject
 DOMAIN,alogus.umeng.com,reject
 DOMAIN,als.baidu.com,reject
@@ -228,6 +229,7 @@ DOMAIN,bdad.123pan.cn,reject
 DOMAIN,bdapi-ads.realmemobile.com,reject
 DOMAIN,bdapi-in-ads.realmemobile.com,reject
 DOMAIN,bdapi.ads.oppomobile.com,reject
+DOMAIN,bdcdncnc.inter.71edge.com,reject
 DOMAIN,beacon-api.aliyuncs.com,reject
 DOMAIN,beacon.qq.com,reject
 DOMAIN,beaconcdn.qq.com,reject
@@ -492,6 +494,7 @@ DOMAIN,luimg.baidu.com,reject
 DOMAIN,m-adnet.hiaiabc.com,reject
 DOMAIN,m.ad.zhangyue.com,reject
 DOMAIN,m.atm.youku.com,reject
+DOMAIN,m.iqiyipic.com,reject
 DOMAIN,m1.ad.10010.com,reject
 DOMAIN,mapi.m.jd.com,reject
 DOMAIN,masdkv6.3g.qq.com,reject
@@ -675,6 +678,7 @@ DOMAIN,snowflake.qq.com,reject
 DOMAIN,staging-notify.sec.miui.com,reject
 DOMAIN,stat.dongqiudi.com,reject
 DOMAIN,stat.y.qq.com,reject
+DOMAIN,static-s.iqiyi.com,reject
 DOMAIN,static.ads-twitter.com,reject
 DOMAIN,statics.woozooo.com,reject
 DOMAIN,stats.wp.com,reject
