@@ -143,6 +143,7 @@ full:adx.tuia.cn
 full:adxlog-adnet.vivo.com.cn
 full:adxserver.ad.cmvideo.cn
 full:aegis.qq.com
+full:aem.dentsuchina.cn
 full:afs.googlesyndication.com
 full:agn.aty.sohu.com
 full:aiseet.aa.atianqi.com

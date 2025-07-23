@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 852
+#Total lines: 853
 #Version: 1.6.7-release
-#Update time: 2025-07-23 17:44:38 UTC+8
-#Update content: 新增两个 youku 的广告域名
+#Update time: 2025-07-23 17:51:25 UTC+8
+#Update content: 拦截 shihuo 的开屏广告
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -155,6 +155,7 @@ payload:
   - 'adxlog-adnet.vivo.com.cn'
   - 'adxserver.ad.cmvideo.cn'
   - 'aegis.qq.com'
+  - 'aem.dentsuchina.cn'
   - 'afs.googlesyndication.com'
   - 'agn.aty.sohu.com'
   - 'aiseet.aa.atianqi.com'
