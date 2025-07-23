@@ -146,6 +146,7 @@ adx.tuia.cn
 adxlog-adnet.vivo.com.cn
 adxserver.ad.cmvideo.cn
 aegis.qq.com
+aem.dentsuchina.cn
 afs.googlesyndication.com
 agn.aty.sohu.com
 aiseet.aa.atianqi.com
@@ -835,7 +836,9 @@ xlog.jd.com
 xlviiirdr.com
 xlviirdr.com
 xycdn.com
+yk-ssp-ad.cp31.ott.cibntv.net
 yk-ssp.ad.youku.com
+ykad-data.cp31.ott.cibntv.net
 ykad-data.youku.com
 ykad-gateway.youku.com
 youku-acs.m.taobao.com
@@ -843,5 +846,3 @@ ytx-file.110route.cn
 zeus.ad.xiaomi.com
 zhihu-web-analytics.zhihu.com
 zxid-m.mobileservice.cn
-yk-ssp-ad.cp31.ott.cibntv.net
-ykad-data.cp31.ott.cibntv.net
