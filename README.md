@@ -20,6 +20,9 @@
   <a href="https://t.me/AWAvenueAdsChat">
     <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&colorA=DAE9FC&colorB=056DE8&label=%E7%BE%A4%E8%81%8A&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DAWAvenueAdsChat" alt="Telegram">
   </a>
+<a href="https://afdian.com/a/AdsRule" target="_blank">
+  <img src="https://img.shields.io/badge/%E8%B5%9E%E5%8A%A9%E6%88%91-ffd700?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=ff9800" alt="赞助我"/>
+</a>
 </p>
 
 
@@ -42,7 +45,8 @@
 ## 🍁工作原理 | Work Principle
 
 从网络层面对抗(拦截)应用中的各种流氓广告SDK与服务器交互，阻止其正常加载，从而达到去广告的目的。<br />
-*这与李x跳等无障碍点击工具是完全不同的，所以烦请别来问能否支持此类工具导入！！！*
+
+*这与李x跳等无障碍点击工具之原理是大相径庭的，所以烦请别来问能否支持此类工具导入！！！*
 
 ---
 
@@ -79,7 +83,7 @@
 
 ## 🍁如何使用 | How to use
 
-请务必查阅我们的[官方教程](https://awavenue.top/Knowledge.html)，若您还有疑问，可以前往我们的官方群组（见下排）进行询问。
+请务必查阅我们的[官方教程](https://awavenue.top/Knowledge.html)，若您还有疑问，可以前往我们的官方群组（见下排）礼貌进行询问。
 
 个人项目，随缘维护更新，欢迎issues和Pr。   [😀加入秋風がく山道](https://t.me/AWAvenueAdsChat)。
 
