@@ -821,7 +821,9 @@ full:xlog.jd.com
 full:xlviiirdr.com
 full:xlviirdr.com
 full:xycdn.com
+full:yk-ssp-ad.cp31.ott.cibntv.net
 full:yk-ssp.ad.youku.com
+full:ykad-data.cp31.ott.cibntv.net
 full:ykad-data.youku.com
 full:ykad-gateway.youku.com
 full:youku-acs.m.taobao.com

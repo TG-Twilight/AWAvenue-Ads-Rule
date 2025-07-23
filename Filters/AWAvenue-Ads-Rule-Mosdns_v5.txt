@@ -821,7 +821,9 @@ domain:xlog.jd.com
 domain:xlviiirdr.com
 domain:xlviirdr.com
 domain:xycdn.com
+domain:yk-ssp-ad.cp31.ott.cibntv.net
 domain:yk-ssp.ad.youku.com
+domain:ykad-data.cp31.ott.cibntv.net
 domain:ykad-data.youku.com
 domain:ykad-gateway.youku.com
 domain:youku-acs.m.taobao.com

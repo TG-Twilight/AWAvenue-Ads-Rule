@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 850
+#Total lines: 852
 #Version: 1.6.7-release
-#Update time: 2025-07-22 17:37:34 UTC+8
-#Update content: 清理失效域名完毕，暂时告一段落
+#Update time: 2025-07-23 17:44:38 UTC+8
+#Update content: 新增两个 youku 的广告域名
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -832,7 +832,9 @@ DOMAIN,xlog.jd.com
 DOMAIN,xlviiirdr.com
 DOMAIN,xlviirdr.com
 DOMAIN,xycdn.com
+DOMAIN,yk-ssp-ad.cp31.ott.cibntv.net
 DOMAIN,yk-ssp.ad.youku.com
+DOMAIN,ykad-data.cp31.ott.cibntv.net
 DOMAIN,ykad-data.youku.com
 DOMAIN,ykad-gateway.youku.com
 DOMAIN,youku-acs.m.taobao.com
