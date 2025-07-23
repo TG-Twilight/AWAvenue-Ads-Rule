@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 1680
+#Total lines: 1682
 #Version: 1.6.7-release
-#Update time: 2025-07-23 18:37:55 UTC+8
-#Update content: 拦截 更多的无良 iQIYI Ads.
+#Update time: 2025-07-23 18:48:52 UTC+8
+#Update content: 同上，拦截更多 71edge 的无良广告
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -317,6 +317,8 @@
 :: ali-p2p-v2.pull.yximgs.com
 0.0.0.0 alicoccdncnc-xn.inter.71edge.com
 :: alicoccdncnc-xn.inter.71edge.com
+0.0.0.0 alicoccdnct-xn.inter.71edge.com
+:: alicoccdnct-xn.inter.71edge.com
 0.0.0.0 alog.umeng.com
 :: alog.umeng.com
 0.0.0.0 alogus.umeng.com

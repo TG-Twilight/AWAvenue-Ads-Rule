@@ -150,6 +150,7 @@ full:aiseet.aa.atianqi.com
 full:ali-ad.a.yximgs.com
 full:ali-p2p-v2.pull.yximgs.com
 full:alicoccdncnc-xn.inter.71edge.com
+full:alicoccdnct-xn.inter.71edge.com
 full:alog.umeng.com
 full:alogus.umeng.com
 full:als.baidu.com

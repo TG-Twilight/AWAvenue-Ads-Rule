@@ -150,6 +150,7 @@ domain:aiseet.aa.atianqi.com
 domain:ali-ad.a.yximgs.com
 domain:ali-p2p-v2.pull.yximgs.com
 domain:alicoccdncnc-xn.inter.71edge.com
+domain:alicoccdnct-xn.inter.71edge.com
 domain:alog.umeng.com
 domain:alogus.umeng.com
 domain:als.baidu.com
