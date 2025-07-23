@@ -843,3 +843,5 @@ ytx-file.110route.cn
 zeus.ad.xiaomi.com
 zhihu-web-analytics.zhihu.com
 zxid-m.mobileservice.cn
+yk-ssp-ad.cp31.ott.cibntv.net
+ykad-data.cp31.ott.cibntv.net
