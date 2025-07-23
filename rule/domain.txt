@@ -152,6 +152,7 @@ agn.aty.sohu.com
 aiseet.aa.atianqi.com
 ali-ad.a.yximgs.com
 ali-p2p-v2.pull.yximgs.com
+alicoccdncnc-xn.inter.71edge.com
 alog.umeng.com
 alogus.umeng.com
 als.baidu.com
@@ -220,6 +221,7 @@ bdad.123pan.cn
 bdapi-ads.realmemobile.com
 bdapi-in-ads.realmemobile.com
 bdapi.ads.oppomobile.com
+bdcdncnc.inter.71edge.com
 beacon-api.aliyuncs.com
 beacon.qq.com
 beaconcdn.qq.com
@@ -488,6 +490,7 @@ luimg.baidu.com
 m-adnet.hiaiabc.com
 m.ad.zhangyue.com
 m.atm.youku.com
+m.iqiyipic.com
 m1.ad.10010.com
 mapi.m.jd.com
 masdkv6.3g.qq.com
@@ -677,6 +680,7 @@ staging-notify.sec.miui.com
 stat.dongqiudi.com
 stat.y.qq.com
 stat.y.qq.com
+static-s.iqiyi.com
 static.ads-twitter.com
 statics.woozooo.com
 stats.wp.com
