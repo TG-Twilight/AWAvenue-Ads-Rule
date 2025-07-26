@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1680
+!Total lines: 1676
 !Version: 1.6.8-release
-!Update time: 2025-07-23 19:37:23 UTC+8
-!Update content: Block 360's intrusive shopping ads.
+!Update time: 2025-07-26 21:34:29 UTC+8
+!Update content: 修正一些错误
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -1037,8 +1037,6 @@ ip dns static add address=240.0.0.1 name=mobile.da.mgtv.com
 ip dns static add address=:: name=mobile.da.mgtv.com
 ip dns static add address=240.0.0.1 name=mobilelog.upqzfile.com
 ip dns static add address=:: name=mobilelog.upqzfile.com
-ip dns static add address=240.0.0.1 name=mon.zijieapi.com
-ip dns static add address=:: name=mon.zijieapi.com
 ip dns static add address=240.0.0.1 name=monitor-ads-test.huan.tv
 ip dns static add address=:: name=monitor-ads-test.huan.tv
 ip dns static add address=240.0.0.1 name=monitor-uu.play.aiseet.atianqi.com
@@ -1449,8 +1447,6 @@ ip dns static add address=240.0.0.1 name=tnc3-aliec2.snssdk.com
 ip dns static add address=:: name=tnc3-aliec2.snssdk.com
 ip dns static add address=240.0.0.1 name=tnc3-aliec2.toutiaoapi.com
 ip dns static add address=:: name=tnc3-aliec2.toutiaoapi.com
-ip dns static add address=240.0.0.1 name=tnc3-aliec2.zijieapi.com
-ip dns static add address=:: name=tnc3-aliec2.zijieapi.com
 ip dns static add address=240.0.0.1 name=tnc3-alisc1.bytedance.com
 ip dns static add address=:: name=tnc3-alisc1.bytedance.com
 ip dns static add address=240.0.0.1 name=tnc3-alisc1.snssdk.com

@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 840
+#Total lines: 838
 #Version: 1.6.8-release
-#Update time: 2025-07-23 19:37:23 UTC+8
-#Update content: Block 360's intrusive shopping ads.
+#Update time: 2025-07-26 21:34:29 UTC+8
+#Update content: 修正一些错误
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -526,7 +526,6 @@ domain, mobads.baidu.com
 domain, mobaliyun.res.mgtv.com
 domain, mobile.da.mgtv.com
 domain, mobilelog.upqzfile.com
-domain, mon.zijieapi.com
 domain, monitor-ads-test.huan.tv
 domain, monitor-uu.play.aiseet.atianqi.com
 domain, monitor.music.qq.com
@@ -732,7 +731,6 @@ domain, tnc3-aliec1.toutiaoapi.com
 domain, tnc3-aliec2.bytedance.com
 domain, tnc3-aliec2.snssdk.com
 domain, tnc3-aliec2.toutiaoapi.com
-domain, tnc3-aliec2.zijieapi.com
 domain, tnc3-alisc1.bytedance.com
 domain, tnc3-alisc1.snssdk.com
 domain, tnc3-alisc1.toutiaoapi.com

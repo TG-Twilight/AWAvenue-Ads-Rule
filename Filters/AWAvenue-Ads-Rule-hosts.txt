@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1684
+!Total lines: 1680
 !Version: 1.6.8-release
-!Update time: 2025-07-23 19:37:23 UTC+8
-!Update content: Block 360's intrusive shopping ads.
+!Update time: 2025-07-26 21:34:29 UTC+8
+!Update content: 修正一些错误
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -1041,8 +1041,6 @@
 :: mobile.da.mgtv.com
 0.0.0.0 mobilelog.upqzfile.com
 :: mobilelog.upqzfile.com
-0.0.0.0 mon.zijieapi.com
-:: mon.zijieapi.com
 0.0.0.0 monitor-ads-test.huan.tv
 :: monitor-ads-test.huan.tv
 0.0.0.0 monitor-uu.play.aiseet.atianqi.com
@@ -1453,8 +1451,6 @@
 :: tnc3-aliec2.snssdk.com
 0.0.0.0 tnc3-aliec2.toutiaoapi.com
 :: tnc3-aliec2.toutiaoapi.com
-0.0.0.0 tnc3-aliec2.zijieapi.com
-:: tnc3-aliec2.zijieapi.com
 0.0.0.0 tnc3-alisc1.bytedance.com
 :: tnc3-alisc1.bytedance.com
 0.0.0.0 tnc3-alisc1.snssdk.com

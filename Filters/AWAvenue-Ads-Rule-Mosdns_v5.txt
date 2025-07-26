@@ -512,7 +512,6 @@ domain:mobads.baidu.com
 domain:mobaliyun.res.mgtv.com
 domain:mobile.da.mgtv.com
 domain:mobilelog.upqzfile.com
-domain:mon.zijieapi.com
 domain:monitor-ads-test.huan.tv
 domain:monitor-uu.play.aiseet.atianqi.com
 domain:monitor.music.qq.com
@@ -718,7 +717,6 @@ domain:tnc3-aliec1.toutiaoapi.com
 domain:tnc3-aliec2.bytedance.com
 domain:tnc3-aliec2.snssdk.com
 domain:tnc3-aliec2.toutiaoapi.com
-domain:tnc3-aliec2.zijieapi.com
 domain:tnc3-alisc1.bytedance.com
 domain:tnc3-alisc1.snssdk.com
 domain:tnc3-alisc1.toutiaoapi.com
