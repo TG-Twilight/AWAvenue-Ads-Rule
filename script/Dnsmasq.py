@@ -2,9 +2,7 @@
 def format_domain(List):
     domain = []
     for line in List:
-        domain_lines = f"address=/{line.strip()}/0.0.0.0"
-        domain.append(domain_lines)
-        domain_lines = f"address=/{line.strip()}/::"
+        domain_lines = f"address=/{line.strip()}/#"
         domain.append(domain_lines)
     return domain
 
