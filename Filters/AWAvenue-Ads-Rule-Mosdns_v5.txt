@@ -779,7 +779,6 @@ domain:v2.gdt.qq.com
 domain:v2mi.gdt.qq.com
 domain:v3-ad.video.yximgs.com
 domain:v3.gdt.qq.com
-domain:vali-ugc.cp31.ott.cibntv.net
 domain:vd6.l.qq.com
 domain:vi.l.qq.com
 domain:video-ad.sm.cn

@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1676
+!Total lines: 1674
 !Version: 1.6.8-release
-!Update time: 2025-07-27 20:57:46 UTC+8
-!Update content: 使用更简洁的 dnsmasq 规则格式
+!Update time: 2025-07-28 22:45:34 UTC+8
+!Update content: 再修正一些错误
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -1571,8 +1571,6 @@ ip dns static add address=240.0.0.1 name=v3-ad.video.yximgs.com
 ip dns static add address=:: name=v3-ad.video.yximgs.com
 ip dns static add address=240.0.0.1 name=v3.gdt.qq.com
 ip dns static add address=:: name=v3.gdt.qq.com
-ip dns static add address=240.0.0.1 name=vali-ugc.cp31.ott.cibntv.net
-ip dns static add address=:: name=vali-ugc.cp31.ott.cibntv.net
 ip dns static add address=240.0.0.1 name=vd6.l.qq.com
 ip dns static add address=:: name=vd6.l.qq.com
 ip dns static add address=240.0.0.1 name=vi.l.qq.com

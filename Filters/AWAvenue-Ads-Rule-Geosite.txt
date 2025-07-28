@@ -779,7 +779,6 @@ full:v2.gdt.qq.com
 full:v2mi.gdt.qq.com
 full:v3-ad.video.yximgs.com
 full:v3.gdt.qq.com
-full:vali-ugc.cp31.ott.cibntv.net
 full:vd6.l.qq.com
 full:vi.l.qq.com
 full:video-ad.sm.cn
