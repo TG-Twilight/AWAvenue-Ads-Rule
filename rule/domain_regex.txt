@@ -18,4 +18,3 @@
 [a-zA-Z0-9.-]*-be-pack-sign.pglstatp-toutiao.com
 [a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*.zijieapi.com
 [a-zA-Z0-9.-]*-normal.zijieapi.com
-cloudinject[a-zA-Z0-9.-]*-dev.*.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*.amazonaws.com
