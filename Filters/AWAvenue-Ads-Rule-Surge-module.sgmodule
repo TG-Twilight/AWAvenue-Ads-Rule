@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2025-07-29 15:52:22 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2025-07-30 07:19:34 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -861,4 +861,3 @@ DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad.wtzw.com,REJECT,extended-matching,pre-matching
 DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-be-pack-sign.pglstatp-toutiao.com,REJECT,extended-matching,pre-matching
 DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*.zijieapi.com,REJECT,extended-matching,pre-matching
 DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-normal.zijieapi.com,REJECT,extended-matching,pre-matching
-DOMAIN-KEYWORD,cloudinject[a-zA-Z0-9.-]*-dev.*.[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*-[a-zA-Z0-9.-]*.amazonaws.com,REJECT,extended-matching,pre-matching
