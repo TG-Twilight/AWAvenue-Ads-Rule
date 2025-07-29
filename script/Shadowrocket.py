@@ -15,4 +15,4 @@ def format_ip(List):
 
 def build(rule):
     list = format_ip(rule.ip_list) + format_domain(rule.domain_list)
-    return {'list': list, 'suffix': '.conf', 'comment': '#', 'total': len(conf)}
+    return {'list': list, 'suffix': '.conf', 'comment': '#', 'total': len(list)}
