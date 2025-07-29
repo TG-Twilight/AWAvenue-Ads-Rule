@@ -2,8 +2,8 @@
 !--------------------------------------
 !Total lines: 1678
 !Version: 1.6.8-release
-!Update time: 2025-07-29 15:47:16 UTC+8
-!Update content: 为 Shadowrocket 适配规则
+!Update time: 2025-07-29 15:52:22 UTC+8
+!Update content: fix Shadowrocket.py
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
