@@ -1,15 +1,18 @@
-def format_domain(domain_list):
-    domain_lines = []
-    for line in domain_list:
-        line = line.strip()
-        if line:
-            domain_lines.append(f"DOMAIN-SUFFIX,{line},Reject")
-    return domain_lines
+
+def format_domain(List):
+    domain = []
+    for line in List:
+        domain_lines = f"DOMAIN-SUFFIX,{line.strip()},Reject"
+        domain.append(domain_lines)
+    return domain
+
+def format_ip(List):
+    ip = []
+    for line in List:
+        ip_lines = f"IP-CIDR,{line.strip()},Reject"
+        ip.append(ip_lines)
+    return ip
 
 def build(rule):
-    domain_rules = format_domain(rule.domain_list)
-    return {
-        'content': '\n'.join(domain_rules),
-        'suffix': '.conf',
-        'total': len(domain_rules)
-    }
+    list = format_ip(rule.ip_list) + format_domain(rule.domain_list)
+    return {'list': list, 'suffix': '.conf', 'comment': '#', 'total': len(conf)}
