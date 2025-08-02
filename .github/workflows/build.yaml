@@ -24,7 +24,6 @@ jobs:
         git clone "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" -b build build
         cd build
         mkdir out
-        pip install -r requirements.txt
         python main.py
         cd out
         mkdir Filters
@@ -34,17 +33,16 @@ jobs:
     - name: build singbox mrs
       run: |
         cd build/out/Filters
-        wget -O ./sing-box.tar.gz https://github.com/SagerNet/sing-box/releases/download/v1.11.4/sing-box-1.11.4-linux-amd64.tar.gz
+        wget -O ./sing-box.tar.gz https://github.com/SagerNet/sing-box/releases/download/v1.11.15/sing-box-1.11.15-linux-amd64.tar.gz
         tar -xzvf sing-box.tar.gz
         chmod +x */sing-box
         ./*/sing-box rule-set compile AWAvenue-Ads-Rule-Singbox.json
-        ./*/sing-box rule-set compile AWAvenue-Ads-Rule-Singbox-regex.json
         rm -rf *sing-box*
 
     - name: build mihomo mrs
       run: |
             cd build/out/Filters
-            wget -O ./mihomo.gz https://github.com/MetaCubeX/mihomo/releases/download/v1.19.3/mihomo-linux-amd64-v1.19.3.gz
+            wget -O ./mihomo.gz https://github.com/MetaCubeX/mihomo/releases/download/v1.19.12/mihomo-linux-amd64-v1.19.12.gz
             gzip -d mihomo.gz
             chmod +x mihomo
             ./mihomo convert-ruleset domain yaml AWAvenue-Ads-Rule-Clash.yaml AWAvenue-Ads-Rule-Clash.mrs

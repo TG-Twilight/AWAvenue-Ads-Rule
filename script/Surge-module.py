@@ -19,10 +19,24 @@ def format_domain(List):
         domain.append(domain_lines)
     return domain
 
+def format_suffix(List):
+    suffix = []
+    for line in List:
+        suffix_lines = f"DOMAIN-SUFFIX,{line.strip()},REJECT,extended-matching,pre-matching"
+        suffix.append(suffix_lines)
+    return suffix
+
+def format_keyword(List):
+    keyword = []
+    for line in List:
+        keyword_lines = f"DOMAIN-KEYWORD,{line.strip()},REJECT,extended-matching,pre-matching"
+        keyword.append(keyword_lines)
+    return keyword
+
 def format_regex(List):
     regex = []
     for line in List:
-        regex_lines = f"DOMAIN-KEYWORD,{line.strip()},REJECT,extended-matching,pre-matching"
+        regex_lines = f"DOMAIN-REGEX,{line.strip()},REJECT,extended-matching,pre-matching"
         regex.append(regex_lines)
     return regex
 

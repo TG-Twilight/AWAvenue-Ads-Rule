@@ -1,4 +1,4 @@
-
+# https://wiki.archlinuxcn.org/wiki/Dnsmasq#%E5%9F%9F%E5%90%8D%E9%98%BB%E6%AD%A2%E5%88%97%E8%A1%A8
 def format_domain(List):
     domain = []
     for line in List:

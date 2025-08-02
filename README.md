@@ -20,9 +20,16 @@ python main.py
 
 ## 须知
 
-`domain.txt` 文件为域名列表 一行一个 不会匹配子域名
+> 一行一个 不会匹配子域名
 
-`domain_regex.txt` 文件为`domain.txt`的正则表达式版本(并不是所有插件都会调用此规则)
+
+`domain.txt` 文件为域名列表
+
+`domain_regex.txt` 匹配域名正则表达式(并不是所有插件都会调用此规则)
+
+`domain_suffix.txt` 匹配域名后缀(并不是所有插件都会调用此规则)
+
+`domain_keyword.txt` 匹配域名的关键字(并不是所有插件都会调用此规则)
 
 `ip.txt` 文件为ipv4列表(并不是所有插件都会调用此规则)
 

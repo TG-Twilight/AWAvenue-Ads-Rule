@@ -1,11 +1,11 @@
-import re
 import os
 import config
 import importlib
 import subprocess
-import concurrent.futures
 from datetime import datetime
 
+
+rule = config.RuleList()
 
 
 def get_latest_git_tag(): # 获取最新的git tag
@@ -16,49 +16,6 @@ def get_latest_git_tag(): # 获取最新的git tag
         return tags[-1]
     else:
         return None
-
-
-class RuleList:
-    def __init__(self, domain_file, regex_file, ip_file, ip6_file):
-        self.domain_list = self.domain_file(domain_file)
-        self.regex_list = self.regex_file(regex_file)
-        self.ip_list = self.ip_file(ip_file)
-        self.ip6_list = self.ip6_file(ip6_file)
-    
-
-    ## 以下内容由deepseek提供技术支持(bushi
-
-    def domain_file(self, filename):
-        with open(filename, 'r') as file:
-            return sorted({line.strip() for line in file})
-    
-    def regex_file(self, filename):
-        with open(filename, 'r') as file:
-            return sorted({line.strip() for line in file})
-    
-    def ip_file(self, filename):
-        ipv4_pattern = re.compile(r'^(\d{1,3}\.){3}\d{1,3}$')
-        ips = set()
-        with open(filename, 'r') as file:
-            for line in file:
-                ip = line.strip()
-                if ipv4_pattern.match(ip):
-                    parts = ip.split('.')
-                    if all(0 <= int(part) <= 255 for part in parts):
-                        ips.add(ip)
-        return sorted(ips)
-    
-    def ip6_file(self, filename):
-        ipv6_pattern = re.compile(r'^([0-9a-fA-F]{0,4}:){2,7}[0-9a-fA-F]{0,4}$')
-        ips = set()
-        with open(filename, 'r') as file:
-            for line in file:
-                ip = line.strip()
-                if ipv6_pattern.match(ip):
-                    ips.add(ip)
-        return sorted(ips)
-
-
 
 def WriteFile(name, text, suffix, comment, module_total): # 写入文件
     try:
@@ -88,8 +45,6 @@ def WriteFile(name, text, suffix, comment, module_total): # 写入文件
 
 
 def RunScript():
-    rule = RuleList(config.domain_file, config.regex_file, config.ip_file, config.ip6_file)
-    config.rule = rule
     
     for filename in os.listdir(config.SCRIPT_PATH): # 遍历script目录下的所有文件
         if filename.endswith(".py"):

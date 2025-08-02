@@ -1,3 +1,5 @@
+# https://wiki.metacubex.one/handbook/syntax/#_8
+# https://wiki.metacubex.one/config/rule-providers/content/#domain
 
 def format_domain(List):
     domain = []
@@ -6,14 +8,14 @@ def format_domain(List):
         domain.append(domain_lines)
     return domain
 
-def format_regex(List):
-    regex = []
+def format_suffix(List):
+    suffix = []
     for line in List:
-        regex_lines = f"  - '{line.strip()}'".replace("$","").replace("^","")
-        regex.append(regex_lines)
-    return regex
+        suffix_lines = f"  - '+.{line.strip()}'"
+        suffix.append(suffix_lines)
+    return suffix
 
 
 def build(rule):
-    list =format_domain(rule.domain_list) + format_regex(rule.regex_list)
+    list = format_domain(rule.domain_list) + format_suffix(rule.suffix_list)
     return {'list': ["payload:"] + list, 'suffix': '.yaml', 'comment': '#', 'total': len(list)}
