@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 855
+#Total lines: 871
 #Version: 1.6.8-release
-#Update time: 2025-07-30 07:19:34 UTC+8
-#Update content: 移除失效内容
+#Update time: 2025-08-02 20:35:40 UTC+8
+#Update content: 新增domain_suffix和domain_keyword匹配&删除singbox-regex.py
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -846,21 +846,37 @@ DOMAIN,ytx-file.110route.cn,reject
 DOMAIN,zeus.ad.xiaomi.com,reject
 DOMAIN,zhihu-web-analytics.zhihu.com,reject
 DOMAIN,zxid-m.mobileservice.cn,reject
-DOMAIN-KEYWORD,..1rtb.com,reject
-DOMAIN-KEYWORD,..a.market.xiaomi.com,reject
-DOMAIN-KEYWORD,..ad.gameley.com,reject
-DOMAIN-KEYWORD,..adintl.cn,reject
-DOMAIN-KEYWORD,..adx.adwangmai.com,reject
-DOMAIN-KEYWORD,..data.hicloud.com,reject
-DOMAIN-KEYWORD,..log.aliyuncs.com,reject
-DOMAIN-KEYWORD,..ubixioe.com,reject
-DOMAIN-KEYWORD,..vlion.cn,reject
-DOMAIN-KEYWORD,..yfanads.com,reject
-DOMAIN-KEYWORD,..zhangyuyidong.cn,reject
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]-ad-[a-zA-Z0-9.-].byteimg.com,reject
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]-ad.sm.cn,reject
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]-ad.video.yximgs.com,reject
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]-ad.wtzw.com,reject
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]-be-pack-sign.pglstatp-toutiao.com,reject
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]-normal-[a-zA-Z0-9.-].zijieapi.com,reject
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]-normal.zijieapi.com,reject
+DOMAIN-SUFFIX,1rtb.com,reject
+DOMAIN-SUFFIX,a.market.xiaomi.com,reject
+DOMAIN-SUFFIX,ad.gameley.com,reject
+DOMAIN-SUFFIX,adintl.cn,reject
+DOMAIN-SUFFIX,adx.adwangmai.com,reject
+DOMAIN-SUFFIX,data.hicloud.com,reject
+DOMAIN-SUFFIX,log.aliyuncs.com,reject
+DOMAIN-SUFFIX,ubixioe.com,reject
+DOMAIN-SUFFIX,vlion.cn,reject
+DOMAIN-SUFFIX,yfanads.com,reject
+DOMAIN-SUFFIX,zhangyuyidong.cn,reject
+DOMAIN-KEYWORD,-ad.sm.cn,reject
+DOMAIN-KEYWORD,-ad.video.yximgs.com,reject
+DOMAIN-KEYWORD,-ad.wtzw.com,reject
+DOMAIN-KEYWORD,-be-pack-sign.pglstatp-toutiao.com,reject
+DOMAIN-KEYWORD,-normal.zijieapi.com,reject
+DOMAIN-REGEX,..1rtb.com,reject
+DOMAIN-REGEX,..a.market.xiaomi.com,reject
+DOMAIN-REGEX,..ad.gameley.com,reject
+DOMAIN-REGEX,..adintl.cn,reject
+DOMAIN-REGEX,..adx.adwangmai.com,reject
+DOMAIN-REGEX,..data.hicloud.com,reject
+DOMAIN-REGEX,..log.aliyuncs.com,reject
+DOMAIN-REGEX,..ubixioe.com,reject
+DOMAIN-REGEX,..vlion.cn,reject
+DOMAIN-REGEX,..yfanads.com,reject
+DOMAIN-REGEX,..zhangyuyidong.cn,reject
+DOMAIN-REGEX,[a-zA-Z0-9.-]-ad-[a-zA-Z0-9.-].byteimg.com,reject
+DOMAIN-REGEX,[a-zA-Z0-9.-]-ad.sm.cn,reject
+DOMAIN-REGEX,[a-zA-Z0-9.-]-ad.video.yximgs.com,reject
+DOMAIN-REGEX,[a-zA-Z0-9.-]-ad.wtzw.com,reject
+DOMAIN-REGEX,[a-zA-Z0-9.-]-be-pack-sign.pglstatp-toutiao.com,reject
+DOMAIN-REGEX,[a-zA-Z0-9.-]-normal-[a-zA-Z0-9.-].zijieapi.com,reject
+DOMAIN-REGEX,[a-zA-Z0-9.-]-normal.zijieapi.com,reject
