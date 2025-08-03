@@ -24,19 +24,19 @@ class RuleList:
 
     def domain_file(self, filename):
         with open(filename, 'r') as file:
-            return sorted({line.strip() for line in file})
+            return sorted({line.strip() for line in file if line.strip()})
 
     def suffix_file(self, filename):
         with open(filename, 'r') as file:
-            return sorted({line.strip() for line in file})
+            return sorted({line.strip() for line in file if line.strip()})
 
     def keyword_file(self, filename):
         with open(filename, 'r') as file:
-            return sorted({line.strip() for line in file})
+            return sorted({line.strip() for line in file if line.strip()})
     
     def regex_file(self, filename):
         with open(filename, 'r') as file:
-            return sorted({line.strip() for line in file})
+            return sorted({line.strip() for line in file if line.strip()})
 
     def ip_file(self, filename):
         ipv4_pattern = re.compile(r'^(\d{1,3}\.){3}\d{1,3}$')
@@ -44,7 +44,7 @@ class RuleList:
         with open(filename, 'r') as file:
             for line in file:
                 ip = line.strip()
-                if ipv4_pattern.match(ip):
+                if ip and ipv4_pattern.match(ip):  # 添加空白检查
                     parts = ip.split('.')
                     if all(0 <= int(part) <= 255 for part in parts):
                         ips.add(ip)
@@ -56,6 +56,6 @@ class RuleList:
         with open(filename, 'r') as file:
             for line in file:
                 ip = line.strip()
-                if ipv6_pattern.match(ip):
+                if ip and ipv6_pattern.match(ip):  # 添加空白检查
                     ips.add(ip)
         return sorted(ips)
