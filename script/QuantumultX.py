@@ -23,7 +23,7 @@ def format_keyword(List):
 def format_regex(List):
     regex = []
     for line in List:
-        regex_lines = f"DOMAIN-REGEX,{line.strip()},reject".replace("$","").replace("^","").replace("*","").replace("\\.",".")
+        regex_lines = f"DOMAIN-REGEX,{line.strip()},reject"
         regex.append(regex_lines)
     return regex
 
