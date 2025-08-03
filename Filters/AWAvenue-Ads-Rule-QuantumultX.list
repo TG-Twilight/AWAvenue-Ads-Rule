@@ -2,8 +2,8 @@
 #--------------------------------------
 #Total lines: 871
 #Version: 1.6.8-release
-#Update time: 2025-08-02 20:35:40 UTC+8
-#Update content: 新增domain_suffix和domain_keyword匹配&删除singbox-regex.py
+#Update time: 2025-08-03 15:36:14 UTC+8
+#Update content: fix QuantumultX error
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -862,21 +862,21 @@ DOMAIN-KEYWORD,-ad.video.yximgs.com,reject
 DOMAIN-KEYWORD,-ad.wtzw.com,reject
 DOMAIN-KEYWORD,-be-pack-sign.pglstatp-toutiao.com,reject
 DOMAIN-KEYWORD,-normal.zijieapi.com,reject
-DOMAIN-REGEX,..1rtb.com,reject
-DOMAIN-REGEX,..a.market.xiaomi.com,reject
-DOMAIN-REGEX,..ad.gameley.com,reject
-DOMAIN-REGEX,..adintl.cn,reject
-DOMAIN-REGEX,..adx.adwangmai.com,reject
-DOMAIN-REGEX,..data.hicloud.com,reject
-DOMAIN-REGEX,..log.aliyuncs.com,reject
-DOMAIN-REGEX,..ubixioe.com,reject
-DOMAIN-REGEX,..vlion.cn,reject
-DOMAIN-REGEX,..yfanads.com,reject
-DOMAIN-REGEX,..zhangyuyidong.cn,reject
-DOMAIN-REGEX,[a-zA-Z0-9.-]-ad-[a-zA-Z0-9.-].byteimg.com,reject
-DOMAIN-REGEX,[a-zA-Z0-9.-]-ad.sm.cn,reject
-DOMAIN-REGEX,[a-zA-Z0-9.-]-ad.video.yximgs.com,reject
-DOMAIN-REGEX,[a-zA-Z0-9.-]-ad.wtzw.com,reject
-DOMAIN-REGEX,[a-zA-Z0-9.-]-be-pack-sign.pglstatp-toutiao.com,reject
-DOMAIN-REGEX,[a-zA-Z0-9.-]-normal-[a-zA-Z0-9.-].zijieapi.com,reject
-DOMAIN-REGEX,[a-zA-Z0-9.-]-normal.zijieapi.com,reject
+DOMAIN-REGEX,.*.1rtb.com,reject
+DOMAIN-REGEX,.*.a.market.xiaomi.com,reject
+DOMAIN-REGEX,.*.ad.gameley.com,reject
+DOMAIN-REGEX,.*.adintl.cn,reject
+DOMAIN-REGEX,.*.adx.adwangmai.com,reject
+DOMAIN-REGEX,.*.data.hicloud.com,reject
+DOMAIN-REGEX,.*.log.aliyuncs.com,reject
+DOMAIN-REGEX,.*.ubixioe.com,reject
+DOMAIN-REGEX,.*.vlion.cn,reject
+DOMAIN-REGEX,.*.yfanads.com,reject
+DOMAIN-REGEX,.*.zhangyuyidong.cn,reject
+DOMAIN-REGEX,[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*.byteimg.com,reject
+DOMAIN-REGEX,[a-zA-Z0-9.-]*-ad.sm.cn,reject
+DOMAIN-REGEX,[a-zA-Z0-9.-]*-ad.video.yximgs.com,reject
+DOMAIN-REGEX,[a-zA-Z0-9.-]*-ad.wtzw.com,reject
+DOMAIN-REGEX,[a-zA-Z0-9.-]*-be-pack-sign.pglstatp-toutiao.com,reject
+DOMAIN-REGEX,[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*.zijieapi.com,reject
+DOMAIN-REGEX,[a-zA-Z0-9.-]*-normal.zijieapi.com,reject
