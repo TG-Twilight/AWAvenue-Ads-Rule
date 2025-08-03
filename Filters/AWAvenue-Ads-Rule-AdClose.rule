@@ -2,8 +2,8 @@
 #--------------------------------------
 #Total lines: 837
 #Version: 1.6.8-release
-#Update time: 2025-08-03 15:36:14 UTC+8
-#Update content: fix QuantumultX error
+#Update time: 2025-08-03 15:39:06 UTC+8
+#Update content: 移除重复的 regex 规则，使用更高效的keyword和suffix
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE

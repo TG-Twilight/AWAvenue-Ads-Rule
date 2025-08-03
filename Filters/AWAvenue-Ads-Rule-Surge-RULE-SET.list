@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 871
+#Total lines: 854
 #Version: 1.6.8-release
-#Update time: 2025-08-03 15:36:14 UTC+8
-#Update content: fix QuantumultX error
+#Update time: 2025-08-03 15:39:06 UTC+8
+#Update content: 移除重复的 regex 规则，使用更高效的keyword和suffix
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -862,21 +862,4 @@ DOMAIN-KEYWORD,-ad.video.yximgs.com
 DOMAIN-KEYWORD,-ad.wtzw.com
 DOMAIN-KEYWORD,-be-pack-sign.pglstatp-toutiao.com
 DOMAIN-KEYWORD,-normal.zijieapi.com
-DOMAIN-KEYWORD,.*.1rtb.com
-DOMAIN-KEYWORD,.*.a.market.xiaomi.com
-DOMAIN-KEYWORD,.*.ad.gameley.com
-DOMAIN-KEYWORD,.*.adintl.cn
-DOMAIN-KEYWORD,.*.adx.adwangmai.com
-DOMAIN-KEYWORD,.*.data.hicloud.com
-DOMAIN-KEYWORD,.*.log.aliyuncs.com
-DOMAIN-KEYWORD,.*.ubixioe.com
-DOMAIN-KEYWORD,.*.vlion.cn
-DOMAIN-KEYWORD,.*.yfanads.com
-DOMAIN-KEYWORD,.*.zhangyuyidong.cn
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad-[a-zA-Z0-9.-]*.byteimg.com
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad.sm.cn
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad.video.yximgs.com
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-ad.wtzw.com
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-be-pack-sign.pglstatp-toutiao.com
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-normal-[a-zA-Z0-9.-]*.zijieapi.com
-DOMAIN-KEYWORD,[a-zA-Z0-9.-]*-normal.zijieapi.com
+DOMAIN-KEYWORD,
