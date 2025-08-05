@@ -511,6 +511,7 @@ domain:mobads-pre-config.cdn.bcebos.com
 domain:mobads.baidu.com
 domain:mobaliyun.res.mgtv.com
 domain:mobile.da.mgtv.com
+domain:mobilead.kuwo.cn
 domain:mobilelog.upqzfile.com
 domain:monitor-ads-test.huan.tv
 domain:monitor-uu.play.aiseet.atianqi.com

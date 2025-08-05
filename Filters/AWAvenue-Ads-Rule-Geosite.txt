@@ -511,6 +511,7 @@ full:mobads-pre-config.cdn.bcebos.com
 full:mobads.baidu.com
 full:mobaliyun.res.mgtv.com
 full:mobile.da.mgtv.com
+full:mobilead.kuwo.cn
 full:mobilelog.upqzfile.com
 full:monitor-ads-test.huan.tv
 full:monitor-uu.play.aiseet.atianqi.com

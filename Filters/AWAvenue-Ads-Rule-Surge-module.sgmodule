@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2025-08-03 17:29:46 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2025-08-05 16:30:12 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -519,6 +519,7 @@ DOMAIN,mobads-pre-config.cdn.bcebos.com,REJECT,extended-matching,pre-matching
 DOMAIN,mobads.baidu.com,REJECT,extended-matching,pre-matching
 DOMAIN,mobaliyun.res.mgtv.com,REJECT,extended-matching,pre-matching
 DOMAIN,mobile.da.mgtv.com,REJECT,extended-matching,pre-matching
+DOMAIN,mobilead.kuwo.cn,REJECT,extended-matching,pre-matching
 DOMAIN,mobilelog.upqzfile.com,REJECT,extended-matching,pre-matching
 DOMAIN,monitor-ads-test.huan.tv,REJECT,extended-matching,pre-matching
 DOMAIN,monitor-uu.play.aiseet.atianqi.com,REJECT,extended-matching,pre-matching

@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 853
+#Total lines: 854
 #Version: 1.6.8-release
-#Update time: 2025-08-03 17:29:46 UTC+8
-#Update content: 修复读取规则的小问题
+#Update time: 2025-08-05 16:30:12 UTC+8
+#Update content: add Kuwo Music ads domain.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -522,6 +522,7 @@ DOMAIN,mobads-pre-config.cdn.bcebos.com
 DOMAIN,mobads.baidu.com
 DOMAIN,mobaliyun.res.mgtv.com
 DOMAIN,mobile.da.mgtv.com
+DOMAIN,mobilead.kuwo.cn
 DOMAIN,mobilelog.upqzfile.com
 DOMAIN,monitor-ads-test.huan.tv
 DOMAIN,monitor-uu.play.aiseet.atianqi.com
