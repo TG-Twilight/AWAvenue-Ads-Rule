@@ -518,6 +518,7 @@ mobads-logs.baidu.com
 mobads-pre-config.cdn.bcebos.com
 mobads.baidu.com
 mobaliyun.res.mgtv.com
+mobilead.kuwo.cn
 mobile.da.mgtv.com
 mobilelog.upqzfile.com
 monitor-ads-test.huan.tv
