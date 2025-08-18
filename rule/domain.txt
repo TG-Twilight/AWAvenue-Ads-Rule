@@ -232,8 +232,10 @@ bes-mtj.baidu.com
 bgg.baidu.com
 bianxian.com
 bingads.microsoft.com
+biz.weibo.com
 bj.ad.track.66mobi.com
 books-analytics-events.apple.com
+bootpreload.uve.weibo.com
 browsercfg-drcn.cloud.dbankcloud.cn
 bsrv.qq.com
 bugly.qq.com
@@ -518,8 +520,8 @@ mobads-logs.baidu.com
 mobads-pre-config.cdn.bcebos.com
 mobads.baidu.com
 mobaliyun.res.mgtv.com
-mobilead.kuwo.cn
 mobile.da.mgtv.com
+mobilead.kuwo.cn
 mobilelog.upqzfile.com
 monitor-ads-test.huan.tv
 monitor-uu.play.aiseet.atianqi.com
