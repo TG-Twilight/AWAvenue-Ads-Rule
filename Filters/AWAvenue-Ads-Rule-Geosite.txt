@@ -229,8 +229,10 @@ full:bes-mtj.baidu.com
 full:bgg.baidu.com
 full:bianxian.com
 full:bingads.microsoft.com
+full:biz.weibo.com
 full:bj.ad.track.66mobi.com
 full:books-analytics-events.apple.com
+full:bootpreload.uve.weibo.com
 full:browsercfg-drcn.cloud.dbankcloud.cn
 full:bsrv.qq.com
 full:bugly.qq.com

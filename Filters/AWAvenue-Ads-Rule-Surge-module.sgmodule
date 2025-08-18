@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2025-08-05 16:30:12 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2025-08-18 16:44:05 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -237,8 +237,10 @@ DOMAIN,bes-mtj.baidu.com,REJECT,extended-matching,pre-matching
 DOMAIN,bgg.baidu.com,REJECT,extended-matching,pre-matching
 DOMAIN,bianxian.com,REJECT,extended-matching,pre-matching
 DOMAIN,bingads.microsoft.com,REJECT,extended-matching,pre-matching
+DOMAIN,biz.weibo.com,REJECT,extended-matching,pre-matching
 DOMAIN,bj.ad.track.66mobi.com,REJECT,extended-matching,pre-matching
 DOMAIN,books-analytics-events.apple.com,REJECT,extended-matching,pre-matching
+DOMAIN,bootpreload.uve.weibo.com,REJECT,extended-matching,pre-matching
 DOMAIN,browsercfg-drcn.cloud.dbankcloud.cn,REJECT,extended-matching,pre-matching
 DOMAIN,bsrv.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,bugly.qq.com,REJECT,extended-matching,pre-matching

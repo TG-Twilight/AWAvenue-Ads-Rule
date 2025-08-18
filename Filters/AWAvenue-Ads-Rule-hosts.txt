@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1680
+!Total lines: 1684
 !Version: 1.6.8-release
-!Update time: 2025-08-05 16:30:12 UTC+8
-!Update content: add Kuwo Music ads domain.
+!Update time: 2025-08-18 16:44:05 UTC+8
+!Update content: 拦截某博广告，感谢 @0xLac #161
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -475,10 +475,14 @@
 :: bianxian.com
 0.0.0.0 bingads.microsoft.com
 :: bingads.microsoft.com
+0.0.0.0 biz.weibo.com
+:: biz.weibo.com
 0.0.0.0 bj.ad.track.66mobi.com
 :: bj.ad.track.66mobi.com
 0.0.0.0 books-analytics-events.apple.com
 :: books-analytics-events.apple.com
+0.0.0.0 bootpreload.uve.weibo.com
+:: bootpreload.uve.weibo.com
 0.0.0.0 browsercfg-drcn.cloud.dbankcloud.cn
 :: browsercfg-drcn.cloud.dbankcloud.cn
 0.0.0.0 bsrv.qq.com

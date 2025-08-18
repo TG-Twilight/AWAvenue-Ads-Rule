@@ -229,8 +229,10 @@ domain:bes-mtj.baidu.com
 domain:bgg.baidu.com
 domain:bianxian.com
 domain:bingads.microsoft.com
+domain:biz.weibo.com
 domain:bj.ad.track.66mobi.com
 domain:books-analytics-events.apple.com
+domain:bootpreload.uve.weibo.com
 domain:browsercfg-drcn.cloud.dbankcloud.cn
 domain:bsrv.qq.com
 domain:bugly.qq.com
