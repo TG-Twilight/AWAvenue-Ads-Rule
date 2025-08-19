@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1680
+!Total lines: 1686
 !Version: 1.6.8-release
-!Update time: 2025-08-18 16:44:05 UTC+8
-!Update content: 拦截某博广告，感谢 @0xLac #161
+!Update time: 2025-08-19 14:09:45 UTC+8
+!Update content: 追加 tieba 追踪日志 by PΣΛᄃΣ
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -753,6 +753,8 @@ ip dns static add address=240.0.0.1 name=heads-fa.spotify.com
 ip dns static add address=:: name=heads-fa.spotify.com
 ip dns static add address=240.0.0.1 name=hexagon-analytics.com
 ip dns static add address=:: name=hexagon-analytics.com
+ip dns static add address=240.0.0.1 name=hlog.bigda.com
+ip dns static add address=:: name=hlog.bigda.com
 ip dns static add address=240.0.0.1 name=hm.baidu.com
 ip dns static add address=:: name=hm.baidu.com
 ip dns static add address=240.0.0.1 name=hmma.baidu.com
@@ -1023,6 +1025,8 @@ ip dns static add address=240.0.0.1 name=mission-pub.smart-tv.cn
 ip dns static add address=:: name=mission-pub.smart-tv.cn
 ip dns static add address=240.0.0.1 name=miui-fxcse.avlyun.com
 ip dns static add address=:: name=miui-fxcse.avlyun.com
+ip dns static add address=240.0.0.1 name=mlog.bigda.com
+ip dns static add address=:: name=mlog.bigda.com
 ip dns static add address=240.0.0.1 name=mmgame.qpic.cn
 ip dns static add address=:: name=mmgame.qpic.cn
 ip dns static add address=240.0.0.1 name=mnqlog.ldmnq.com
@@ -1539,6 +1543,8 @@ ip dns static add address=240.0.0.1 name=umengjmacs.m.taobao.com
 ip dns static add address=:: name=umengjmacs.m.taobao.com
 ip dns static add address=240.0.0.1 name=umini.shujupie.com
 ip dns static add address=:: name=umini.shujupie.com
+ip dns static add address=240.0.0.1 name=union-mlog.bigda.com
+ip dns static add address=:: name=union-mlog.bigda.com
 ip dns static add address=240.0.0.1 name=union.baidu.cn
 ip dns static add address=:: name=union.baidu.cn
 ip dns static add address=240.0.0.1 name=union.baidu.com

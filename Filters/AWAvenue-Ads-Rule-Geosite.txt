@@ -370,6 +370,7 @@ full:hc-ssp.sm.cn
 full:heads-ak.spotify.com.edgesuite.net
 full:heads-fa.spotify.com
 full:hexagon-analytics.com
+full:hlog.bigda.com
 full:hm.baidu.com
 full:hmma.baidu.com
 full:hotupgrade.hpplay.cn
@@ -505,6 +506,7 @@ full:micro-xdb.com
 full:mini-prog-drm.vodplayvideo.net
 full:mission-pub.smart-tv.cn
 full:miui-fxcse.avlyun.com
+full:mlog.bigda.com
 full:mmgame.qpic.cn
 full:mnqlog.ldmnq.com
 full:moatads.com
@@ -763,6 +765,7 @@ full:ulogs.umengcloud.com
 full:umengacs.m.taobao.com
 full:umengjmacs.m.taobao.com
 full:umini.shujupie.com
+full:union-mlog.bigda.com
 full:union.baidu.cn
 full:union.baidu.com
 full:update.avlyun.sec.miui.com

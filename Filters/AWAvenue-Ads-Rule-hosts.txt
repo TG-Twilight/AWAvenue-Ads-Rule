@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1684
+!Total lines: 1690
 !Version: 1.6.8-release
-!Update time: 2025-08-18 16:44:05 UTC+8
-!Update content: 拦截某博广告，感谢 @0xLac #161
+!Update time: 2025-08-19 14:09:45 UTC+8
+!Update content: 追加 tieba 追踪日志 by PΣΛᄃΣ
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -757,6 +757,8 @@
 :: heads-fa.spotify.com
 0.0.0.0 hexagon-analytics.com
 :: hexagon-analytics.com
+0.0.0.0 hlog.bigda.com
+:: hlog.bigda.com
 0.0.0.0 hm.baidu.com
 :: hm.baidu.com
 0.0.0.0 hmma.baidu.com
@@ -1027,6 +1029,8 @@
 :: mission-pub.smart-tv.cn
 0.0.0.0 miui-fxcse.avlyun.com
 :: miui-fxcse.avlyun.com
+0.0.0.0 mlog.bigda.com
+:: mlog.bigda.com
 0.0.0.0 mmgame.qpic.cn
 :: mmgame.qpic.cn
 0.0.0.0 mnqlog.ldmnq.com
@@ -1543,6 +1547,8 @@
 :: umengjmacs.m.taobao.com
 0.0.0.0 umini.shujupie.com
 :: umini.shujupie.com
+0.0.0.0 union-mlog.bigda.com
+:: union-mlog.bigda.com
 0.0.0.0 union.baidu.cn
 :: union.baidu.cn
 0.0.0.0 union.baidu.com

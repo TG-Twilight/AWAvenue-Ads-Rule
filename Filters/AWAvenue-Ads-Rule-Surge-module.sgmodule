@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2025-08-18 16:44:05 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2025-08-19 14:09:45 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -378,6 +378,7 @@ DOMAIN,hc-ssp.sm.cn,REJECT,extended-matching,pre-matching
 DOMAIN,heads-ak.spotify.com.edgesuite.net,REJECT,extended-matching,pre-matching
 DOMAIN,heads-fa.spotify.com,REJECT,extended-matching,pre-matching
 DOMAIN,hexagon-analytics.com,REJECT,extended-matching,pre-matching
+DOMAIN,hlog.bigda.com,REJECT,extended-matching,pre-matching
 DOMAIN,hm.baidu.com,REJECT,extended-matching,pre-matching
 DOMAIN,hmma.baidu.com,REJECT,extended-matching,pre-matching
 DOMAIN,hotupgrade.hpplay.cn,REJECT,extended-matching,pre-matching
@@ -513,6 +514,7 @@ DOMAIN,micro-xdb.com,REJECT,extended-matching,pre-matching
 DOMAIN,mini-prog-drm.vodplayvideo.net,REJECT,extended-matching,pre-matching
 DOMAIN,mission-pub.smart-tv.cn,REJECT,extended-matching,pre-matching
 DOMAIN,miui-fxcse.avlyun.com,REJECT,extended-matching,pre-matching
+DOMAIN,mlog.bigda.com,REJECT,extended-matching,pre-matching
 DOMAIN,mmgame.qpic.cn,REJECT,extended-matching,pre-matching
 DOMAIN,mnqlog.ldmnq.com,REJECT,extended-matching,pre-matching
 DOMAIN,moatads.com,REJECT,extended-matching,pre-matching
@@ -771,6 +773,7 @@ DOMAIN,ulogs.umengcloud.com,REJECT,extended-matching,pre-matching
 DOMAIN,umengacs.m.taobao.com,REJECT,extended-matching,pre-matching
 DOMAIN,umengjmacs.m.taobao.com,REJECT,extended-matching,pre-matching
 DOMAIN,umini.shujupie.com,REJECT,extended-matching,pre-matching
+DOMAIN,union-mlog.bigda.com,REJECT,extended-matching,pre-matching
 DOMAIN,union.baidu.cn,REJECT,extended-matching,pre-matching
 DOMAIN,union.baidu.com,REJECT,extended-matching,pre-matching
 DOMAIN,update.avlyun.sec.miui.com,REJECT,extended-matching,pre-matching
