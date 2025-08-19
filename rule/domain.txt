@@ -375,6 +375,7 @@ hc-ssp.sm.cn
 heads-ak.spotify.com.edgesuite.net
 heads-fa.spotify.com
 hexagon-analytics.com
+hlog.bigda.com
 hm.baidu.com
 hmma.baidu.com
 hotupgrade.hpplay.cn
@@ -513,6 +514,7 @@ micro-xdb.com
 mini-prog-drm.vodplayvideo.net
 mission-pub.smart-tv.cn
 miui-fxcse.avlyun.com
+mlog.bigda.com
 mmgame.qpic.cn
 mnqlog.ldmnq.com
 moatads.com
@@ -776,6 +778,7 @@ ulogs.umengcloud.com
 umengacs.m.taobao.com
 umengjmacs.m.taobao.com
 umini.shujupie.com
+union-mlog.bigda.com
 union.baidu.cn
 union.baidu.com
 update.avlyun.sec.miui.com
