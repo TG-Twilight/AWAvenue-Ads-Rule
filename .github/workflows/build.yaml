@@ -18,7 +18,7 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: 3.12
-        
+
     - name: Execute Python script
       run: |
         git clone "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" -b build build
@@ -29,7 +29,25 @@ jobs:
         mkdir Filters
         cp -Rf AWAvenue-Ads-Rule-Adblock.txt AWAvenue-Ads-Rule.txt #历史遗留问题
         mv AWAvenue-Ads-Rule-* Filters/
-  
+
+    - name: build singbox srs
+      run: |
+        cd build/out/Filters
+        wget -O ./sing-box.tar.gz https://github.com/SagerNet/sing-box/releases/download/v1.12.3/sing-box-1.12.3-linux-amd64.tar.gz
+        tar -xzvf sing-box.tar.gz
+        chmod +x */sing-box
+        ./*/sing-box rule-set compile --output AWAvenue-Ads-Rule-Singbox.srs AWAvenue-Ads-Rule-Singbox.json
+        rm -rf *sing-box*
+
+    - name: build mihomo mrs
+      run: |
+            cd build/out/Filters
+            wget -O ./mihomo.gz https://github.com/MetaCubeX/mihomo/releases/download/v1.19.12/mihomo-linux-amd64-v1.19.12.gz
+            gzip -d mihomo.gz
+            chmod +x mihomo
+            ./mihomo convert-ruleset domain yaml AWAvenue-Ads-Rule-Clash.yaml AWAvenue-Ads-Rule-Clash.mrs
+            rm -rf *mihomo*
+
     - name: Git push
       run: |
         git clone "https://${{ github.actor }}:${{ secrets.TOKEN }}@github.com/${{ github.repository }}" push
