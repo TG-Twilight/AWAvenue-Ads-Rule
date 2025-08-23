@@ -171,6 +171,7 @@ full:analyticsengine.s3.amazonaws.com
 full:analyze.lemurbrowser.com
 full:android.bugly.qq.com
 full:andrqd.play.aiseet.atianqi.com
+full:ap.dongdianqiu.com
 full:ap.dongqiudi.com
 full:apd-pcdnwxlogin.teg.tencent-cloud.net
 full:apd-pcdnwxnat.teg.tencent-cloud.net

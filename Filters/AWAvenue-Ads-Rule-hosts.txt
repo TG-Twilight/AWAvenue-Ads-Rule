@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1690
+!Total lines: 1692
 !Version: 1.6.8-release
-!Update time: 2025-08-20 11:10:01 UTC+8
-!Update content: 移除非必要格式
+!Update time: 2025-08-23 15:41:58 UTC+8
+!Update content: 拦截 dongqiudi比赛界面横幅广告，感谢 @酵母
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -359,6 +359,8 @@
 :: android.bugly.qq.com
 0.0.0.0 andrqd.play.aiseet.atianqi.com
 :: andrqd.play.aiseet.atianqi.com
+0.0.0.0 ap.dongdianqiu.com
+:: ap.dongdianqiu.com
 0.0.0.0 ap.dongqiudi.com
 :: ap.dongqiudi.com
 0.0.0.0 apd-pcdnwxlogin.teg.tencent-cloud.net

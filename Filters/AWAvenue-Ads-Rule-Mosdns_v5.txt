@@ -171,6 +171,7 @@ domain:analyticsengine.s3.amazonaws.com
 domain:analyze.lemurbrowser.com
 domain:android.bugly.qq.com
 domain:andrqd.play.aiseet.atianqi.com
+domain:ap.dongdianqiu.com
 domain:ap.dongqiudi.com
 domain:apd-pcdnwxlogin.teg.tencent-cloud.net
 domain:apd-pcdnwxnat.teg.tencent-cloud.net
