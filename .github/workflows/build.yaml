@@ -29,7 +29,21 @@ jobs:
         mkdir Filters
         cp -Rf AWAvenue-Ads-Rule-Adblock.txt AWAvenue-Ads-Rule.txt #历史遗留问题
         mv AWAvenue-Ads-Rule-* Filters/
-  
+
+    - name: build mihomo mrs
+      run: |
+            cd build/out/Filters
+            wget -O ./mihomo.gz https://github.com/MetaCubeX/mihomo/releases/download/v1.19.12/mihomo-linux-amd64-v1.19.12.gz
+            gzip -d mihomo.gz
+            chmod +x mihomo
+            ./mihomo convert-ruleset domain yaml AWAvenue-Ads-Rule-Clash.yaml AWAvenue-Ads-Rule-Clash.mrs
+            rm -rf *mihomo*
+
+    - name: Create AWAvenue-list.txt
+      run: |
+        cd build/out/Filters
+        ls | grep -v AWAvenue-list.txt > AWAvenue-list.txt
+
     - name: Git push
       run: |
         git clone "https://${{ github.actor }}:${{ secrets.TOKEN }}@github.com/${{ github.repository }}" push
