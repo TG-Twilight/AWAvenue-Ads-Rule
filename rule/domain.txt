@@ -172,7 +172,6 @@ analytics.tiktok.com
 analytics.woozooo.com
 analyticsengine.s3.amazonaws.com
 analyze.lemurbrowser.com
-android.bugly.qq.com
 andrqd.play.aiseet.atianqi.com
 ap.dongdianqiu.com
 ap.dongqiudi.com
@@ -855,3 +854,4 @@ ytx-file.110route.cn
 zeus.ad.xiaomi.com
 zhihu-web-analytics.zhihu.com
 zxid-m.mobileservice.cn
+
