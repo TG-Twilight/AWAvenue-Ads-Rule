@@ -169,7 +169,6 @@ full:analytics.tiktok.com
 full:analytics.woozooo.com
 full:analyticsengine.s3.amazonaws.com
 full:analyze.lemurbrowser.com
-full:android.bugly.qq.com
 full:andrqd.play.aiseet.atianqi.com
 full:ap.dongdianqiu.com
 full:ap.dongqiudi.com

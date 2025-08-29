@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 844
+#Total lines: 843
 #Version: 1.6.8-release
-#Update time: 2025-08-25 00:49:58 UTC+8
-#Update content: add mihomo mrs& add AWAvenue-list.txt
+#Update time: 2025-08-29 15:37:15 UTC+8
+#Update content: 移除 Txxxxxt Bugly 拦截
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -183,7 +183,6 @@ domain, analytics.tiktok.com
 domain, analytics.woozooo.com
 domain, analyticsengine.s3.amazonaws.com
 domain, analyze.lemurbrowser.com
-domain, android.bugly.qq.com
 domain, andrqd.play.aiseet.atianqi.com
 domain, ap.dongdianqiu.com
 domain, ap.dongqiudi.com

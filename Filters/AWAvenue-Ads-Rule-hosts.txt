@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1692
+!Total lines: 1690
 !Version: 1.6.8-release
-!Update time: 2025-08-25 00:49:58 UTC+8
-!Update content: add mihomo mrs& add AWAvenue-list.txt
+!Update time: 2025-08-29 15:37:15 UTC+8
+!Update content: 移除 Txxxxxt Bugly 拦截
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -355,8 +355,6 @@
 :: analyticsengine.s3.amazonaws.com
 0.0.0.0 analyze.lemurbrowser.com
 :: analyze.lemurbrowser.com
-0.0.0.0 android.bugly.qq.com
-:: android.bugly.qq.com
 0.0.0.0 andrqd.play.aiseet.atianqi.com
 :: andrqd.play.aiseet.atianqi.com
 0.0.0.0 ap.dongdianqiu.com
