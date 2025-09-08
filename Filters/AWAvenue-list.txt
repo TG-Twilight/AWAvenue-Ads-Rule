@@ -10,7 +10,6 @@ AWAvenue-Ads-Rule-Mosdns_v5.txt
 AWAvenue-Ads-Rule-QuantumultX.list
 AWAvenue-Ads-Rule-RouterOS-Adlist.txt
 AWAvenue-Ads-Rule-RouterOS.txt
-AWAvenue-Ads-Rule-Shadowrocket.conf
 AWAvenue-Ads-Rule-Singbox.json
 AWAvenue-Ads-Rule-Surge-RULE-SET.list
 AWAvenue-Ads-Rule-Surge-module.sgmodule
