@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 843
+#Total lines: 845
 #Version: 1.6.8-release
-#Update time: 2025-10-09 03:33:07 UTC+8
-#Update content: 添加一个广告IP #173
+#Update time: 2025-10-09 10:38:06 UTC+8
+#Update content: 新增拦截 Microsoft Edge浏览器的遥测域名 #172
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -247,6 +247,8 @@ domain, biz.weibo.com
 domain, bj.ad.track.66mobi.com
 domain, books-analytics-events.apple.com
 domain, bootpreload.uve.weibo.com
+domain, browser.events.data.msn.cn
+domain, browser.events.data.msn.com
 domain, browsercfg-drcn.cloud.dbankcloud.cn
 domain, bsrv.qq.com
 domain, bugly.qq.com

@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1686
+!Total lines: 1690
 !Version: 1.6.8-release
-!Update time: 2025-10-09 03:33:07 UTC+8
-!Update content: 添加一个广告IP #173
+!Update time: 2025-10-09 10:38:06 UTC+8
+!Update content: 新增拦截 Microsoft Edge浏览器的遥测域名 #172
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -479,6 +479,10 @@ ip dns static add address=240.0.0.1 name=books-analytics-events.apple.com
 ip dns static add address=:: name=books-analytics-events.apple.com
 ip dns static add address=240.0.0.1 name=bootpreload.uve.weibo.com
 ip dns static add address=:: name=bootpreload.uve.weibo.com
+ip dns static add address=240.0.0.1 name=browser.events.data.msn.cn
+ip dns static add address=:: name=browser.events.data.msn.cn
+ip dns static add address=240.0.0.1 name=browser.events.data.msn.com
+ip dns static add address=:: name=browser.events.data.msn.com
 ip dns static add address=240.0.0.1 name=browsercfg-drcn.cloud.dbankcloud.cn
 ip dns static add address=:: name=browsercfg-drcn.cloud.dbankcloud.cn
 ip dns static add address=240.0.0.1 name=bsrv.qq.com

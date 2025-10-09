@@ -233,6 +233,8 @@ domain:biz.weibo.com
 domain:bj.ad.track.66mobi.com
 domain:books-analytics-events.apple.com
 domain:bootpreload.uve.weibo.com
+domain:browser.events.data.msn.cn
+domain:browser.events.data.msn.com
 domain:browsercfg-drcn.cloud.dbankcloud.cn
 domain:bsrv.qq.com
 domain:bugly.qq.com
