@@ -236,6 +236,8 @@ biz.weibo.com
 bj.ad.track.66mobi.com
 books-analytics-events.apple.com
 bootpreload.uve.weibo.com
+browser.events.data.msn.cn
+browser.events.data.msn.com
 browsercfg-drcn.cloud.dbankcloud.cn
 bsrv.qq.com
 bugly.qq.com
@@ -854,4 +856,3 @@ ytx-file.110route.cn
 zeus.ad.xiaomi.com
 zhihu-web-analytics.zhihu.com
 zxid-m.mobileservice.cn
-
