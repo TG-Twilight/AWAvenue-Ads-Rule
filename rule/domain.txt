@@ -517,7 +517,6 @@ mini-prog-drm.vodplayvideo.net
 mission-pub.smart-tv.cn
 miui-fxcse.avlyun.com
 mlog.bigda.com
-mmgame.qpic.cn
 mnqlog.ldmnq.com
 moatads.com
 mobads-logs.baidu.com
@@ -856,3 +855,4 @@ ytx-file.110route.cn
 zeus.ad.xiaomi.com
 zhihu-web-analytics.zhihu.com
 zxid-m.mobileservice.cn
+
