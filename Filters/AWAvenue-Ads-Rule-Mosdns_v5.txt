@@ -509,7 +509,6 @@ domain:mini-prog-drm.vodplayvideo.net
 domain:mission-pub.smart-tv.cn
 domain:miui-fxcse.avlyun.com
 domain:mlog.bigda.com
-domain:mmgame.qpic.cn
 domain:mnqlog.ldmnq.com
 domain:moatads.com
 domain:mobads-logs.baidu.com

@@ -520,7 +520,6 @@ full:mini-prog-drm.vodplayvideo.net
 full:mission-pub.smart-tv.cn
 full:miui-fxcse.avlyun.com
 full:mlog.bigda.com
-full:mmgame.qpic.cn
 full:mnqlog.ldmnq.com
 full:moatads.com
 full:mobads-logs.baidu.com

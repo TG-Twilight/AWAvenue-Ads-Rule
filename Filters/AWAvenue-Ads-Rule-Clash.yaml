@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 856
+#Total lines: 855
 #Version: 1.6.8-release
-#Update time: 2025-10-09 10:38:06 UTC+8
-#Update content: 新增拦截 Microsoft Edge浏览器的遥测域名 #172
+#Update time: 2025-10-10 12:31:27 UTC+8
+#Update content: 移动“mmgame.qpic.cn”到补充规则，但保留对视频广告域的拦截。
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -521,7 +521,6 @@ payload:
   - 'mission-pub.smart-tv.cn'
   - 'miui-fxcse.avlyun.com'
   - 'mlog.bigda.com'
-  - 'mmgame.qpic.cn'
   - 'mnqlog.ldmnq.com'
   - 'moatads.com'
   - 'mobads-logs.baidu.com'

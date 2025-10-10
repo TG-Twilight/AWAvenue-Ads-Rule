@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1690
+!Total lines: 1688
 !Version: 1.6.8-release
-!Update time: 2025-10-09 10:38:06 UTC+8
-!Update content: 新增拦截 Microsoft Edge浏览器的遥测域名 #172
+!Update time: 2025-10-10 12:31:26 UTC+8
+!Update content: 移动“mmgame.qpic.cn”到补充规则，但保留对视频广告域的拦截。
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -1031,8 +1031,6 @@ ip dns static add address=240.0.0.1 name=miui-fxcse.avlyun.com
 ip dns static add address=:: name=miui-fxcse.avlyun.com
 ip dns static add address=240.0.0.1 name=mlog.bigda.com
 ip dns static add address=:: name=mlog.bigda.com
-ip dns static add address=240.0.0.1 name=mmgame.qpic.cn
-ip dns static add address=:: name=mmgame.qpic.cn
 ip dns static add address=240.0.0.1 name=mnqlog.ldmnq.com
 ip dns static add address=:: name=mnqlog.ldmnq.com
 ip dns static add address=240.0.0.1 name=moatads.com
