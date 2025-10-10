@@ -2,8 +2,9 @@
 #--------------------------------------
 #Total lines: 855
 #Version: 1.6.8-release
-#Update time: 2025-10-10 12:31:27 UTC+8
-#Update content: 移动“mmgame.qpic.cn”到补充规则，但保留对视频广告域的拦截。
+#Update time: 2025-10-10 14:27:18 UTC+8
+#Update content: fix #174
+loon Shadowrocket surge配置文件对立生成
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
