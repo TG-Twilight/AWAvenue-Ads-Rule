@@ -119,9 +119,6 @@
     <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/CLOUDFLARE/CF_logo_stacked_whitetype.svg" alt="Cloudflare" height="50">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://edgeone.ai/zh?from=github" target="_blank">
-    <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/Tencent/tencentcloud-color.svg" alt="Tencent Cloud" height="50">
-  </a>
   <a href="https://zmto.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/zmto/zmto_logo_white.svg" alt="Tencent Cloud" height="50">
   </a>
