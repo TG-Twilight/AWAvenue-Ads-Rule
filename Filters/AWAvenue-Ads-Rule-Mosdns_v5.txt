@@ -490,7 +490,6 @@ domain:luimg.baidu.com
 domain:m-adnet.hiaiabc.com
 domain:m.ad.zhangyue.com
 domain:m.atm.youku.com
-domain:m.iqiyipic.com
 domain:m1.ad.10010.com
 domain:mapi.m.jd.com
 domain:masdkv6.3g.qq.com

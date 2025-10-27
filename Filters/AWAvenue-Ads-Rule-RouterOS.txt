@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1688
+!Total lines: 1686
 !Version: 1.6.8-release
-!Update time: 2025-10-10 16:48:56 UTC+8
-!Update content: 解决commits存在换行时报错 #177
+!Update time: 2025-10-27 16:12:09 UTC+8
+!Update content: remove m.iqiyipic.com fix #180
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -993,8 +993,6 @@ ip dns static add address=240.0.0.1 name=m.ad.zhangyue.com
 ip dns static add address=:: name=m.ad.zhangyue.com
 ip dns static add address=240.0.0.1 name=m.atm.youku.com
 ip dns static add address=:: name=m.atm.youku.com
-ip dns static add address=240.0.0.1 name=m.iqiyipic.com
-ip dns static add address=:: name=m.iqiyipic.com
 ip dns static add address=240.0.0.1 name=m1.ad.10010.com
 ip dns static add address=:: name=m1.ad.10010.com
 ip dns static add address=240.0.0.1 name=mapi.m.jd.com
