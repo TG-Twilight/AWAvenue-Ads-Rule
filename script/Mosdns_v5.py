@@ -9,7 +9,7 @@ def format_domain(List):
 
 def format_suffix(List):
     suffix = []
-    for line 在 List:
+    for line in List:
         suffix_lines = f"domain:{line.strip()}"
         suffix.append(suffix_lines)
     return suffix
@@ -29,5 +29,6 @@ def format_regex(List):
     return regex
 
 def build(rule):
-    list = (format_domain(rule.domain_list) + format_suffix(rule.suffix_list) + format_keyword(rule.keyword_list) + format_regex(rule.regex_list))
+    list = format_domain(rule.domain_list) + format_suffix(rule.suffix_list) + format_keyword(rule.keyword_list) + format_regex(rule.regex_list)
     return {'list': list, 'suffix': '.txt', 'comment': '#', 'total': len(list)}
+
