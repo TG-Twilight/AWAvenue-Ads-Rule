@@ -34,6 +34,7 @@ ad.zijieapi.com
 adapi.izuiyou.com
 adapi.yynetwk.com
 adashbc.ut.taobao.com
+adashx.m.taobao.com
 adc.hpplay.cn
 adcdn.hpplay.cn
 adcdn.tencentmusic.com
@@ -854,5 +855,3 @@ ytx-file.110route.cn
 zeus.ad.xiaomi.com
 zhihu-web-analytics.zhihu.com
 zxid-m.mobileservice.cn
-
-
