@@ -45,6 +45,7 @@ full:ad.zijieapi.com
 full:adapi.izuiyou.com
 full:adapi.yynetwk.com
 full:adashbc.ut.taobao.com
+full:adashx.m.taobao.com
 full:adc.hpplay.cn
 full:adcdn.hpplay.cn
 full:adcdn.tencentmusic.com

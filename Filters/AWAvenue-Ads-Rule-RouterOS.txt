@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1686
+!Total lines: 1688
 !Version: 1.6.8-release
-!Update time: 2025-10-31 13:44:46 UTC+8
-!Update content: fix Mosdns_v5.py error
+!Update time: 2025-11-03 17:56:56 UTC+8
+!Update content: add “adashx.m.taobao.com”
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -81,6 +81,8 @@ ip dns static add address=240.0.0.1 name=adapi.yynetwk.com
 ip dns static add address=:: name=adapi.yynetwk.com
 ip dns static add address=240.0.0.1 name=adashbc.ut.taobao.com
 ip dns static add address=:: name=adashbc.ut.taobao.com
+ip dns static add address=240.0.0.1 name=adashx.m.taobao.com
+ip dns static add address=:: name=adashx.m.taobao.com
 ip dns static add address=240.0.0.1 name=adc.hpplay.cn
 ip dns static add address=:: name=adc.hpplay.cn
 ip dns static add address=240.0.0.1 name=adcdn.hpplay.cn

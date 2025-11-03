@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1690
+!Total lines: 1692
 !Version: 1.6.8-release
-!Update time: 2025-10-31 13:44:46 UTC+8
-!Update content: fix Mosdns_v5.py error
+!Update time: 2025-11-03 17:56:56 UTC+8
+!Update content: add “adashx.m.taobao.com”
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -85,6 +85,8 @@
 :: adapi.yynetwk.com
 0.0.0.0 adashbc.ut.taobao.com
 :: adashbc.ut.taobao.com
+0.0.0.0 adashx.m.taobao.com
+:: adashx.m.taobao.com
 0.0.0.0 adc.hpplay.cn
 :: adc.hpplay.cn
 0.0.0.0 adcdn.hpplay.cn
