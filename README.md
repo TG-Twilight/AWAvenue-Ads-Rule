@@ -132,7 +132,7 @@
 
 ---
 <p align="left">
-  <img src="https://count.getloli.com/get/@TG-Twiligh?theme=booru-helltaker" alt="Profile Views" width="666"/>
+  <img src="https://count.getloli.com/get/@TG-Twiligh?theme=booru-helltaker&darkmode=0" alt="Profile Views" width="666"/>
 </p>
 
 2024年6月开始统计，统计偶尔会寄......
