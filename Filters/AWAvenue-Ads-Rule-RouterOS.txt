@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1688
+!Total lines: 1686
 !Version: 1.6.8-release
-!Update time: 2025-11-03 17:56:56 UTC+8
-!Update content: add “adashx.m.taobao.com”
+!Update time: 2025-11-13 10:38:11 UTC+8
+!Update content: remove “feed-image.baidu.com” close #183
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -673,8 +673,6 @@ ip dns static add address=240.0.0.1 name=events.redditmedia.com
 ip dns static add address=:: name=events.redditmedia.com
 ip dns static add address=240.0.0.1 name=fclog.baidu.com
 ip dns static add address=:: name=fclog.baidu.com
-ip dns static add address=240.0.0.1 name=feed-image.baidu.com
-ip dns static add address=:: name=feed-image.baidu.com
 ip dns static add address=240.0.0.1 name=file.daihuo.qq.com
 ip dns static add address=:: name=file.daihuo.qq.com
 ip dns static add address=240.0.0.1 name=firebaselogging-pa.googleapis.com

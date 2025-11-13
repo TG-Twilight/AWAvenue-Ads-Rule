@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1692
+!Total lines: 1690
 !Version: 1.6.8-release
-!Update time: 2025-11-03 17:56:56 UTC+8
-!Update content: add “adashx.m.taobao.com”
+!Update time: 2025-11-13 10:38:11 UTC+8
+!Update content: remove “feed-image.baidu.com” close #183
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -677,8 +677,6 @@
 :: events.redditmedia.com
 0.0.0.0 fclog.baidu.com
 :: fclog.baidu.com
-0.0.0.0 feed-image.baidu.com
-:: feed-image.baidu.com
 0.0.0.0 file.daihuo.qq.com
 :: file.daihuo.qq.com
 0.0.0.0 firebaselogging-pa.googleapis.com

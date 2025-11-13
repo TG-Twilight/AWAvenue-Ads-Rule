@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2025-11-03 17:56:56 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2025-11-13 10:38:11 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -338,7 +338,6 @@ DOMAIN,events-drcn.op.dbankcloud.cn,REJECT,extended-matching,pre-matching
 DOMAIN,events.reddit.com,REJECT,extended-matching,pre-matching
 DOMAIN,events.redditmedia.com,REJECT,extended-matching,pre-matching
 DOMAIN,fclog.baidu.com,REJECT,extended-matching,pre-matching
-DOMAIN,feed-image.baidu.com,REJECT,extended-matching,pre-matching
 DOMAIN,file.daihuo.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,firebaselogging-pa.googleapis.com,REJECT,extended-matching,pre-matching
 DOMAIN,flurry.com,REJECT,extended-matching,pre-matching
