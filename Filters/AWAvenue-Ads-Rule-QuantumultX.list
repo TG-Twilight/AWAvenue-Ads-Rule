@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 859
+#Total lines: 849
 #Version: 1.6.8-release
-#Update time: 2025-11-13 10:38:11 UTC+8
-#Update content: remove “feed-image.baidu.com” close #183
+#Update time: 2025-11-13 11:56:26 UTC+8
+#Update content: 清理失效域名...
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -106,7 +106,6 @@ DOMAIN,adse.ximalaya.com,reject
 DOMAIN,adsebs.ximalaya.com,reject
 DOMAIN,adsense.google.cn,reject
 DOMAIN,adserver.unityads.unity3d.com,reject
-DOMAIN,adservice.google.cn,reject
 DOMAIN,adservice.google.com,reject
 DOMAIN,adservice.sigmob.cn,reject
 DOMAIN,adserviceretry.kugou.com,reject
@@ -262,7 +261,6 @@ DOMAIN,catalog.fjwhcbsh.com,reject
 DOMAIN,cbjs.baidu.com,reject
 DOMAIN,ccc-x.jd.com,reject
 DOMAIN,ccs.umeng.com,reject
-DOMAIN,cctv.adsunion.com,reject
 DOMAIN,cdn-ad.wtzw.com,reject
 DOMAIN,cdn-ads.oss-cn-shanghai.aliyuncs.com,reject
 DOMAIN,cdn-f.adsmoloco.com,reject
@@ -276,7 +274,6 @@ DOMAIN,cdn.ynuf.aliapp.org,reject
 DOMAIN,cfg.imtt.qq.com,reject
 DOMAIN,chat1.jd.com,reject
 DOMAIN,chiq-cloud.com,reject
-DOMAIN,cj.qidian.com,reject
 DOMAIN,ck.ads.oppomobile.com,reject
 DOMAIN,click.chinaliftoff.io,reject
 DOMAIN,click.googleanalytics.com,reject
@@ -299,7 +296,6 @@ DOMAIN,cpro.baidustatic.com,reject
 DOMAIN,crash2.zhihu.com,reject
 DOMAIN,crashlyticsreports-pa.googleapis.com,reject
 DOMAIN,csjplatform.com,reject
-DOMAIN,cws-cctv.conviva.com,reject
 DOMAIN,d.applovin.com,reject
 DOMAIN,d.applvn.com,reject
 DOMAIN,da.anythinktech.com,reject
@@ -363,7 +359,6 @@ DOMAIN,ggx03.miguvideo.com,reject
 DOMAIN,globalapi.ad.xiaomi.com,reject
 DOMAIN,google-analytics.com,reject
 DOMAIN,googleads.g.doubleclick-cn.net,reject
-DOMAIN,googleads.g.doubleclick.com,reject
 DOMAIN,googleads.g.doubleclick.net,reject
 DOMAIN,googleadservices-cn.com,reject
 DOMAIN,googleadservices.com,reject
@@ -429,7 +424,6 @@ DOMAIN,iot-eu-logser.realme.com,reject
 DOMAIN,iot-logser.realme.com,reject
 DOMAIN,ipv4.kkmh.com,reject
 DOMAIN,irc.qubiankeji.com,reject
-DOMAIN,itv2-up.openspeech.cn,reject
 DOMAIN,ixav-cse.avlyun.com,reject
 DOMAIN,iyfbodn.com,reject
 DOMAIN,janapi.jd.com,reject
@@ -616,7 +610,6 @@ DOMAIN,res1.hubcloud.com.cn,reject
 DOMAIN,res2.hubcloud.com.cn,reject
 DOMAIN,res3.hubcloud.com.cn,reject
 DOMAIN,resolve.umeng.com,reject
-DOMAIN,rev.aiclk.com,reject
 DOMAIN,review.gdtimg.com,reject
 DOMAIN,rlog.popin.cc,reject
 DOMAIN,rms-drcn.platform.dbankcloud.cn,reject
@@ -633,7 +626,6 @@ DOMAIN,saad.ms.zhangyue.net,reject
 DOMAIN,saas.hpplay.cn,reject
 DOMAIN,samsung-com.112.2o7.net,reject
 DOMAIN,samsungads.com,reject
-DOMAIN,sanme2.taisantech.com,reject
 DOMAIN,saxysec.com,reject
 DOMAIN,scs.openspeech.cn,reject
 DOMAIN,sdk-ab-config.qquanquan.com,reject
@@ -669,13 +661,11 @@ DOMAIN,service.vmos.cn,reject
 DOMAIN,sf16-static.i18n-pglstatp.com,reject
 DOMAIN,sf3-fe-tos.pglstatp-toutiao.com,reject
 DOMAIN,shouji.sogou.com,reject
-DOMAIN,sigmob.cn,reject
 DOMAIN,sigmob.com,reject
 DOMAIN,skdisplay.jd.com,reject
 DOMAIN,sl.hpplay.cn,reject
 DOMAIN,slb-p2p.vcloud.ks-live.com,reject
 DOMAIN,smad.ms.zhangyue.net,reject
-DOMAIN,smart-tv.cn,reject
 DOMAIN,smartad.10010.com,reject
 DOMAIN,smetrics.samsung.com,reject
 DOMAIN,sms.ads.oppomobile.com,reject

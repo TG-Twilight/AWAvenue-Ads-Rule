@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1690
+!Total lines: 1670
 !Version: 1.6.8-release
-!Update time: 2025-11-13 10:38:11 UTC+8
-!Update content: remove “feed-image.baidu.com” close #183
+!Update time: 2025-11-13 11:56:26 UTC+8
+!Update content: 清理失效域名...
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -207,8 +207,6 @@
 :: adsense.google.cn
 0.0.0.0 adserver.unityads.unity3d.com
 :: adserver.unityads.unity3d.com
-0.0.0.0 adservice.google.cn
-:: adservice.google.cn
 0.0.0.0 adservice.google.com
 :: adservice.google.com
 0.0.0.0 adservice.sigmob.cn
@@ -519,8 +517,6 @@
 :: ccc-x.jd.com
 0.0.0.0 ccs.umeng.com
 :: ccs.umeng.com
-0.0.0.0 cctv.adsunion.com
-:: cctv.adsunion.com
 0.0.0.0 cdn-ad.wtzw.com
 :: cdn-ad.wtzw.com
 0.0.0.0 cdn-ads.oss-cn-shanghai.aliyuncs.com
@@ -547,8 +543,6 @@
 :: chat1.jd.com
 0.0.0.0 chiq-cloud.com
 :: chiq-cloud.com
-0.0.0.0 cj.qidian.com
-:: cj.qidian.com
 0.0.0.0 ck.ads.oppomobile.com
 :: ck.ads.oppomobile.com
 0.0.0.0 click.chinaliftoff.io
@@ -593,8 +587,6 @@
 :: crashlyticsreports-pa.googleapis.com
 0.0.0.0 csjplatform.com
 :: csjplatform.com
-0.0.0.0 cws-cctv.conviva.com
-:: cws-cctv.conviva.com
 0.0.0.0 d.applovin.com
 :: d.applovin.com
 0.0.0.0 d.applvn.com
@@ -721,8 +713,6 @@
 :: google-analytics.com
 0.0.0.0 googleads.g.doubleclick-cn.net
 :: googleads.g.doubleclick-cn.net
-0.0.0.0 googleads.g.doubleclick.com
-:: googleads.g.doubleclick.com
 0.0.0.0 googleads.g.doubleclick.net
 :: googleads.g.doubleclick.net
 0.0.0.0 googleadservices-cn.com
@@ -853,8 +843,6 @@
 :: ipv4.kkmh.com
 0.0.0.0 irc.qubiankeji.com
 :: irc.qubiankeji.com
-0.0.0.0 itv2-up.openspeech.cn
-:: itv2-up.openspeech.cn
 0.0.0.0 ixav-cse.avlyun.com
 :: ixav-cse.avlyun.com
 0.0.0.0 iyfbodn.com
@@ -1227,8 +1215,6 @@
 :: res3.hubcloud.com.cn
 0.0.0.0 resolve.umeng.com
 :: resolve.umeng.com
-0.0.0.0 rev.aiclk.com
-:: rev.aiclk.com
 0.0.0.0 review.gdtimg.com
 :: review.gdtimg.com
 0.0.0.0 rlog.popin.cc
@@ -1261,8 +1247,6 @@
 :: samsung-com.112.2o7.net
 0.0.0.0 samsungads.com
 :: samsungads.com
-0.0.0.0 sanme2.taisantech.com
-:: sanme2.taisantech.com
 0.0.0.0 saxysec.com
 :: saxysec.com
 0.0.0.0 scs.openspeech.cn
@@ -1333,8 +1317,6 @@
 :: sf3-fe-tos.pglstatp-toutiao.com
 0.0.0.0 shouji.sogou.com
 :: shouji.sogou.com
-0.0.0.0 sigmob.cn
-:: sigmob.cn
 0.0.0.0 sigmob.com
 :: sigmob.com
 0.0.0.0 skdisplay.jd.com
@@ -1345,8 +1327,6 @@
 :: slb-p2p.vcloud.ks-live.com
 0.0.0.0 smad.ms.zhangyue.net
 :: smad.ms.zhangyue.net
-0.0.0.0 smart-tv.cn
-:: smart-tv.cn
 0.0.0.0 smartad.10010.com
 :: smartad.10010.com
 0.0.0.0 smetrics.samsung.com

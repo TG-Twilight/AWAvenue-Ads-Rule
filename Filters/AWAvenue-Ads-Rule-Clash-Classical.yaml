@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 859
+#Total lines: 849
 #Version: 1.6.8-release
-#Update time: 2025-11-13 10:38:11 UTC+8
-#Update content: remove “feed-image.baidu.com” close #183
+#Update time: 2025-11-13 11:56:26 UTC+8
+#Update content: 清理失效域名...
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -107,7 +107,6 @@ payload:
   - DOMAIN,adsebs.ximalaya.com
   - DOMAIN,adsense.google.cn
   - DOMAIN,adserver.unityads.unity3d.com
-  - DOMAIN,adservice.google.cn
   - DOMAIN,adservice.google.com
   - DOMAIN,adservice.sigmob.cn
   - DOMAIN,adserviceretry.kugou.com
@@ -263,7 +262,6 @@ payload:
   - DOMAIN,cbjs.baidu.com
   - DOMAIN,ccc-x.jd.com
   - DOMAIN,ccs.umeng.com
-  - DOMAIN,cctv.adsunion.com
   - DOMAIN,cdn-ad.wtzw.com
   - DOMAIN,cdn-ads.oss-cn-shanghai.aliyuncs.com
   - DOMAIN,cdn-f.adsmoloco.com
@@ -277,7 +275,6 @@ payload:
   - DOMAIN,cfg.imtt.qq.com
   - DOMAIN,chat1.jd.com
   - DOMAIN,chiq-cloud.com
-  - DOMAIN,cj.qidian.com
   - DOMAIN,ck.ads.oppomobile.com
   - DOMAIN,click.chinaliftoff.io
   - DOMAIN,click.googleanalytics.com
@@ -300,7 +297,6 @@ payload:
   - DOMAIN,crash2.zhihu.com
   - DOMAIN,crashlyticsreports-pa.googleapis.com
   - DOMAIN,csjplatform.com
-  - DOMAIN,cws-cctv.conviva.com
   - DOMAIN,d.applovin.com
   - DOMAIN,d.applvn.com
   - DOMAIN,da.anythinktech.com
@@ -364,7 +360,6 @@ payload:
   - DOMAIN,globalapi.ad.xiaomi.com
   - DOMAIN,google-analytics.com
   - DOMAIN,googleads.g.doubleclick-cn.net
-  - DOMAIN,googleads.g.doubleclick.com
   - DOMAIN,googleads.g.doubleclick.net
   - DOMAIN,googleadservices-cn.com
   - DOMAIN,googleadservices.com
@@ -430,7 +425,6 @@ payload:
   - DOMAIN,iot-logser.realme.com
   - DOMAIN,ipv4.kkmh.com
   - DOMAIN,irc.qubiankeji.com
-  - DOMAIN,itv2-up.openspeech.cn
   - DOMAIN,ixav-cse.avlyun.com
   - DOMAIN,iyfbodn.com
   - DOMAIN,janapi.jd.com
@@ -617,7 +611,6 @@ payload:
   - DOMAIN,res2.hubcloud.com.cn
   - DOMAIN,res3.hubcloud.com.cn
   - DOMAIN,resolve.umeng.com
-  - DOMAIN,rev.aiclk.com
   - DOMAIN,review.gdtimg.com
   - DOMAIN,rlog.popin.cc
   - DOMAIN,rms-drcn.platform.dbankcloud.cn
@@ -634,7 +627,6 @@ payload:
   - DOMAIN,saas.hpplay.cn
   - DOMAIN,samsung-com.112.2o7.net
   - DOMAIN,samsungads.com
-  - DOMAIN,sanme2.taisantech.com
   - DOMAIN,saxysec.com
   - DOMAIN,scs.openspeech.cn
   - DOMAIN,sdk-ab-config.qquanquan.com
@@ -670,13 +662,11 @@ payload:
   - DOMAIN,sf16-static.i18n-pglstatp.com
   - DOMAIN,sf3-fe-tos.pglstatp-toutiao.com
   - DOMAIN,shouji.sogou.com
-  - DOMAIN,sigmob.cn
   - DOMAIN,sigmob.com
   - DOMAIN,skdisplay.jd.com
   - DOMAIN,sl.hpplay.cn
   - DOMAIN,slb-p2p.vcloud.ks-live.com
   - DOMAIN,smad.ms.zhangyue.net
-  - DOMAIN,smart-tv.cn
   - DOMAIN,smartad.10010.com
   - DOMAIN,smetrics.samsung.com
   - DOMAIN,sms.ads.oppomobile.com

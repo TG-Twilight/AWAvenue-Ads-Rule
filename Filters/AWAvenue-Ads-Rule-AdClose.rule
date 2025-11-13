@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 843
+#Total lines: 833
 #Version: 1.6.8-release
-#Update time: 2025-11-13 10:38:11 UTC+8
-#Update content: remove “feed-image.baidu.com” close #183
+#Update time: 2025-11-13 11:56:26 UTC+8
+#Update content: 清理失效域名...
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -109,7 +109,6 @@ domain, adse.ximalaya.com
 domain, adsebs.ximalaya.com
 domain, adsense.google.cn
 domain, adserver.unityads.unity3d.com
-domain, adservice.google.cn
 domain, adservice.google.com
 domain, adservice.sigmob.cn
 domain, adserviceretry.kugou.com
@@ -265,7 +264,6 @@ domain, catalog.fjwhcbsh.com
 domain, cbjs.baidu.com
 domain, ccc-x.jd.com
 domain, ccs.umeng.com
-domain, cctv.adsunion.com
 domain, cdn-ad.wtzw.com
 domain, cdn-ads.oss-cn-shanghai.aliyuncs.com
 domain, cdn-f.adsmoloco.com
@@ -279,7 +277,6 @@ domain, cdn.ynuf.aliapp.org
 domain, cfg.imtt.qq.com
 domain, chat1.jd.com
 domain, chiq-cloud.com
-domain, cj.qidian.com
 domain, ck.ads.oppomobile.com
 domain, click.chinaliftoff.io
 domain, click.googleanalytics.com
@@ -302,7 +299,6 @@ domain, cpro.baidustatic.com
 domain, crash2.zhihu.com
 domain, crashlyticsreports-pa.googleapis.com
 domain, csjplatform.com
-domain, cws-cctv.conviva.com
 domain, d.applovin.com
 domain, d.applvn.com
 domain, da.anythinktech.com
@@ -366,7 +362,6 @@ domain, ggx03.miguvideo.com
 domain, globalapi.ad.xiaomi.com
 domain, google-analytics.com
 domain, googleads.g.doubleclick-cn.net
-domain, googleads.g.doubleclick.com
 domain, googleads.g.doubleclick.net
 domain, googleadservices-cn.com
 domain, googleadservices.com
@@ -432,7 +427,6 @@ domain, iot-eu-logser.realme.com
 domain, iot-logser.realme.com
 domain, ipv4.kkmh.com
 domain, irc.qubiankeji.com
-domain, itv2-up.openspeech.cn
 domain, ixav-cse.avlyun.com
 domain, iyfbodn.com
 domain, janapi.jd.com
@@ -619,7 +613,6 @@ domain, res1.hubcloud.com.cn
 domain, res2.hubcloud.com.cn
 domain, res3.hubcloud.com.cn
 domain, resolve.umeng.com
-domain, rev.aiclk.com
 domain, review.gdtimg.com
 domain, rlog.popin.cc
 domain, rms-drcn.platform.dbankcloud.cn
@@ -636,7 +629,6 @@ domain, saad.ms.zhangyue.net
 domain, saas.hpplay.cn
 domain, samsung-com.112.2o7.net
 domain, samsungads.com
-domain, sanme2.taisantech.com
 domain, saxysec.com
 domain, scs.openspeech.cn
 domain, sdk-ab-config.qquanquan.com
@@ -672,13 +664,11 @@ domain, service.vmos.cn
 domain, sf16-static.i18n-pglstatp.com
 domain, sf3-fe-tos.pglstatp-toutiao.com
 domain, shouji.sogou.com
-domain, sigmob.cn
 domain, sigmob.com
 domain, skdisplay.jd.com
 domain, sl.hpplay.cn
 domain, slb-p2p.vcloud.ks-live.com
 domain, smad.ms.zhangyue.net
-domain, smart-tv.cn
 domain, smartad.10010.com
 domain, smetrics.samsung.com
 domain, sms.ads.oppomobile.com

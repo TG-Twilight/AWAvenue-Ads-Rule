@@ -106,7 +106,6 @@ full:adse.ximalaya.com
 full:adsebs.ximalaya.com
 full:adsense.google.cn
 full:adserver.unityads.unity3d.com
-full:adservice.google.cn
 full:adservice.google.com
 full:adservice.sigmob.cn
 full:adserviceretry.kugou.com
@@ -262,7 +261,6 @@ full:catalog.fjwhcbsh.com
 full:cbjs.baidu.com
 full:ccc-x.jd.com
 full:ccs.umeng.com
-full:cctv.adsunion.com
 full:cdn-ad.wtzw.com
 full:cdn-ads.oss-cn-shanghai.aliyuncs.com
 full:cdn-f.adsmoloco.com
@@ -276,7 +274,6 @@ full:cdn.ynuf.aliapp.org
 full:cfg.imtt.qq.com
 full:chat1.jd.com
 full:chiq-cloud.com
-full:cj.qidian.com
 full:ck.ads.oppomobile.com
 full:click.chinaliftoff.io
 full:click.googleanalytics.com
@@ -299,7 +296,6 @@ full:cpro.baidustatic.com
 full:crash2.zhihu.com
 full:crashlyticsreports-pa.googleapis.com
 full:csjplatform.com
-full:cws-cctv.conviva.com
 full:d.applovin.com
 full:d.applvn.com
 full:da.anythinktech.com
@@ -363,7 +359,6 @@ full:ggx03.miguvideo.com
 full:globalapi.ad.xiaomi.com
 full:google-analytics.com
 full:googleads.g.doubleclick-cn.net
-full:googleads.g.doubleclick.com
 full:googleads.g.doubleclick.net
 full:googleadservices-cn.com
 full:googleadservices.com
@@ -429,7 +424,6 @@ full:iot-eu-logser.realme.com
 full:iot-logser.realme.com
 full:ipv4.kkmh.com
 full:irc.qubiankeji.com
-full:itv2-up.openspeech.cn
 full:ixav-cse.avlyun.com
 full:iyfbodn.com
 full:janapi.jd.com
@@ -616,7 +610,6 @@ full:res1.hubcloud.com.cn
 full:res2.hubcloud.com.cn
 full:res3.hubcloud.com.cn
 full:resolve.umeng.com
-full:rev.aiclk.com
 full:review.gdtimg.com
 full:rlog.popin.cc
 full:rms-drcn.platform.dbankcloud.cn
@@ -633,7 +626,6 @@ full:saad.ms.zhangyue.net
 full:saas.hpplay.cn
 full:samsung-com.112.2o7.net
 full:samsungads.com
-full:sanme2.taisantech.com
 full:saxysec.com
 full:scs.openspeech.cn
 full:sdk-ab-config.qquanquan.com
@@ -669,13 +661,11 @@ full:service.vmos.cn
 full:sf16-static.i18n-pglstatp.com
 full:sf3-fe-tos.pglstatp-toutiao.com
 full:shouji.sogou.com
-full:sigmob.cn
 full:sigmob.com
 full:skdisplay.jd.com
 full:sl.hpplay.cn
 full:slb-p2p.vcloud.ks-live.com
 full:smad.ms.zhangyue.net
-full:smart-tv.cn
 full:smartad.10010.com
 full:smetrics.samsung.com
 full:sms.ads.oppomobile.com
