@@ -1,8 +1,8 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
 !Total lines: 867
-!Version: 1.6.8-release
-!Update time: 2025-11-13 15:11:17 UTC+8
+!Version: 1.6.9-release
+!Update time: 2025-11-13 15:15:42 UTC+8
 !Update content: 新增大量不良广告之拦截，详见 1.6.9 更新日志
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
