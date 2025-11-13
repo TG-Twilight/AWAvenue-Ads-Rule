@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 849
+#Total lines: 867
 #Version: 1.6.8-release
-#Update time: 2025-11-13 11:56:26 UTC+8
-#Update content: 清理失效域名...
+#Update time: 2025-11-13 15:11:17 UTC+8
+#Update content: 新增大量不良广告之拦截，详见 1.6.9 更新日志
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -36,6 +36,7 @@ full:ad.partner.gifshow.com
 full:ad.qingting.fm
 full:ad.qq.com
 full:ad.richmob.cn
+full:ad.shunchangzhixing.com
 full:ad.tencentmusic.com
 full:ad.toutiao.com
 full:ad.v3mh.com
@@ -198,6 +199,7 @@ full:api-gd.hiaiabc.com
 full:api-htp.beizi.biz
 full:api.ad.xiaomi.com
 full:api.anythinktech.com
+full:api.aqyad.com
 full:api.e.kuaishou.com
 full:api.fu.xcultur.com
 full:api.htp.hubcloud.com.cn
@@ -205,6 +207,7 @@ full:api.hzsanjiaomao.com
 full:api.installer.xiaomi.com
 full:api.jietuhb.com
 full:api.kingdata.ksyun.com
+full:api.shanghailingye.cn
 full:api.ssp.xcultur.com
 full:api.statsig.com
 full:api.touch-moblie.com
@@ -218,6 +221,7 @@ full:applog.uc.cn
 full:applog.zijieapi.com
 full:applovin.com
 full:appversion.115.com
+full:aqyad.com
 full:aspect-upush.umeng.com
 full:auction.unityads.unity3d.com
 full:audid-api.taobao.com
@@ -281,6 +285,7 @@ full:click.liftoff.io
 full:click.oneplus.cn
 full:click4.chinaliftoff.io
 full:clog.miguvideo.com
+full:cloooud.com
 full:cn-api.anythinktech.com
 full:cnlogs.umeng.com
 full:cnlogs.umengcloud.com
@@ -336,7 +341,9 @@ full:event.tradplusad.com
 full:events-drcn.op.dbankcloud.cn
 full:events.reddit.com
 full:events.redditmedia.com
+full:fancyapi.com
 full:fclog.baidu.com
+full:feed-image.baidu.com
 full:file.daihuo.qq.com
 full:firebaselogging-pa.googleapis.com
 full:flurry.com
@@ -346,6 +353,7 @@ full:fxgate.baidu.com
 full:g-adnet.hiaiabc.com
 full:g-staic.ganjingworld.com
 full:g.dtv.cn.miaozhen.com
+full:g.fancyapi.com
 full:g2.ganjing.world
 full:game.loveota.com
 full:gdfp.gifshow.com
@@ -445,6 +453,7 @@ full:launcher.smart-tv.cn
 full:launcherimg.smart-tv.cn
 full:lf3-ad-union-sdk.pglstatp-toutiao.com
 full:lf6-ad-union-sdk.pglstatp-toutiao.com
+full:lftxali.fancyapi.com
 full:lh3.googleadsserving.cn
 full:litchiads.com
 full:live-api.hktvmall.com
@@ -552,6 +561,7 @@ full:open.e.kuaishou.com
 full:open.kuaishouzt.com
 full:open.kwaizt.com
 full:open.snssdk.com
+full:openadapi.fancydsp.com
 full:optimus-ads.amap.com
 full:orbit.jd.com
 full:oss.cdn.aiclk.com
@@ -633,12 +643,14 @@ full:sdk-cache.video.ptqy.gitv.tv
 full:sdk.1rtb.net
 full:sdk.ad.smaato.net
 full:sdk.adx.adwangmai.com
+full:sdk.aqyad.com
 full:sdk.beizi.biz
 full:sdk.cferw.com
 full:sdk.e.qq.com
 full:sdk.hzsanjiaomao.com
 full:sdk.markmedia.com.cn
 full:sdk.mobads.adwangmai.com
+full:sdkapi.cloooud.com
 full:sdkauth.hpplay.cn
 full:sdkconf.avlyun.com
 full:sdkconfig.ad.intl.xiaomi.com
@@ -671,11 +683,13 @@ full:smetrics.samsung.com
 full:sms.ads.oppomobile.com
 full:sngmta.qq.com
 full:snowflake.qq.com
+full:ssp.cloooud.com
 full:staging-notify.sec.miui.com
 full:stat.dongqiudi.com
 full:stat.y.qq.com
 full:static-s.iqiyi.com
 full:static.ads-twitter.com
+full:statichf.shihuocdn.cn
 full:statics.woozooo.com
 full:stats.wp.com
 full:statsigapi.net
@@ -695,6 +709,7 @@ full:t002.ottcn.com
 full:t1.a.market.xiaomi.com
 full:t1.teads.tv
 full:t2.a.market.xiaomi.com
+full:t2.fancyapi.com
 full:t3.a.market.xiaomi.com
 full:t7z.cupid.iqiyi.com
 full:t7z.cupid.ptqy.gitv.tv
@@ -723,6 +738,7 @@ full:tnc3-aliec1.toutiaoapi.com
 full:tnc3-aliec2.bytedance.com
 full:tnc3-aliec2.snssdk.com
 full:tnc3-aliec2.toutiaoapi.com
+full:tnc3-aliec2.zijieapi.com
 full:tnc3-alisc1.bytedance.com
 full:tnc3-alisc1.snssdk.com
 full:tnc3-alisc1.toutiaoapi.com
@@ -737,6 +753,7 @@ full:tpa-hcdn.iqiyi.com
 full:tpc.googlesyndication-cn.com
 full:tpc.googlesyndication.com
 full:tr-asia.adsmoloco.com
+full:trace.aqyad.com
 full:trace.qq.com
 full:tracelog-debug.aiclk.com
 full:tracelog-debug.qquanquan.com
@@ -776,6 +793,7 @@ full:upgrade-update.hismarttv.com
 full:uranus.jd.com
 full:us.l.qq.com
 full:usr-api.aiclk.com
+full:utoken.umeng.com
 full:v.110route.cn
 full:v.adintl.cn
 full:v.adx.hubcloud.com.cn

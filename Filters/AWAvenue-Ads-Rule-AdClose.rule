@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 833
+#Total lines: 851
 #Version: 1.6.8-release
-#Update time: 2025-11-13 11:56:26 UTC+8
-#Update content: 清理失效域名...
+#Update time: 2025-11-13 15:11:17 UTC+8
+#Update content: 新增大量不良广告之拦截，详见 1.6.9 更新日志
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -39,6 +39,7 @@ domain, ad.partner.gifshow.com
 domain, ad.qingting.fm
 domain, ad.qq.com
 domain, ad.richmob.cn
+domain, ad.shunchangzhixing.com
 domain, ad.tencentmusic.com
 domain, ad.toutiao.com
 domain, ad.v3mh.com
@@ -201,6 +202,7 @@ domain, api-gd.hiaiabc.com
 domain, api-htp.beizi.biz
 domain, api.ad.xiaomi.com
 domain, api.anythinktech.com
+domain, api.aqyad.com
 domain, api.e.kuaishou.com
 domain, api.fu.xcultur.com
 domain, api.htp.hubcloud.com.cn
@@ -208,6 +210,7 @@ domain, api.hzsanjiaomao.com
 domain, api.installer.xiaomi.com
 domain, api.jietuhb.com
 domain, api.kingdata.ksyun.com
+domain, api.shanghailingye.cn
 domain, api.ssp.xcultur.com
 domain, api.statsig.com
 domain, api.touch-moblie.com
@@ -221,6 +224,7 @@ domain, applog.uc.cn
 domain, applog.zijieapi.com
 domain, applovin.com
 domain, appversion.115.com
+domain, aqyad.com
 domain, aspect-upush.umeng.com
 domain, auction.unityads.unity3d.com
 domain, audid-api.taobao.com
@@ -284,6 +288,7 @@ domain, click.liftoff.io
 domain, click.oneplus.cn
 domain, click4.chinaliftoff.io
 domain, clog.miguvideo.com
+domain, cloooud.com
 domain, cn-api.anythinktech.com
 domain, cnlogs.umeng.com
 domain, cnlogs.umengcloud.com
@@ -339,7 +344,9 @@ domain, event.tradplusad.com
 domain, events-drcn.op.dbankcloud.cn
 domain, events.reddit.com
 domain, events.redditmedia.com
+domain, fancyapi.com
 domain, fclog.baidu.com
+domain, feed-image.baidu.com
 domain, file.daihuo.qq.com
 domain, firebaselogging-pa.googleapis.com
 domain, flurry.com
@@ -349,6 +356,7 @@ domain, fxgate.baidu.com
 domain, g-adnet.hiaiabc.com
 domain, g-staic.ganjingworld.com
 domain, g.dtv.cn.miaozhen.com
+domain, g.fancyapi.com
 domain, g2.ganjing.world
 domain, game.loveota.com
 domain, gdfp.gifshow.com
@@ -448,6 +456,7 @@ domain, launcher.smart-tv.cn
 domain, launcherimg.smart-tv.cn
 domain, lf3-ad-union-sdk.pglstatp-toutiao.com
 domain, lf6-ad-union-sdk.pglstatp-toutiao.com
+domain, lftxali.fancyapi.com
 domain, lh3.googleadsserving.cn
 domain, litchiads.com
 domain, live-api.hktvmall.com
@@ -555,6 +564,7 @@ domain, open.e.kuaishou.com
 domain, open.kuaishouzt.com
 domain, open.kwaizt.com
 domain, open.snssdk.com
+domain, openadapi.fancydsp.com
 domain, optimus-ads.amap.com
 domain, orbit.jd.com
 domain, oss.cdn.aiclk.com
@@ -636,12 +646,14 @@ domain, sdk-cache.video.ptqy.gitv.tv
 domain, sdk.1rtb.net
 domain, sdk.ad.smaato.net
 domain, sdk.adx.adwangmai.com
+domain, sdk.aqyad.com
 domain, sdk.beizi.biz
 domain, sdk.cferw.com
 domain, sdk.e.qq.com
 domain, sdk.hzsanjiaomao.com
 domain, sdk.markmedia.com.cn
 domain, sdk.mobads.adwangmai.com
+domain, sdkapi.cloooud.com
 domain, sdkauth.hpplay.cn
 domain, sdkconf.avlyun.com
 domain, sdkconfig.ad.intl.xiaomi.com
@@ -674,11 +686,13 @@ domain, smetrics.samsung.com
 domain, sms.ads.oppomobile.com
 domain, sngmta.qq.com
 domain, snowflake.qq.com
+domain, ssp.cloooud.com
 domain, staging-notify.sec.miui.com
 domain, stat.dongqiudi.com
 domain, stat.y.qq.com
 domain, static-s.iqiyi.com
 domain, static.ads-twitter.com
+domain, statichf.shihuocdn.cn
 domain, statics.woozooo.com
 domain, stats.wp.com
 domain, statsigapi.net
@@ -698,6 +712,7 @@ domain, t002.ottcn.com
 domain, t1.a.market.xiaomi.com
 domain, t1.teads.tv
 domain, t2.a.market.xiaomi.com
+domain, t2.fancyapi.com
 domain, t3.a.market.xiaomi.com
 domain, t7z.cupid.iqiyi.com
 domain, t7z.cupid.ptqy.gitv.tv
@@ -726,6 +741,7 @@ domain, tnc3-aliec1.toutiaoapi.com
 domain, tnc3-aliec2.bytedance.com
 domain, tnc3-aliec2.snssdk.com
 domain, tnc3-aliec2.toutiaoapi.com
+domain, tnc3-aliec2.zijieapi.com
 domain, tnc3-alisc1.bytedance.com
 domain, tnc3-alisc1.snssdk.com
 domain, tnc3-alisc1.toutiaoapi.com
@@ -740,6 +756,7 @@ domain, tpa-hcdn.iqiyi.com
 domain, tpc.googlesyndication-cn.com
 domain, tpc.googlesyndication.com
 domain, tr-asia.adsmoloco.com
+domain, trace.aqyad.com
 domain, trace.qq.com
 domain, tracelog-debug.aiclk.com
 domain, tracelog-debug.qquanquan.com
@@ -779,6 +796,7 @@ domain, upgrade-update.hismarttv.com
 domain, uranus.jd.com
 domain, us.l.qq.com
 domain, usr-api.aiclk.com
+domain, utoken.umeng.com
 domain, v.110route.cn
 domain, v.adintl.cn
 domain, v.adx.hubcloud.com.cn

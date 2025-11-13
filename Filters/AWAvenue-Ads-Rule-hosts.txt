@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1670
+!Total lines: 1706
 !Version: 1.6.8-release
-!Update time: 2025-11-13 11:56:26 UTC+8
-!Update content: 清理失效域名...
+!Update time: 2025-11-13 15:11:17 UTC+8
+!Update content: 新增大量不良广告之拦截，详见 1.6.9 更新日志
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -67,6 +67,8 @@
 :: ad.qq.com
 0.0.0.0 ad.richmob.cn
 :: ad.richmob.cn
+0.0.0.0 ad.shunchangzhixing.com
+:: ad.shunchangzhixing.com
 0.0.0.0 ad.tencentmusic.com
 :: ad.tencentmusic.com
 0.0.0.0 ad.toutiao.com
@@ -391,6 +393,8 @@
 :: api.ad.xiaomi.com
 0.0.0.0 api.anythinktech.com
 :: api.anythinktech.com
+0.0.0.0 api.aqyad.com
+:: api.aqyad.com
 0.0.0.0 api.e.kuaishou.com
 :: api.e.kuaishou.com
 0.0.0.0 api.fu.xcultur.com
@@ -405,6 +409,8 @@
 :: api.jietuhb.com
 0.0.0.0 api.kingdata.ksyun.com
 :: api.kingdata.ksyun.com
+0.0.0.0 api.shanghailingye.cn
+:: api.shanghailingye.cn
 0.0.0.0 api.ssp.xcultur.com
 :: api.ssp.xcultur.com
 0.0.0.0 api.statsig.com
@@ -431,6 +437,8 @@
 :: applovin.com
 0.0.0.0 appversion.115.com
 :: appversion.115.com
+0.0.0.0 aqyad.com
+:: aqyad.com
 0.0.0.0 aspect-upush.umeng.com
 :: aspect-upush.umeng.com
 0.0.0.0 auction.unityads.unity3d.com
@@ -557,6 +565,8 @@
 :: click4.chinaliftoff.io
 0.0.0.0 clog.miguvideo.com
 :: clog.miguvideo.com
+0.0.0.0 cloooud.com
+:: cloooud.com
 0.0.0.0 cn-api.anythinktech.com
 :: cn-api.anythinktech.com
 0.0.0.0 cnlogs.umeng.com
@@ -667,8 +677,12 @@
 :: events.reddit.com
 0.0.0.0 events.redditmedia.com
 :: events.redditmedia.com
+0.0.0.0 fancyapi.com
+:: fancyapi.com
 0.0.0.0 fclog.baidu.com
 :: fclog.baidu.com
+0.0.0.0 feed-image.baidu.com
+:: feed-image.baidu.com
 0.0.0.0 file.daihuo.qq.com
 :: file.daihuo.qq.com
 0.0.0.0 firebaselogging-pa.googleapis.com
@@ -687,6 +701,8 @@
 :: g-staic.ganjingworld.com
 0.0.0.0 g.dtv.cn.miaozhen.com
 :: g.dtv.cn.miaozhen.com
+0.0.0.0 g.fancyapi.com
+:: g.fancyapi.com
 0.0.0.0 g2.ganjing.world
 :: g2.ganjing.world
 0.0.0.0 game.loveota.com
@@ -885,6 +901,8 @@
 :: lf3-ad-union-sdk.pglstatp-toutiao.com
 0.0.0.0 lf6-ad-union-sdk.pglstatp-toutiao.com
 :: lf6-ad-union-sdk.pglstatp-toutiao.com
+0.0.0.0 lftxali.fancyapi.com
+:: lftxali.fancyapi.com
 0.0.0.0 lh3.googleadsserving.cn
 :: lh3.googleadsserving.cn
 0.0.0.0 litchiads.com
@@ -1099,6 +1117,8 @@
 :: open.kwaizt.com
 0.0.0.0 open.snssdk.com
 :: open.snssdk.com
+0.0.0.0 openadapi.fancydsp.com
+:: openadapi.fancydsp.com
 0.0.0.0 optimus-ads.amap.com
 :: optimus-ads.amap.com
 0.0.0.0 orbit.jd.com
@@ -1261,6 +1281,8 @@
 :: sdk.ad.smaato.net
 0.0.0.0 sdk.adx.adwangmai.com
 :: sdk.adx.adwangmai.com
+0.0.0.0 sdk.aqyad.com
+:: sdk.aqyad.com
 0.0.0.0 sdk.beizi.biz
 :: sdk.beizi.biz
 0.0.0.0 sdk.cferw.com
@@ -1273,6 +1295,8 @@
 :: sdk.markmedia.com.cn
 0.0.0.0 sdk.mobads.adwangmai.com
 :: sdk.mobads.adwangmai.com
+0.0.0.0 sdkapi.cloooud.com
+:: sdkapi.cloooud.com
 0.0.0.0 sdkauth.hpplay.cn
 :: sdkauth.hpplay.cn
 0.0.0.0 sdkconf.avlyun.com
@@ -1337,6 +1361,8 @@
 :: sngmta.qq.com
 0.0.0.0 snowflake.qq.com
 :: snowflake.qq.com
+0.0.0.0 ssp.cloooud.com
+:: ssp.cloooud.com
 0.0.0.0 staging-notify.sec.miui.com
 :: staging-notify.sec.miui.com
 0.0.0.0 stat.dongqiudi.com
@@ -1347,6 +1373,8 @@
 :: static-s.iqiyi.com
 0.0.0.0 static.ads-twitter.com
 :: static.ads-twitter.com
+0.0.0.0 statichf.shihuocdn.cn
+:: statichf.shihuocdn.cn
 0.0.0.0 statics.woozooo.com
 :: statics.woozooo.com
 0.0.0.0 stats.wp.com
@@ -1385,6 +1413,8 @@
 :: t1.teads.tv
 0.0.0.0 t2.a.market.xiaomi.com
 :: t2.a.market.xiaomi.com
+0.0.0.0 t2.fancyapi.com
+:: t2.fancyapi.com
 0.0.0.0 t3.a.market.xiaomi.com
 :: t3.a.market.xiaomi.com
 0.0.0.0 t7z.cupid.iqiyi.com
@@ -1441,6 +1471,8 @@
 :: tnc3-aliec2.snssdk.com
 0.0.0.0 tnc3-aliec2.toutiaoapi.com
 :: tnc3-aliec2.toutiaoapi.com
+0.0.0.0 tnc3-aliec2.zijieapi.com
+:: tnc3-aliec2.zijieapi.com
 0.0.0.0 tnc3-alisc1.bytedance.com
 :: tnc3-alisc1.bytedance.com
 0.0.0.0 tnc3-alisc1.snssdk.com
@@ -1469,6 +1501,8 @@
 :: tpc.googlesyndication.com
 0.0.0.0 tr-asia.adsmoloco.com
 :: tr-asia.adsmoloco.com
+0.0.0.0 trace.aqyad.com
+:: trace.aqyad.com
 0.0.0.0 trace.qq.com
 :: trace.qq.com
 0.0.0.0 tracelog-debug.aiclk.com
@@ -1547,6 +1581,8 @@
 :: us.l.qq.com
 0.0.0.0 usr-api.aiclk.com
 :: usr-api.aiclk.com
+0.0.0.0 utoken.umeng.com
+:: utoken.umeng.com
 0.0.0.0 v.110route.cn
 :: v.110route.cn
 0.0.0.0 v.adintl.cn
