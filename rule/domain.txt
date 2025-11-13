@@ -443,6 +443,7 @@ ks-p2p-v2.pull.yximgs.com
 ks-p2p.pull.yximgs.com
 ks.ferlytc.com
 ks.pull.yximgs.com
+l6.fancyapi.com
 launcher.smart-tv.cn
 launcherimg.smart-tv.cn
 lf3-ad-union-sdk.pglstatp-toutiao.com
