@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1702
+!Total lines: 1704
 !Version: 1.6.9-release
-!Update time: 2025-11-13 15:15:42 UTC+8
-!Update content: 新增大量不良广告之拦截，详见 1.6.9 更新日志
+!Update time: 2025-11-13 15:26:28 UTC+8
+!Update content: 追加一个遗漏的
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -889,6 +889,8 @@ ip dns static add address=240.0.0.1 name=ks.ferlytc.com
 ip dns static add address=:: name=ks.ferlytc.com
 ip dns static add address=240.0.0.1 name=ks.pull.yximgs.com
 ip dns static add address=:: name=ks.pull.yximgs.com
+ip dns static add address=240.0.0.1 name=l6.fancyapi.com
+ip dns static add address=:: name=l6.fancyapi.com
 ip dns static add address=240.0.0.1 name=launcher.smart-tv.cn
 ip dns static add address=:: name=launcher.smart-tv.cn
 ip dns static add address=240.0.0.1 name=launcherimg.smart-tv.cn

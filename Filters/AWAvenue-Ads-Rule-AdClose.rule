@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 851
+#Total lines: 852
 #Version: 1.6.9-release
-#Update time: 2025-11-13 15:15:42 UTC+8
-#Update content: 新增大量不良广告之拦截，详见 1.6.9 更新日志
+#Update time: 2025-11-13 15:26:28 UTC+8
+#Update content: 追加一个遗漏的
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -452,6 +452,7 @@ domain, ks-p2p-v2.pull.yximgs.com
 domain, ks-p2p.pull.yximgs.com
 domain, ks.ferlytc.com
 domain, ks.pull.yximgs.com
+domain, l6.fancyapi.com
 domain, launcher.smart-tv.cn
 domain, launcherimg.smart-tv.cn
 domain, lf3-ad-union-sdk.pglstatp-toutiao.com
