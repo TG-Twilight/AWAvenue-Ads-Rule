@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 852
+#Total lines: 861
 #Version: 1.6.9-release
-#Update time: 2025-11-13 15:26:28 UTC+8
-#Update content: 追加一个遗漏的
+#Update time: 2025-11-18 14:48:37 UTC+8
+#Update content: 新增 jihuoniao ads、advlion ads、qiming ADX、etool ads 拦截，close #184 感谢@VJMOD
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -144,12 +144,14 @@ domain, advertising.yandex.ru
 domain, advice-ads.s3.amazonaws.com
 domain, adview.cn
 domain, adx-ad.smart-tv.cn
+domain, adx-api.jinmo.tech
 domain, adx-bj-req.anythinktech.com
 domain, adx-bj.anythinktech.com
 domain, adx-cn.anythinktech.com
 domain, adx-drcn.op.dbankcloud.cn
 domain, adx-open-service.youku.com
 domain, adx-os.anythinktech.com
+domain, adx-saas.advlion.com
 domain, adx.ads.heytapmobi.com
 domain, adx.ads.oppomobile.com
 domain, adx.appsdk.com.cn
@@ -248,6 +250,7 @@ domain, bgg.baidu.com
 domain, bianxian.com
 domain, bingads.microsoft.com
 domain, biz.weibo.com
+domain, bj-td-menta-01-callback.advlion.com
 domain, bj.ad.track.66mobi.com
 domain, books-analytics-events.apple.com
 domain, bootpreload.uve.weibo.com
@@ -258,6 +261,7 @@ domain, bsrv.qq.com
 domain, bugly.qq.com
 domain, business-api.tiktok.com
 domain, c.bidtoolads.com
+domain, c.etoolads.cn
 domain, c.evidon.com
 domain, c.gj.qq.com
 domain, c.kuaiduizuoye.com
@@ -537,6 +541,7 @@ domain, mobilead.kuwo.cn
 domain, mobilelog.upqzfile.com
 domain, monitor-ads-test.huan.tv
 domain, monitor-uu.play.aiseet.atianqi.com
+domain, monitor.adxsenmeng.com
 domain, monitor.music.qq.com
 domain, monitor.uu.qq.com
 domain, monsetting.toutiao.com
@@ -613,6 +618,7 @@ domain, promotion-partner.kuaishou.com
 domain, proxy.advp.apple.com
 domain, public.gdtimg.com
 domain, q.i.gdt.qq.com
+domain, qmlog.baertt.com
 domain, qn-cdnfile1pcdn.msstatic.com
 domain, qqdata.ab.qq.com
 domain, qzs.gdtimg.com
@@ -633,8 +639,10 @@ domain, rps.hpplay.cn
 domain, rpt.gdt.qq.com
 domain, rt.applovin.com
 domain, rt.applvn.com
+domain, rtb.adxsenmeng.com
 domain, rtb.voiceads.cn
 domain, s.amazon-adsystem.com
+domain, s1.cdn-sg.advlion.com
 domain, s8t.teads.tv
 domain, saad.ms.zhangyue.net
 domain, saas.hpplay.cn
@@ -718,6 +726,7 @@ domain, t3.a.market.xiaomi.com
 domain, t7z.cupid.iqiyi.com
 domain, t7z.cupid.ptqy.gitv.tv
 domain, tangram.e.qq.com
+domain, target.ads.jihuoniao.com
 domain, tdc.qq.com
 domain, tdsdk.cpatrk.net
 domain, tdsdk.xdrig.com

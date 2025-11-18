@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 868
+#Total lines: 877
 #Version: 1.6.9-release
-#Update time: 2025-11-13 15:26:28 UTC+8
-#Update content: 追加一个遗漏的
+#Update time: 2025-11-18 14:48:37 UTC+8
+#Update content: 新增 jihuoniao ads、advlion ads、qiming ADX、etool ads 拦截，close #184 感谢@VJMOD
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -141,12 +141,14 @@ DOMAIN,advertising.yandex.ru,reject
 DOMAIN,advice-ads.s3.amazonaws.com,reject
 DOMAIN,adview.cn,reject
 DOMAIN,adx-ad.smart-tv.cn,reject
+DOMAIN,adx-api.jinmo.tech,reject
 DOMAIN,adx-bj-req.anythinktech.com,reject
 DOMAIN,adx-bj.anythinktech.com,reject
 DOMAIN,adx-cn.anythinktech.com,reject
 DOMAIN,adx-drcn.op.dbankcloud.cn,reject
 DOMAIN,adx-open-service.youku.com,reject
 DOMAIN,adx-os.anythinktech.com,reject
+DOMAIN,adx-saas.advlion.com,reject
 DOMAIN,adx.ads.heytapmobi.com,reject
 DOMAIN,adx.ads.oppomobile.com,reject
 DOMAIN,adx.appsdk.com.cn,reject
@@ -245,6 +247,7 @@ DOMAIN,bgg.baidu.com,reject
 DOMAIN,bianxian.com,reject
 DOMAIN,bingads.microsoft.com,reject
 DOMAIN,biz.weibo.com,reject
+DOMAIN,bj-td-menta-01-callback.advlion.com,reject
 DOMAIN,bj.ad.track.66mobi.com,reject
 DOMAIN,books-analytics-events.apple.com,reject
 DOMAIN,bootpreload.uve.weibo.com,reject
@@ -255,6 +258,7 @@ DOMAIN,bsrv.qq.com,reject
 DOMAIN,bugly.qq.com,reject
 DOMAIN,business-api.tiktok.com,reject
 DOMAIN,c.bidtoolads.com,reject
+DOMAIN,c.etoolads.cn,reject
 DOMAIN,c.evidon.com,reject
 DOMAIN,c.gj.qq.com,reject
 DOMAIN,c.kuaiduizuoye.com,reject
@@ -534,6 +538,7 @@ DOMAIN,mobilead.kuwo.cn,reject
 DOMAIN,mobilelog.upqzfile.com,reject
 DOMAIN,monitor-ads-test.huan.tv,reject
 DOMAIN,monitor-uu.play.aiseet.atianqi.com,reject
+DOMAIN,monitor.adxsenmeng.com,reject
 DOMAIN,monitor.music.qq.com,reject
 DOMAIN,monitor.uu.qq.com,reject
 DOMAIN,monsetting.toutiao.com,reject
@@ -610,6 +615,7 @@ DOMAIN,promotion-partner.kuaishou.com,reject
 DOMAIN,proxy.advp.apple.com,reject
 DOMAIN,public.gdtimg.com,reject
 DOMAIN,q.i.gdt.qq.com,reject
+DOMAIN,qmlog.baertt.com,reject
 DOMAIN,qn-cdnfile1pcdn.msstatic.com,reject
 DOMAIN,qqdata.ab.qq.com,reject
 DOMAIN,qzs.gdtimg.com,reject
@@ -630,8 +636,10 @@ DOMAIN,rps.hpplay.cn,reject
 DOMAIN,rpt.gdt.qq.com,reject
 DOMAIN,rt.applovin.com,reject
 DOMAIN,rt.applvn.com,reject
+DOMAIN,rtb.adxsenmeng.com,reject
 DOMAIN,rtb.voiceads.cn,reject
 DOMAIN,s.amazon-adsystem.com,reject
+DOMAIN,s1.cdn-sg.advlion.com,reject
 DOMAIN,s8t.teads.tv,reject
 DOMAIN,saad.ms.zhangyue.net,reject
 DOMAIN,saas.hpplay.cn,reject
@@ -715,6 +723,7 @@ DOMAIN,t3.a.market.xiaomi.com,reject
 DOMAIN,t7z.cupid.iqiyi.com,reject
 DOMAIN,t7z.cupid.ptqy.gitv.tv,reject
 DOMAIN,tangram.e.qq.com,reject
+DOMAIN,target.ads.jihuoniao.com,reject
 DOMAIN,tdc.qq.com,reject
 DOMAIN,tdsdk.cpatrk.net,reject
 DOMAIN,tdsdk.xdrig.com,reject

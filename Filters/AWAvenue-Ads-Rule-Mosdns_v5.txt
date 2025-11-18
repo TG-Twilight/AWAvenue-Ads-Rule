@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 868
+#Total lines: 877
 #Version: 1.6.9-release
-#Update time: 2025-11-13 15:26:28 UTC+8
-#Update content: 追加一个遗漏的
+#Update time: 2025-11-18 14:48:37 UTC+8
+#Update content: 新增 jihuoniao ads、advlion ads、qiming ADX、etool ads 拦截，close #184 感谢@VJMOD
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -141,12 +141,14 @@ full:advertising.yandex.ru
 full:advice-ads.s3.amazonaws.com
 full:adview.cn
 full:adx-ad.smart-tv.cn
+full:adx-api.jinmo.tech
 full:adx-bj-req.anythinktech.com
 full:adx-bj.anythinktech.com
 full:adx-cn.anythinktech.com
 full:adx-drcn.op.dbankcloud.cn
 full:adx-open-service.youku.com
 full:adx-os.anythinktech.com
+full:adx-saas.advlion.com
 full:adx.ads.heytapmobi.com
 full:adx.ads.oppomobile.com
 full:adx.appsdk.com.cn
@@ -245,6 +247,7 @@ full:bgg.baidu.com
 full:bianxian.com
 full:bingads.microsoft.com
 full:biz.weibo.com
+full:bj-td-menta-01-callback.advlion.com
 full:bj.ad.track.66mobi.com
 full:books-analytics-events.apple.com
 full:bootpreload.uve.weibo.com
@@ -255,6 +258,7 @@ full:bsrv.qq.com
 full:bugly.qq.com
 full:business-api.tiktok.com
 full:c.bidtoolads.com
+full:c.etoolads.cn
 full:c.evidon.com
 full:c.gj.qq.com
 full:c.kuaiduizuoye.com
@@ -534,6 +538,7 @@ full:mobilead.kuwo.cn
 full:mobilelog.upqzfile.com
 full:monitor-ads-test.huan.tv
 full:monitor-uu.play.aiseet.atianqi.com
+full:monitor.adxsenmeng.com
 full:monitor.music.qq.com
 full:monitor.uu.qq.com
 full:monsetting.toutiao.com
@@ -610,6 +615,7 @@ full:promotion-partner.kuaishou.com
 full:proxy.advp.apple.com
 full:public.gdtimg.com
 full:q.i.gdt.qq.com
+full:qmlog.baertt.com
 full:qn-cdnfile1pcdn.msstatic.com
 full:qqdata.ab.qq.com
 full:qzs.gdtimg.com
@@ -630,8 +636,10 @@ full:rps.hpplay.cn
 full:rpt.gdt.qq.com
 full:rt.applovin.com
 full:rt.applvn.com
+full:rtb.adxsenmeng.com
 full:rtb.voiceads.cn
 full:s.amazon-adsystem.com
+full:s1.cdn-sg.advlion.com
 full:s8t.teads.tv
 full:saad.ms.zhangyue.net
 full:saas.hpplay.cn
@@ -715,6 +723,7 @@ full:t3.a.market.xiaomi.com
 full:t7z.cupid.iqiyi.com
 full:t7z.cupid.ptqy.gitv.tv
 full:tangram.e.qq.com
+full:target.ads.jihuoniao.com
 full:tdc.qq.com
 full:tdsdk.cpatrk.net
 full:tdsdk.xdrig.com

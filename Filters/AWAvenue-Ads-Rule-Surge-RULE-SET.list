@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 868
+#Total lines: 877
 #Version: 1.6.9-release
-#Update time: 2025-11-13 15:26:28 UTC+8
-#Update content: 追加一个遗漏的
+#Update time: 2025-11-18 14:48:37 UTC+8
+#Update content: 新增 jihuoniao ads、advlion ads、qiming ADX、etool ads 拦截，close #184 感谢@VJMOD
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -141,12 +141,14 @@ DOMAIN,advertising.yandex.ru
 DOMAIN,advice-ads.s3.amazonaws.com
 DOMAIN,adview.cn
 DOMAIN,adx-ad.smart-tv.cn
+DOMAIN,adx-api.jinmo.tech
 DOMAIN,adx-bj-req.anythinktech.com
 DOMAIN,adx-bj.anythinktech.com
 DOMAIN,adx-cn.anythinktech.com
 DOMAIN,adx-drcn.op.dbankcloud.cn
 DOMAIN,adx-open-service.youku.com
 DOMAIN,adx-os.anythinktech.com
+DOMAIN,adx-saas.advlion.com
 DOMAIN,adx.ads.heytapmobi.com
 DOMAIN,adx.ads.oppomobile.com
 DOMAIN,adx.appsdk.com.cn
@@ -245,6 +247,7 @@ DOMAIN,bgg.baidu.com
 DOMAIN,bianxian.com
 DOMAIN,bingads.microsoft.com
 DOMAIN,biz.weibo.com
+DOMAIN,bj-td-menta-01-callback.advlion.com
 DOMAIN,bj.ad.track.66mobi.com
 DOMAIN,books-analytics-events.apple.com
 DOMAIN,bootpreload.uve.weibo.com
@@ -255,6 +258,7 @@ DOMAIN,bsrv.qq.com
 DOMAIN,bugly.qq.com
 DOMAIN,business-api.tiktok.com
 DOMAIN,c.bidtoolads.com
+DOMAIN,c.etoolads.cn
 DOMAIN,c.evidon.com
 DOMAIN,c.gj.qq.com
 DOMAIN,c.kuaiduizuoye.com
@@ -534,6 +538,7 @@ DOMAIN,mobilead.kuwo.cn
 DOMAIN,mobilelog.upqzfile.com
 DOMAIN,monitor-ads-test.huan.tv
 DOMAIN,monitor-uu.play.aiseet.atianqi.com
+DOMAIN,monitor.adxsenmeng.com
 DOMAIN,monitor.music.qq.com
 DOMAIN,monitor.uu.qq.com
 DOMAIN,monsetting.toutiao.com
@@ -610,6 +615,7 @@ DOMAIN,promotion-partner.kuaishou.com
 DOMAIN,proxy.advp.apple.com
 DOMAIN,public.gdtimg.com
 DOMAIN,q.i.gdt.qq.com
+DOMAIN,qmlog.baertt.com
 DOMAIN,qn-cdnfile1pcdn.msstatic.com
 DOMAIN,qqdata.ab.qq.com
 DOMAIN,qzs.gdtimg.com
@@ -630,8 +636,10 @@ DOMAIN,rps.hpplay.cn
 DOMAIN,rpt.gdt.qq.com
 DOMAIN,rt.applovin.com
 DOMAIN,rt.applvn.com
+DOMAIN,rtb.adxsenmeng.com
 DOMAIN,rtb.voiceads.cn
 DOMAIN,s.amazon-adsystem.com
+DOMAIN,s1.cdn-sg.advlion.com
 DOMAIN,s8t.teads.tv
 DOMAIN,saad.ms.zhangyue.net
 DOMAIN,saas.hpplay.cn
@@ -715,6 +723,7 @@ DOMAIN,t3.a.market.xiaomi.com
 DOMAIN,t7z.cupid.iqiyi.com
 DOMAIN,t7z.cupid.ptqy.gitv.tv
 DOMAIN,tangram.e.qq.com
+DOMAIN,target.ads.jihuoniao.com
 DOMAIN,tdc.qq.com
 DOMAIN,tdsdk.cpatrk.net
 DOMAIN,tdsdk.xdrig.com

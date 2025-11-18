@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1708
+!Total lines: 1726
 !Version: 1.6.9-release
-!Update time: 2025-11-13 15:26:28 UTC+8
-!Update content: 追加一个遗漏的
+!Update time: 2025-11-18 14:48:37 UTC+8
+!Update content: 新增 jihuoniao ads、advlion ads、qiming ADX、etool ads 拦截，close #184 感谢@VJMOD
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -277,6 +277,8 @@
 :: adview.cn
 0.0.0.0 adx-ad.smart-tv.cn
 :: adx-ad.smart-tv.cn
+0.0.0.0 adx-api.jinmo.tech
+:: adx-api.jinmo.tech
 0.0.0.0 adx-bj-req.anythinktech.com
 :: adx-bj-req.anythinktech.com
 0.0.0.0 adx-bj.anythinktech.com
@@ -289,6 +291,8 @@
 :: adx-open-service.youku.com
 0.0.0.0 adx-os.anythinktech.com
 :: adx-os.anythinktech.com
+0.0.0.0 adx-saas.advlion.com
+:: adx-saas.advlion.com
 0.0.0.0 adx.ads.heytapmobi.com
 :: adx.ads.heytapmobi.com
 0.0.0.0 adx.ads.oppomobile.com
@@ -485,6 +489,8 @@
 :: bingads.microsoft.com
 0.0.0.0 biz.weibo.com
 :: biz.weibo.com
+0.0.0.0 bj-td-menta-01-callback.advlion.com
+:: bj-td-menta-01-callback.advlion.com
 0.0.0.0 bj.ad.track.66mobi.com
 :: bj.ad.track.66mobi.com
 0.0.0.0 books-analytics-events.apple.com
@@ -505,6 +511,8 @@
 :: business-api.tiktok.com
 0.0.0.0 c.bidtoolads.com
 :: c.bidtoolads.com
+0.0.0.0 c.etoolads.cn
+:: c.etoolads.cn
 0.0.0.0 c.evidon.com
 :: c.evidon.com
 0.0.0.0 c.gj.qq.com
@@ -1063,6 +1071,8 @@
 :: monitor-ads-test.huan.tv
 0.0.0.0 monitor-uu.play.aiseet.atianqi.com
 :: monitor-uu.play.aiseet.atianqi.com
+0.0.0.0 monitor.adxsenmeng.com
+:: monitor.adxsenmeng.com
 0.0.0.0 monitor.music.qq.com
 :: monitor.music.qq.com
 0.0.0.0 monitor.uu.qq.com
@@ -1215,6 +1225,8 @@
 :: public.gdtimg.com
 0.0.0.0 q.i.gdt.qq.com
 :: q.i.gdt.qq.com
+0.0.0.0 qmlog.baertt.com
+:: qmlog.baertt.com
 0.0.0.0 qn-cdnfile1pcdn.msstatic.com
 :: qn-cdnfile1pcdn.msstatic.com
 0.0.0.0 qqdata.ab.qq.com
@@ -1255,10 +1267,14 @@
 :: rt.applovin.com
 0.0.0.0 rt.applvn.com
 :: rt.applvn.com
+0.0.0.0 rtb.adxsenmeng.com
+:: rtb.adxsenmeng.com
 0.0.0.0 rtb.voiceads.cn
 :: rtb.voiceads.cn
 0.0.0.0 s.amazon-adsystem.com
 :: s.amazon-adsystem.com
+0.0.0.0 s1.cdn-sg.advlion.com
+:: s1.cdn-sg.advlion.com
 0.0.0.0 s8t.teads.tv
 :: s8t.teads.tv
 0.0.0.0 saad.ms.zhangyue.net
@@ -1425,6 +1441,8 @@
 :: t7z.cupid.ptqy.gitv.tv
 0.0.0.0 tangram.e.qq.com
 :: tangram.e.qq.com
+0.0.0.0 target.ads.jihuoniao.com
+:: target.ads.jihuoniao.com
 0.0.0.0 tdc.qq.com
 :: tdc.qq.com
 0.0.0.0 tdsdk.cpatrk.net
