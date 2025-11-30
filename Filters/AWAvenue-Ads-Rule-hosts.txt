@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1726
+!Total lines: 1780
 !Version: 1.6.9-release
-!Update time: 2025-11-18 14:48:37 UTC+8
-!Update content: 新增 jihuoniao ads、advlion ads、qiming ADX、etool ads 拦截，close #184 感谢@VJMOD
+!Update time: 2025-11-30 15:03:32 UTC+8
+!Update content: 新增 AdSet神蓍、小寻广告、掌阅log、银联广告、B612咔叽广告、更多的网易云广告、360生活广告、UC日志收集、巨量数据采集、更多的快手广告拦截。
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -59,6 +59,12 @@
 :: ad.gameley.com
 0.0.0.0 ad.hpplay.cn
 :: ad.hpplay.cn
+0.0.0.0 ad.iot.360.cn
+:: ad.iot.360.cn
+0.0.0.0 ad.jia.360.cn
+:: ad.jia.360.cn
+0.0.0.0 ad.life.360.cn
+:: ad.life.360.cn
 0.0.0.0 ad.partner.gifshow.com
 :: ad.partner.gifshow.com
 0.0.0.0 ad.qingting.fm
@@ -67,6 +73,8 @@
 :: ad.qq.com
 0.0.0.0 ad.richmob.cn
 :: ad.richmob.cn
+0.0.0.0 ad.shenshiads.com
+:: ad.shenshiads.com
 0.0.0.0 ad.shunchangzhixing.com
 :: ad.shunchangzhixing.com
 0.0.0.0 ad.tencentmusic.com
@@ -79,6 +87,8 @@
 :: ad.winrar.com.cn
 0.0.0.0 ad.ximalaya.com
 :: ad.ximalaya.com
+0.0.0.0 ad.xunkids.com
+:: ad.xunkids.com
 0.0.0.0 ad.zijieapi.com
 :: ad.zijieapi.com
 0.0.0.0 adapi.izuiyou.com
@@ -89,6 +99,8 @@
 :: adashbc.ut.taobao.com
 0.0.0.0 adashx.m.taobao.com
 :: adashx.m.taobao.com
+0.0.0.0 adashxgc.ut.taobao.com
+:: adashxgc.ut.taobao.com
 0.0.0.0 adc.hpplay.cn
 :: adc.hpplay.cn
 0.0.0.0 adcdn.hpplay.cn
@@ -149,6 +161,8 @@
 :: ads-video-qc.xhscdn.com
 0.0.0.0 ads.95516.com
 :: ads.95516.com
+0.0.0.0 ads.cup.com.cn
+:: ads.cup.com.cn
 0.0.0.0 ads.google.cn
 :: ads.google.cn
 0.0.0.0 ads.huan.tv
@@ -255,6 +269,8 @@
 :: adtech.yahooinc.com
 0.0.0.0 adtrack.quark.cn
 :: adtrack.quark.cn
+0.0.0.0 adv-api.shenshiads.com
+:: adv-api.shenshiads.com
 0.0.0.0 adv.sec.intl.miui.com
 :: adv.sec.intl.miui.com
 0.0.0.0 adv.sec.miui.com
@@ -343,6 +359,8 @@
 :: analytics-api.samsunghealthcn.com
 0.0.0.0 analytics.adjust.cn
 :: analytics.adjust.cn
+0.0.0.0 analytics.oceanengine.com
+:: analytics.oceanengine.com
 0.0.0.0 analytics.pinterest.com
 :: analytics.pinterest.com
 0.0.0.0 analytics.pointdrive.linkedin.com
@@ -385,8 +403,12 @@
 :: api-access.pangolin-sdk-toutiao4.com
 0.0.0.0 api-access.pangolin-sdk-toutiao5.com
 :: api-access.pangolin-sdk-toutiao5.com
+0.0.0.0 api-ad-data.kajicam.com
+:: api-ad-data.kajicam.com
 0.0.0.0 api-ad-product.huxiu.com
 :: api-ad-product.huxiu.com
+0.0.0.0 api-ad.kajicam.com
+:: api-ad.kajicam.com
 0.0.0.0 api-adservices.apple.com
 :: api-adservices.apple.com
 0.0.0.0 api-gd.hiaiabc.com
@@ -431,6 +453,8 @@
 :: app-measurement.com
 0.0.0.0 appcfg.v.qq.com
 :: appcfg.v.qq.com
+0.0.0.0 applog-perf.uc.cn
+:: applog-perf.uc.cn
 0.0.0.0 applog.lc.quark.cn
 :: applog.lc.quark.cn
 0.0.0.0 applog.uc.cn
@@ -669,6 +693,8 @@
 :: edge.ads.twitch.tv
 0.0.0.0 ef-dongfeng.tanx.com
 :: ef-dongfeng.tanx.com
+0.0.0.0 engine.dcad01.com
+:: engine.dcad01.com
 0.0.0.0 entry.baidu.com
 :: entry.baidu.com
 0.0.0.0 errlog.umeng.com
@@ -821,6 +847,8 @@
 :: iad.g.163.com
 0.0.0.0 iadctest.qwapi.com
 :: iadctest.qwapi.com
+0.0.0.0 iadmusicmat.music.126.net
+:: iadmusicmat.music.126.net
 0.0.0.0 iadsdk.apple.com
 :: iadsdk.apple.com
 0.0.0.0 iadworkbench.apple.com
@@ -971,6 +999,8 @@
 :: log.fc.yahoo.com
 0.0.0.0 log.iflytek.com
 :: log.iflytek.com
+0.0.0.0 log.ireader.com
+:: log.ireader.com
 0.0.0.0 log.kuwo.cn
 :: log.kuwo.cn
 0.0.0.0 log.pinterest.com
@@ -995,6 +1025,8 @@
 :: logbak.hicloud.com
 0.0.0.0 logrcv.aiclk.com
 :: logrcv.aiclk.com
+0.0.0.0 logrcv.yunxish.com
+:: logrcv.yunxish.com
 0.0.0.0 logs.amap.com
 :: logs.amap.com
 0.0.0.0 logservice.hicloud.com
@@ -1005,6 +1037,8 @@
 :: logtj.kugou.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
 :: logupdate.avlyun.sec.miui.com
+0.0.0.0 logwebs.kugou.com
+:: logwebs.kugou.com
 0.0.0.0 luimg.baidu.com
 :: luimg.baidu.com
 0.0.0.0 m-adnet.hiaiabc.com
@@ -1013,6 +1047,8 @@
 :: m.ad.zhangyue.com
 0.0.0.0 m.atm.youku.com
 :: m.atm.youku.com
+0.0.0.0 m.shenshiads.com
+:: m.shenshiads.com
 0.0.0.0 m1.ad.10010.com
 :: m1.ad.10010.com
 0.0.0.0 mapi.m.jd.com
@@ -1065,6 +1101,8 @@
 :: mobile.da.mgtv.com
 0.0.0.0 mobilead.kuwo.cn
 :: mobilead.kuwo.cn
+0.0.0.0 mobilelog.kugou.com
+:: mobilelog.kugou.com
 0.0.0.0 mobilelog.upqzfile.com
 :: mobilelog.upqzfile.com
 0.0.0.0 monitor-ads-test.huan.tv
@@ -1119,6 +1157,8 @@
 :: ogads-pa.clients6.google.com
 0.0.0.0 omgmta.play.aiseet.atianqi.com
 :: omgmta.play.aiseet.atianqi.com
+0.0.0.0 open-set-api.shenshiads.com
+:: open-set-api.shenshiads.com
 0.0.0.0 open.e.kuaishou.cn
 :: open.e.kuaishou.cn
 0.0.0.0 open.e.kuaishou.com
@@ -1177,6 +1217,8 @@
 :: p5-be-pack-sign.pglstatp-toutiao.com
 0.0.0.0 p6-be-pack-sign.pglstatp-toutiao.com
 :: p6-be-pack-sign.pglstatp-toutiao.com
+0.0.0.0 p66-ad.adkwai.com
+:: p66-ad.adkwai.com
 0.0.0.0 pagead2.googleadservices.com
 :: pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
@@ -1281,6 +1323,10 @@
 :: saad.ms.zhangyue.net
 0.0.0.0 saas.hpplay.cn
 :: saas.hpplay.cn
+0.0.0.0 safebrowsing.googleapis.com
+:: safebrowsing.googleapis.com
+0.0.0.0 safebrowsing.urlsec.gg.com
+:: safebrowsing.urlsec.gg.com
 0.0.0.0 samsung-com.112.2o7.net
 :: samsung-com.112.2o7.net
 0.0.0.0 samsungads.com
@@ -1329,6 +1375,8 @@
 :: sdkconfig.video.qq.com
 0.0.0.0 sdkoptedge.chinanetcenter.com
 :: sdkoptedge.chinanetcenter.com
+0.0.0.0 sdkreport.e.qq.com
+:: sdkreport.e.qq.com
 0.0.0.0 sdktmp.hubcloud.com.cn
 :: sdktmp.hubcloud.com.cn
 0.0.0.0 sdownload.stargame.com
@@ -1529,6 +1577,8 @@
 :: tracelog-debug.aiclk.com
 0.0.0.0 tracelog-debug.qquanquan.com
 :: tracelog-debug.qquanquan.com
+0.0.0.0 tracelog-debug.yunxish.com
+:: tracelog-debug.yunxish.com
 0.0.0.0 track.lc.quark.cn
 :: track.lc.quark.cn
 0.0.0.0 track.uc.cn
@@ -1705,6 +1755,8 @@
 :: wxsnsdythumb.wxs.qq.com
 0.0.0.0 xc.gdt.qq.com
 :: xc.gdt.qq.com
+0.0.0.0 xcx.dcad01.com
+:: xcx.dcad01.com
 0.0.0.0 xiaomi-dtv.m.cn.miaozhen.com
 :: xiaomi-dtv.m.cn.miaozhen.com
 0.0.0.0 xlog.jd.com
@@ -1733,5 +1785,7 @@
 :: zeus.ad.xiaomi.com
 0.0.0.0 zhihu-web-analytics.zhihu.com
 :: zhihu-web-analytics.zhihu.com
+0.0.0.0 zjres-ad.kajicam.com
+:: zjres-ad.kajicam.com
 0.0.0.0 zxid-m.mobileservice.cn
 :: zxid-m.mobileservice.cn

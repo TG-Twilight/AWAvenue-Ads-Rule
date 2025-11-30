@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 877
+#Total lines: 904
 #Version: 1.6.9-release
-#Update time: 2025-11-18 14:48:37 UTC+8
-#Update content: 新增 jihuoniao ads、advlion ads、qiming ADX、etool ads 拦截，close #184 感谢@VJMOD
+#Update time: 2025-11-30 15:03:32 UTC+8
+#Update content: 新增 AdSet神蓍、小寻广告、掌阅log、银联广告、B612咔叽广告、更多的网易云广告、360生活广告、UC日志收集、巨量数据采集、更多的快手广告拦截。
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -32,21 +32,27 @@ full:ad.cyapi.cn
 full:ad.doubleclick.net
 full:ad.gameley.com
 full:ad.hpplay.cn
+full:ad.iot.360.cn
+full:ad.jia.360.cn
+full:ad.life.360.cn
 full:ad.partner.gifshow.com
 full:ad.qingting.fm
 full:ad.qq.com
 full:ad.richmob.cn
+full:ad.shenshiads.com
 full:ad.shunchangzhixing.com
 full:ad.tencentmusic.com
 full:ad.toutiao.com
 full:ad.v3mh.com
 full:ad.winrar.com.cn
 full:ad.ximalaya.com
+full:ad.xunkids.com
 full:ad.zijieapi.com
 full:adapi.izuiyou.com
 full:adapi.yynetwk.com
 full:adashbc.ut.taobao.com
 full:adashx.m.taobao.com
+full:adashxgc.ut.taobao.com
 full:adc.hpplay.cn
 full:adcdn.hpplay.cn
 full:adcdn.tencentmusic.com
@@ -77,6 +83,7 @@ full:ads-sg.tiktok.com
 full:ads-video-al.xhscdn.com
 full:ads-video-qc.xhscdn.com
 full:ads.95516.com
+full:ads.cup.com.cn
 full:ads.google.cn
 full:ads.huan.tv
 full:ads.huantest.com
@@ -130,6 +137,7 @@ full:adstudio.spotify.com
 full:adtago.s3.amazonaws.com
 full:adtech.yahooinc.com
 full:adtrack.quark.cn
+full:adv-api.shenshiads.com
 full:adv.sec.intl.miui.com
 full:adv.sec.miui.com
 full:advertising-api-eu.amazon.com
@@ -174,6 +182,7 @@ full:analysis.chatglm.cn
 full:analysis.yozocloud.cn
 full:analytics-api.samsunghealthcn.com
 full:analytics.adjust.cn
+full:analytics.oceanengine.com
 full:analytics.pinterest.com
 full:analytics.pointdrive.linkedin.com
 full:analytics.query.yahoo.com
@@ -195,7 +204,9 @@ full:api-access.pangolin-sdk-toutiao2.com
 full:api-access.pangolin-sdk-toutiao3.com
 full:api-access.pangolin-sdk-toutiao4.com
 full:api-access.pangolin-sdk-toutiao5.com
+full:api-ad-data.kajicam.com
 full:api-ad-product.huxiu.com
+full:api-ad.kajicam.com
 full:api-adservices.apple.com
 full:api-gd.hiaiabc.com
 full:api-htp.beizi.biz
@@ -218,6 +229,7 @@ full:api5-normal-quic-lf.ixigua.com
 full:apiyd.my91app.com
 full:app-measurement.com
 full:appcfg.v.qq.com
+full:applog-perf.uc.cn
 full:applog.lc.quark.cn
 full:applog.uc.cn
 full:applog.zijieapi.com
@@ -337,6 +349,7 @@ full:e.ad.xiaomi.com
 full:eclick.baidu.com
 full:edge.ads.twitch.tv
 full:ef-dongfeng.tanx.com
+full:engine.dcad01.com
 full:entry.baidu.com
 full:errlog.umeng.com
 full:errnewlog.umeng.com
@@ -413,6 +426,7 @@ full:i.l.inmobicdn.net
 full:iad.apple.com
 full:iad.g.163.com
 full:iadctest.qwapi.com
+full:iadmusicmat.music.126.net
 full:iadsdk.apple.com
 full:iadworkbench.apple.com
 full:ifacelog.iqiyi.com
@@ -488,6 +502,7 @@ full:log.avlyun.com
 full:log.byteoversea.com
 full:log.fc.yahoo.com
 full:log.iflytek.com
+full:log.ireader.com
 full:log.kuwo.cn
 full:log.pinterest.com
 full:log.popin.cc
@@ -500,15 +515,18 @@ full:log.zijieapi.com
 full:log1.cmpassport.com
 full:logbak.hicloud.com
 full:logrcv.aiclk.com
+full:logrcv.yunxish.com
 full:logs.amap.com
 full:logservice.hicloud.com
 full:logservice1.hicloud.com
 full:logtj.kugou.com
 full:logupdate.avlyun.sec.miui.com
+full:logwebs.kugou.com
 full:luimg.baidu.com
 full:m-adnet.hiaiabc.com
 full:m.ad.zhangyue.com
 full:m.atm.youku.com
+full:m.shenshiads.com
 full:m1.ad.10010.com
 full:mapi.m.jd.com
 full:masdkv6.3g.qq.com
@@ -535,6 +553,7 @@ full:mobads.baidu.com
 full:mobaliyun.res.mgtv.com
 full:mobile.da.mgtv.com
 full:mobilead.kuwo.cn
+full:mobilelog.kugou.com
 full:mobilelog.upqzfile.com
 full:monitor-ads-test.huan.tv
 full:monitor-uu.play.aiseet.atianqi.com
@@ -562,6 +581,7 @@ full:o2o.api.xiaomi.com
 full:offerwall.yandex.net
 full:ogads-pa.clients6.google.com
 full:omgmta.play.aiseet.atianqi.com
+full:open-set-api.shenshiads.com
 full:open.e.kuaishou.cn
 full:open.e.kuaishou.com
 full:open.kuaishouzt.com
@@ -591,6 +611,7 @@ full:p3-tt.byteimg.com
 full:p4-be-pack-sign.pglstatp-toutiao.com
 full:p5-be-pack-sign.pglstatp-toutiao.com
 full:p6-be-pack-sign.pglstatp-toutiao.com
+full:p66-ad.adkwai.com
 full:pagead2.googleadservices.com
 full:pagead2.googlesyndication.com
 full:pangolin-sdk-toutiao-b.com
@@ -643,6 +664,8 @@ full:s1.cdn-sg.advlion.com
 full:s8t.teads.tv
 full:saad.ms.zhangyue.net
 full:saas.hpplay.cn
+full:safebrowsing.googleapis.com
+full:safebrowsing.urlsec.gg.com
 full:samsung-com.112.2o7.net
 full:samsungads.com
 full:saxysec.com
@@ -667,6 +690,7 @@ full:sdkconfig.ad.xiaomi.com
 full:sdkconfig.play.aiseet.atianqi.com
 full:sdkconfig.video.qq.com
 full:sdkoptedge.chinanetcenter.com
+full:sdkreport.e.qq.com
 full:sdktmp.hubcloud.com.cn
 full:sdownload.stargame.com
 full:search.ixigua.com
@@ -767,6 +791,7 @@ full:trace.aqyad.com
 full:trace.qq.com
 full:tracelog-debug.aiclk.com
 full:tracelog-debug.qquanquan.com
+full:tracelog-debug.yunxish.com
 full:track.lc.quark.cn
 full:track.uc.cn
 full:tracker.ai.xiaomi.com
@@ -855,6 +880,7 @@ full:wxsnsdy.tc.qq.com
 full:wxsnsdy.wxs.qq.com
 full:wxsnsdythumb.wxs.qq.com
 full:xc.gdt.qq.com
+full:xcx.dcad01.com
 full:xiaomi-dtv.m.cn.miaozhen.com
 full:xlog.jd.com
 full:xlviiirdr.com
@@ -869,6 +895,7 @@ full:youku-acs.m.taobao.com
 full:ytx-file.110route.cn
 full:zeus.ad.xiaomi.com
 full:zhihu-web-analytics.zhihu.com
+full:zjres-ad.kajicam.com
 full:zxid-m.mobileservice.cn
 domain:1rtb.com
 domain:a.market.xiaomi.com
