@@ -365,7 +365,6 @@ full:file.daihuo.qq.com
 full:firebaselogging-pa.googleapis.com
 full:flurry.com
 full:frontend-perf-service.e.kuaishou.com
-full:fundingchoicesmessages.google.com
 full:fxgate.baidu.com
 full:g-adnet.hiaiabc.com
 full:g-staic.ganjingworld.com

@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1776
+!Total lines: 1774
 !Version: 1.6.9-release
-!Update time: 2025-11-30 15:03:32 UTC+8
-!Update content: 新增 AdSet神蓍、小寻广告、掌阅log、银联广告、B612咔叽广告、更多的网易云广告、360生活广告、UC日志收集、巨量数据采集、更多的快手广告拦截。
+!Update time: 2025-12-05 09:34:56 UTC+8
+!Update content: fix AdguardTeam/FiltersRegistry/pull/1154
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -721,8 +721,6 @@ ip dns static add address=240.0.0.1 name=flurry.com
 ip dns static add address=:: name=flurry.com
 ip dns static add address=240.0.0.1 name=frontend-perf-service.e.kuaishou.com
 ip dns static add address=:: name=frontend-perf-service.e.kuaishou.com
-ip dns static add address=240.0.0.1 name=fundingchoicesmessages.google.com
-ip dns static add address=:: name=fundingchoicesmessages.google.com
 ip dns static add address=240.0.0.1 name=fxgate.baidu.com
 ip dns static add address=:: name=fxgate.baidu.com
 ip dns static add address=240.0.0.1 name=g-adnet.hiaiabc.com
