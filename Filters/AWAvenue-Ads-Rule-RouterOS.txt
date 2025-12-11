@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1774
+!Total lines: 1772
 !Version: 1.6.9-release
-!Update time: 2025-12-05 09:34:56 UTC+8
-!Update content: fix AdguardTeam/FiltersRegistry/pull/1154
+!Update time: 2025-12-11 21:51:15 UTC+8
+!Update content: fix uBlockOrigin/uAssets/issues/31096 close
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -743,8 +743,6 @@ ip dns static add address=240.0.0.1 name=geo.yahoo.com
 ip dns static add address=:: name=geo.yahoo.com
 ip dns static add address=240.0.0.1 name=getui.cn
 ip dns static add address=:: name=getui.cn
-ip dns static add address=240.0.0.1 name=getui.com
-ip dns static add address=:: name=getui.com
 ip dns static add address=240.0.0.1 name=ggx.cmvideo.cn
 ip dns static add address=:: name=ggx.cmvideo.cn
 ip dns static add address=240.0.0.1 name=ggx01.miguvideo.com

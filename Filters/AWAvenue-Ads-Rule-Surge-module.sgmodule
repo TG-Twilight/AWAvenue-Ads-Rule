@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2025-12-05 09:34:56 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2025-12-11 21:51:15 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -373,7 +373,6 @@ DOMAIN,gdfp.gifshow.com,REJECT,extended-matching,pre-matching
 DOMAIN,gemini.yahoo.com,REJECT,extended-matching,pre-matching
 DOMAIN,geo.yahoo.com,REJECT,extended-matching,pre-matching
 DOMAIN,getui.cn,REJECT,extended-matching,pre-matching
-DOMAIN,getui.com,REJECT,extended-matching,pre-matching
 DOMAIN,ggx.cmvideo.cn,REJECT,extended-matching,pre-matching
 DOMAIN,ggx01.miguvideo.com,REJECT,extended-matching,pre-matching
 DOMAIN,ggx03.miguvideo.com,REJECT,extended-matching,pre-matching

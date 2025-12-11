@@ -376,7 +376,6 @@ full:gdfp.gifshow.com
 full:gemini.yahoo.com
 full:geo.yahoo.com
 full:getui.cn
-full:getui.com
 full:ggx.cmvideo.cn
 full:ggx01.miguvideo.com
 full:ggx03.miguvideo.com

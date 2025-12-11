@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1778
+!Total lines: 1776
 !Version: 1.6.9-release
-!Update time: 2025-12-05 09:34:56 UTC+8
-!Update content: fix AdguardTeam/FiltersRegistry/pull/1154
+!Update time: 2025-12-11 21:51:15 UTC+8
+!Update content: fix uBlockOrigin/uAssets/issues/31096 close
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -747,8 +747,6 @@
 :: geo.yahoo.com
 0.0.0.0 getui.cn
 :: getui.cn
-0.0.0.0 getui.com
-:: getui.com
 0.0.0.0 ggx.cmvideo.cn
 :: ggx.cmvideo.cn
 0.0.0.0 ggx01.miguvideo.com
