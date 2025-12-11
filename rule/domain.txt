@@ -369,7 +369,6 @@ gdfp.gifshow.com
 gemini.yahoo.com
 geo.yahoo.com
 getui.cn
-getui.com
 ggx.cmvideo.cn
 ggx01.miguvideo.com
 ggx03.miguvideo.com
@@ -898,4 +897,5 @@ zeus.ad.xiaomi.com
 zhihu-web-analytics.zhihu.com
 zjres-ad.kajicam.com
 zxid-m.mobileservice.cn
+
 
