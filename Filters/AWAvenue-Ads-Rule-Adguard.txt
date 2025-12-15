@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 901
+!Total lines: 899
 !Version: 1.6.9-release
-!Update time: 2025-12-15 14:44:09 UTC+8
-!Update content: fix #186 #189、add Zuoyebang ads block #188 close.
+!Update time: 2025-12-15 14:46:15 UTC+8
+!Update content: fix umeng error #185 close
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -350,8 +350,6 @@
 ||ef-dongfeng.tanx.com^
 ||engine.dcad01.com^
 ||entry.baidu.com^
-||errlog.umeng.com^
-||errnewlog.umeng.com^
 ||et-eus.w.inmobi.com^
 ||event.tradplusad.com^
 ||events-drcn.op.dbankcloud.cn^

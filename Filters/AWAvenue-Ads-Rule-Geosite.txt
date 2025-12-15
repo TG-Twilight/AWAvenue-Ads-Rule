@@ -350,8 +350,6 @@ full:edge.ads.twitch.tv
 full:ef-dongfeng.tanx.com
 full:engine.dcad01.com
 full:entry.baidu.com
-full:errlog.umeng.com
-full:errnewlog.umeng.com
 full:et-eus.w.inmobi.com
 full:event.tradplusad.com
 full:events-drcn.op.dbankcloud.cn

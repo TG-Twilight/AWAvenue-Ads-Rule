@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1770
+!Total lines: 1766
 !Version: 1.6.9-release
-!Update time: 2025-12-15 14:44:08 UTC+8
-!Update content: fix #186 #189、add Zuoyebang ads block #188 close.
+!Update time: 2025-12-15 14:46:15 UTC+8
+!Update content: fix umeng error #185 close
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -691,10 +691,6 @@ ip dns static add address=240.0.0.1 name=engine.dcad01.com
 ip dns static add address=:: name=engine.dcad01.com
 ip dns static add address=240.0.0.1 name=entry.baidu.com
 ip dns static add address=:: name=entry.baidu.com
-ip dns static add address=240.0.0.1 name=errlog.umeng.com
-ip dns static add address=:: name=errlog.umeng.com
-ip dns static add address=240.0.0.1 name=errnewlog.umeng.com
-ip dns static add address=:: name=errnewlog.umeng.com
 ip dns static add address=240.0.0.1 name=et-eus.w.inmobi.com
 ip dns static add address=:: name=et-eus.w.inmobi.com
 ip dns static add address=240.0.0.1 name=event.tradplusad.com

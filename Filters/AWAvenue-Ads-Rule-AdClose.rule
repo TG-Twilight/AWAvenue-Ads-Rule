@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 885
+#Total lines: 883
 #Version: 1.6.9-release
-#Update time: 2025-12-15 14:44:08 UTC+8
-#Update content: fix #186 #189、add Zuoyebang ads block #188 close.
+#Update time: 2025-12-15 14:46:15 UTC+8
+#Update content: fix umeng error #185 close
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -353,8 +353,6 @@ domain, edge.ads.twitch.tv
 domain, ef-dongfeng.tanx.com
 domain, engine.dcad01.com
 domain, entry.baidu.com
-domain, errlog.umeng.com
-domain, errnewlog.umeng.com
 domain, et-eus.w.inmobi.com
 domain, event.tradplusad.com
 domain, events-drcn.op.dbankcloud.cn

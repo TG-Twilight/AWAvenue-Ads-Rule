@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2025-12-15 14:44:08 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2025-12-15 14:46:15 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -347,8 +347,6 @@ DOMAIN,edge.ads.twitch.tv,REJECT,extended-matching,pre-matching
 DOMAIN,ef-dongfeng.tanx.com,REJECT,extended-matching,pre-matching
 DOMAIN,engine.dcad01.com,REJECT,extended-matching,pre-matching
 DOMAIN,entry.baidu.com,REJECT,extended-matching,pre-matching
-DOMAIN,errlog.umeng.com,REJECT,extended-matching,pre-matching
-DOMAIN,errnewlog.umeng.com,REJECT,extended-matching,pre-matching
 DOMAIN,et-eus.w.inmobi.com,REJECT,extended-matching,pre-matching
 DOMAIN,event.tradplusad.com,REJECT,extended-matching,pre-matching
 DOMAIN,events-drcn.op.dbankcloud.cn,REJECT,extended-matching,pre-matching
