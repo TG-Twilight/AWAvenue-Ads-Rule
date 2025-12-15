@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1772
+!Total lines: 1770
 !Version: 1.6.9-release
-!Update time: 2025-12-11 21:51:15 UTC+8
-!Update content: fix uBlockOrigin/uAssets/issues/31096 close
+!Update time: 2025-12-15 14:44:08 UTC+8
+!Update content: fix #186 #189、add Zuoyebang ads block #188 close.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -653,8 +653,6 @@ ip dns static add address=240.0.0.1 name=diagnosis.ad.xiaomi.com
 ip dns static add address=:: name=diagnosis.ad.xiaomi.com
 ip dns static add address=240.0.0.1 name=dig.bdurl.net
 ip dns static add address=:: name=dig.bdurl.net
-ip dns static add address=240.0.0.1 name=dl.zuimeitianqi.com
-ip dns static add address=:: name=dl.zuimeitianqi.com
 ip dns static add address=240.0.0.1 name=dlogs.bwton.com
 ip dns static add address=:: name=dlogs.bwton.com
 ip dns static add address=240.0.0.1 name=dm.toutiao.com
@@ -1315,8 +1313,6 @@ ip dns static add address=240.0.0.1 name=saad.ms.zhangyue.net
 ip dns static add address=:: name=saad.ms.zhangyue.net
 ip dns static add address=240.0.0.1 name=saas.hpplay.cn
 ip dns static add address=:: name=saas.hpplay.cn
-ip dns static add address=240.0.0.1 name=safebrowsing.googleapis.com
-ip dns static add address=:: name=safebrowsing.googleapis.com
 ip dns static add address=240.0.0.1 name=safebrowsing.urlsec.gg.com
 ip dns static add address=:: name=safebrowsing.urlsec.gg.com
 ip dns static add address=240.0.0.1 name=samsung-com.112.2o7.net
@@ -1451,6 +1447,8 @@ ip dns static add address=240.0.0.1 name=sv-video.play.aiseet.atianqi.com
 ip dns static add address=:: name=sv-video.play.aiseet.atianqi.com
 ip dns static add address=240.0.0.1 name=syh-imp.cdnjtzy.com
 ip dns static add address=:: name=syh-imp.cdnjtzy.com
+ip dns static add address=240.0.0.1 name=syh.zybang.com
+ip dns static add address=:: name=syh.zybang.com
 ip dns static add address=240.0.0.1 name=szbdyd.com
 ip dns static add address=:: name=szbdyd.com
 ip dns static add address=240.0.0.1 name=t-dsp.pinduoduo.com

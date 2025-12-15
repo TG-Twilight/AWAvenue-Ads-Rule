@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 902
+#Total lines: 901
 #Version: 1.6.9-release
-#Update time: 2025-12-11 21:51:15 UTC+8
-#Update content: fix uBlockOrigin/uAssets/issues/31096 close
+#Update time: 2025-12-15 14:44:09 UTC+8
+#Update content: fix #186 #189、add Zuoyebang ads block #188 close.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -331,7 +331,6 @@ DOMAIN,dc.sigmob.cn,reject
 DOMAIN,de.tynt.com,reject
 DOMAIN,diagnosis.ad.xiaomi.com,reject
 DOMAIN,dig.bdurl.net,reject
-DOMAIN,dl.zuimeitianqi.com,reject
 DOMAIN,dlogs.bwton.com,reject
 DOMAIN,dm.toutiao.com,reject
 DOMAIN,domain.aishengji.com,reject
@@ -662,7 +661,6 @@ DOMAIN,s1.cdn-sg.advlion.com,reject
 DOMAIN,s8t.teads.tv,reject
 DOMAIN,saad.ms.zhangyue.net,reject
 DOMAIN,saas.hpplay.cn,reject
-DOMAIN,safebrowsing.googleapis.com,reject
 DOMAIN,safebrowsing.urlsec.gg.com,reject
 DOMAIN,samsung-com.112.2o7.net,reject
 DOMAIN,samsungads.com,reject
@@ -730,6 +728,7 @@ DOMAIN,success.ctobsnssdk.com,reject
 DOMAIN,supply.inmobicdn.net,reject
 DOMAIN,sv-video.play.aiseet.atianqi.com,reject
 DOMAIN,syh-imp.cdnjtzy.com,reject
+DOMAIN,syh.zybang.com,reject
 DOMAIN,szbdyd.com,reject
 DOMAIN,t-dsp.pinduoduo.com,reject
 DOMAIN,t.applovin.com,reject

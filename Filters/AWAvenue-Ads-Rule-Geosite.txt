@@ -331,7 +331,6 @@ full:dc.sigmob.cn
 full:de.tynt.com
 full:diagnosis.ad.xiaomi.com
 full:dig.bdurl.net
-full:dl.zuimeitianqi.com
 full:dlogs.bwton.com
 full:dm.toutiao.com
 full:domain.aishengji.com
@@ -662,7 +661,6 @@ full:s1.cdn-sg.advlion.com
 full:s8t.teads.tv
 full:saad.ms.zhangyue.net
 full:saas.hpplay.cn
-full:safebrowsing.googleapis.com
 full:safebrowsing.urlsec.gg.com
 full:samsung-com.112.2o7.net
 full:samsungads.com
@@ -730,6 +728,7 @@ full:success.ctobsnssdk.com
 full:supply.inmobicdn.net
 full:sv-video.play.aiseet.atianqi.com
 full:syh-imp.cdnjtzy.com
+full:syh.zybang.com
 full:szbdyd.com
 full:t-dsp.pinduoduo.com
 full:t.applovin.com

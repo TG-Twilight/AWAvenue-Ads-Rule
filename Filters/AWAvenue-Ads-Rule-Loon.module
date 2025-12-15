@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2025-12-11 21:51:15 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2025-12-15 14:44:08 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -328,7 +328,6 @@ DOMAIN,dc.sigmob.cn,REJECT,extended-matching,pre-matching
 DOMAIN,de.tynt.com,REJECT,extended-matching,pre-matching
 DOMAIN,diagnosis.ad.xiaomi.com,REJECT,extended-matching,pre-matching
 DOMAIN,dig.bdurl.net,REJECT,extended-matching,pre-matching
-DOMAIN,dl.zuimeitianqi.com,REJECT,extended-matching,pre-matching
 DOMAIN,dlogs.bwton.com,REJECT,extended-matching,pre-matching
 DOMAIN,dm.toutiao.com,REJECT,extended-matching,pre-matching
 DOMAIN,domain.aishengji.com,REJECT,extended-matching,pre-matching
@@ -659,7 +658,6 @@ DOMAIN,s1.cdn-sg.advlion.com,REJECT,extended-matching,pre-matching
 DOMAIN,s8t.teads.tv,REJECT,extended-matching,pre-matching
 DOMAIN,saad.ms.zhangyue.net,REJECT,extended-matching,pre-matching
 DOMAIN,saas.hpplay.cn,REJECT,extended-matching,pre-matching
-DOMAIN,safebrowsing.googleapis.com,REJECT,extended-matching,pre-matching
 DOMAIN,safebrowsing.urlsec.gg.com,REJECT,extended-matching,pre-matching
 DOMAIN,samsung-com.112.2o7.net,REJECT,extended-matching,pre-matching
 DOMAIN,samsungads.com,REJECT,extended-matching,pre-matching
@@ -727,6 +725,7 @@ DOMAIN,success.ctobsnssdk.com,REJECT,extended-matching,pre-matching
 DOMAIN,supply.inmobicdn.net,REJECT,extended-matching,pre-matching
 DOMAIN,sv-video.play.aiseet.atianqi.com,REJECT,extended-matching,pre-matching
 DOMAIN,syh-imp.cdnjtzy.com,REJECT,extended-matching,pre-matching
+DOMAIN,syh.zybang.com,REJECT,extended-matching,pre-matching
 DOMAIN,szbdyd.com,REJECT,extended-matching,pre-matching
 DOMAIN,t-dsp.pinduoduo.com,REJECT,extended-matching,pre-matching
 DOMAIN,t.applovin.com,REJECT,extended-matching,pre-matching

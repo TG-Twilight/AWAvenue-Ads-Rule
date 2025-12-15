@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 897
+#Total lines: 896
 #Version: 1.6.9-release
-#Update time: 2025-12-11 21:51:15 UTC+8
-#Update content: fix uBlockOrigin/uAssets/issues/31096 close
+#Update time: 2025-12-15 14:44:09 UTC+8
+#Update content: fix #186 #189、add Zuoyebang ads block #188 close.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -331,7 +331,6 @@
 .de.tynt.com
 .diagnosis.ad.xiaomi.com
 .dig.bdurl.net
-.dl.zuimeitianqi.com
 .dlogs.bwton.com
 .dm.toutiao.com
 .domain.aishengji.com
@@ -662,7 +661,6 @@
 .s8t.teads.tv
 .saad.ms.zhangyue.net
 .saas.hpplay.cn
-.safebrowsing.googleapis.com
 .safebrowsing.urlsec.gg.com
 .samsung-com.112.2o7.net
 .samsungads.com
@@ -730,6 +728,7 @@
 .supply.inmobicdn.net
 .sv-video.play.aiseet.atianqi.com
 .syh-imp.cdnjtzy.com
+.syh.zybang.com
 .szbdyd.com
 .t-dsp.pinduoduo.com
 .t.applovin.com
