@@ -323,7 +323,6 @@ dc.sigmob.cn
 de.tynt.com
 diagnosis.ad.xiaomi.com
 dig.bdurl.net
-dl.zuimeitianqi.com
 dlogs.bwton.com
 dm.toutiao.com
 domain.aishengji.com
@@ -662,7 +661,6 @@ s1.cdn-sg.advlion.com
 s8t.teads.tv
 saad.ms.zhangyue.net
 saas.hpplay.cn
-safebrowsing.googleapis.com
 safebrowsing.urlsec.gg.com
 samsung-com.112.2o7.net
 samsungads.com
@@ -732,6 +730,7 @@ success.ctobsnssdk.com
 supply.inmobicdn.net
 sv-video.play.aiseet.atianqi.com
 syh-imp.cdnjtzy.com
+syh.zybang.com
 szbdyd.com
 t-dsp.pinduoduo.com
 t.applovin.com
@@ -897,5 +896,3 @@ zeus.ad.xiaomi.com
 zhihu-web-analytics.zhihu.com
 zjres-ad.kajicam.com
 zxid-m.mobileservice.cn
-
-
