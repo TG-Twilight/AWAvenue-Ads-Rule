@@ -342,8 +342,6 @@ edge.ads.twitch.tv
 ef-dongfeng.tanx.com
 engine.dcad01.com
 entry.baidu.com
-errlog.umeng.com
-errnewlog.umeng.com
 et-eus.w.inmobi.com
 event.tradplusad.com
 events-drcn.op.dbankcloud.cn
@@ -896,3 +894,4 @@ zeus.ad.xiaomi.com
 zhihu-web-analytics.zhihu.com
 zjres-ad.kajicam.com
 zxid-m.mobileservice.cn
+
