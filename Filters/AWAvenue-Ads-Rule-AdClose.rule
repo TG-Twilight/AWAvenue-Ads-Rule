@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 883
+#Total lines: 882
 #Version: 1.6.9-release
-#Update time: 2025-12-15 14:46:15 UTC+8
-#Update content: fix umeng error #185 close
+#Update time: 2025-12-21 13:53:35 UTC+8
+#Update content: fix  #190
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -742,7 +742,6 @@ domain, t1.teads.tv
 domain, t2.a.market.xiaomi.com
 domain, t2.fancyapi.com
 domain, t3.a.market.xiaomi.com
-domain, t7z.cupid.iqiyi.com
 domain, t7z.cupid.ptqy.gitv.tv
 domain, tangram.e.qq.com
 domain, target.ads.jihuoniao.com

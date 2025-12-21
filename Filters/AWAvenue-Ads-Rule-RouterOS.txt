@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1766
+!Total lines: 1764
 !Version: 1.6.9-release
-!Update time: 2025-12-15 14:46:15 UTC+8
-!Update content: fix umeng error #185 close
+!Update time: 2025-12-21 13:53:35 UTC+8
+!Update content: fix  #190
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -1469,8 +1469,6 @@ ip dns static add address=240.0.0.1 name=t2.fancyapi.com
 ip dns static add address=:: name=t2.fancyapi.com
 ip dns static add address=240.0.0.1 name=t3.a.market.xiaomi.com
 ip dns static add address=:: name=t3.a.market.xiaomi.com
-ip dns static add address=240.0.0.1 name=t7z.cupid.iqiyi.com
-ip dns static add address=:: name=t7z.cupid.iqiyi.com
 ip dns static add address=240.0.0.1 name=t7z.cupid.ptqy.gitv.tv
 ip dns static add address=:: name=t7z.cupid.ptqy.gitv.tv
 ip dns static add address=240.0.0.1 name=tangram.e.qq.com

@@ -739,7 +739,6 @@ full:t1.teads.tv
 full:t2.a.market.xiaomi.com
 full:t2.fancyapi.com
 full:t3.a.market.xiaomi.com
-full:t7z.cupid.iqiyi.com
 full:t7z.cupid.ptqy.gitv.tv
 full:tangram.e.qq.com
 full:target.ads.jihuoniao.com
