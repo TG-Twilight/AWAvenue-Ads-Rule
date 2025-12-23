@@ -112,6 +112,7 @@
 
 ## 🍁赞助商 | Special sponsors
 
+### [悠云 - 悠然上网，自在如云](https://www.uoyun.com/#/register?code=9daQLg2S)
 ### [XTCloud - 畅游世界，高速互联](https://xtyun.top/#/register?code=M1w4rjdl)
 
 <p align="center">
