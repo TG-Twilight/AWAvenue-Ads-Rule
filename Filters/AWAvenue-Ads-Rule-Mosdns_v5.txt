@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 898
+#Total lines: 902
 #Version: 1.6.9-release
-#Update time: 2025-12-21 13:53:35 UTC+8
-#Update content: fix  #190
+#Update time: 2025-12-23 20:06:33 UTC+8
+#Update content: add blocked for qumao and med pro ads.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -137,6 +137,7 @@ full:adstudio.spotify.com
 full:adtago.s3.amazonaws.com
 full:adtech.yahooinc.com
 full:adtrack.quark.cn
+full:adtracker.medproad.com
 full:adv-api.shenshiads.com
 full:adv.sec.intl.miui.com
 full:adv.sec.miui.com
@@ -528,6 +529,7 @@ full:masdkv6.3g.qq.com
 full:mazu.m.qq.com
 full:mbdlog.iqiyi.com
 full:mcs.zijieapi.com
+full:medproad.com
 full:metrics.data.hicloud.com
 full:metrics.icloud.com
 full:metrics.mzstatic.com
@@ -631,6 +633,7 @@ full:promotion-partner.kuaishou.com
 full:proxy.advp.apple.com
 full:public.gdtimg.com
 full:q.i.gdt.qq.com
+full:qcwx.medproad.com
 full:qmlog.baertt.com
 full:qn-cdnfile1pcdn.msstatic.com
 full:qqdata.ab.qq.com
@@ -728,6 +731,7 @@ full:sv-video.play.aiseet.atianqi.com
 full:syh-imp.cdnjtzy.com
 full:syh.zybang.com
 full:szbdyd.com
+full:t-adx.52qumao.com
 full:t-dsp.pinduoduo.com
 full:t.applovin.com
 full:t.l.qq.com

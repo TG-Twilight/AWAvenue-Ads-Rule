@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1764
+!Total lines: 1772
 !Version: 1.6.9-release
-!Update time: 2025-12-21 13:53:35 UTC+8
-!Update content: fix  #190
+!Update time: 2025-12-23 20:06:33 UTC+8
+!Update content: add blocked for qumao and med pro ads.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -265,6 +265,8 @@ ip dns static add address=240.0.0.1 name=adtech.yahooinc.com
 ip dns static add address=:: name=adtech.yahooinc.com
 ip dns static add address=240.0.0.1 name=adtrack.quark.cn
 ip dns static add address=:: name=adtrack.quark.cn
+ip dns static add address=240.0.0.1 name=adtracker.medproad.com
+ip dns static add address=:: name=adtracker.medproad.com
 ip dns static add address=240.0.0.1 name=adv-api.shenshiads.com
 ip dns static add address=:: name=adv-api.shenshiads.com
 ip dns static add address=240.0.0.1 name=adv.sec.intl.miui.com
@@ -1047,6 +1049,8 @@ ip dns static add address=240.0.0.1 name=mbdlog.iqiyi.com
 ip dns static add address=:: name=mbdlog.iqiyi.com
 ip dns static add address=240.0.0.1 name=mcs.zijieapi.com
 ip dns static add address=:: name=mcs.zijieapi.com
+ip dns static add address=240.0.0.1 name=medproad.com
+ip dns static add address=:: name=medproad.com
 ip dns static add address=240.0.0.1 name=metrics.data.hicloud.com
 ip dns static add address=:: name=metrics.data.hicloud.com
 ip dns static add address=240.0.0.1 name=metrics.icloud.com
@@ -1253,6 +1257,8 @@ ip dns static add address=240.0.0.1 name=public.gdtimg.com
 ip dns static add address=:: name=public.gdtimg.com
 ip dns static add address=240.0.0.1 name=q.i.gdt.qq.com
 ip dns static add address=:: name=q.i.gdt.qq.com
+ip dns static add address=240.0.0.1 name=qcwx.medproad.com
+ip dns static add address=:: name=qcwx.medproad.com
 ip dns static add address=240.0.0.1 name=qmlog.baertt.com
 ip dns static add address=:: name=qmlog.baertt.com
 ip dns static add address=240.0.0.1 name=qn-cdnfile1pcdn.msstatic.com
@@ -1447,6 +1453,8 @@ ip dns static add address=240.0.0.1 name=syh.zybang.com
 ip dns static add address=:: name=syh.zybang.com
 ip dns static add address=240.0.0.1 name=szbdyd.com
 ip dns static add address=:: name=szbdyd.com
+ip dns static add address=240.0.0.1 name=t-adx.52qumao.com
+ip dns static add address=:: name=t-adx.52qumao.com
 ip dns static add address=240.0.0.1 name=t-dsp.pinduoduo.com
 ip dns static add address=:: name=t-dsp.pinduoduo.com
 ip dns static add address=240.0.0.1 name=t.applovin.com

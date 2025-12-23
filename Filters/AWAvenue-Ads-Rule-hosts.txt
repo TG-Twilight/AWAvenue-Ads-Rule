@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1768
+!Total lines: 1776
 !Version: 1.6.9-release
-!Update time: 2025-12-21 13:53:35 UTC+8
-!Update content: fix  #190
+!Update time: 2025-12-23 20:06:33 UTC+8
+!Update content: add blocked for qumao and med pro ads.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -269,6 +269,8 @@
 :: adtech.yahooinc.com
 0.0.0.0 adtrack.quark.cn
 :: adtrack.quark.cn
+0.0.0.0 adtracker.medproad.com
+:: adtracker.medproad.com
 0.0.0.0 adv-api.shenshiads.com
 :: adv-api.shenshiads.com
 0.0.0.0 adv.sec.intl.miui.com
@@ -1051,6 +1053,8 @@
 :: mbdlog.iqiyi.com
 0.0.0.0 mcs.zijieapi.com
 :: mcs.zijieapi.com
+0.0.0.0 medproad.com
+:: medproad.com
 0.0.0.0 metrics.data.hicloud.com
 :: metrics.data.hicloud.com
 0.0.0.0 metrics.icloud.com
@@ -1257,6 +1261,8 @@
 :: public.gdtimg.com
 0.0.0.0 q.i.gdt.qq.com
 :: q.i.gdt.qq.com
+0.0.0.0 qcwx.medproad.com
+:: qcwx.medproad.com
 0.0.0.0 qmlog.baertt.com
 :: qmlog.baertt.com
 0.0.0.0 qn-cdnfile1pcdn.msstatic.com
@@ -1451,6 +1457,8 @@
 :: syh.zybang.com
 0.0.0.0 szbdyd.com
 :: szbdyd.com
+0.0.0.0 t-adx.52qumao.com
+:: t-adx.52qumao.com
 0.0.0.0 t-dsp.pinduoduo.com
 :: t-dsp.pinduoduo.com
 0.0.0.0 t.applovin.com

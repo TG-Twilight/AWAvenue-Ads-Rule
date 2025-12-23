@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 882
+#Total lines: 886
 #Version: 1.6.9-release
-#Update time: 2025-12-21 13:53:35 UTC+8
-#Update content: fix  #190
+#Update time: 2025-12-23 20:06:33 UTC+8
+#Update content: add blocked for qumao and med pro ads.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -140,6 +140,7 @@ domain, adstudio.spotify.com
 domain, adtago.s3.amazonaws.com
 domain, adtech.yahooinc.com
 domain, adtrack.quark.cn
+domain, adtracker.medproad.com
 domain, adv-api.shenshiads.com
 domain, adv.sec.intl.miui.com
 domain, adv.sec.miui.com
@@ -531,6 +532,7 @@ domain, masdkv6.3g.qq.com
 domain, mazu.m.qq.com
 domain, mbdlog.iqiyi.com
 domain, mcs.zijieapi.com
+domain, medproad.com
 domain, metrics.data.hicloud.com
 domain, metrics.icloud.com
 domain, metrics.mzstatic.com
@@ -634,6 +636,7 @@ domain, promotion-partner.kuaishou.com
 domain, proxy.advp.apple.com
 domain, public.gdtimg.com
 domain, q.i.gdt.qq.com
+domain, qcwx.medproad.com
 domain, qmlog.baertt.com
 domain, qn-cdnfile1pcdn.msstatic.com
 domain, qqdata.ab.qq.com
@@ -731,6 +734,7 @@ domain, sv-video.play.aiseet.atianqi.com
 domain, syh-imp.cdnjtzy.com
 domain, syh.zybang.com
 domain, szbdyd.com
+domain, t-adx.52qumao.com
 domain, t-dsp.pinduoduo.com
 domain, t.applovin.com
 domain, t.l.qq.com

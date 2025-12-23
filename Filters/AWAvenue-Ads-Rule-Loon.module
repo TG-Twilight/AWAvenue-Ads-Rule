@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2025-12-21 13:53:35 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2025-12-23 20:06:33 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -134,6 +134,7 @@ DOMAIN,adstudio.spotify.com,REJECT,extended-matching,pre-matching
 DOMAIN,adtago.s3.amazonaws.com,REJECT,extended-matching,pre-matching
 DOMAIN,adtech.yahooinc.com,REJECT,extended-matching,pre-matching
 DOMAIN,adtrack.quark.cn,REJECT,extended-matching,pre-matching
+DOMAIN,adtracker.medproad.com,REJECT,extended-matching,pre-matching
 DOMAIN,adv-api.shenshiads.com,REJECT,extended-matching,pre-matching
 DOMAIN,adv.sec.intl.miui.com,REJECT,extended-matching,pre-matching
 DOMAIN,adv.sec.miui.com,REJECT,extended-matching,pre-matching
@@ -525,6 +526,7 @@ DOMAIN,masdkv6.3g.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,mazu.m.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,mbdlog.iqiyi.com,REJECT,extended-matching,pre-matching
 DOMAIN,mcs.zijieapi.com,REJECT,extended-matching,pre-matching
+DOMAIN,medproad.com,REJECT,extended-matching,pre-matching
 DOMAIN,metrics.data.hicloud.com,REJECT,extended-matching,pre-matching
 DOMAIN,metrics.icloud.com,REJECT,extended-matching,pre-matching
 DOMAIN,metrics.mzstatic.com,REJECT,extended-matching,pre-matching
@@ -628,6 +630,7 @@ DOMAIN,promotion-partner.kuaishou.com,REJECT,extended-matching,pre-matching
 DOMAIN,proxy.advp.apple.com,REJECT,extended-matching,pre-matching
 DOMAIN,public.gdtimg.com,REJECT,extended-matching,pre-matching
 DOMAIN,q.i.gdt.qq.com,REJECT,extended-matching,pre-matching
+DOMAIN,qcwx.medproad.com,REJECT,extended-matching,pre-matching
 DOMAIN,qmlog.baertt.com,REJECT,extended-matching,pre-matching
 DOMAIN,qn-cdnfile1pcdn.msstatic.com,REJECT,extended-matching,pre-matching
 DOMAIN,qqdata.ab.qq.com,REJECT,extended-matching,pre-matching
@@ -725,6 +728,7 @@ DOMAIN,sv-video.play.aiseet.atianqi.com,REJECT,extended-matching,pre-matching
 DOMAIN,syh-imp.cdnjtzy.com,REJECT,extended-matching,pre-matching
 DOMAIN,syh.zybang.com,REJECT,extended-matching,pre-matching
 DOMAIN,szbdyd.com,REJECT,extended-matching,pre-matching
+DOMAIN,t-adx.52qumao.com,REJECT,extended-matching,pre-matching
 DOMAIN,t-dsp.pinduoduo.com,REJECT,extended-matching,pre-matching
 DOMAIN,t.applovin.com,REJECT,extended-matching,pre-matching
 DOMAIN,t.l.qq.com,REJECT,extended-matching,pre-matching

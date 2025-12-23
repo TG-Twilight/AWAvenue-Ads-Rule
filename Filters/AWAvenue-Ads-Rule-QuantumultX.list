@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 898
+#Total lines: 902
 #Version: 1.6.9-release
-#Update time: 2025-12-21 13:53:35 UTC+8
-#Update content: fix  #190
+#Update time: 2025-12-23 20:06:33 UTC+8
+#Update content: add blocked for qumao and med pro ads.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -137,6 +137,7 @@ DOMAIN,adstudio.spotify.com,reject
 DOMAIN,adtago.s3.amazonaws.com,reject
 DOMAIN,adtech.yahooinc.com,reject
 DOMAIN,adtrack.quark.cn,reject
+DOMAIN,adtracker.medproad.com,reject
 DOMAIN,adv-api.shenshiads.com,reject
 DOMAIN,adv.sec.intl.miui.com,reject
 DOMAIN,adv.sec.miui.com,reject
@@ -528,6 +529,7 @@ DOMAIN,masdkv6.3g.qq.com,reject
 DOMAIN,mazu.m.qq.com,reject
 DOMAIN,mbdlog.iqiyi.com,reject
 DOMAIN,mcs.zijieapi.com,reject
+DOMAIN,medproad.com,reject
 DOMAIN,metrics.data.hicloud.com,reject
 DOMAIN,metrics.icloud.com,reject
 DOMAIN,metrics.mzstatic.com,reject
@@ -631,6 +633,7 @@ DOMAIN,promotion-partner.kuaishou.com,reject
 DOMAIN,proxy.advp.apple.com,reject
 DOMAIN,public.gdtimg.com,reject
 DOMAIN,q.i.gdt.qq.com,reject
+DOMAIN,qcwx.medproad.com,reject
 DOMAIN,qmlog.baertt.com,reject
 DOMAIN,qn-cdnfile1pcdn.msstatic.com,reject
 DOMAIN,qqdata.ab.qq.com,reject
@@ -728,6 +731,7 @@ DOMAIN,sv-video.play.aiseet.atianqi.com,reject
 DOMAIN,syh-imp.cdnjtzy.com,reject
 DOMAIN,syh.zybang.com,reject
 DOMAIN,szbdyd.com,reject
+DOMAIN,t-adx.52qumao.com,reject
 DOMAIN,t-dsp.pinduoduo.com,reject
 DOMAIN,t.applovin.com,reject
 DOMAIN,t.l.qq.com,reject
