@@ -23,12 +23,13 @@ def WriteFile(name, text, suffix, comment, module_total): # 写入文件
         
             if comment != "":
                 now = datetime.now()
+                commits = subprocess.check_output(['git', 'log', '-1', '--pretty=%B']).decode('utf-8').strip().replace('\n', '\\n')
                 title = f"""{comment}Title: AWAvenue Ads Rule
 {comment}--------------------------------------
 {comment}Total lines: {module_total}
 {comment}Version: {get_latest_git_tag()}
 {comment}Update time: {now.strftime("%Y-%m-%d %H:%M:%S")} UTC+8
-{comment}Update content: {subprocess.check_output(['git', 'log', '-1', '--pretty=%B']).strip().decode('utf-8')}
+{comment}Update content: {commits}
 
 {comment}Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 {comment}License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE

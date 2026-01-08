@@ -9,7 +9,7 @@ def format_comments():
                 "#!author=TG-Twilight[https://github.com/TG-Twilight]",
                 "#!icon=https://avatars.githubusercontent.com/u/121682528?s=144",
                 "#!homepage=https://awavenue.top",
-                "", ""]
+                "", "[Rule]"]
     return comments
 
 def format_domain(List):
