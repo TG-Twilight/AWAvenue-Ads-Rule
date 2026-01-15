@@ -260,7 +260,6 @@ browser.events.data.msn.cn
 browser.events.data.msn.com
 browsercfg-drcn.cloud.dbankcloud.cn
 bsrv.qq.com
-bugly.qq.com
 business-api.tiktok.com
 c.bidtoolads.com
 c.etoolads.cn
@@ -897,3 +896,4 @@ zeus.ad.xiaomi.com
 zhihu-web-analytics.zhihu.com
 zjres-ad.kajicam.com
 zxid-m.mobileservice.cn
+
