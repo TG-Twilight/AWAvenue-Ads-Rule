@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1772
+!Total lines: 1770
 !Version: 1.6.9-release
-!Update time: 2025-12-23 20:06:33 UTC+8
-!Update content: add blocked for qumao and med pro ads.
+!Update time: 2026-01-15 22:37:28 UTC+8
+!Update content: remove ”bugly.qq.com“
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -527,8 +527,6 @@ ip dns static add address=240.0.0.1 name=browsercfg-drcn.cloud.dbankcloud.cn
 ip dns static add address=:: name=browsercfg-drcn.cloud.dbankcloud.cn
 ip dns static add address=240.0.0.1 name=bsrv.qq.com
 ip dns static add address=:: name=bsrv.qq.com
-ip dns static add address=240.0.0.1 name=bugly.qq.com
-ip dns static add address=:: name=bugly.qq.com
 ip dns static add address=240.0.0.1 name=business-api.tiktok.com
 ip dns static add address=:: name=business-api.tiktok.com
 ip dns static add address=240.0.0.1 name=c.bidtoolads.com

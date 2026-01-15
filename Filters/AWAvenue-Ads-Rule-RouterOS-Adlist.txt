@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 1776
+#Total lines: 1774
 #Version: 1.6.9-release
-#Update time: 2025-12-23 20:06:33 UTC+8
-#Update content: add blocked for qumao and med pro ads.
+#Update time: 2026-01-15 22:37:28 UTC+8
+#Update content: remove ”bugly.qq.com“
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -531,8 +531,6 @@
 :: browsercfg-drcn.cloud.dbankcloud.cn
 0.0.0.0 bsrv.qq.com
 :: bsrv.qq.com
-0.0.0.0 bugly.qq.com
-:: bugly.qq.com
 0.0.0.0 business-api.tiktok.com
 :: business-api.tiktok.com
 0.0.0.0 c.bidtoolads.com

@@ -268,7 +268,6 @@ full:browser.events.data.msn.cn
 full:browser.events.data.msn.com
 full:browsercfg-drcn.cloud.dbankcloud.cn
 full:bsrv.qq.com
-full:bugly.qq.com
 full:business-api.tiktok.com
 full:c.bidtoolads.com
 full:c.etoolads.cn
