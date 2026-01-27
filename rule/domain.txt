@@ -896,4 +896,5 @@ zeus.ad.xiaomi.com
 zhihu-web-analytics.zhihu.com
 zjres-ad.kajicam.com
 zxid-m.mobileservice.cn
+adx-strategy-api-cn.statisticslinks.com
 
