@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 1776
+#Total lines: 1790
 #Version: 1.6.9-release
-#Update time: 2026-01-27 21:30:40 UTC+8
-#Update content: add statisticslinks ads block.
+#Update time: 2026-01-27 21:33:57 UTC+8
+#Update content: add TopOn、Weibo、meituxiuxiu ads block.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -83,6 +83,8 @@
 :: ad.toutiao.com
 0.0.0.0 ad.v3mh.com
 :: ad.v3mh.com
+0.0.0.0 ad.weibo.com
+:: ad.weibo.com
 0.0.0.0 ad.winrar.com.cn
 :: ad.winrar.com.cn
 0.0.0.0 ad.ximalaya.com
@@ -127,6 +129,8 @@
 :: adfilter.imtt.qq.com
 0.0.0.0 adguanggao.eee114.com
 :: adguanggao.eee114.com
+0.0.0.0 adimg.uve.weibo.com
+:: adimg.uve.weibo.com
 0.0.0.0 adjust.cn
 :: adjust.cn
 0.0.0.0 adjust.com
@@ -259,6 +263,8 @@
 :: adstore-1252524079.file.myqcloud.com
 0.0.0.0 adstore-index-1252524079.file.myqcloud.com
 :: adstore-index-1252524079.file.myqcloud.com
+0.0.0.0 adstrategy.biz.weibo.com
+:: adstrategy.biz.weibo.com
 0.0.0.0 adstudio-assets.scdn.co
 :: adstudio-assets.scdn.co
 0.0.0.0 adstudio.spotify.com
@@ -271,6 +277,8 @@
 :: adtrack.quark.cn
 0.0.0.0 adtracker.medproad.com
 :: adtracker.medproad.com
+0.0.0.0 adui.tg.meitu.com
+:: adui.tg.meitu.com
 0.0.0.0 adv-api.shenshiads.com
 :: adv-api.shenshiads.com
 0.0.0.0 adv.sec.intl.miui.com
@@ -1111,6 +1119,8 @@
 :: monitor.uu.qq.com
 0.0.0.0 monsetting.toutiao.com
 :: monsetting.toutiao.com
+0.0.0.0 mores.toponad.com
+:: mores.toponad.com
 0.0.0.0 ms.applovin.com
 :: ms.applovin.com
 0.0.0.0 ms.applvn.com
@@ -1355,6 +1365,8 @@
 :: sdk.mobads.adwangmai.com
 0.0.0.0 sdkapi.cloooud.com
 :: sdkapi.cloooud.com
+0.0.0.0 sdkapp.uve.weibo.com
+:: sdkapp.uve.weibo.com
 0.0.0.0 sdkauth.hpplay.cn
 :: sdkauth.hpplay.cn
 0.0.0.0 sdkconf.avlyun.com
@@ -1587,6 +1599,8 @@
 :: tracking.miui.com
 0.0.0.0 tracking.rus.miui.com
 :: tracking.rus.miui.com
+0.0.0.0 tuiguang.meitu.com
+:: tuiguang.meitu.com
 0.0.0.0 tvapp.hpplay.cn
 :: tvapp.hpplay.cn
 0.0.0.0 tvuser-ch.cedock.com

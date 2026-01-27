@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 902
+#Total lines: 909
 #Version: 1.6.9-release
-#Update time: 2026-01-27 21:30:40 UTC+8
-#Update content: add statisticslinks ads block.
+#Update time: 2026-01-27 21:33:57 UTC+8
+#Update content: add TopOn、Weibo、meituxiuxiu ads block.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -44,6 +44,7 @@ DOMAIN,ad.shunchangzhixing.com,reject
 DOMAIN,ad.tencentmusic.com,reject
 DOMAIN,ad.toutiao.com,reject
 DOMAIN,ad.v3mh.com,reject
+DOMAIN,ad.weibo.com,reject
 DOMAIN,ad.winrar.com.cn,reject
 DOMAIN,ad.ximalaya.com,reject
 DOMAIN,ad.xunkids.com,reject
@@ -66,6 +67,7 @@ DOMAIN,adexp.liftoff.io,reject
 DOMAIN,adexpo.tencentmusic.com,reject
 DOMAIN,adfilter.imtt.qq.com,reject
 DOMAIN,adguanggao.eee114.com,reject
+DOMAIN,adimg.uve.weibo.com,reject
 DOMAIN,adjust.cn,reject
 DOMAIN,adjust.com,reject
 DOMAIN,adks.hpplay.cn,reject
@@ -132,12 +134,14 @@ DOMAIN,adstat.izuiyou.com,reject
 DOMAIN,adstats.tencentmusic.com,reject
 DOMAIN,adstore-1252524079.file.myqcloud.com,reject
 DOMAIN,adstore-index-1252524079.file.myqcloud.com,reject
+DOMAIN,adstrategy.biz.weibo.com,reject
 DOMAIN,adstudio-assets.scdn.co,reject
 DOMAIN,adstudio.spotify.com,reject
 DOMAIN,adtago.s3.amazonaws.com,reject
 DOMAIN,adtech.yahooinc.com,reject
 DOMAIN,adtrack.quark.cn,reject
 DOMAIN,adtracker.medproad.com,reject
+DOMAIN,adui.tg.meitu.com,reject
 DOMAIN,adv-api.shenshiads.com,reject
 DOMAIN,adv.sec.intl.miui.com,reject
 DOMAIN,adv.sec.miui.com,reject
@@ -558,6 +562,7 @@ DOMAIN,monitor.adxsenmeng.com,reject
 DOMAIN,monitor.music.qq.com,reject
 DOMAIN,monitor.uu.qq.com,reject
 DOMAIN,monsetting.toutiao.com,reject
+DOMAIN,mores.toponad.com,reject
 DOMAIN,ms.applovin.com,reject
 DOMAIN,ms.applvn.com,reject
 DOMAIN,ms4.applovin.com,reject
@@ -680,6 +685,7 @@ DOMAIN,sdk.hzsanjiaomao.com,reject
 DOMAIN,sdk.markmedia.com.cn,reject
 DOMAIN,sdk.mobads.adwangmai.com,reject
 DOMAIN,sdkapi.cloooud.com,reject
+DOMAIN,sdkapp.uve.weibo.com,reject
 DOMAIN,sdkauth.hpplay.cn,reject
 DOMAIN,sdkconf.avlyun.com,reject
 DOMAIN,sdkconfig.ad.intl.xiaomi.com,reject
@@ -796,6 +802,7 @@ DOMAIN,tracker.ai.xiaomi.com,reject
 DOMAIN,tracker.gitee.com,reject
 DOMAIN,tracking.miui.com,reject
 DOMAIN,tracking.rus.miui.com,reject
+DOMAIN,tuiguang.meitu.com,reject
 DOMAIN,tvapp.hpplay.cn,reject
 DOMAIN,tvuser-ch.cedock.com,reject
 DOMAIN,tx-ad.a.yximgs.com,reject

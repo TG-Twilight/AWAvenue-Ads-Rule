@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2026-01-27 21:30:40 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2026-01-27 21:33:57 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -41,6 +41,7 @@ DOMAIN,ad.shunchangzhixing.com,REJECT,extended-matching,pre-matching
 DOMAIN,ad.tencentmusic.com,REJECT,extended-matching,pre-matching
 DOMAIN,ad.toutiao.com,REJECT,extended-matching,pre-matching
 DOMAIN,ad.v3mh.com,REJECT,extended-matching,pre-matching
+DOMAIN,ad.weibo.com,REJECT,extended-matching,pre-matching
 DOMAIN,ad.winrar.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,ad.ximalaya.com,REJECT,extended-matching,pre-matching
 DOMAIN,ad.xunkids.com,REJECT,extended-matching,pre-matching
@@ -63,6 +64,7 @@ DOMAIN,adexp.liftoff.io,REJECT,extended-matching,pre-matching
 DOMAIN,adexpo.tencentmusic.com,REJECT,extended-matching,pre-matching
 DOMAIN,adfilter.imtt.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,adguanggao.eee114.com,REJECT,extended-matching,pre-matching
+DOMAIN,adimg.uve.weibo.com,REJECT,extended-matching,pre-matching
 DOMAIN,adjust.cn,REJECT,extended-matching,pre-matching
 DOMAIN,adjust.com,REJECT,extended-matching,pre-matching
 DOMAIN,adks.hpplay.cn,REJECT,extended-matching,pre-matching
@@ -129,12 +131,14 @@ DOMAIN,adstat.izuiyou.com,REJECT,extended-matching,pre-matching
 DOMAIN,adstats.tencentmusic.com,REJECT,extended-matching,pre-matching
 DOMAIN,adstore-1252524079.file.myqcloud.com,REJECT,extended-matching,pre-matching
 DOMAIN,adstore-index-1252524079.file.myqcloud.com,REJECT,extended-matching,pre-matching
+DOMAIN,adstrategy.biz.weibo.com,REJECT,extended-matching,pre-matching
 DOMAIN,adstudio-assets.scdn.co,REJECT,extended-matching,pre-matching
 DOMAIN,adstudio.spotify.com,REJECT,extended-matching,pre-matching
 DOMAIN,adtago.s3.amazonaws.com,REJECT,extended-matching,pre-matching
 DOMAIN,adtech.yahooinc.com,REJECT,extended-matching,pre-matching
 DOMAIN,adtrack.quark.cn,REJECT,extended-matching,pre-matching
 DOMAIN,adtracker.medproad.com,REJECT,extended-matching,pre-matching
+DOMAIN,adui.tg.meitu.com,REJECT,extended-matching,pre-matching
 DOMAIN,adv-api.shenshiads.com,REJECT,extended-matching,pre-matching
 DOMAIN,adv.sec.intl.miui.com,REJECT,extended-matching,pre-matching
 DOMAIN,adv.sec.miui.com,REJECT,extended-matching,pre-matching
@@ -555,6 +559,7 @@ DOMAIN,monitor.adxsenmeng.com,REJECT,extended-matching,pre-matching
 DOMAIN,monitor.music.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,monitor.uu.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,monsetting.toutiao.com,REJECT,extended-matching,pre-matching
+DOMAIN,mores.toponad.com,REJECT,extended-matching,pre-matching
 DOMAIN,ms.applovin.com,REJECT,extended-matching,pre-matching
 DOMAIN,ms.applvn.com,REJECT,extended-matching,pre-matching
 DOMAIN,ms4.applovin.com,REJECT,extended-matching,pre-matching
@@ -677,6 +682,7 @@ DOMAIN,sdk.hzsanjiaomao.com,REJECT,extended-matching,pre-matching
 DOMAIN,sdk.markmedia.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,sdk.mobads.adwangmai.com,REJECT,extended-matching,pre-matching
 DOMAIN,sdkapi.cloooud.com,REJECT,extended-matching,pre-matching
+DOMAIN,sdkapp.uve.weibo.com,REJECT,extended-matching,pre-matching
 DOMAIN,sdkauth.hpplay.cn,REJECT,extended-matching,pre-matching
 DOMAIN,sdkconf.avlyun.com,REJECT,extended-matching,pre-matching
 DOMAIN,sdkconfig.ad.intl.xiaomi.com,REJECT,extended-matching,pre-matching
@@ -793,6 +799,7 @@ DOMAIN,tracker.ai.xiaomi.com,REJECT,extended-matching,pre-matching
 DOMAIN,tracker.gitee.com,REJECT,extended-matching,pre-matching
 DOMAIN,tracking.miui.com,REJECT,extended-matching,pre-matching
 DOMAIN,tracking.rus.miui.com,REJECT,extended-matching,pre-matching
+DOMAIN,tuiguang.meitu.com,REJECT,extended-matching,pre-matching
 DOMAIN,tvapp.hpplay.cn,REJECT,extended-matching,pre-matching
 DOMAIN,tvuser-ch.cedock.com,REJECT,extended-matching,pre-matching
 DOMAIN,tx-ad.a.yximgs.com,REJECT,extended-matching,pre-matching

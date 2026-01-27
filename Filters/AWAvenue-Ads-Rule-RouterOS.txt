@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1772
+!Total lines: 1786
 !Version: 1.6.9-release
-!Update time: 2026-01-27 21:30:40 UTC+8
-!Update content: add statisticslinks ads block.
+!Update time: 2026-01-27 21:33:57 UTC+8
+!Update content: add TopOn、Weibo、meituxiuxiu ads block.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -79,6 +79,8 @@ ip dns static add address=240.0.0.1 name=ad.toutiao.com
 ip dns static add address=:: name=ad.toutiao.com
 ip dns static add address=240.0.0.1 name=ad.v3mh.com
 ip dns static add address=:: name=ad.v3mh.com
+ip dns static add address=240.0.0.1 name=ad.weibo.com
+ip dns static add address=:: name=ad.weibo.com
 ip dns static add address=240.0.0.1 name=ad.winrar.com.cn
 ip dns static add address=:: name=ad.winrar.com.cn
 ip dns static add address=240.0.0.1 name=ad.ximalaya.com
@@ -123,6 +125,8 @@ ip dns static add address=240.0.0.1 name=adfilter.imtt.qq.com
 ip dns static add address=:: name=adfilter.imtt.qq.com
 ip dns static add address=240.0.0.1 name=adguanggao.eee114.com
 ip dns static add address=:: name=adguanggao.eee114.com
+ip dns static add address=240.0.0.1 name=adimg.uve.weibo.com
+ip dns static add address=:: name=adimg.uve.weibo.com
 ip dns static add address=240.0.0.1 name=adjust.cn
 ip dns static add address=:: name=adjust.cn
 ip dns static add address=240.0.0.1 name=adjust.com
@@ -255,6 +259,8 @@ ip dns static add address=240.0.0.1 name=adstore-1252524079.file.myqcloud.com
 ip dns static add address=:: name=adstore-1252524079.file.myqcloud.com
 ip dns static add address=240.0.0.1 name=adstore-index-1252524079.file.myqcloud.com
 ip dns static add address=:: name=adstore-index-1252524079.file.myqcloud.com
+ip dns static add address=240.0.0.1 name=adstrategy.biz.weibo.com
+ip dns static add address=:: name=adstrategy.biz.weibo.com
 ip dns static add address=240.0.0.1 name=adstudio-assets.scdn.co
 ip dns static add address=:: name=adstudio-assets.scdn.co
 ip dns static add address=240.0.0.1 name=adstudio.spotify.com
@@ -267,6 +273,8 @@ ip dns static add address=240.0.0.1 name=adtrack.quark.cn
 ip dns static add address=:: name=adtrack.quark.cn
 ip dns static add address=240.0.0.1 name=adtracker.medproad.com
 ip dns static add address=:: name=adtracker.medproad.com
+ip dns static add address=240.0.0.1 name=adui.tg.meitu.com
+ip dns static add address=:: name=adui.tg.meitu.com
 ip dns static add address=240.0.0.1 name=adv-api.shenshiads.com
 ip dns static add address=:: name=adv-api.shenshiads.com
 ip dns static add address=240.0.0.1 name=adv.sec.intl.miui.com
@@ -1107,6 +1115,8 @@ ip dns static add address=240.0.0.1 name=monitor.uu.qq.com
 ip dns static add address=:: name=monitor.uu.qq.com
 ip dns static add address=240.0.0.1 name=monsetting.toutiao.com
 ip dns static add address=:: name=monsetting.toutiao.com
+ip dns static add address=240.0.0.1 name=mores.toponad.com
+ip dns static add address=:: name=mores.toponad.com
 ip dns static add address=240.0.0.1 name=ms.applovin.com
 ip dns static add address=:: name=ms.applovin.com
 ip dns static add address=240.0.0.1 name=ms.applvn.com
@@ -1351,6 +1361,8 @@ ip dns static add address=240.0.0.1 name=sdk.mobads.adwangmai.com
 ip dns static add address=:: name=sdk.mobads.adwangmai.com
 ip dns static add address=240.0.0.1 name=sdkapi.cloooud.com
 ip dns static add address=:: name=sdkapi.cloooud.com
+ip dns static add address=240.0.0.1 name=sdkapp.uve.weibo.com
+ip dns static add address=:: name=sdkapp.uve.weibo.com
 ip dns static add address=240.0.0.1 name=sdkauth.hpplay.cn
 ip dns static add address=:: name=sdkauth.hpplay.cn
 ip dns static add address=240.0.0.1 name=sdkconf.avlyun.com
@@ -1583,6 +1595,8 @@ ip dns static add address=240.0.0.1 name=tracking.miui.com
 ip dns static add address=:: name=tracking.miui.com
 ip dns static add address=240.0.0.1 name=tracking.rus.miui.com
 ip dns static add address=:: name=tracking.rus.miui.com
+ip dns static add address=240.0.0.1 name=tuiguang.meitu.com
+ip dns static add address=:: name=tuiguang.meitu.com
 ip dns static add address=240.0.0.1 name=tvapp.hpplay.cn
 ip dns static add address=:: name=tvapp.hpplay.cn
 ip dns static add address=240.0.0.1 name=tvuser-ch.cedock.com

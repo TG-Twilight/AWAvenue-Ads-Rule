@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 902
+#Total lines: 909
 #Version: 1.6.9-release
-#Update time: 2026-01-27 21:30:40 UTC+8
-#Update content: add statisticslinks ads block.
+#Update time: 2026-01-27 21:33:57 UTC+8
+#Update content: add TopOn、Weibo、meituxiuxiu ads block.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -44,6 +44,7 @@ DOMAIN,ad.shunchangzhixing.com
 DOMAIN,ad.tencentmusic.com
 DOMAIN,ad.toutiao.com
 DOMAIN,ad.v3mh.com
+DOMAIN,ad.weibo.com
 DOMAIN,ad.winrar.com.cn
 DOMAIN,ad.ximalaya.com
 DOMAIN,ad.xunkids.com
@@ -66,6 +67,7 @@ DOMAIN,adexp.liftoff.io
 DOMAIN,adexpo.tencentmusic.com
 DOMAIN,adfilter.imtt.qq.com
 DOMAIN,adguanggao.eee114.com
+DOMAIN,adimg.uve.weibo.com
 DOMAIN,adjust.cn
 DOMAIN,adjust.com
 DOMAIN,adks.hpplay.cn
@@ -132,12 +134,14 @@ DOMAIN,adstat.izuiyou.com
 DOMAIN,adstats.tencentmusic.com
 DOMAIN,adstore-1252524079.file.myqcloud.com
 DOMAIN,adstore-index-1252524079.file.myqcloud.com
+DOMAIN,adstrategy.biz.weibo.com
 DOMAIN,adstudio-assets.scdn.co
 DOMAIN,adstudio.spotify.com
 DOMAIN,adtago.s3.amazonaws.com
 DOMAIN,adtech.yahooinc.com
 DOMAIN,adtrack.quark.cn
 DOMAIN,adtracker.medproad.com
+DOMAIN,adui.tg.meitu.com
 DOMAIN,adv-api.shenshiads.com
 DOMAIN,adv.sec.intl.miui.com
 DOMAIN,adv.sec.miui.com
@@ -558,6 +562,7 @@ DOMAIN,monitor.adxsenmeng.com
 DOMAIN,monitor.music.qq.com
 DOMAIN,monitor.uu.qq.com
 DOMAIN,monsetting.toutiao.com
+DOMAIN,mores.toponad.com
 DOMAIN,ms.applovin.com
 DOMAIN,ms.applvn.com
 DOMAIN,ms4.applovin.com
@@ -680,6 +685,7 @@ DOMAIN,sdk.hzsanjiaomao.com
 DOMAIN,sdk.markmedia.com.cn
 DOMAIN,sdk.mobads.adwangmai.com
 DOMAIN,sdkapi.cloooud.com
+DOMAIN,sdkapp.uve.weibo.com
 DOMAIN,sdkauth.hpplay.cn
 DOMAIN,sdkconf.avlyun.com
 DOMAIN,sdkconfig.ad.intl.xiaomi.com
@@ -796,6 +802,7 @@ DOMAIN,tracker.ai.xiaomi.com
 DOMAIN,tracker.gitee.com
 DOMAIN,tracking.miui.com
 DOMAIN,tracking.rus.miui.com
+DOMAIN,tuiguang.meitu.com
 DOMAIN,tvapp.hpplay.cn
 DOMAIN,tvuser-ch.cedock.com
 DOMAIN,tx-ad.a.yximgs.com

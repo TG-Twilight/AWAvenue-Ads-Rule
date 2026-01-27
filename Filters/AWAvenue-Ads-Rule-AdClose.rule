@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 886
+#Total lines: 893
 #Version: 1.6.9-release
-#Update time: 2026-01-27 21:30:40 UTC+8
-#Update content: add statisticslinks ads block.
+#Update time: 2026-01-27 21:33:57 UTC+8
+#Update content: add TopOn、Weibo、meituxiuxiu ads block.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -47,6 +47,7 @@ domain, ad.shunchangzhixing.com
 domain, ad.tencentmusic.com
 domain, ad.toutiao.com
 domain, ad.v3mh.com
+domain, ad.weibo.com
 domain, ad.winrar.com.cn
 domain, ad.ximalaya.com
 domain, ad.xunkids.com
@@ -69,6 +70,7 @@ domain, adexp.liftoff.io
 domain, adexpo.tencentmusic.com
 domain, adfilter.imtt.qq.com
 domain, adguanggao.eee114.com
+domain, adimg.uve.weibo.com
 domain, adjust.cn
 domain, adjust.com
 domain, adks.hpplay.cn
@@ -135,12 +137,14 @@ domain, adstat.izuiyou.com
 domain, adstats.tencentmusic.com
 domain, adstore-1252524079.file.myqcloud.com
 domain, adstore-index-1252524079.file.myqcloud.com
+domain, adstrategy.biz.weibo.com
 domain, adstudio-assets.scdn.co
 domain, adstudio.spotify.com
 domain, adtago.s3.amazonaws.com
 domain, adtech.yahooinc.com
 domain, adtrack.quark.cn
 domain, adtracker.medproad.com
+domain, adui.tg.meitu.com
 domain, adv-api.shenshiads.com
 domain, adv.sec.intl.miui.com
 domain, adv.sec.miui.com
@@ -561,6 +565,7 @@ domain, monitor.adxsenmeng.com
 domain, monitor.music.qq.com
 domain, monitor.uu.qq.com
 domain, monsetting.toutiao.com
+domain, mores.toponad.com
 domain, ms.applovin.com
 domain, ms.applvn.com
 domain, ms4.applovin.com
@@ -683,6 +688,7 @@ domain, sdk.hzsanjiaomao.com
 domain, sdk.markmedia.com.cn
 domain, sdk.mobads.adwangmai.com
 domain, sdkapi.cloooud.com
+domain, sdkapp.uve.weibo.com
 domain, sdkauth.hpplay.cn
 domain, sdkconf.avlyun.com
 domain, sdkconfig.ad.intl.xiaomi.com
@@ -799,6 +805,7 @@ domain, tracker.ai.xiaomi.com
 domain, tracker.gitee.com
 domain, tracking.miui.com
 domain, tracking.rus.miui.com
+domain, tuiguang.meitu.com
 domain, tvapp.hpplay.cn
 domain, tvuser-ch.cedock.com
 domain, tx-ad.a.yximgs.com

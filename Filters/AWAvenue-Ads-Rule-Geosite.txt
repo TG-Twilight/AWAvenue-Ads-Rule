@@ -44,6 +44,7 @@ full:ad.shunchangzhixing.com
 full:ad.tencentmusic.com
 full:ad.toutiao.com
 full:ad.v3mh.com
+full:ad.weibo.com
 full:ad.winrar.com.cn
 full:ad.ximalaya.com
 full:ad.xunkids.com
@@ -66,6 +67,7 @@ full:adexp.liftoff.io
 full:adexpo.tencentmusic.com
 full:adfilter.imtt.qq.com
 full:adguanggao.eee114.com
+full:adimg.uve.weibo.com
 full:adjust.cn
 full:adjust.com
 full:adks.hpplay.cn
@@ -132,12 +134,14 @@ full:adstat.izuiyou.com
 full:adstats.tencentmusic.com
 full:adstore-1252524079.file.myqcloud.com
 full:adstore-index-1252524079.file.myqcloud.com
+full:adstrategy.biz.weibo.com
 full:adstudio-assets.scdn.co
 full:adstudio.spotify.com
 full:adtago.s3.amazonaws.com
 full:adtech.yahooinc.com
 full:adtrack.quark.cn
 full:adtracker.medproad.com
+full:adui.tg.meitu.com
 full:adv-api.shenshiads.com
 full:adv.sec.intl.miui.com
 full:adv.sec.miui.com
@@ -558,6 +562,7 @@ full:monitor.adxsenmeng.com
 full:monitor.music.qq.com
 full:monitor.uu.qq.com
 full:monsetting.toutiao.com
+full:mores.toponad.com
 full:ms.applovin.com
 full:ms.applvn.com
 full:ms4.applovin.com
@@ -680,6 +685,7 @@ full:sdk.hzsanjiaomao.com
 full:sdk.markmedia.com.cn
 full:sdk.mobads.adwangmai.com
 full:sdkapi.cloooud.com
+full:sdkapp.uve.weibo.com
 full:sdkauth.hpplay.cn
 full:sdkconf.avlyun.com
 full:sdkconfig.ad.intl.xiaomi.com
@@ -796,6 +802,7 @@ full:tracker.ai.xiaomi.com
 full:tracker.gitee.com
 full:tracking.miui.com
 full:tracking.rus.miui.com
+full:tuiguang.meitu.com
 full:tvapp.hpplay.cn
 full:tvuser-ch.cedock.com
 full:tx-ad.a.yximgs.com
