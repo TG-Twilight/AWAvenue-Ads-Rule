@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1770
+!Total lines: 1772
 !Version: 1.6.9-release
-!Update time: 2026-01-15 22:37:28 UTC+8
-!Update content: remove ”bugly.qq.com“
+!Update time: 2026-01-27 21:30:40 UTC+8
+!Update content: add statisticslinks ads block.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -307,6 +307,8 @@ ip dns static add address=240.0.0.1 name=adx-os.anythinktech.com
 ip dns static add address=:: name=adx-os.anythinktech.com
 ip dns static add address=240.0.0.1 name=adx-saas.advlion.com
 ip dns static add address=:: name=adx-saas.advlion.com
+ip dns static add address=240.0.0.1 name=adx-strategy-api-cn.statisticslinks.com
+ip dns static add address=:: name=adx-strategy-api-cn.statisticslinks.com
 ip dns static add address=240.0.0.1 name=adx.ads.heytapmobi.com
 ip dns static add address=:: name=adx.ads.heytapmobi.com
 ip dns static add address=240.0.0.1 name=adx.ads.oppomobile.com

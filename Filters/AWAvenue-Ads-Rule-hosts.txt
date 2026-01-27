@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1774
+!Total lines: 1776
 !Version: 1.6.9-release
-!Update time: 2026-01-15 22:37:28 UTC+8
-!Update content: remove ”bugly.qq.com“
+!Update time: 2026-01-27 21:30:40 UTC+8
+!Update content: add statisticslinks ads block.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -311,6 +311,8 @@
 :: adx-os.anythinktech.com
 0.0.0.0 adx-saas.advlion.com
 :: adx-saas.advlion.com
+0.0.0.0 adx-strategy-api-cn.statisticslinks.com
+:: adx-strategy-api-cn.statisticslinks.com
 0.0.0.0 adx.ads.heytapmobi.com
 :: adx.ads.heytapmobi.com
 0.0.0.0 adx.ads.oppomobile.com
