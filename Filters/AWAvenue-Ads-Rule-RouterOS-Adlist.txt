@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 1790
+#Total lines: 1792
 #Version: 1.6.9-release
-#Update time: 2026-01-27 21:33:57 UTC+8
-#Update content: add TopOn、Weibo、meituxiuxiu ads block.
+#Update time: 2026-01-27 21:39:22 UTC+8
+#Update content: add tagtic ads, thanks @Jessire close #194
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -1495,6 +1495,8 @@
 :: t3.a.market.xiaomi.com
 0.0.0.0 t7z.cupid.ptqy.gitv.tv
 :: t7z.cupid.ptqy.gitv.tv
+0.0.0.0 tagtic.cn
+:: tagtic.cn
 0.0.0.0 tangram.e.qq.com
 :: tangram.e.qq.com
 0.0.0.0 target.ads.jihuoniao.com
