@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1788
+!Total lines: 1786
 !Version: 1.6.9-release
-!Update time: 2026-01-27 21:39:22 UTC+8
-!Update content: add tagtic ads, thanks @Jessire close #194
+!Update time: 2026-01-28 09:38:24 UTC+8
+!Update content: move 115 version check to rep.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -471,8 +471,6 @@ ip dns static add address=240.0.0.1 name=applog.zijieapi.com
 ip dns static add address=:: name=applog.zijieapi.com
 ip dns static add address=240.0.0.1 name=applovin.com
 ip dns static add address=:: name=applovin.com
-ip dns static add address=240.0.0.1 name=appversion.115.com
-ip dns static add address=:: name=appversion.115.com
 ip dns static add address=240.0.0.1 name=aqyad.com
 ip dns static add address=:: name=aqyad.com
 ip dns static add address=240.0.0.1 name=aspect-upush.umeng.com

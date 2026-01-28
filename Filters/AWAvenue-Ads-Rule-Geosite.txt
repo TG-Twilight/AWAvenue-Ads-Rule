@@ -240,7 +240,6 @@ full:applog.lc.quark.cn
 full:applog.uc.cn
 full:applog.zijieapi.com
 full:applovin.com
-full:appversion.115.com
 full:aqyad.com
 full:aspect-upush.umeng.com
 full:auction.unityads.unity3d.com

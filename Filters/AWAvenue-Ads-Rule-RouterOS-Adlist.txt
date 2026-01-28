@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 1792
+#Total lines: 1790
 #Version: 1.6.9-release
-#Update time: 2026-01-27 21:39:22 UTC+8
-#Update content: add tagtic ads, thanks @Jessire close #194
+#Update time: 2026-01-28 09:38:24 UTC+8
+#Update content: move 115 version check to rep.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -475,8 +475,6 @@
 :: applog.zijieapi.com
 0.0.0.0 applovin.com
 :: applovin.com
-0.0.0.0 appversion.115.com
-:: appversion.115.com
 0.0.0.0 aqyad.com
 :: aqyad.com
 0.0.0.0 aspect-upush.umeng.com
