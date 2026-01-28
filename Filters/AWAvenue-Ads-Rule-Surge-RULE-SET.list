@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 909
+#Total lines: 910
 #Version: 1.6.9-release
-#Update time: 2026-01-28 09:38:24 UTC+8
-#Update content: move 115 version check to rep.
+#Update time: 2026-01-28 09:50:13 UTC+8
+#Update content: block some yahoo ads.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -85,6 +85,7 @@ DOMAIN,ads-sg.tiktok.com
 DOMAIN,ads-video-al.xhscdn.com
 DOMAIN,ads-video-qc.xhscdn.com
 DOMAIN,ads.95516.com
+DOMAIN,ads.auctions.yahoo.com
 DOMAIN,ads.cup.com.cn
 DOMAIN,ads.google.cn
 DOMAIN,ads.huan.tv

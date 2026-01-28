@@ -85,6 +85,7 @@ full:ads-sg.tiktok.com
 full:ads-video-al.xhscdn.com
 full:ads-video-qc.xhscdn.com
 full:ads.95516.com
+full:ads.auctions.yahoo.com
 full:ads.cup.com.cn
 full:ads.google.cn
 full:ads.huan.tv

@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1786
+!Total lines: 1788
 !Version: 1.6.9-release
-!Update time: 2026-01-28 09:38:24 UTC+8
-!Update content: move 115 version check to rep.
+!Update time: 2026-01-28 09:50:13 UTC+8
+!Update content: block some yahoo ads.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -161,6 +161,8 @@ ip dns static add address=240.0.0.1 name=ads-video-qc.xhscdn.com
 ip dns static add address=:: name=ads-video-qc.xhscdn.com
 ip dns static add address=240.0.0.1 name=ads.95516.com
 ip dns static add address=:: name=ads.95516.com
+ip dns static add address=240.0.0.1 name=ads.auctions.yahoo.com
+ip dns static add address=:: name=ads.auctions.yahoo.com
 ip dns static add address=240.0.0.1 name=ads.cup.com.cn
 ip dns static add address=:: name=ads.cup.com.cn
 ip dns static add address=240.0.0.1 name=ads.google.cn
