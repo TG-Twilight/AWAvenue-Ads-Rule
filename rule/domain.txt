@@ -74,6 +74,7 @@ ads-sg.tiktok.com
 ads-video-al.xhscdn.com
 ads-video-qc.xhscdn.com
 ads.95516.com
+ads.auctions.yahoo.com
 ads.cup.com.cn
 ads.google.cn
 ads.huan.tv
@@ -141,6 +142,7 @@ advertising-api-eu.amazon.com
 advertising-api-fe.amazon.com
 advertising-api.amazon.com
 advertising.apple.com
+advertising.yahoo.com
 advertising.yahoo.com
 advertising.yandex.ru
 advice-ads.s3.amazonaws.com
