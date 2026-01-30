@@ -13,6 +13,7 @@ AWAvenue-Ads-Rule-RouterOS-Adlist.txt
 AWAvenue-Ads-Rule-RouterOS.txt
 AWAvenue-Ads-Rule-Shadowrocket.module
 AWAvenue-Ads-Rule-Singbox.json
+AWAvenue-Ads-Rule-SmartDNS.conf
 AWAvenue-Ads-Rule-Surge-RULE-SET.list
 AWAvenue-Ads-Rule-Surge-module.sgmodule
 AWAvenue-Ads-Rule-Surge.list
