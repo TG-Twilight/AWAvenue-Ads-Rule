@@ -1,7 +1,7 @@
 import json
 
 def format_domain(List):
-    domain = ["0.0.0.0 localhost", "::1 localhost", "", ""]
+    domain = []
     for line in List:
         domain_lines = f"0.0.0.0 {line.strip()}"
         domain.append(domain_lines)
@@ -12,4 +12,4 @@ def format_domain(List):
 
 def build(rule):
     list = format_domain(rule.domain_list)
-    return {'list': list, 'suffix': '.txt', 'comment': '#', 'total': len(list)}
+    return {'list': ["0.0.0.0 localhost", "::1 localhost", "", ""] + list, 'suffix': '.txt', 'comment': '#', 'total': len(list)}

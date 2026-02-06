@@ -48,5 +48,5 @@ def format_ip(List):
     return ip
 
 def build(rule):
-    list = format_comments() + format_ip(rule.ip_list) + format_domain(rule.domain_list) + format_regex(rule.regex_list)
-    return {'list': list, 'suffix': '.sgmodule', 'comment': '', 'total': len(list)}
+    list = format_ip(rule.ip_list) + format_domain(rule.domain_list) + format_regex(rule.regex_list)
+    return {'list': format_comments() + list, 'suffix': '.sgmodule', 'comment': '', 'total': len(list)}
