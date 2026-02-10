@@ -527,7 +527,6 @@ full:m-adnet.hiaiabc.com
 full:m.ad.zhangyue.com
 full:m.atm.youku.com
 full:m.shenshiads.com
-full:m1.ad.10010.com
 full:mapi.m.jd.com
 full:masdkv6.3g.qq.com
 full:mazu.m.qq.com
