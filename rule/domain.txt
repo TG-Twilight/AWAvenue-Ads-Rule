@@ -905,4 +905,6 @@ zeus.ad.xiaomi.com
 zhihu-web-analytics.zhihu.com
 zjres-ad.kajicam.com
 zxid-m.mobileservice.cn
-
+api-access.pangolin-sdk-toutiao-b.com
+mobile.events.data.microsoft.com
+tnc3-alisc1.zijieapi.com
