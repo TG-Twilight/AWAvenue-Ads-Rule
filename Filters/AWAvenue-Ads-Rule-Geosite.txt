@@ -205,6 +205,7 @@ full:ap.dongqiudi.com
 full:apd-pcdnwxlogin.teg.tencent-cloud.net
 full:apd-pcdnwxnat.teg.tencent-cloud.net
 full:apd-pcdnwxstat.teg.tencent-cloud.net
+full:api-access.pangolin-sdk-toutiao-b.com
 full:api-access.pangolin-sdk-toutiao.com
 full:api-access.pangolin-sdk-toutiao1.com
 full:api-access.pangolin-sdk-toutiao2.com
@@ -552,6 +553,7 @@ full:mobads-pre-config.cdn.bcebos.com
 full:mobads.baidu.com
 full:mobaliyun.res.mgtv.com
 full:mobile.da.mgtv.com
+full:mobile.events.data.microsoft.com
 full:mobilead.kuwo.cn
 full:mobilelog.kugou.com
 full:mobilelog.upqzfile.com

@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 893
+#Total lines: 895
 #Version: 1.6.9-release
-#Update time: 2026-02-10 15:15:29 UTC+8
-#Update content: remove “m1.ad.10010.com”
+#Update time: 2026-04-07 20:55:56 UTC+8
+#Update content: add domain #206
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -208,6 +208,7 @@ domain, ap.dongqiudi.com
 domain, apd-pcdnwxlogin.teg.tencent-cloud.net
 domain, apd-pcdnwxnat.teg.tencent-cloud.net
 domain, apd-pcdnwxstat.teg.tencent-cloud.net
+domain, api-access.pangolin-sdk-toutiao-b.com
 domain, api-access.pangolin-sdk-toutiao.com
 domain, api-access.pangolin-sdk-toutiao1.com
 domain, api-access.pangolin-sdk-toutiao2.com
@@ -555,6 +556,7 @@ domain, mobads-pre-config.cdn.bcebos.com
 domain, mobads.baidu.com
 domain, mobaliyun.res.mgtv.com
 domain, mobile.da.mgtv.com
+domain, mobile.events.data.microsoft.com
 domain, mobilead.kuwo.cn
 domain, mobilelog.kugou.com
 domain, mobilelog.upqzfile.com

@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2026-02-10 15:15:29 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2026-04-07 20:55:56 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -202,6 +202,7 @@ DOMAIN,ap.dongqiudi.com,REJECT,extended-matching,pre-matching
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net,REJECT,extended-matching,pre-matching
 DOMAIN,apd-pcdnwxnat.teg.tencent-cloud.net,REJECT,extended-matching,pre-matching
 DOMAIN,apd-pcdnwxstat.teg.tencent-cloud.net,REJECT,extended-matching,pre-matching
+DOMAIN,api-access.pangolin-sdk-toutiao-b.com,REJECT,extended-matching,pre-matching
 DOMAIN,api-access.pangolin-sdk-toutiao.com,REJECT,extended-matching,pre-matching
 DOMAIN,api-access.pangolin-sdk-toutiao1.com,REJECT,extended-matching,pre-matching
 DOMAIN,api-access.pangolin-sdk-toutiao2.com,REJECT,extended-matching,pre-matching
@@ -549,6 +550,7 @@ DOMAIN,mobads-pre-config.cdn.bcebos.com,REJECT,extended-matching,pre-matching
 DOMAIN,mobads.baidu.com,REJECT,extended-matching,pre-matching
 DOMAIN,mobaliyun.res.mgtv.com,REJECT,extended-matching,pre-matching
 DOMAIN,mobile.da.mgtv.com,REJECT,extended-matching,pre-matching
+DOMAIN,mobile.events.data.microsoft.com,REJECT,extended-matching,pre-matching
 DOMAIN,mobilead.kuwo.cn,REJECT,extended-matching,pre-matching
 DOMAIN,mobilelog.kugou.com,REJECT,extended-matching,pre-matching
 DOMAIN,mobilelog.upqzfile.com,REJECT,extended-matching,pre-matching
