@@ -2,8 +2,8 @@
 !--------------------------------------
 !Total lines: 911
 !Version: 1.6.9-release
-!Update time: 2026-04-07 20:55:56 UTC+8
-!Update content: add domain #206
+!Update time: 2026-05-24 21:58:59 UTC+8
+!Update content: add a false Telegram IP.
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
