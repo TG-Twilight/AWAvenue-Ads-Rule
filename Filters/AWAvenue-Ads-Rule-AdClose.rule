@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 895
+#Total lines: 896
 #Version: 1.6.9-release
-#Update time: 2026-05-24 21:59:46 UTC+8
-#Update content: add a fake Telegram IP.(38.190.225.166)
+#Update time: 2026-05-24 22:07:21 UTC+8
+#Update content: add WakeUp ads.
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -128,6 +128,7 @@ domain, adsfile.qq.com
 domain, adsfilebssdlbig.ali.kugou.com
 domain, adsfileretry.service.kugou.com
 domain, adsfs-sdkconfig.heytapimage.com
+domain, adsfs.heytapimage.com
 domain, adsfs.oppomobile.com
 domain, adslvfile.qq.com
 domain, adsmart.konka.com
