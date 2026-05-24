@@ -116,6 +116,7 @@ adsfile.qq.com
 adsfilebssdlbig.ali.kugou.com
 adsfileretry.service.kugou.com
 adsfs-sdkconfig.heytapimage.com
+adsfs.heytapimage.com
 adsfs.oppomobile.com
 adslvfile.qq.com
 adsmart.konka.com
@@ -198,6 +199,7 @@ ap.dongqiudi.com
 apd-pcdnwxlogin.teg.tencent-cloud.net
 apd-pcdnwxnat.teg.tencent-cloud.net
 apd-pcdnwxstat.teg.tencent-cloud.net
+api-access.pangolin-sdk-toutiao-b.com
 api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao1.com
 api-access.pangolin-sdk-toutiao2.com
@@ -550,6 +552,7 @@ mobads-pre-config.cdn.bcebos.com
 mobads.baidu.com
 mobaliyun.res.mgtv.com
 mobile.da.mgtv.com
+mobile.events.data.microsoft.com
 mobilead.kuwo.cn
 mobilelog.kugou.com
 mobilelog.upqzfile.com
@@ -784,6 +787,7 @@ tnc3-alisc1.bytedance.com
 tnc3-alisc1.snssdk.com
 tnc3-alisc1.toutiaoapi.com
 tnc3-alisc1.zijieapi.com
+tnc3-alisc1.zijieapi.com
 tnc3-alisc2.zijieapi.com
 tnc3-bjlgy.bytedance.com
 tnc3-bjlgy.snssdk.com
@@ -905,6 +909,3 @@ zeus.ad.xiaomi.com
 zhihu-web-analytics.zhihu.com
 zjres-ad.kajicam.com
 zxid-m.mobileservice.cn
-api-access.pangolin-sdk-toutiao-b.com
-mobile.events.data.microsoft.com
-tnc3-alisc1.zijieapi.com
