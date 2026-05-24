@@ -344,7 +344,6 @@ full:domain.aishengji.com
 full:doubleclick-cn.net
 full:download.changhong.upgrade2.huan.tv
 full:downloadxml.changhong.upgrade2.huan.tv
-full:drcn-weather.cloud.huawei.com
 full:dsp-x.jd.com
 full:dsp.fcbox.com
 full:dualstack-logs.amap.com
