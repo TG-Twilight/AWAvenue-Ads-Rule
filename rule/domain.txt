@@ -337,7 +337,6 @@ domain.aishengji.com
 doubleclick-cn.net
 download.changhong.upgrade2.huan.tv
 downloadxml.changhong.upgrade2.huan.tv
-drcn-weather.cloud.huawei.com
 dsp-x.jd.com
 dsp.fcbox.com
 dualstack-logs.amap.com
