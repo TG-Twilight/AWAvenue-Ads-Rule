@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 911
+#Total lines: 905
 #Version: 1.6.9-release
-#Update time: 2026-05-24 22:11:11 UTC+8
-#Update content: fix #209
+#Update time: 2026-06-15 21:32:00 UTC+8
+#Update content: 移除一些不应当被拦截的字节域名
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -771,23 +771,17 @@ DOMAIN,tmfmazu-wangka.m.qq.com,reject
 DOMAIN,tmfmazu.m.qq.com,reject
 DOMAIN,tmfsdk.m.qq.com,reject
 DOMAIN,tmfsdktcpv4.m.qq.com,reject
-DOMAIN,tnc0-aliec2.zijieapi.com,reject
-DOMAIN,tnc0-alisc1.zijieapi.com,reject
 DOMAIN,tnc0-bjlgy.zijieapi.com,reject
 DOMAIN,tnc3-aliec1.toutiaoapi.com,reject
 DOMAIN,tnc3-aliec2.bytedance.com,reject
 DOMAIN,tnc3-aliec2.snssdk.com,reject
 DOMAIN,tnc3-aliec2.toutiaoapi.com,reject
-DOMAIN,tnc3-aliec2.zijieapi.com,reject
 DOMAIN,tnc3-alisc1.bytedance.com,reject
 DOMAIN,tnc3-alisc1.snssdk.com,reject
 DOMAIN,tnc3-alisc1.toutiaoapi.com,reject
-DOMAIN,tnc3-alisc1.zijieapi.com,reject
-DOMAIN,tnc3-alisc2.zijieapi.com,reject
 DOMAIN,tnc3-bjlgy.bytedance.com,reject
 DOMAIN,tnc3-bjlgy.snssdk.com,reject
 DOMAIN,tnc3-bjlgy.toutiaoapi.com,reject
-DOMAIN,tnc3-bjlgy.zijieapi.com,reject
 DOMAIN,toblog.ctobsnssdk.com,reject
 DOMAIN,tpa-hcdn.iqiyi.com,reject
 DOMAIN,tpc.googlesyndication-cn.com,reject

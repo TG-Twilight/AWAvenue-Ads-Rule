@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2026-05-24 22:11:11 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2026-06-15 21:32:00 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -768,23 +768,17 @@ DOMAIN,tmfmazu-wangka.m.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,tmfmazu.m.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,tmfsdk.m.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,tmfsdktcpv4.m.qq.com,REJECT,extended-matching,pre-matching
-DOMAIN,tnc0-aliec2.zijieapi.com,REJECT,extended-matching,pre-matching
-DOMAIN,tnc0-alisc1.zijieapi.com,REJECT,extended-matching,pre-matching
 DOMAIN,tnc0-bjlgy.zijieapi.com,REJECT,extended-matching,pre-matching
 DOMAIN,tnc3-aliec1.toutiaoapi.com,REJECT,extended-matching,pre-matching
 DOMAIN,tnc3-aliec2.bytedance.com,REJECT,extended-matching,pre-matching
 DOMAIN,tnc3-aliec2.snssdk.com,REJECT,extended-matching,pre-matching
 DOMAIN,tnc3-aliec2.toutiaoapi.com,REJECT,extended-matching,pre-matching
-DOMAIN,tnc3-aliec2.zijieapi.com,REJECT,extended-matching,pre-matching
 DOMAIN,tnc3-alisc1.bytedance.com,REJECT,extended-matching,pre-matching
 DOMAIN,tnc3-alisc1.snssdk.com,REJECT,extended-matching,pre-matching
 DOMAIN,tnc3-alisc1.toutiaoapi.com,REJECT,extended-matching,pre-matching
-DOMAIN,tnc3-alisc1.zijieapi.com,REJECT,extended-matching,pre-matching
-DOMAIN,tnc3-alisc2.zijieapi.com,REJECT,extended-matching,pre-matching
 DOMAIN,tnc3-bjlgy.bytedance.com,REJECT,extended-matching,pre-matching
 DOMAIN,tnc3-bjlgy.snssdk.com,REJECT,extended-matching,pre-matching
 DOMAIN,tnc3-bjlgy.toutiaoapi.com,REJECT,extended-matching,pre-matching
-DOMAIN,tnc3-bjlgy.zijieapi.com,REJECT,extended-matching,pre-matching
 DOMAIN,toblog.ctobsnssdk.com,REJECT,extended-matching,pre-matching
 DOMAIN,tpa-hcdn.iqiyi.com,REJECT,extended-matching,pre-matching
 DOMAIN,tpc.googlesyndication-cn.com,REJECT,extended-matching,pre-matching

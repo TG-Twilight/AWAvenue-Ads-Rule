@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 911
+#Total lines: 905
 #Version: 1.6.9-release
-#Update time: 2026-05-24 22:11:11 UTC+8
-#Update content: fix #209
+#Update time: 2026-06-15 21:32:00 UTC+8
+#Update content: 移除一些不应当被拦截的字节域名
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -771,23 +771,17 @@ DOMAIN,tmfmazu-wangka.m.qq.com
 DOMAIN,tmfmazu.m.qq.com
 DOMAIN,tmfsdk.m.qq.com
 DOMAIN,tmfsdktcpv4.m.qq.com
-DOMAIN,tnc0-aliec2.zijieapi.com
-DOMAIN,tnc0-alisc1.zijieapi.com
 DOMAIN,tnc0-bjlgy.zijieapi.com
 DOMAIN,tnc3-aliec1.toutiaoapi.com
 DOMAIN,tnc3-aliec2.bytedance.com
 DOMAIN,tnc3-aliec2.snssdk.com
 DOMAIN,tnc3-aliec2.toutiaoapi.com
-DOMAIN,tnc3-aliec2.zijieapi.com
 DOMAIN,tnc3-alisc1.bytedance.com
 DOMAIN,tnc3-alisc1.snssdk.com
 DOMAIN,tnc3-alisc1.toutiaoapi.com
-DOMAIN,tnc3-alisc1.zijieapi.com
-DOMAIN,tnc3-alisc2.zijieapi.com
 DOMAIN,tnc3-bjlgy.bytedance.com
 DOMAIN,tnc3-bjlgy.snssdk.com
 DOMAIN,tnc3-bjlgy.toutiaoapi.com
-DOMAIN,tnc3-bjlgy.zijieapi.com
 DOMAIN,toblog.ctobsnssdk.com
 DOMAIN,tpa-hcdn.iqiyi.com
 DOMAIN,tpc.googlesyndication-cn.com

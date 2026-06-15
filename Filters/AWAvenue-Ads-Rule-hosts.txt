@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1790
+!Total lines: 1778
 !Version: 1.6.9-release
-!Update time: 2026-05-24 22:11:11 UTC+8
-!Update content: fix #209
+!Update time: 2026-06-15 21:32:00 UTC+8
+!Update content: 移除一些不应当被拦截的字节域名
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -1537,10 +1537,6 @@
 :: tmfsdk.m.qq.com
 0.0.0.0 tmfsdktcpv4.m.qq.com
 :: tmfsdktcpv4.m.qq.com
-0.0.0.0 tnc0-aliec2.zijieapi.com
-:: tnc0-aliec2.zijieapi.com
-0.0.0.0 tnc0-alisc1.zijieapi.com
-:: tnc0-alisc1.zijieapi.com
 0.0.0.0 tnc0-bjlgy.zijieapi.com
 :: tnc0-bjlgy.zijieapi.com
 0.0.0.0 tnc3-aliec1.toutiaoapi.com
@@ -1551,26 +1547,18 @@
 :: tnc3-aliec2.snssdk.com
 0.0.0.0 tnc3-aliec2.toutiaoapi.com
 :: tnc3-aliec2.toutiaoapi.com
-0.0.0.0 tnc3-aliec2.zijieapi.com
-:: tnc3-aliec2.zijieapi.com
 0.0.0.0 tnc3-alisc1.bytedance.com
 :: tnc3-alisc1.bytedance.com
 0.0.0.0 tnc3-alisc1.snssdk.com
 :: tnc3-alisc1.snssdk.com
 0.0.0.0 tnc3-alisc1.toutiaoapi.com
 :: tnc3-alisc1.toutiaoapi.com
-0.0.0.0 tnc3-alisc1.zijieapi.com
-:: tnc3-alisc1.zijieapi.com
-0.0.0.0 tnc3-alisc2.zijieapi.com
-:: tnc3-alisc2.zijieapi.com
 0.0.0.0 tnc3-bjlgy.bytedance.com
 :: tnc3-bjlgy.bytedance.com
 0.0.0.0 tnc3-bjlgy.snssdk.com
 :: tnc3-bjlgy.snssdk.com
 0.0.0.0 tnc3-bjlgy.toutiaoapi.com
 :: tnc3-bjlgy.toutiaoapi.com
-0.0.0.0 tnc3-bjlgy.zijieapi.com
-:: tnc3-bjlgy.zijieapi.com
 0.0.0.0 toblog.ctobsnssdk.com
 :: toblog.ctobsnssdk.com
 0.0.0.0 tpa-hcdn.iqiyi.com
