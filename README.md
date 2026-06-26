@@ -127,7 +127,7 @@
 
 ---
 
-## Star History
+## Star History（这个偶尔也会寄）
 
 [![Stargazers over time](https://starchart.cc/TG-Twilight/AWAvenue-Ads-Rule.svg?variant=adaptive)](https://starchart.cc/TG-Twilight/AWAvenue-Ads-Rule)
 
@@ -139,4 +139,4 @@
 2024年6月开始统计，统计偶尔会寄......
 ---
 
-> [@Github](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) · [Channel](https://t.me/AWAvenueAdsRule) · [Group](https://t.me/AWAvenueAdsChat) · [Twilight's page](https://zyc.su/) · [秋风塬上](https://awads.cc/)
+> [@Github](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) · [Channel](https://t.me/AWAvenueAdsRule) · [Group](https://t.me/AWAvenueAdsChat) · [秋风塬上](https://awads.cc/)
