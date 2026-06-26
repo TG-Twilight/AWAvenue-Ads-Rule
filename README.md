@@ -25,6 +25,11 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.star-history.com/tg-twilight/awavenue-ads-rule">
+    <img src="https://api.star-history.com/badge?repo=TG-Twilight/AWAvenue-Ads-Rule&theme=dark" alt="Star History Rank">
+  </a>
+</p>
 
 <p align="center"><b>干掉所有无良广告<br>Eliminate All Malicious Ads</b></p>
 
@@ -126,9 +131,19 @@
 
 ---
 
-## Star History（这个偶尔也会寄）
+## Star History（使用两个源哪个不寄用哪个）
 
-[![Stargazers over time](https://starchart.cc/TG-Twilight/AWAvenue-Ads-Rule.svg?variant=adaptive)](https://starchart.cc/TG-Twilight/AWAvenue-Ads-Rule)
+<div align="center">
+
+<a href="https://www.star-history.com/?repos=TG-Twilight%2FAWAvenue-Ads-Rule&type=date&legend=top-left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=TG-Twilight/AWAvenue-Ads-Rule&type=date&theme=dark&legend=top-left" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=TG-Twilight/AWAvenue-Ads-Rule&type=date&legend=top-left" />
+    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=TG-Twilight/AWAvenue-Ads-Rule&type=date&legend=top-left" />
+  </picture>
+</a>
+
+</div>
 
 ---
 <p align="left">
