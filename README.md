@@ -119,23 +119,41 @@
 
 ### [XTCloud - 畅游世界，高速互联](https://xtyun.co/#/register?code=M1w4rjdl)
 
-<p align="center">
-  <a href="https://www.cloudflare.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/CLOUDFLARE/CF_logo_stacked_whitetype.svg" alt="Cloudflare" height="50">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://1password.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/1Password/1Password_Light.svg" alt="1Password" height="50">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://zmto.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/zmto/zmto_logo_white.svg" alt="zmto" height="50">
-  </a>
-</p>
+<div align="center">
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <a href="https://www.cloudflare.com/" target="_blank" title="Cloudflare提供快速、安全且可靠的全球网络与安全服务。">
+        <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/CLOUDFLARE/card-cloudflare.svg" alt="Cloudflare" width="360" height="110" title="Cloudflare提供快速、安全且可靠的全球网络与安全服务。">
+      </a>
+    </td>
+    <td>
+      <a href="https://1password.com/" target="_blank" title="1Password提供安全、易用且支持多端同步的密码管理服务。">
+        <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/1Password/card-1password.svg" alt="1Password" width="360" height="110" title="1Password提供安全、易用且支持多端同步的密码管理服务。">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://zmto.com/" target="_blank" title="ZMTO提供安全、可靠且可扩展的云基础设施与 VPS 托管服务。">
+        <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/zmto/card-zmto.svg" alt="ZMTO" width="360" height="110" title="ZMTO提供安全、可靠且可扩展的云基础设施与 VPS 托管服务。">
+      </a>
+    </td>
+    <td>
+      <a href="https://termius.com/" target="_blank" title="Termius提供安全、可靠且支持协作的 SSH 客户端。">
+        <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/Termius/card-termius.svg" alt="Termius" width="360" height="110" title="Termius提供安全、可靠且支持协作的 SSH 客户端。">
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-## Star History（使用两个源哪个不寄用哪个）
+<details>
+  <summary>Star History（使用两个源哪个不寄用哪个）</summary>
 
 <div align="center">
 
@@ -148,6 +166,8 @@
 </a>
 
 </div>
+
+</details>
 
 ---
 <p align="left">
