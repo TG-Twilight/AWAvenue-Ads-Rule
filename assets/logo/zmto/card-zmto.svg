@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="110" viewBox="0 0 360 110">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B3A6E"/><stop offset="100%" stop-color="#072A52"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="110" fill="url(#g)"/>
+  <image href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNODYuMyA3NC4yaDI4LjZ2MTguN0g1Mi4ybDMyLjQtNDkuNEg1Ny42VjI0LjhoNjAuOEw4Ni4zIDc0LjJ6Ii8+CiAgPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIwMy42IDkyLjhWNTVjMC04LjUtMi4yLTEyLjktOS40LTEyLjlzLTkuOSA0LjItOS45IDEyLjl2MzcuOGgtMjAuOFY1NWMwLTguNS0yLjQtMTIuOS05LjgtMTIuOXMtOS41IDQuMi05LjUgMTIuOXYzNy44aC0yMC44VjU1YzAtMjIuMSA5LjUtMzEuNyAyOS4yLTMxLjcgMTEuMiAwIDIwLjggNy43IDIxLjMgMTAuMy42LTIuNyA3LjktMTAuMyAyMS43LTEwLjMgMjAuOCAwIDI4LjggMTEuNCAyOC44IDMxLjd2MzcuOGgtMjAuOHoiLz4KICA8cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMjU4LjcgOTIuOGMtMTQuMSAwLTIyLjgtNi4zLTIyLjgtMjIuOHYtNjhoMjAuOHYyMi44aDEzLjV2MTguN2gtMTMuNXYyM2MwIDUuNyAyLjcgNy43IDcuNiA3LjdoNS44djE4LjdoLTExLjR6Ii8+CiAgPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTMxMS4xIDk0LjRjLTIxLjIgMC0zNC0xMi44LTM0LTM1LjVzMTQuMS0zNS41IDM0LTM1LjUgMzMuNSAxMy4xIDMzLjUgMzUuNS0xMy42IDM1LjUtMzMuNSAzNS41em0tLjEtNTIuM2MtOCAwLTEzLjIgNS4xLTEzLjIgMTYuOHM1LjUgMTYuOCAxMy4yIDE2LjggMTMuMS01LjMgMTMuMS0xNi44LTQuMy0xNi44LTEzLjEtMTYuOHoiLz4KPC9zdmc+Cg==" xlink:href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAwIiBoZWlnaHQ9IjEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNODYuMyA3NC4yaDI4LjZ2MTguN0g1Mi4ybDMyLjQtNDkuNEg1Ny42VjI0LjhoNjAuOEw4Ni4zIDc0LjJ6Ii8+CiAgPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIwMy42IDkyLjhWNTVjMC04LjUtMi4yLTEyLjktOS40LTEyLjlzLTkuOSA0LjItOS45IDEyLjl2MzcuOGgtMjAuOFY1NWMwLTguNS0yLjQtMTIuOS05LjgtMTIuOXMtOS41IDQuMi05LjUgMTIuOXYzNy44aC0yMC44VjU1YzAtMjIuMSA5LjUtMzEuNyAyOS4yLTMxLjcgMTEuMiAwIDIwLjggNy43IDIxLjMgMTAuMy42LTIuNyA3LjktMTAuMyAyMS43LTEwLjMgMjAuOCAwIDI4LjggMTEuNCAyOC44IDMxLjd2MzcuOGgtMjAuOHoiLz4KICA8cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMjU4LjcgOTIuOGMtMTQuMSAwLTIyLjgtNi4zLTIyLjgtMjIuOHYtNjhoMjAuOHYyMi44aDEzLjV2MTguN2gtMTMuNXYyM2MwIDUuNyAyLjcgNy43IDcuNiA3LjdoNS44djE4LjdoLTExLjR6Ii8+CiAgPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTMxMS4xIDk0LjRjLTIxLjIgMC0zNC0xMi44LTM0LTM1LjVzMTQuMS0zNS41IDM0LTM1LjUgMzMuNSAxMy4xIDMzLjUgMzUuNS0xMy42IDM1LjUtMzMuNSAzNS41em0tLjEtNTIuM2MtOCAwLTEzLjIgNS4xLTEzLjIgMTYuOHM1LjUgMTYuOCAxMy4yIDE2LjggMTMuMS01LjMgMTMuMS0xNi44LTQuMy0xNi44LTEzLjEtMTYuOHoiLz4KPC9zdmc+Cg==" x="85" y="14" width="190" height="40" preserveAspectRatio="xMidYMid meet"/>
+  <text x="180" y="78" text-anchor="middle"
+        font-family="Segoe UI, PingFang SC, Microsoft YaHei, Noto Sans SC, sans-serif"
+        font-size="12" fill="#ffffff" fill-opacity="0.95">
+    <tspan x="180" dy="0">ZMTO 提供安全、可靠且可扩展的</tspan>
+    <tspan x="180" dy="16">云基础设施与 VPS 托管服务。</tspan>
+  </text>
+</svg>
