@@ -124,8 +124,12 @@
     <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/CLOUDFLARE/CF_logo_stacked_whitetype.svg" alt="Cloudflare" height="50">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://1password.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/1Password/1Password_Light.svg" alt="1Password" height="50">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://zmto.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/zmto/zmto_logo_white.svg" alt="Tencent Cloud" height="50">
+    <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/zmto/zmto_logo_white.svg" alt="zmto" height="50">
   </a>
 </p>
 
