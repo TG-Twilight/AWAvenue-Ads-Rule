@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 905
+#Total lines: 903
 #Version: 1.6.9-release
-#Update time: 2026-06-15 21:32:00 UTC+8
-#Update content: 移除一些不应当被拦截的字节域名
+#Update time: 2026-07-21 15:28:43 UTC+8
+#Update content: [群组内反馈]移除两个不应该被拦截的域名
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -337,7 +337,6 @@ DOMAIN,datacollection.uve.weibo.com
 DOMAIN,dc.sigmob.cn
 DOMAIN,de.tynt.com
 DOMAIN,diagnosis.ad.xiaomi.com
-DOMAIN,dig.bdurl.net
 DOMAIN,dlogs.bwton.com
 DOMAIN,dm.toutiao.com
 DOMAIN,domain.aishengji.com
@@ -532,7 +531,6 @@ DOMAIN,mapi.m.jd.com
 DOMAIN,masdkv6.3g.qq.com
 DOMAIN,mazu.m.qq.com
 DOMAIN,mbdlog.iqiyi.com
-DOMAIN,mcs.zijieapi.com
 DOMAIN,medproad.com
 DOMAIN,metrics.data.hicloud.com
 DOMAIN,metrics.icloud.com

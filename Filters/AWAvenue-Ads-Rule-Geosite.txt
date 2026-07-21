@@ -337,7 +337,6 @@ full:datacollection.uve.weibo.com
 full:dc.sigmob.cn
 full:de.tynt.com
 full:diagnosis.ad.xiaomi.com
-full:dig.bdurl.net
 full:dlogs.bwton.com
 full:dm.toutiao.com
 full:domain.aishengji.com
@@ -532,7 +531,6 @@ full:mapi.m.jd.com
 full:masdkv6.3g.qq.com
 full:mazu.m.qq.com
 full:mbdlog.iqiyi.com
-full:mcs.zijieapi.com
 full:medproad.com
 full:metrics.data.hicloud.com
 full:metrics.icloud.com
