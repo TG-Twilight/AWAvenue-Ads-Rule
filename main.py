@@ -15,8 +15,9 @@ def get_latest_git_tag(): # 获取最新的git tag
     else:
         return None
 
-def title(comment, module_total, now, commits):
-    return f"""{comment}Title: AWAvenue Ads Rule
+def title(comment, module_total, now, commits, variant_tag=""):
+    variant_name = f" ({variant_tag.lstrip('-')})" if variant_tag else ""
+    return f"""{comment}Title: AWAvenue Ads Rule{variant_name}
 {comment}--------------------------------------
 {comment}Total lines: {module_total}
 {comment}Version: {get_latest_git_tag()}
@@ -29,14 +30,14 @@ def title(comment, module_total, now, commits):
 
 """
 
-def WriteFile(name, text, suffix, comment, module_total, out_path): # 写入文件
+def WriteFile(name, text, suffix, comment, module_total, out_path, variant_tag=""): # 写入文件
     try:
         with open(out_path + "/AWAvenue-Ads-Rule-" + name + suffix, 'w', encoding="utf-8") as file:
-        
+
             if comment != "":
                 now = datetime.now()
                 commits = subprocess.check_output(['git', 'log', '-1', '--pretty=%B']).decode('utf-8').strip().replace('\n', '\\n')
-                title_text = title(comment, module_total, now, commits)
+                title_text = title(comment, module_total, now, commits, variant_tag)
             else:
                 title_text = ""
             file.write(title_text)
@@ -47,10 +48,9 @@ def WriteFile(name, text, suffix, comment, module_total, out_path): # 写入文�
         print(f"写入插件:{name}执行失败: {e}")
 
 
-def RunScript(rule, out_path):
-    rel_out = os.path.relpath(out_path, config.OUT_PATH)
-    rule_label = "anti-ad" if rel_out in (".", os.curdir) else rel_out
-        
+def RunScript(rule, variant_tag, out_path):
+    rule_label = "完整规则" if variant_tag == "" else variant_tag.lstrip("-")
+
     for filename in os.listdir(config.SCRIPT_PATH): # 遍历script目录下的所有文件
         if not filename.endswith(".py"):
             continue
@@ -70,7 +70,7 @@ def RunScript(rule, out_path):
                 print(f"规则:{rule_label} 目标:{plugins_name} 共计{total}条规则 执行:跳过")
                 continue
 
-            WriteFile(plugins_name, plugins['list'], plugins['suffix'], plugins['comment'], str(plugins['total']), out_path)
+            WriteFile(plugins_name + variant_tag, plugins['list'], plugins['suffix'], plugins['comment'], str(plugins['total']), out_path, variant_tag)
             print(f"规则:{rule_label} 目标:{plugins_name} 共计{total}条规则 执行:完成")
 
         except Exception as e:
@@ -87,10 +87,8 @@ if __name__ == "__main__":
         print("目录不存在:\n" + "\n".join(missing_paths))
         exit(1)
 
-    targets = [(None, config.OUT_PATH)] + [(d, os.path.join(config.OUT_PATH, d)) for d in subdirs]
+    os.makedirs(config.OUT_PATH, exist_ok=True)
 
-    for subdir, out_path in targets:
-        os.makedirs(out_path, exist_ok=True)
-        
-        rule = config.RuleList() if subdir is None else config.RuleList(subdirs=[subdir])
-        RunScript(rule, out_path)
+    for variant_tag, variant_subdirs in config.VARIANTS:
+        rule = config.RuleList(subdirs=variant_subdirs)
+        RunScript(rule, variant_tag, config.OUT_PATH)

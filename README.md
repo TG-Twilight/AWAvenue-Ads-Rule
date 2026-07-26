@@ -13,6 +13,21 @@ fork本分支，修改本目录的文件（前提是你有一定量的适合本�
 
 添加规则文档见[rule](./rule)
 
+## 构建变体
+
+规则源分为三类：广告（`rule/` 根目录）、隐私（`rule/privacy/`）、不受欢迎（`rule/unwelcome/`）。
+
+每种格式会构建出四种规则，发布于 main 分支的 Filters 目录：
+
+| 文件名标签 | 包含内容 |
+|------|------|
+| （无标签，默认） | 广告 + 隐私 + 不受欢迎（完整规则） |
+| `-Only.Ads` | 仅广告 |
+| `-No.Privacy` | 广告 + 不受欢迎（不含隐私） |
+| `-No.Unwelcome` | 广告 + 隐私（不含不受欢迎） |
+
+例如 `AWAvenue-Ads-Rule-Adguard-Only.Ads.txt` 为 Adguard 格式的纯广告规则。变体在 [config.py](./config.py) 的 `VARIANTS` 中定义。
+
 # 使用方法
 ```shell
 python main.py

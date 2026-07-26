@@ -7,6 +7,15 @@ OUT_PATH = os.getcwd() + "/out" # 输出文件夹
 
 RULE_SUBDIRS = ["", "privacy", "unwelcome"] # 规则子目录列表
 
+# 构建变体: (文件名标签, 参与合并的规则子目录)
+# "" 为默认完整规则(广告+隐私+不受欢迎), 其余三种为细分订阅
+VARIANTS = [
+    ("", RULE_SUBDIRS),
+    ("-Only.Ads", [""]),
+    ("-No.Privacy", ["", "unwelcome"]),
+    ("-No.Unwelcome", ["", "privacy"]),
+]
+
 def _rule_file_paths(filename, subdirs=None):
     paths = []
     for subdir in (RULE_SUBDIRS if subdirs is None else subdirs):

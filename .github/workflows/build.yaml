@@ -36,7 +36,9 @@ jobs:
             wget -O ./mihomo.gz https://github.com/MetaCubeX/mihomo/releases/download/v1.19.12/mihomo-linux-amd64-v1.19.12.gz
             gzip -d mihomo.gz
             chmod +x mihomo
-            ./mihomo convert-ruleset domain yaml AWAvenue-Ads-Rule-Clash.yaml AWAvenue-Ads-Rule-Clash.mrs
+            for yaml in AWAvenue-Ads-Rule-Clash.yaml AWAvenue-Ads-Rule-Clash-Only.Ads.yaml AWAvenue-Ads-Rule-Clash-No.Privacy.yaml AWAvenue-Ads-Rule-Clash-No.Unwelcome.yaml; do
+              ./mihomo convert-ruleset domain yaml "$yaml" "${yaml%.yaml}.mrs"
+            done
             rm -rf *mihomo*
 
     - name: Create AWAvenue-list.txt
