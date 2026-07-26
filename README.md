@@ -101,7 +101,7 @@
 
 <br/>
 
-- [**AdGuard Home**](https://github.com/AdguardTeam/AdGuardHome) — 装在路由器，较理想的过滤位置；秋风规则已进 AdGuard 官方列表，可在「从列表中选择」直接订阅  
+- [**AdGuard Home**](https://github.com/AdguardTeam/AdGuardHome) — 装在路由器，较理想的过滤位置；秋风广告规则已进 AdGuard 官方列表，可在「从列表中选择」直接订阅  
 - [**AdGuard**](https://adguard.com/) — Android / Windows / Mac / iOS  
 - [**AdAway**](https://adaway.org/) — 基于 hosts 的 Android 开源拦截器  
 - [**AdGuard DNS**](https://adguard-dns.io/en/welcome.html) — 自定义 DNS；规则已在 AdGuard DNS Filters 中  
