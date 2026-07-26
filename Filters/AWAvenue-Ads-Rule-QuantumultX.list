@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
 #Total lines: 903
-#Version: 1.6.9-release
-#Update time: 2026-07-21 15:28:43 UTC+8
-#Update content: [群组内反馈]移除两个不应该被拦截的域名
+#Version: 1.7.6-release
+#Update time: 2026-07-27 01:30:09 UTC+8
+#Update content: 规则分类重构：拆分广告/隐私/不受欢迎三类规则源，新增Only.Ads/No.Privacy/No.Unwelcome构建变体；新增拦截校园纸条开屏广告，fix #210\n\nCo-Authored-By: Claude Fable 5 <noreply@anthropic.com>
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -85,6 +85,7 @@ DOMAIN,ads-sg.tiktok.com,reject
 DOMAIN,ads-video-al.xhscdn.com,reject
 DOMAIN,ads-video-qc.xhscdn.com,reject
 DOMAIN,ads.95516.com,reject
+DOMAIN,ads.adfunlink.com,reject
 DOMAIN,ads.auctions.yahoo.com,reject
 DOMAIN,ads.cup.com.cn,reject
 DOMAIN,ads.google.cn,reject
@@ -142,6 +143,7 @@ DOMAIN,adstudio.spotify.com,reject
 DOMAIN,adtago.s3.amazonaws.com,reject
 DOMAIN,adtech.yahooinc.com,reject
 DOMAIN,adtrack.quark.cn,reject
+DOMAIN,adtracker.adfunlink.com,reject
 DOMAIN,adtracker.medproad.com,reject
 DOMAIN,adui.tg.meitu.com,reject
 DOMAIN,adv-api.shenshiads.com,reject
@@ -435,7 +437,6 @@ DOMAIN,ii.gdt.qq.com,reject
 DOMAIN,image-ad.sm.cn,reject
 DOMAIN,image.hpplay.cn,reject
 DOMAIN,images.outbrainimg.com,reject
-DOMAIN,images.pinduoduo.com,reject
 DOMAIN,imdns.hpplay.cn,reject
 DOMAIN,img-c.heytapimage.com,reject
 DOMAIN,img-x.jd.com,reject
@@ -890,7 +891,6 @@ DOMAIN,yk-ssp.ad.youku.com,reject
 DOMAIN,ykad-data.cp31.ott.cibntv.net,reject
 DOMAIN,ykad-data.youku.com,reject
 DOMAIN,ykad-gateway.youku.com,reject
-DOMAIN,youku-acs.m.taobao.com,reject
 DOMAIN,ytx-file.110route.cn,reject
 DOMAIN,zeus.ad.xiaomi.com,reject
 DOMAIN,zhihu-web-analytics.zhihu.com,reject

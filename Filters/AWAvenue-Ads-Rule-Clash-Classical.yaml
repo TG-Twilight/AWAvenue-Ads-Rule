@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
 #Total lines: 903
-#Version: 1.6.9-release
-#Update time: 2026-07-21 15:28:43 UTC+8
-#Update content: [群组内反馈]移除两个不应该被拦截的域名
+#Version: 1.7.6-release
+#Update time: 2026-07-27 01:30:09 UTC+8
+#Update content: 规则分类重构：拆分广告/隐私/不受欢迎三类规则源，新增Only.Ads/No.Privacy/No.Unwelcome构建变体；新增拦截校园纸条开屏广告，fix #210\n\nCo-Authored-By: Claude Fable 5 <noreply@anthropic.com>
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -86,6 +86,7 @@ payload:
   - DOMAIN,ads-video-al.xhscdn.com
   - DOMAIN,ads-video-qc.xhscdn.com
   - DOMAIN,ads.95516.com
+  - DOMAIN,ads.adfunlink.com
   - DOMAIN,ads.auctions.yahoo.com
   - DOMAIN,ads.cup.com.cn
   - DOMAIN,ads.google.cn
@@ -143,6 +144,7 @@ payload:
   - DOMAIN,adtago.s3.amazonaws.com
   - DOMAIN,adtech.yahooinc.com
   - DOMAIN,adtrack.quark.cn
+  - DOMAIN,adtracker.adfunlink.com
   - DOMAIN,adtracker.medproad.com
   - DOMAIN,adui.tg.meitu.com
   - DOMAIN,adv-api.shenshiads.com
@@ -436,7 +438,6 @@ payload:
   - DOMAIN,image-ad.sm.cn
   - DOMAIN,image.hpplay.cn
   - DOMAIN,images.outbrainimg.com
-  - DOMAIN,images.pinduoduo.com
   - DOMAIN,imdns.hpplay.cn
   - DOMAIN,img-c.heytapimage.com
   - DOMAIN,img-x.jd.com
@@ -891,7 +892,6 @@ payload:
   - DOMAIN,ykad-data.cp31.ott.cibntv.net
   - DOMAIN,ykad-data.youku.com
   - DOMAIN,ykad-gateway.youku.com
-  - DOMAIN,youku-acs.m.taobao.com
   - DOMAIN,ytx-file.110route.cn
   - DOMAIN,zeus.ad.xiaomi.com
   - DOMAIN,zhihu-web-analytics.zhihu.com

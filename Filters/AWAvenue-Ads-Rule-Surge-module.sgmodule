@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2026-07-21 15:28:43 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2026-07-27 01:30:09 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -82,6 +82,7 @@ DOMAIN,ads-sg.tiktok.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads-video-al.xhscdn.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads-video-qc.xhscdn.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads.95516.com,REJECT,extended-matching,pre-matching
+DOMAIN,ads.adfunlink.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads.auctions.yahoo.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads.cup.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,ads.google.cn,REJECT,extended-matching,pre-matching
@@ -139,6 +140,7 @@ DOMAIN,adstudio.spotify.com,REJECT,extended-matching,pre-matching
 DOMAIN,adtago.s3.amazonaws.com,REJECT,extended-matching,pre-matching
 DOMAIN,adtech.yahooinc.com,REJECT,extended-matching,pre-matching
 DOMAIN,adtrack.quark.cn,REJECT,extended-matching,pre-matching
+DOMAIN,adtracker.adfunlink.com,REJECT,extended-matching,pre-matching
 DOMAIN,adtracker.medproad.com,REJECT,extended-matching,pre-matching
 DOMAIN,adui.tg.meitu.com,REJECT,extended-matching,pre-matching
 DOMAIN,adv-api.shenshiads.com,REJECT,extended-matching,pre-matching
@@ -432,7 +434,6 @@ DOMAIN,ii.gdt.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,image-ad.sm.cn,REJECT,extended-matching,pre-matching
 DOMAIN,image.hpplay.cn,REJECT,extended-matching,pre-matching
 DOMAIN,images.outbrainimg.com,REJECT,extended-matching,pre-matching
-DOMAIN,images.pinduoduo.com,REJECT,extended-matching,pre-matching
 DOMAIN,imdns.hpplay.cn,REJECT,extended-matching,pre-matching
 DOMAIN,img-c.heytapimage.com,REJECT,extended-matching,pre-matching
 DOMAIN,img-x.jd.com,REJECT,extended-matching,pre-matching
@@ -887,7 +888,6 @@ DOMAIN,yk-ssp.ad.youku.com,REJECT,extended-matching,pre-matching
 DOMAIN,ykad-data.cp31.ott.cibntv.net,REJECT,extended-matching,pre-matching
 DOMAIN,ykad-data.youku.com,REJECT,extended-matching,pre-matching
 DOMAIN,ykad-gateway.youku.com,REJECT,extended-matching,pre-matching
-DOMAIN,youku-acs.m.taobao.com,REJECT,extended-matching,pre-matching
 DOMAIN,ytx-file.110route.cn,REJECT,extended-matching,pre-matching
 DOMAIN,zeus.ad.xiaomi.com,REJECT,extended-matching,pre-matching
 DOMAIN,zhihu-web-analytics.zhihu.com,REJECT,extended-matching,pre-matching

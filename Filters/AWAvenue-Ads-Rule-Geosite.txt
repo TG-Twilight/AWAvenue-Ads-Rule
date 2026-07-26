@@ -85,6 +85,7 @@ full:ads-sg.tiktok.com
 full:ads-video-al.xhscdn.com
 full:ads-video-qc.xhscdn.com
 full:ads.95516.com
+full:ads.adfunlink.com
 full:ads.auctions.yahoo.com
 full:ads.cup.com.cn
 full:ads.google.cn
@@ -142,6 +143,7 @@ full:adstudio.spotify.com
 full:adtago.s3.amazonaws.com
 full:adtech.yahooinc.com
 full:adtrack.quark.cn
+full:adtracker.adfunlink.com
 full:adtracker.medproad.com
 full:adui.tg.meitu.com
 full:adv-api.shenshiads.com
@@ -435,7 +437,6 @@ full:ii.gdt.qq.com
 full:image-ad.sm.cn
 full:image.hpplay.cn
 full:images.outbrainimg.com
-full:images.pinduoduo.com
 full:imdns.hpplay.cn
 full:img-c.heytapimage.com
 full:img-x.jd.com
@@ -890,7 +891,6 @@ full:yk-ssp.ad.youku.com
 full:ykad-data.cp31.ott.cibntv.net
 full:ykad-data.youku.com
 full:ykad-gateway.youku.com
-full:youku-acs.m.taobao.com
 full:ytx-file.110route.cn
 full:zeus.ad.xiaomi.com
 full:zhihu-web-analytics.zhihu.com

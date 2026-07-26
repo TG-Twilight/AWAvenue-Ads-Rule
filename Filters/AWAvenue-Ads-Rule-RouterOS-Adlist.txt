@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
 #Total lines: 1774
-#Version: 1.6.9-release
-#Update time: 2026-07-21 15:28:43 UTC+8
-#Update content: [群组内反馈]移除两个不应该被拦截的域名
+#Version: 1.7.6-release
+#Update time: 2026-07-27 01:30:09 UTC+8
+#Update content: 规则分类重构：拆分广告/隐私/不受欢迎三类规则源，新增Only.Ads/No.Privacy/No.Unwelcome构建变体；新增拦截校园纸条开屏广告，fix #210\n\nCo-Authored-By: Claude Fable 5 <noreply@anthropic.com>
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -165,6 +165,8 @@
 :: ads-video-qc.xhscdn.com
 0.0.0.0 ads.95516.com
 :: ads.95516.com
+0.0.0.0 ads.adfunlink.com
+:: ads.adfunlink.com
 0.0.0.0 ads.auctions.yahoo.com
 :: ads.auctions.yahoo.com
 0.0.0.0 ads.cup.com.cn
@@ -279,6 +281,8 @@
 :: adtech.yahooinc.com
 0.0.0.0 adtrack.quark.cn
 :: adtrack.quark.cn
+0.0.0.0 adtracker.adfunlink.com
+:: adtracker.adfunlink.com
 0.0.0.0 adtracker.medproad.com
 :: adtracker.medproad.com
 0.0.0.0 adui.tg.meitu.com
@@ -865,8 +869,6 @@
 :: image.hpplay.cn
 0.0.0.0 images.outbrainimg.com
 :: images.outbrainimg.com
-0.0.0.0 images.pinduoduo.com
-:: images.pinduoduo.com
 0.0.0.0 imdns.hpplay.cn
 :: imdns.hpplay.cn
 0.0.0.0 img-c.heytapimage.com
@@ -1775,8 +1777,6 @@
 :: ykad-data.youku.com
 0.0.0.0 ykad-gateway.youku.com
 :: ykad-gateway.youku.com
-0.0.0.0 youku-acs.m.taobao.com
-:: youku-acs.m.taobao.com
 0.0.0.0 ytx-file.110route.cn
 :: ytx-file.110route.cn
 0.0.0.0 zeus.ad.xiaomi.com

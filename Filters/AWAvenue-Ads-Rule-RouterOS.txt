@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
 !Total lines: 1774
-!Version: 1.6.9-release
-!Update time: 2026-07-21 15:28:43 UTC+8
-!Update content: [群组内反馈]移除两个不应该被拦截的域名
+!Version: 1.7.6-release
+!Update time: 2026-07-27 01:30:09 UTC+8
+!Update content: 规则分类重构：拆分广告/隐私/不受欢迎三类规则源，新增Only.Ads/No.Privacy/No.Unwelcome构建变体；新增拦截校园纸条开屏广告，fix #210\n\nCo-Authored-By: Claude Fable 5 <noreply@anthropic.com>
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -161,6 +161,8 @@ ip dns static add address=240.0.0.1 name=ads-video-qc.xhscdn.com
 ip dns static add address=:: name=ads-video-qc.xhscdn.com
 ip dns static add address=240.0.0.1 name=ads.95516.com
 ip dns static add address=:: name=ads.95516.com
+ip dns static add address=240.0.0.1 name=ads.adfunlink.com
+ip dns static add address=:: name=ads.adfunlink.com
 ip dns static add address=240.0.0.1 name=ads.auctions.yahoo.com
 ip dns static add address=:: name=ads.auctions.yahoo.com
 ip dns static add address=240.0.0.1 name=ads.cup.com.cn
@@ -275,6 +277,8 @@ ip dns static add address=240.0.0.1 name=adtech.yahooinc.com
 ip dns static add address=:: name=adtech.yahooinc.com
 ip dns static add address=240.0.0.1 name=adtrack.quark.cn
 ip dns static add address=:: name=adtrack.quark.cn
+ip dns static add address=240.0.0.1 name=adtracker.adfunlink.com
+ip dns static add address=:: name=adtracker.adfunlink.com
 ip dns static add address=240.0.0.1 name=adtracker.medproad.com
 ip dns static add address=:: name=adtracker.medproad.com
 ip dns static add address=240.0.0.1 name=adui.tg.meitu.com
@@ -861,8 +865,6 @@ ip dns static add address=240.0.0.1 name=image.hpplay.cn
 ip dns static add address=:: name=image.hpplay.cn
 ip dns static add address=240.0.0.1 name=images.outbrainimg.com
 ip dns static add address=:: name=images.outbrainimg.com
-ip dns static add address=240.0.0.1 name=images.pinduoduo.com
-ip dns static add address=:: name=images.pinduoduo.com
 ip dns static add address=240.0.0.1 name=imdns.hpplay.cn
 ip dns static add address=:: name=imdns.hpplay.cn
 ip dns static add address=240.0.0.1 name=img-c.heytapimage.com
@@ -1771,8 +1773,6 @@ ip dns static add address=240.0.0.1 name=ykad-data.youku.com
 ip dns static add address=:: name=ykad-data.youku.com
 ip dns static add address=240.0.0.1 name=ykad-gateway.youku.com
 ip dns static add address=:: name=ykad-gateway.youku.com
-ip dns static add address=240.0.0.1 name=youku-acs.m.taobao.com
-ip dns static add address=:: name=youku-acs.m.taobao.com
 ip dns static add address=240.0.0.1 name=ytx-file.110route.cn
 ip dns static add address=:: name=ytx-file.110route.cn
 ip dns static add address=240.0.0.1 name=zeus.ad.xiaomi.com
