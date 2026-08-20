@@ -6,7 +6,6 @@ adintl.cn
 adx.adwangmai.com
 adx.adwangmai.com
 data.hicloud.com
-log.aliyuncs.com
 ubixioe.com
 vlion.cn
 yfanads.com
