@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule (No.Privacy)
 !--------------------------------------
-!Total lines: 697
+!Total lines: 734
 !Version: 1.7.6-release
-!Update time: 2026-08-20 11:45:33 UTC+8
-!Update content: Remove log.aliyuncs.com from domain suffix #211 close.\n\nRemoved 'log.aliyuncs.com' from the domain suffix list.
+!Update time: 2026-09-08 21:05:48 UTC+8
+!Update content: 新增拦截微博/美图/百度等广告与隐私上报域名，fix #214\n\n来自 #214（@VJMOD iOS 抓包提交，共 57 条）的处理结果：\n\n- 广告 29 条：ad.maoyan.com、ad-api/ad-files.4pyun.com、ads-shopping.shouqianba.com、\n  ads.ishansong.com、ad.duoduo.link、init.supersonicads.com、ws.tapjoyads.com、\n  adcanvas.com、admobile.top、iadcontent/iadmoo.apple.com、3 条 Yahoo 广告域、\n  adstextview.qq.com、adscdn/ad.player.baidu.com、ad.bn.netease.com、\n  ad4/adbox.sina.com.cn、m1.ad.10010.com、adx-os.bridgeoos.com、inner-hw.huazirc.com、\n  commercial/huodong.ios.shouji.360.cn、huodong.weibo.cn、yumao.puata.info、\n  prom-sdkv2.jysper.net\n- 隐私 9 条：lookup.api.bsb.baidu.com、tracker-prd.aldi.com.cn、\n  logs-bigdata.yeehaw.com.cn、report.dxunion.cn、adash-emas.cn-hangzhou.aliyuncs.com、\n  logv2.ireader.com、eventv1.leidong.rayenergytech.com、\n  union-record.oss-cn-zhangjiakou.aliyuncs.com、report.tencentmusic.com\n- 不受欢迎 4 条：gw5/gw6.push.mcp.weibo.cn、kwpush.kuwo.cn（广告推送通道）、\n  alltbcsp2p.baidu.com（P2P 上传占用）\n- adsmoloco.com、unityads.unity3d.com 改由 domain_suffix 收敛，原有子域条目保留以兼容\n  hosts/Dnsmasq 等不支持后缀匹配的格式\n- 顺带清理 domain_suffix.txt 中 ad.gameley.com、adx.adwangmai.com 的重复行\n\n未收录 5 条：jomodns.com（百度云 CDN 调度域）、ydycdn.com（亿点云 CDN 服务商站点）\n误杀面过大；dahhxxttxs.com、cjjd14.com、ahdohpiechei.com 无法确认归属，待补充证据。\n其余 8 条为规则中已存在的重复提交。
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -15,7 +15,9 @@
 ||8le8le.com^
 ||a0.app.xiaomi.com^
 ||abtest-ch.snssdk.com^
+||ad-api.4pyun.com^
 ||ad-cdn.qingting.fm^
+||ad-files.4pyun.com^
 ||ad-scope.com^
 ||ad-scope.com.cn^
 ||ad-sdk-config.youdao.com^
@@ -24,16 +26,20 @@
 ||ad.12306.cn^
 ||ad.51wnl.com^
 ||ad.api.3g.youku.com^
+||ad.bn.netease.com^
 ||ad.bwton.com^
 ||ad.cctv.com^
 ||ad.cyapi.cn^
 ||ad.doubleclick.net^
+||ad.duoduo.link^
 ||ad.gameley.com^
 ||ad.hpplay.cn^
 ||ad.iot.360.cn^
 ||ad.jia.360.cn^
 ||ad.life.360.cn^
+||ad.maoyan.com^
 ||ad.partner.gifshow.com^
+||ad.player.baidu.com^
 ||ad.qingting.fm^
 ||ad.qq.com^
 ||ad.richmob.cn^
@@ -47,9 +53,12 @@
 ||ad.ximalaya.com^
 ||ad.xunkids.com^
 ||ad.zijieapi.com^
+||ad4.sina.com.cn^
 ||adapi.izuiyou.com^
 ||adapi.yynetwk.com^
+||adbox.sina.com.cn^
 ||adc.hpplay.cn^
+||adcanvas.com^
 ||adcdn.hpplay.cn^
 ||adcdn.tencentmusic.com^
 ||adclick.g.doubleclick.net^
@@ -68,6 +77,8 @@
 ||adks.hpplay.cn^
 ||adlink-api.huan.tv^
 ||adm.funshion.com^
+||admarketing.yahoo.net^
+||admobile.top^
 ||ads-api-o.api.leiniao.com^
 ||ads-api.tiktok.com^
 ||ads-api.twitter.com^
@@ -77,17 +88,20 @@
 ||ads-marketing-vivofs.vivo.com.cn^
 ||ads-sdk-api.ranfenghd.com^
 ||ads-sg.tiktok.com^
+||ads-shopping.shouqianba.com^
 ||ads-video-al.xhscdn.com^
 ||ads-video-qc.xhscdn.com^
 ||ads.95516.com^
 ||ads.adfunlink.com^
 ||ads.auctions.yahoo.com^
 ||ads.cup.com.cn^
+||ads.finance.yahoo.com^
 ||ads.google.cn^
 ||ads.huan.tv^
 ||ads.huantest.com^
 ||ads.icloseli.cn^
 ||ads.inmobi.com^
+||ads.ishansong.com^
 ||ads.linkedin.com^
 ||ads.pinterest.com^
 ||ads.pubmatic.com^
@@ -106,6 +120,7 @@
 ||ads5-normal-lf.zijieapi.com^
 ||ads5-normal-lq.zijieapi.com^
 ||ads5-normal.zijieapi.com^
+||adscdn.baidu.com^
 ||adsdk.vivo.com.cn^
 ||adse.test.ximalaya.com^
 ||adse.wsa.ximalaya.com^
@@ -127,9 +142,12 @@
 ||adsmart.konka.com^
 ||adsmind.gdtimg.com^
 ||adsmind.ugdtimg.com^
+||adsmoloco.com^
 ||adsp.xunlei.com^
+||adspecs.yahoo.com^
 ||adstat.izuiyou.com^
 ||adstats.tencentmusic.com^
+||adstextview.qq.com^
 ||adstore-1252524079.file.myqcloud.com^
 ||adstore-index-1252524079.file.myqcloud.com^
 ||adstrategy.biz.weibo.com^
@@ -160,6 +178,7 @@
 ||adx-drcn.op.dbankcloud.cn^
 ||adx-open-service.youku.com^
 ||adx-os.anythinktech.com^
+||adx-os.bridgeoos.com^
 ||adx-saas.advlion.com^
 ||adx-strategy-api-cn.statisticslinks.com^
 ||adx.ads.heytapmobi.com^
@@ -177,6 +196,7 @@
 ||ali-p2p-v2.pull.yximgs.com^
 ||alicoccdncnc-xn.inter.71edge.com^
 ||alicoccdnct-xn.inter.71edge.com^
+||alltbcsp2p.baidu.com^
 ||als.baidu.com^
 ||amdcopen.m.taobao.com^
 ||an.facebook.com^
@@ -271,6 +291,7 @@
 ||click4.chinaliftoff.io^
 ||cloooud.com^
 ||cn-api.anythinktech.com^
+||commercial.shouji.360.cn^
 ||conf.hpplay.cn^
 ||config.chsmarttv.com^
 ||config.inmobi.com^
@@ -332,6 +353,8 @@
 ||grs.hicloud.com^
 ||gslb.hpplay.cn^
 ||gvideo.qpic.cn^
+||gw5.push.mcp.weibo.cn^
+||gw6.push.mcp.weibo.cn^
 ||h5.hpplay.com.cn^
 ||hanlanad.com^
 ||hc-ssp.sm.cn^
@@ -344,6 +367,8 @@
 ||httpdns.ocloud.oppomobile.com^
 ||huichuan-mc.sm.cn^
 ||huichuan.sm.cn^
+||huodong.ios.shouji.360.cn^
+||huodong.weibo.cn^
 ||hw-ot-ad.a.yximgs.com^
 ||hw-p2p-pull.video-voip.com^
 ||hw-p2p.pull.yximgs.com^
@@ -355,7 +380,9 @@
 ||i.l.inmobicdn.net^
 ||iad.apple.com^
 ||iad.g.163.com^
+||iadcontent.apple.com^
 ||iadctest.qwapi.com^
+||iadmoo.apple.com^
 ||iadmusicmat.music.126.net^
 ||iadsdk.apple.com^
 ||iadworkbench.apple.com^
@@ -372,6 +399,8 @@
 ||impression-asia.chinaliftoff.io^
 ||impression-asia.liftoff.io^
 ||impression.appsflyer.com^
+||init.supersonicads.com^
+||inner-hw.huazirc.com^
 ||irc.qubiankeji.com^
 ||iyfbodn.com^
 ||jiguang.cn^
@@ -385,6 +414,7 @@
 ||ks-p2p.pull.yximgs.com^
 ||ks.ferlytc.com^
 ||ks.pull.yximgs.com^
+||kwpush.kuwo.cn^
 ||l6.fancyapi.com^
 ||launcher.smart-tv.cn^
 ||launcherimg.smart-tv.cn^
@@ -414,6 +444,7 @@
 ||m.ad.zhangyue.com^
 ||m.atm.youku.com^
 ||m.shenshiads.com^
+||m1.ad.10010.com^
 ||mapi.m.jd.com^
 ||masdkv6.3g.qq.com^
 ||medproad.com^
@@ -486,6 +517,7 @@
 ||policy.video.ptqy.gitv.tv^
 ||pos.baidu.com^
 ||prod-mediate-events.applovin.com^
+||prom-sdkv2.jysper.net^
 ||promotion-partner.kuaishou.com^
 ||proxy.advp.apple.com^
 ||public.gdtimg.com^
@@ -627,6 +659,7 @@
 ||uhabo.com^
 ||union.baidu.cn^
 ||union.baidu.com^
+||unityads.unity3d.com^
 ||update.avlyun.sec.miui.com^
 ||update.lejiao.tv^
 ||update0.aiclk.com^
@@ -667,6 +700,7 @@
 ||win.gdt.qq.com^
 ||wn.x.jd.com^
 ||ws.sj.qq.com^
+||ws.tapjoyads.com^
 ||wv.inner-active.mobi^
 ||wwads.cn^
 ||wxa.wxs.qq.com^
@@ -689,15 +723,18 @@
 ||ykad-data.youku.com^
 ||ykad-gateway.youku.com^
 ||ytx-file.110route.cn^
+||yumao.puata.info^
 ||zeus.ad.xiaomi.com^
 ||zjres-ad.kajicam.com^
 ||1rtb.com^
 ||a.market.xiaomi.com^
 ||ad.gameley.com^
 ||adintl.cn^
+||adsmoloco.com^
 ||adx.adwangmai.com^
 ||data.hicloud.com^
 ||ubixioe.com^
+||unityads.unity3d.com^
 ||vlion.cn^
 ||yfanads.com^
 ||zhangyuyidong.cn^

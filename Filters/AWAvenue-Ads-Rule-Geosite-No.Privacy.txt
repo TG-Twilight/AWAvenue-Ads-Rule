@@ -2,9 +2,11 @@
 a.market.xiaomi.com
 ad.gameley.com
 adintl.cn
+adsmoloco.com
 adx.adwangmai.com
 data.hicloud.com
 ubixioe.com
+unityads.unity3d.com
 vlion.cn
 yfanads.com
 zhangyuyidong.cn
@@ -14,7 +16,9 @@ full:1500026601.vodplayer.wxamedia.com
 full:8le8le.com
 full:a0.app.xiaomi.com
 full:abtest-ch.snssdk.com
+full:ad-api.4pyun.com
 full:ad-cdn.qingting.fm
+full:ad-files.4pyun.com
 full:ad-scope.com
 full:ad-scope.com.cn
 full:ad-sdk-config.youdao.com
@@ -23,16 +27,20 @@ full:ad-splash.hktvmall.com
 full:ad.12306.cn
 full:ad.51wnl.com
 full:ad.api.3g.youku.com
+full:ad.bn.netease.com
 full:ad.bwton.com
 full:ad.cctv.com
 full:ad.cyapi.cn
 full:ad.doubleclick.net
+full:ad.duoduo.link
 full:ad.gameley.com
 full:ad.hpplay.cn
 full:ad.iot.360.cn
 full:ad.jia.360.cn
 full:ad.life.360.cn
+full:ad.maoyan.com
 full:ad.partner.gifshow.com
+full:ad.player.baidu.com
 full:ad.qingting.fm
 full:ad.qq.com
 full:ad.richmob.cn
@@ -46,9 +54,12 @@ full:ad.winrar.com.cn
 full:ad.ximalaya.com
 full:ad.xunkids.com
 full:ad.zijieapi.com
+full:ad4.sina.com.cn
 full:adapi.izuiyou.com
 full:adapi.yynetwk.com
+full:adbox.sina.com.cn
 full:adc.hpplay.cn
+full:adcanvas.com
 full:adcdn.hpplay.cn
 full:adcdn.tencentmusic.com
 full:adclick.g.doubleclick.net
@@ -67,6 +78,8 @@ full:adjust.com
 full:adks.hpplay.cn
 full:adlink-api.huan.tv
 full:adm.funshion.com
+full:admarketing.yahoo.net
+full:admobile.top
 full:ads-api-o.api.leiniao.com
 full:ads-api.tiktok.com
 full:ads-api.twitter.com
@@ -76,17 +89,20 @@ full:ads-jp.tiktok.com
 full:ads-marketing-vivofs.vivo.com.cn
 full:ads-sdk-api.ranfenghd.com
 full:ads-sg.tiktok.com
+full:ads-shopping.shouqianba.com
 full:ads-video-al.xhscdn.com
 full:ads-video-qc.xhscdn.com
 full:ads.95516.com
 full:ads.adfunlink.com
 full:ads.auctions.yahoo.com
 full:ads.cup.com.cn
+full:ads.finance.yahoo.com
 full:ads.google.cn
 full:ads.huan.tv
 full:ads.huantest.com
 full:ads.icloseli.cn
 full:ads.inmobi.com
+full:ads.ishansong.com
 full:ads.linkedin.com
 full:ads.pinterest.com
 full:ads.pubmatic.com
@@ -105,6 +121,7 @@ full:ads5-normal-hl.zijieapi.com
 full:ads5-normal-lf.zijieapi.com
 full:ads5-normal-lq.zijieapi.com
 full:ads5-normal.zijieapi.com
+full:adscdn.baidu.com
 full:adsdk.vivo.com.cn
 full:adse.test.ximalaya.com
 full:adse.wsa.ximalaya.com
@@ -126,9 +143,12 @@ full:adslvfile.qq.com
 full:adsmart.konka.com
 full:adsmind.gdtimg.com
 full:adsmind.ugdtimg.com
+full:adsmoloco.com
 full:adsp.xunlei.com
+full:adspecs.yahoo.com
 full:adstat.izuiyou.com
 full:adstats.tencentmusic.com
+full:adstextview.qq.com
 full:adstore-1252524079.file.myqcloud.com
 full:adstore-index-1252524079.file.myqcloud.com
 full:adstrategy.biz.weibo.com
@@ -159,6 +179,7 @@ full:adx-cn.anythinktech.com
 full:adx-drcn.op.dbankcloud.cn
 full:adx-open-service.youku.com
 full:adx-os.anythinktech.com
+full:adx-os.bridgeoos.com
 full:adx-saas.advlion.com
 full:adx-strategy-api-cn.statisticslinks.com
 full:adx.ads.heytapmobi.com
@@ -176,6 +197,7 @@ full:ali-ad.a.yximgs.com
 full:ali-p2p-v2.pull.yximgs.com
 full:alicoccdncnc-xn.inter.71edge.com
 full:alicoccdnct-xn.inter.71edge.com
+full:alltbcsp2p.baidu.com
 full:als.baidu.com
 full:amdcopen.m.taobao.com
 full:an.facebook.com
@@ -270,6 +292,7 @@ full:click.liftoff.io
 full:click4.chinaliftoff.io
 full:cloooud.com
 full:cn-api.anythinktech.com
+full:commercial.shouji.360.cn
 full:conf.hpplay.cn
 full:config.chsmarttv.com
 full:config.inmobi.com
@@ -331,6 +354,8 @@ full:grs.dbankcloud.com
 full:grs.hicloud.com
 full:gslb.hpplay.cn
 full:gvideo.qpic.cn
+full:gw5.push.mcp.weibo.cn
+full:gw6.push.mcp.weibo.cn
 full:h5.hpplay.com.cn
 full:hanlanad.com
 full:hc-ssp.sm.cn
@@ -343,6 +368,8 @@ full:httpdns.bcelive.com
 full:httpdns.ocloud.oppomobile.com
 full:huichuan-mc.sm.cn
 full:huichuan.sm.cn
+full:huodong.ios.shouji.360.cn
+full:huodong.weibo.cn
 full:hw-ot-ad.a.yximgs.com
 full:hw-p2p-pull.video-voip.com
 full:hw-p2p.pull.yximgs.com
@@ -354,7 +381,9 @@ full:i.l-new.inmobicdn.net
 full:i.l.inmobicdn.net
 full:iad.apple.com
 full:iad.g.163.com
+full:iadcontent.apple.com
 full:iadctest.qwapi.com
+full:iadmoo.apple.com
 full:iadmusicmat.music.126.net
 full:iadsdk.apple.com
 full:iadworkbench.apple.com
@@ -371,6 +400,8 @@ full:img2.360buyimg.com
 full:impression-asia.chinaliftoff.io
 full:impression-asia.liftoff.io
 full:impression.appsflyer.com
+full:init.supersonicads.com
+full:inner-hw.huazirc.com
 full:irc.qubiankeji.com
 full:iyfbodn.com
 full:jiguang.cn
@@ -384,6 +415,7 @@ full:ks-p2p-v2.pull.yximgs.com
 full:ks-p2p.pull.yximgs.com
 full:ks.ferlytc.com
 full:ks.pull.yximgs.com
+full:kwpush.kuwo.cn
 full:l6.fancyapi.com
 full:launcher.smart-tv.cn
 full:launcherimg.smart-tv.cn
@@ -413,6 +445,7 @@ full:m-adnet.hiaiabc.com
 full:m.ad.zhangyue.com
 full:m.atm.youku.com
 full:m.shenshiads.com
+full:m1.ad.10010.com
 full:mapi.m.jd.com
 full:masdkv6.3g.qq.com
 full:medproad.com
@@ -485,6 +518,7 @@ full:pms.mb.qq.com
 full:policy.video.ptqy.gitv.tv
 full:pos.baidu.com
 full:prod-mediate-events.applovin.com
+full:prom-sdkv2.jysper.net
 full:promotion-partner.kuaishou.com
 full:proxy.advp.apple.com
 full:public.gdtimg.com
@@ -626,6 +660,7 @@ full:uapi.ads.heytapmobi.com
 full:uhabo.com
 full:union.baidu.cn
 full:union.baidu.com
+full:unityads.unity3d.com
 full:update.avlyun.sec.miui.com
 full:update.lejiao.tv
 full:update0.aiclk.com
@@ -666,6 +701,7 @@ full:wildcard.moatads.com.edgekey.net
 full:win.gdt.qq.com
 full:wn.x.jd.com
 full:ws.sj.qq.com
+full:ws.tapjoyads.com
 full:wv.inner-active.mobi
 full:wwads.cn
 full:wxa.wxs.qq.com
@@ -688,5 +724,6 @@ full:ykad-data.cp31.ott.cibntv.net
 full:ykad-data.youku.com
 full:ykad-gateway.youku.com
 full:ytx-file.110route.cn
+full:yumao.puata.info
 full:zeus.ad.xiaomi.com
 full:zjres-ad.kajicam.com

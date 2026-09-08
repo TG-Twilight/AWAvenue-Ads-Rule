@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule (Only.Ads)
 #--------------------------------------
-#Total lines: 605
+#Total lines: 638
 #Version: 1.7.6-release
-#Update time: 2026-08-20 11:45:33 UTC+8
-#Update content: Remove log.aliyuncs.com from domain suffix #211 close.\n\nRemoved 'log.aliyuncs.com' from the domain suffix list.
+#Update time: 2026-09-08 21:05:48 UTC+8
+#Update content: 新增拦截微博/美图/百度等广告与隐私上报域名，fix #214\n\n来自 #214（@VJMOD iOS 抓包提交，共 57 条）的处理结果：\n\n- 广告 29 条：ad.maoyan.com、ad-api/ad-files.4pyun.com、ads-shopping.shouqianba.com、\n  ads.ishansong.com、ad.duoduo.link、init.supersonicads.com、ws.tapjoyads.com、\n  adcanvas.com、admobile.top、iadcontent/iadmoo.apple.com、3 条 Yahoo 广告域、\n  adstextview.qq.com、adscdn/ad.player.baidu.com、ad.bn.netease.com、\n  ad4/adbox.sina.com.cn、m1.ad.10010.com、adx-os.bridgeoos.com、inner-hw.huazirc.com、\n  commercial/huodong.ios.shouji.360.cn、huodong.weibo.cn、yumao.puata.info、\n  prom-sdkv2.jysper.net\n- 隐私 9 条：lookup.api.bsb.baidu.com、tracker-prd.aldi.com.cn、\n  logs-bigdata.yeehaw.com.cn、report.dxunion.cn、adash-emas.cn-hangzhou.aliyuncs.com、\n  logv2.ireader.com、eventv1.leidong.rayenergytech.com、\n  union-record.oss-cn-zhangjiakou.aliyuncs.com、report.tencentmusic.com\n- 不受欢迎 4 条：gw5/gw6.push.mcp.weibo.cn、kwpush.kuwo.cn（广告推送通道）、\n  alltbcsp2p.baidu.com（P2P 上传占用）\n- adsmoloco.com、unityads.unity3d.com 改由 domain_suffix 收敛，原有子域条目保留以兼容\n  hosts/Dnsmasq 等不支持后缀匹配的格式\n- 顺带清理 domain_suffix.txt 中 ad.gameley.com、adx.adwangmai.com 的重复行\n\n未收录 5 条：jomodns.com（百度云 CDN 调度域）、ydycdn.com（亿点云 CDN 服务商站点）\n误杀面过大；dahhxxttxs.com、cjjd14.com、ahdohpiechei.com 无法确认归属，待补充证据。\n其余 8 条为规则中已存在的重复提交。
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -15,7 +15,9 @@ payload:
   - DOMAIN,1500026601.vodplayer.wxamedia.com
   - DOMAIN,8le8le.com
   - DOMAIN,a0.app.xiaomi.com
+  - DOMAIN,ad-api.4pyun.com
   - DOMAIN,ad-cdn.qingting.fm
+  - DOMAIN,ad-files.4pyun.com
   - DOMAIN,ad-scope.com
   - DOMAIN,ad-scope.com.cn
   - DOMAIN,ad-sdk-config.youdao.com
@@ -24,16 +26,20 @@ payload:
   - DOMAIN,ad.12306.cn
   - DOMAIN,ad.51wnl.com
   - DOMAIN,ad.api.3g.youku.com
+  - DOMAIN,ad.bn.netease.com
   - DOMAIN,ad.bwton.com
   - DOMAIN,ad.cctv.com
   - DOMAIN,ad.cyapi.cn
   - DOMAIN,ad.doubleclick.net
+  - DOMAIN,ad.duoduo.link
   - DOMAIN,ad.gameley.com
   - DOMAIN,ad.hpplay.cn
   - DOMAIN,ad.iot.360.cn
   - DOMAIN,ad.jia.360.cn
   - DOMAIN,ad.life.360.cn
+  - DOMAIN,ad.maoyan.com
   - DOMAIN,ad.partner.gifshow.com
+  - DOMAIN,ad.player.baidu.com
   - DOMAIN,ad.qingting.fm
   - DOMAIN,ad.qq.com
   - DOMAIN,ad.richmob.cn
@@ -47,9 +53,12 @@ payload:
   - DOMAIN,ad.ximalaya.com
   - DOMAIN,ad.xunkids.com
   - DOMAIN,ad.zijieapi.com
+  - DOMAIN,ad4.sina.com.cn
   - DOMAIN,adapi.izuiyou.com
   - DOMAIN,adapi.yynetwk.com
+  - DOMAIN,adbox.sina.com.cn
   - DOMAIN,adc.hpplay.cn
+  - DOMAIN,adcanvas.com
   - DOMAIN,adcdn.hpplay.cn
   - DOMAIN,adcdn.tencentmusic.com
   - DOMAIN,adclick.g.doubleclick.net
@@ -67,6 +76,8 @@ payload:
   - DOMAIN,adks.hpplay.cn
   - DOMAIN,adlink-api.huan.tv
   - DOMAIN,adm.funshion.com
+  - DOMAIN,admarketing.yahoo.net
+  - DOMAIN,admobile.top
   - DOMAIN,ads-api-o.api.leiniao.com
   - DOMAIN,ads-api.tiktok.com
   - DOMAIN,ads-api.twitter.com
@@ -76,17 +87,20 @@ payload:
   - DOMAIN,ads-marketing-vivofs.vivo.com.cn
   - DOMAIN,ads-sdk-api.ranfenghd.com
   - DOMAIN,ads-sg.tiktok.com
+  - DOMAIN,ads-shopping.shouqianba.com
   - DOMAIN,ads-video-al.xhscdn.com
   - DOMAIN,ads-video-qc.xhscdn.com
   - DOMAIN,ads.95516.com
   - DOMAIN,ads.adfunlink.com
   - DOMAIN,ads.auctions.yahoo.com
   - DOMAIN,ads.cup.com.cn
+  - DOMAIN,ads.finance.yahoo.com
   - DOMAIN,ads.google.cn
   - DOMAIN,ads.huan.tv
   - DOMAIN,ads.huantest.com
   - DOMAIN,ads.icloseli.cn
   - DOMAIN,ads.inmobi.com
+  - DOMAIN,ads.ishansong.com
   - DOMAIN,ads.linkedin.com
   - DOMAIN,ads.pinterest.com
   - DOMAIN,ads.pubmatic.com
@@ -105,6 +119,7 @@ payload:
   - DOMAIN,ads5-normal-lf.zijieapi.com
   - DOMAIN,ads5-normal-lq.zijieapi.com
   - DOMAIN,ads5-normal.zijieapi.com
+  - DOMAIN,adscdn.baidu.com
   - DOMAIN,adsdk.vivo.com.cn
   - DOMAIN,adse.test.ximalaya.com
   - DOMAIN,adse.wsa.ximalaya.com
@@ -126,9 +141,12 @@ payload:
   - DOMAIN,adsmart.konka.com
   - DOMAIN,adsmind.gdtimg.com
   - DOMAIN,adsmind.ugdtimg.com
+  - DOMAIN,adsmoloco.com
   - DOMAIN,adsp.xunlei.com
+  - DOMAIN,adspecs.yahoo.com
   - DOMAIN,adstat.izuiyou.com
   - DOMAIN,adstats.tencentmusic.com
+  - DOMAIN,adstextview.qq.com
   - DOMAIN,adstore-1252524079.file.myqcloud.com
   - DOMAIN,adstore-index-1252524079.file.myqcloud.com
   - DOMAIN,adstrategy.biz.weibo.com
@@ -159,6 +177,7 @@ payload:
   - DOMAIN,adx-drcn.op.dbankcloud.cn
   - DOMAIN,adx-open-service.youku.com
   - DOMAIN,adx-os.anythinktech.com
+  - DOMAIN,adx-os.bridgeoos.com
   - DOMAIN,adx-saas.advlion.com
   - DOMAIN,adx-strategy-api-cn.statisticslinks.com
   - DOMAIN,adx.ads.heytapmobi.com
@@ -258,6 +277,7 @@ payload:
   - DOMAIN,click4.chinaliftoff.io
   - DOMAIN,cloooud.com
   - DOMAIN,cn-api.anythinktech.com
+  - DOMAIN,commercial.shouji.360.cn
   - DOMAIN,conf.hpplay.cn
   - DOMAIN,config.chsmarttv.com
   - DOMAIN,config.inmobi.com
@@ -318,6 +338,8 @@ payload:
   - DOMAIN,hpplay.cdn.cibn.cc
   - DOMAIN,huichuan-mc.sm.cn
   - DOMAIN,huichuan.sm.cn
+  - DOMAIN,huodong.ios.shouji.360.cn
+  - DOMAIN,huodong.weibo.cn
   - DOMAIN,hw-ot-ad.a.yximgs.com
   - DOMAIN,hwpub-s01-drcn.cloud.dbankcloud.cn
   - DOMAIN,hybrid.miniapp.taobao.com
@@ -327,7 +349,9 @@ payload:
   - DOMAIN,i.l.inmobicdn.net
   - DOMAIN,iad.apple.com
   - DOMAIN,iad.g.163.com
+  - DOMAIN,iadcontent.apple.com
   - DOMAIN,iadctest.qwapi.com
+  - DOMAIN,iadmoo.apple.com
   - DOMAIN,iadmusicmat.music.126.net
   - DOMAIN,iadsdk.apple.com
   - DOMAIN,iadworkbench.apple.com
@@ -343,6 +367,8 @@ payload:
   - DOMAIN,impression-asia.chinaliftoff.io
   - DOMAIN,impression-asia.liftoff.io
   - DOMAIN,impression.appsflyer.com
+  - DOMAIN,init.supersonicads.com
+  - DOMAIN,inner-hw.huazirc.com
   - DOMAIN,irc.qubiankeji.com
   - DOMAIN,iyfbodn.com
   - DOMAIN,kde.qq.com
@@ -374,6 +400,7 @@ payload:
   - DOMAIN,m.ad.zhangyue.com
   - DOMAIN,m.atm.youku.com
   - DOMAIN,m.shenshiads.com
+  - DOMAIN,m1.ad.10010.com
   - DOMAIN,mapi.m.jd.com
   - DOMAIN,masdkv6.3g.qq.com
   - DOMAIN,medproad.com
@@ -436,6 +463,7 @@ payload:
   - DOMAIN,pms.mb.qq.com
   - DOMAIN,pos.baidu.com
   - DOMAIN,prod-mediate-events.applovin.com
+  - DOMAIN,prom-sdkv2.jysper.net
   - DOMAIN,promotion-partner.kuaishou.com
   - DOMAIN,proxy.advp.apple.com
   - DOMAIN,public.gdtimg.com
@@ -545,6 +573,7 @@ payload:
   - DOMAIN,uapi.ads.heytapmobi.com
   - DOMAIN,union.baidu.cn
   - DOMAIN,union.baidu.com
+  - DOMAIN,unityads.unity3d.com
   - DOMAIN,update0.aiclk.com
   - DOMAIN,us.l.qq.com
   - DOMAIN,usr-api.aiclk.com
@@ -577,6 +606,7 @@ payload:
   - DOMAIN,wildcard.moatads.com.edgekey.net
   - DOMAIN,win.gdt.qq.com
   - DOMAIN,wn.x.jd.com
+  - DOMAIN,ws.tapjoyads.com
   - DOMAIN,wv.inner-active.mobi
   - DOMAIN,wwads.cn
   - DOMAIN,wxa.wxs.qq.com
@@ -598,15 +628,18 @@ payload:
   - DOMAIN,ykad-data.youku.com
   - DOMAIN,ykad-gateway.youku.com
   - DOMAIN,ytx-file.110route.cn
+  - DOMAIN,yumao.puata.info
   - DOMAIN,zeus.ad.xiaomi.com
   - DOMAIN,zjres-ad.kajicam.com
   - DOMAIN-SUFFIX,1rtb.com
   - DOMAIN-SUFFIX,a.market.xiaomi.com
   - DOMAIN-SUFFIX,ad.gameley.com
   - DOMAIN-SUFFIX,adintl.cn
+  - DOMAIN-SUFFIX,adsmoloco.com
   - DOMAIN-SUFFIX,adx.adwangmai.com
   - DOMAIN-SUFFIX,data.hicloud.com
   - DOMAIN-SUFFIX,ubixioe.com
+  - DOMAIN-SUFFIX,unityads.unity3d.com
   - DOMAIN-SUFFIX,vlion.cn
   - DOMAIN-SUFFIX,yfanads.com
   - DOMAIN-SUFFIX,zhangyuyidong.cn
