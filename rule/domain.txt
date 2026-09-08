@@ -3,7 +3,9 @@
 1500026601.vodplayer.wxamedia.com
 8le8le.com
 a0.app.xiaomi.com
+ad-api.4pyun.com
 ad-cdn.qingting.fm
+ad-files.4pyun.com
 ad-scope.com
 ad-scope.com.cn
 ad-sdk-config.youdao.com
@@ -12,16 +14,20 @@ ad-splash.hktvmall.com
 ad.12306.cn
 ad.51wnl.com
 ad.api.3g.youku.com
+ad.bn.netease.com
 ad.bwton.com
 ad.cctv.com
 ad.cyapi.cn
 ad.doubleclick.net
+ad.duoduo.link
 ad.gameley.com
 ad.hpplay.cn
 ad.iot.360.cn
 ad.jia.360.cn
 ad.life.360.cn
+ad.maoyan.com
 ad.partner.gifshow.com
+ad.player.baidu.com
 ad.qingting.fm
 ad.qq.com
 ad.richmob.cn
@@ -35,9 +41,12 @@ ad.winrar.com.cn
 ad.ximalaya.com
 ad.xunkids.com
 ad.zijieapi.com
+ad4.sina.com.cn
 adapi.izuiyou.com
 adapi.yynetwk.com
+adbox.sina.com.cn
 adc.hpplay.cn
+adcanvas.com
 adcdn.hpplay.cn
 adcdn.tencentmusic.com
 adclick.g.doubleclick.net
@@ -55,6 +64,8 @@ adjust.com
 adks.hpplay.cn
 adlink-api.huan.tv
 adm.funshion.com
+admarketing.yahoo.net
+admobile.top
 ads-api-o.api.leiniao.com
 ads-api.tiktok.com
 ads-api.twitter.com
@@ -64,17 +75,20 @@ ads-jp.tiktok.com
 ads-marketing-vivofs.vivo.com.cn
 ads-sdk-api.ranfenghd.com
 ads-sg.tiktok.com
+ads-shopping.shouqianba.com
 ads-video-al.xhscdn.com
 ads-video-qc.xhscdn.com
 ads.95516.com
 ads.adfunlink.com
 ads.auctions.yahoo.com
 ads.cup.com.cn
+ads.finance.yahoo.com
 ads.google.cn
 ads.huan.tv
 ads.huantest.com
 ads.icloseli.cn
 ads.inmobi.com
+ads.ishansong.com
 ads.linkedin.com
 ads.pinterest.com
 ads.pubmatic.com
@@ -93,6 +107,7 @@ ads5-normal-hl.zijieapi.com
 ads5-normal-lf.zijieapi.com
 ads5-normal-lq.zijieapi.com
 ads5-normal.zijieapi.com
+adscdn.baidu.com
 adsdk.vivo.com.cn
 adse.test.ximalaya.com
 adse.wsa.ximalaya.com
@@ -114,9 +129,12 @@ adslvfile.qq.com
 adsmart.konka.com
 adsmind.gdtimg.com
 adsmind.ugdtimg.com
+adsmoloco.com
 adsp.xunlei.com
+adspecs.yahoo.com
 adstat.izuiyou.com
 adstats.tencentmusic.com
+adstextview.qq.com
 adstore-1252524079.file.myqcloud.com
 adstore-index-1252524079.file.myqcloud.com
 adstrategy.biz.weibo.com
@@ -147,6 +165,7 @@ adx-cn.anythinktech.com
 adx-drcn.op.dbankcloud.cn
 adx-open-service.youku.com
 adx-os.anythinktech.com
+adx-os.bridgeoos.com
 adx-saas.advlion.com
 adx-strategy-api-cn.statisticslinks.com
 adx.ads.heytapmobi.com
@@ -246,6 +265,7 @@ click.liftoff.io
 click4.chinaliftoff.io
 cloooud.com
 cn-api.anythinktech.com
+commercial.shouji.360.cn
 conf.hpplay.cn
 config.chsmarttv.com
 config.inmobi.com
@@ -306,6 +326,8 @@ houyi.kkmh.com
 hpplay.cdn.cibn.cc
 huichuan-mc.sm.cn
 huichuan.sm.cn
+huodong.ios.shouji.360.cn
+huodong.weibo.cn
 hw-ot-ad.a.yximgs.com
 hwpub-s01-drcn.cloud.dbankcloud.cn
 hybrid.miniapp.taobao.com
@@ -315,7 +337,9 @@ i.l-new.inmobicdn.net
 i.l.inmobicdn.net
 iad.apple.com
 iad.g.163.com
+iadcontent.apple.com
 iadctest.qwapi.com
+iadmoo.apple.com
 iadmusicmat.music.126.net
 iadsdk.apple.com
 iadworkbench.apple.com
@@ -331,6 +355,8 @@ img2.360buyimg.com
 impression-asia.chinaliftoff.io
 impression-asia.liftoff.io
 impression.appsflyer.com
+init.supersonicads.com
+inner-hw.huazirc.com
 irc.qubiankeji.com
 iyfbodn.com
 kde.qq.com
@@ -362,6 +388,7 @@ m-adnet.hiaiabc.com
 m.ad.zhangyue.com
 m.atm.youku.com
 m.shenshiads.com
+m1.ad.10010.com
 mapi.m.jd.com
 masdkv6.3g.qq.com
 medproad.com
@@ -424,6 +451,7 @@ pixon.ads-pixiv.net
 pms.mb.qq.com
 pos.baidu.com
 prod-mediate-events.applovin.com
+prom-sdkv2.jysper.net
 promotion-partner.kuaishou.com
 proxy.advp.apple.com
 public.gdtimg.com
@@ -533,6 +561,7 @@ tytx.m.cn.miaozhen.com
 uapi.ads.heytapmobi.com
 union.baidu.cn
 union.baidu.com
+unityads.unity3d.com
 update0.aiclk.com
 us.l.qq.com
 usr-api.aiclk.com
@@ -565,6 +594,7 @@ widgets.outbrain.com
 wildcard.moatads.com.edgekey.net
 win.gdt.qq.com
 wn.x.jd.com
+ws.tapjoyads.com
 wv.inner-active.mobi
 wwads.cn
 wxa.wxs.qq.com
@@ -586,5 +616,6 @@ ykad-data.cp31.ott.cibntv.net
 ykad-data.youku.com
 ykad-gateway.youku.com
 ytx-file.110route.cn
+yumao.puata.info
 zeus.ad.xiaomi.com
 zjres-ad.kajicam.com

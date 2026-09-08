@@ -1,6 +1,7 @@
 abtest-ch.snssdk.com
 adfilter.imtt.qq.com
 ali-p2p-v2.pull.yximgs.com
+alltbcsp2p.baidu.com
 amdcopen.m.taobao.com
 apd-pcdnwxlogin.teg.tencent-cloud.net
 apd-pcdnwxnat.teg.tencent-cloud.net
@@ -22,6 +23,8 @@ game.loveota.com
 getui.cn
 grs.dbankcloud.com
 grs.hicloud.com
+gw5.push.mcp.weibo.cn
+gw6.push.mcp.weibo.cn
 hotupgrade.hpplay.cn
 httpdns.bcelive.com
 httpdns.ocloud.oppomobile.com
@@ -35,6 +38,7 @@ jpush.io
 ks-p2p-v2.pull.yximgs.com
 ks-p2p.pull.yximgs.com
 ks.pull.yximgs.com
+kwpush.kuwo.cn
 livep.l.aiseet.atianqi.com
 lives.l.aiseet.atianqi.com
 lives.l.ott.video.qq.com
