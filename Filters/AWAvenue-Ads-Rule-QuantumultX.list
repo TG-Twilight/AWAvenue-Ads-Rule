@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 947
+#Total lines: 954
 #Version: 1.7.6-release
-#Update time: 2026-09-09 23:12:52 UTC+8
-#Update content: 更正safebrowsing.urlsec域名后缀gg.com为qq.com，fix #213，感谢@VJMOD
+#Update time: 2026-09-09 23:25:50 UTC+8
+#Update content: 新增拦截vivo广告日志/请求/素材域名7条，fix #205，感谢@woshidadi2026
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -82,9 +82,11 @@ DOMAIN,adjust.cn,reject
 DOMAIN,adjust.com,reject
 DOMAIN,adks.hpplay.cn,reject
 DOMAIN,adlink-api.huan.tv,reject
+DOMAIN,adlog.vivo.com.cn,reject
 DOMAIN,adm.funshion.com,reject
 DOMAIN,admarketing.yahoo.net,reject
 DOMAIN,admobile.top,reject
+DOMAIN,adreq.vivo.com.cn,reject
 DOMAIN,ads-api-o.api.leiniao.com,reject
 DOMAIN,ads-api.tiktok.com,reject
 DOMAIN,ads-api.twitter.com,reject
@@ -193,7 +195,9 @@ DOMAIN,adx.appsdk.com.cn,reject
 DOMAIN,adx.sogaha.cn,reject
 DOMAIN,adx.tuia.cn,reject
 DOMAIN,adxlog-adnet.vivo.com.cn,reject
+DOMAIN,adxlog.vivo.com.cn,reject
 DOMAIN,adxserver.ad.cmvideo.cn,reject
+DOMAIN,adxstatic.vivo.com.cn,reject
 DOMAIN,aegis.qq.com,reject
 DOMAIN,aem.dentsuchina.cn,reject
 DOMAIN,afs.googlesyndication.com,reject
@@ -294,6 +298,7 @@ DOMAIN,bj-td-menta-01-callback.advlion.com,reject
 DOMAIN,bj.ad.track.66mobi.com,reject
 DOMAIN,books-analytics-events.apple.com,reject
 DOMAIN,bootpreload.uve.weibo.com,reject
+DOMAIN,brandadsstatic.vivo.com.cn,reject
 DOMAIN,browser.events.data.msn.cn,reject
 DOMAIN,browser.events.data.msn.com,reject
 DOMAIN,browsercfg-drcn.cloud.dbankcloud.cn,reject
@@ -369,6 +374,7 @@ DOMAIN,download.changhong.upgrade2.huan.tv,reject
 DOMAIN,downloadxml.changhong.upgrade2.huan.tv,reject
 DOMAIN,dsp-x.jd.com,reject
 DOMAIN,dsp.fcbox.com,reject
+DOMAIN,dsplog-adnet.vivo.com.cn,reject
 DOMAIN,dualstack-logs.amap.com,reject
 DOMAIN,dxp.baidu.com,reject
 DOMAIN,dyp2p-ali.douyucdn.cn,reject
@@ -835,6 +841,7 @@ DOMAIN,track.uc.cn,reject
 DOMAIN,tracker-prd.aldi.com.cn,reject
 DOMAIN,tracker.ai.xiaomi.com,reject
 DOMAIN,tracker.gitee.com,reject
+DOMAIN,tracking-adnet.vivo.com.cn,reject
 DOMAIN,tracking.miui.com,reject
 DOMAIN,tracking.rus.miui.com,reject
 DOMAIN,tuiguang.meitu.com,reject

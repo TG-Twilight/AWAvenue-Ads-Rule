@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule (No.Privacy)
 #--------------------------------------
-#Total lines: 717
+#Total lines: 724
 #Version: 1.7.6-release
-#Update time: 2026-09-09 23:12:52 UTC+8
-#Update content: 更正safebrowsing.urlsec域名后缀gg.com为qq.com，fix #213，感谢@VJMOD
+#Update time: 2026-09-09 23:25:50 UTC+8
+#Update content: 新增拦截vivo广告日志/请求/素材域名7条，fix #205，感谢@woshidadi2026
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -79,9 +79,11 @@ domain, adjust.cn
 domain, adjust.com
 domain, adks.hpplay.cn
 domain, adlink-api.huan.tv
+domain, adlog.vivo.com.cn
 domain, adm.funshion.com
 domain, admarketing.yahoo.net
 domain, admobile.top
+domain, adreq.vivo.com.cn
 domain, ads-api-o.api.leiniao.com
 domain, ads-api.tiktok.com
 domain, ads-api.twitter.com
@@ -190,7 +192,9 @@ domain, adx.appsdk.com.cn
 domain, adx.sogaha.cn
 domain, adx.tuia.cn
 domain, adxlog-adnet.vivo.com.cn
+domain, adxlog.vivo.com.cn
 domain, adxserver.ad.cmvideo.cn
+domain, adxstatic.vivo.com.cn
 domain, aem.dentsuchina.cn
 domain, afs.googlesyndication.com
 domain, agn.aty.sohu.com
@@ -262,6 +266,7 @@ domain, biz.weibo.com
 domain, bj-td-menta-01-callback.advlion.com
 domain, bj.ad.track.66mobi.com
 domain, bootpreload.uve.weibo.com
+domain, brandadsstatic.vivo.com.cn
 domain, browsercfg-drcn.cloud.dbankcloud.cn
 domain, bsrv.qq.com
 domain, business-api.tiktok.com
@@ -316,6 +321,7 @@ domain, download.changhong.upgrade2.huan.tv
 domain, downloadxml.changhong.upgrade2.huan.tv
 domain, dsp-x.jd.com
 domain, dsp.fcbox.com
+domain, dsplog-adnet.vivo.com.cn
 domain, dxp.baidu.com
 domain, dyp2p-ali.douyucdn.cn
 domain, dyp2p-hw.douyucdn.cn
@@ -651,6 +657,7 @@ domain, trace.aqyad.com
 domain, tracelog-debug.aiclk.com
 domain, tracelog-debug.qquanquan.com
 domain, tracelog-debug.yunxish.com
+domain, tracking-adnet.vivo.com.cn
 domain, tuiguang.meitu.com
 domain, tvapp.hpplay.cn
 domain, tx-ad.a.yximgs.com

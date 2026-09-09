@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2026-09-09 23:12:52 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2026-09-09 23:25:50 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -79,9 +79,11 @@ DOMAIN,adjust.cn,REJECT,extended-matching,pre-matching
 DOMAIN,adjust.com,REJECT,extended-matching,pre-matching
 DOMAIN,adks.hpplay.cn,REJECT,extended-matching,pre-matching
 DOMAIN,adlink-api.huan.tv,REJECT,extended-matching,pre-matching
+DOMAIN,adlog.vivo.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,adm.funshion.com,REJECT,extended-matching,pre-matching
 DOMAIN,admarketing.yahoo.net,REJECT,extended-matching,pre-matching
 DOMAIN,admobile.top,REJECT,extended-matching,pre-matching
+DOMAIN,adreq.vivo.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,ads-api-o.api.leiniao.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads-api.tiktok.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads-api.twitter.com,REJECT,extended-matching,pre-matching
@@ -190,7 +192,9 @@ DOMAIN,adx.appsdk.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,adx.sogaha.cn,REJECT,extended-matching,pre-matching
 DOMAIN,adx.tuia.cn,REJECT,extended-matching,pre-matching
 DOMAIN,adxlog-adnet.vivo.com.cn,REJECT,extended-matching,pre-matching
+DOMAIN,adxlog.vivo.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,adxserver.ad.cmvideo.cn,REJECT,extended-matching,pre-matching
+DOMAIN,adxstatic.vivo.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,aegis.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,aem.dentsuchina.cn,REJECT,extended-matching,pre-matching
 DOMAIN,afs.googlesyndication.com,REJECT,extended-matching,pre-matching
@@ -291,6 +295,7 @@ DOMAIN,bj-td-menta-01-callback.advlion.com,REJECT,extended-matching,pre-matching
 DOMAIN,bj.ad.track.66mobi.com,REJECT,extended-matching,pre-matching
 DOMAIN,books-analytics-events.apple.com,REJECT,extended-matching,pre-matching
 DOMAIN,bootpreload.uve.weibo.com,REJECT,extended-matching,pre-matching
+DOMAIN,brandadsstatic.vivo.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,browser.events.data.msn.cn,REJECT,extended-matching,pre-matching
 DOMAIN,browser.events.data.msn.com,REJECT,extended-matching,pre-matching
 DOMAIN,browsercfg-drcn.cloud.dbankcloud.cn,REJECT,extended-matching,pre-matching
@@ -366,6 +371,7 @@ DOMAIN,download.changhong.upgrade2.huan.tv,REJECT,extended-matching,pre-matching
 DOMAIN,downloadxml.changhong.upgrade2.huan.tv,REJECT,extended-matching,pre-matching
 DOMAIN,dsp-x.jd.com,REJECT,extended-matching,pre-matching
 DOMAIN,dsp.fcbox.com,REJECT,extended-matching,pre-matching
+DOMAIN,dsplog-adnet.vivo.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,dualstack-logs.amap.com,REJECT,extended-matching,pre-matching
 DOMAIN,dxp.baidu.com,REJECT,extended-matching,pre-matching
 DOMAIN,dyp2p-ali.douyucdn.cn,REJECT,extended-matching,pre-matching
@@ -832,6 +838,7 @@ DOMAIN,track.uc.cn,REJECT,extended-matching,pre-matching
 DOMAIN,tracker-prd.aldi.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,tracker.ai.xiaomi.com,REJECT,extended-matching,pre-matching
 DOMAIN,tracker.gitee.com,REJECT,extended-matching,pre-matching
+DOMAIN,tracking-adnet.vivo.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,tracking.miui.com,REJECT,extended-matching,pre-matching
 DOMAIN,tracking.rus.miui.com,REJECT,extended-matching,pre-matching
 DOMAIN,tuiguang.meitu.com,REJECT,extended-matching,pre-matching

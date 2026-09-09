@@ -81,9 +81,11 @@ full:adjust.cn
 full:adjust.com
 full:adks.hpplay.cn
 full:adlink-api.huan.tv
+full:adlog.vivo.com.cn
 full:adm.funshion.com
 full:admarketing.yahoo.net
 full:admobile.top
+full:adreq.vivo.com.cn
 full:ads-api-o.api.leiniao.com
 full:ads-api.tiktok.com
 full:ads-api.twitter.com
@@ -192,7 +194,9 @@ full:adx.appsdk.com.cn
 full:adx.sogaha.cn
 full:adx.tuia.cn
 full:adxlog-adnet.vivo.com.cn
+full:adxlog.vivo.com.cn
 full:adxserver.ad.cmvideo.cn
+full:adxstatic.vivo.com.cn
 full:aegis.qq.com
 full:aem.dentsuchina.cn
 full:afs.googlesyndication.com
@@ -284,6 +288,7 @@ full:bj-td-menta-01-callback.advlion.com
 full:bj.ad.track.66mobi.com
 full:books-analytics-events.apple.com
 full:bootpreload.uve.weibo.com
+full:brandadsstatic.vivo.com.cn
 full:browser.events.data.msn.cn
 full:browser.events.data.msn.com
 full:bsrv.qq.com
@@ -351,6 +356,7 @@ full:dlogs.bwton.com
 full:doubleclick-cn.net
 full:dsp-x.jd.com
 full:dsp.fcbox.com
+full:dsplog-adnet.vivo.com.cn
 full:dualstack-logs.amap.com
 full:dxp.baidu.com
 full:e.ad.xiaomi.com
@@ -753,6 +759,7 @@ full:track.uc.cn
 full:tracker-prd.aldi.com.cn
 full:tracker.ai.xiaomi.com
 full:tracker.gitee.com
+full:tracking-adnet.vivo.com.cn
 full:tracking.miui.com
 full:tracking.rus.miui.com
 full:tuiguang.meitu.com

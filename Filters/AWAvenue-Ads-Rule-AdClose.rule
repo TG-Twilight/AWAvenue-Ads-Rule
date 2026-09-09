@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 931
+#Total lines: 938
 #Version: 1.7.6-release
-#Update time: 2026-09-09 23:12:51 UTC+8
-#Update content: 更正safebrowsing.urlsec域名后缀gg.com为qq.com，fix #213，感谢@VJMOD
+#Update time: 2026-09-09 23:25:50 UTC+8
+#Update content: 新增拦截vivo广告日志/请求/素材域名7条，fix #205，感谢@woshidadi2026
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -85,9 +85,11 @@ domain, adjust.cn
 domain, adjust.com
 domain, adks.hpplay.cn
 domain, adlink-api.huan.tv
+domain, adlog.vivo.com.cn
 domain, adm.funshion.com
 domain, admarketing.yahoo.net
 domain, admobile.top
+domain, adreq.vivo.com.cn
 domain, ads-api-o.api.leiniao.com
 domain, ads-api.tiktok.com
 domain, ads-api.twitter.com
@@ -196,7 +198,9 @@ domain, adx.appsdk.com.cn
 domain, adx.sogaha.cn
 domain, adx.tuia.cn
 domain, adxlog-adnet.vivo.com.cn
+domain, adxlog.vivo.com.cn
 domain, adxserver.ad.cmvideo.cn
+domain, adxstatic.vivo.com.cn
 domain, aegis.qq.com
 domain, aem.dentsuchina.cn
 domain, afs.googlesyndication.com
@@ -297,6 +301,7 @@ domain, bj-td-menta-01-callback.advlion.com
 domain, bj.ad.track.66mobi.com
 domain, books-analytics-events.apple.com
 domain, bootpreload.uve.weibo.com
+domain, brandadsstatic.vivo.com.cn
 domain, browser.events.data.msn.cn
 domain, browser.events.data.msn.com
 domain, browsercfg-drcn.cloud.dbankcloud.cn
@@ -372,6 +377,7 @@ domain, download.changhong.upgrade2.huan.tv
 domain, downloadxml.changhong.upgrade2.huan.tv
 domain, dsp-x.jd.com
 domain, dsp.fcbox.com
+domain, dsplog-adnet.vivo.com.cn
 domain, dualstack-logs.amap.com
 domain, dxp.baidu.com
 domain, dyp2p-ali.douyucdn.cn
@@ -838,6 +844,7 @@ domain, track.uc.cn
 domain, tracker-prd.aldi.com.cn
 domain, tracker.ai.xiaomi.com
 domain, tracker.gitee.com
+domain, tracking-adnet.vivo.com.cn
 domain, tracking.miui.com
 domain, tracking.rus.miui.com
 domain, tuiguang.meitu.com

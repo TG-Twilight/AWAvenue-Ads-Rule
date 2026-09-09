@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule (No.Unwelcome)
 #--------------------------------------
-#Total lines: 847
+#Total lines: 854
 #Version: 1.7.6-release
-#Update time: 2026-09-09 23:12:52 UTC+8
-#Update content: 更正safebrowsing.urlsec域名后缀gg.com为qq.com，fix #213，感谢@VJMOD
+#Update time: 2026-09-09 23:25:51 UTC+8
+#Update content: 新增拦截vivo广告日志/请求/素材域名7条，fix #205，感谢@woshidadi2026
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -81,9 +81,11 @@ payload:
   - 'adjust.com'
   - 'adks.hpplay.cn'
   - 'adlink-api.huan.tv'
+  - 'adlog.vivo.com.cn'
   - 'adm.funshion.com'
   - 'admarketing.yahoo.net'
   - 'admobile.top'
+  - 'adreq.vivo.com.cn'
   - 'ads-api-o.api.leiniao.com'
   - 'ads-api.tiktok.com'
   - 'ads-api.twitter.com'
@@ -192,7 +194,9 @@ payload:
   - 'adx.sogaha.cn'
   - 'adx.tuia.cn'
   - 'adxlog-adnet.vivo.com.cn'
+  - 'adxlog.vivo.com.cn'
   - 'adxserver.ad.cmvideo.cn'
+  - 'adxstatic.vivo.com.cn'
   - 'aegis.qq.com'
   - 'aem.dentsuchina.cn'
   - 'afs.googlesyndication.com'
@@ -284,6 +288,7 @@ payload:
   - 'bj.ad.track.66mobi.com'
   - 'books-analytics-events.apple.com'
   - 'bootpreload.uve.weibo.com'
+  - 'brandadsstatic.vivo.com.cn'
   - 'browser.events.data.msn.cn'
   - 'browser.events.data.msn.com'
   - 'bsrv.qq.com'
@@ -351,6 +356,7 @@ payload:
   - 'doubleclick-cn.net'
   - 'dsp-x.jd.com'
   - 'dsp.fcbox.com'
+  - 'dsplog-adnet.vivo.com.cn'
   - 'dualstack-logs.amap.com'
   - 'dxp.baidu.com'
   - 'e.ad.xiaomi.com'
@@ -753,6 +759,7 @@ payload:
   - 'tracker-prd.aldi.com.cn'
   - 'tracker.ai.xiaomi.com'
   - 'tracker.gitee.com'
+  - 'tracking-adnet.vivo.com.cn'
   - 'tracking.miui.com'
   - 'tracking.rus.miui.com'
   - 'tuiguang.meitu.com'

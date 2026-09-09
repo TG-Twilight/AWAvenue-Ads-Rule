@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule (Only.Ads)
 !--------------------------------------
-!Total lines: 1242
+!Total lines: 1256
 !Version: 1.7.6-release
-!Update time: 2026-09-09 23:12:52 UTC+8
-!Update content: 更正safebrowsing.urlsec域名后缀gg.com为qq.com，fix #213，感谢@VJMOD
+!Update time: 2026-09-09 23:25:50 UTC+8
+!Update content: 新增拦截vivo广告日志/请求/素材域名7条，fix #205，感谢@woshidadi2026
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -139,12 +139,16 @@ ip dns static add address=240.0.0.1 name=adks.hpplay.cn
 ip dns static add address=:: name=adks.hpplay.cn
 ip dns static add address=240.0.0.1 name=adlink-api.huan.tv
 ip dns static add address=:: name=adlink-api.huan.tv
+ip dns static add address=240.0.0.1 name=adlog.vivo.com.cn
+ip dns static add address=:: name=adlog.vivo.com.cn
 ip dns static add address=240.0.0.1 name=adm.funshion.com
 ip dns static add address=:: name=adm.funshion.com
 ip dns static add address=240.0.0.1 name=admarketing.yahoo.net
 ip dns static add address=:: name=admarketing.yahoo.net
 ip dns static add address=240.0.0.1 name=admobile.top
 ip dns static add address=:: name=admobile.top
+ip dns static add address=240.0.0.1 name=adreq.vivo.com.cn
+ip dns static add address=:: name=adreq.vivo.com.cn
 ip dns static add address=240.0.0.1 name=ads-api-o.api.leiniao.com
 ip dns static add address=:: name=ads-api-o.api.leiniao.com
 ip dns static add address=240.0.0.1 name=ads-api.tiktok.com
@@ -361,8 +365,12 @@ ip dns static add address=240.0.0.1 name=adx.tuia.cn
 ip dns static add address=:: name=adx.tuia.cn
 ip dns static add address=240.0.0.1 name=adxlog-adnet.vivo.com.cn
 ip dns static add address=:: name=adxlog-adnet.vivo.com.cn
+ip dns static add address=240.0.0.1 name=adxlog.vivo.com.cn
+ip dns static add address=:: name=adxlog.vivo.com.cn
 ip dns static add address=240.0.0.1 name=adxserver.ad.cmvideo.cn
 ip dns static add address=:: name=adxserver.ad.cmvideo.cn
+ip dns static add address=240.0.0.1 name=adxstatic.vivo.com.cn
+ip dns static add address=:: name=adxstatic.vivo.com.cn
 ip dns static add address=240.0.0.1 name=aem.dentsuchina.cn
 ip dns static add address=:: name=aem.dentsuchina.cn
 ip dns static add address=240.0.0.1 name=afs.googlesyndication.com
@@ -487,6 +495,8 @@ ip dns static add address=240.0.0.1 name=bj.ad.track.66mobi.com
 ip dns static add address=:: name=bj.ad.track.66mobi.com
 ip dns static add address=240.0.0.1 name=bootpreload.uve.weibo.com
 ip dns static add address=:: name=bootpreload.uve.weibo.com
+ip dns static add address=240.0.0.1 name=brandadsstatic.vivo.com.cn
+ip dns static add address=:: name=brandadsstatic.vivo.com.cn
 ip dns static add address=240.0.0.1 name=bsrv.qq.com
 ip dns static add address=:: name=bsrv.qq.com
 ip dns static add address=240.0.0.1 name=business-api.tiktok.com
@@ -579,6 +589,8 @@ ip dns static add address=240.0.0.1 name=dsp-x.jd.com
 ip dns static add address=:: name=dsp-x.jd.com
 ip dns static add address=240.0.0.1 name=dsp.fcbox.com
 ip dns static add address=:: name=dsp.fcbox.com
+ip dns static add address=240.0.0.1 name=dsplog-adnet.vivo.com.cn
+ip dns static add address=:: name=dsplog-adnet.vivo.com.cn
 ip dns static add address=240.0.0.1 name=dxp.baidu.com
 ip dns static add address=:: name=dxp.baidu.com
 ip dns static add address=240.0.0.1 name=e.ad.xiaomi.com
@@ -1121,6 +1133,8 @@ ip dns static add address=240.0.0.1 name=tracelog-debug.qquanquan.com
 ip dns static add address=:: name=tracelog-debug.qquanquan.com
 ip dns static add address=240.0.0.1 name=tracelog-debug.yunxish.com
 ip dns static add address=:: name=tracelog-debug.yunxish.com
+ip dns static add address=240.0.0.1 name=tracking-adnet.vivo.com.cn
+ip dns static add address=:: name=tracking-adnet.vivo.com.cn
 ip dns static add address=240.0.0.1 name=tuiguang.meitu.com
 ip dns static add address=:: name=tuiguang.meitu.com
 ip dns static add address=240.0.0.1 name=tvapp.hpplay.cn

@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule (Only.Ads)
 !--------------------------------------
-!Total lines: 1242
+!Total lines: 1256
 !Version: 1.7.6-release
-!Update time: 2026-09-09 23:12:52 UTC+8
-!Update content: 更正safebrowsing.urlsec域名后缀gg.com为qq.com，fix #213，感谢@VJMOD
+!Update time: 2026-09-09 23:25:50 UTC+8
+!Update content: 新增拦截vivo广告日志/请求/素材域名7条，fix #205，感谢@woshidadi2026
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -143,12 +143,16 @@
 :: adks.hpplay.cn
 0.0.0.0 adlink-api.huan.tv
 :: adlink-api.huan.tv
+0.0.0.0 adlog.vivo.com.cn
+:: adlog.vivo.com.cn
 0.0.0.0 adm.funshion.com
 :: adm.funshion.com
 0.0.0.0 admarketing.yahoo.net
 :: admarketing.yahoo.net
 0.0.0.0 admobile.top
 :: admobile.top
+0.0.0.0 adreq.vivo.com.cn
+:: adreq.vivo.com.cn
 0.0.0.0 ads-api-o.api.leiniao.com
 :: ads-api-o.api.leiniao.com
 0.0.0.0 ads-api.tiktok.com
@@ -365,8 +369,12 @@
 :: adx.tuia.cn
 0.0.0.0 adxlog-adnet.vivo.com.cn
 :: adxlog-adnet.vivo.com.cn
+0.0.0.0 adxlog.vivo.com.cn
+:: adxlog.vivo.com.cn
 0.0.0.0 adxserver.ad.cmvideo.cn
 :: adxserver.ad.cmvideo.cn
+0.0.0.0 adxstatic.vivo.com.cn
+:: adxstatic.vivo.com.cn
 0.0.0.0 aem.dentsuchina.cn
 :: aem.dentsuchina.cn
 0.0.0.0 afs.googlesyndication.com
@@ -491,6 +499,8 @@
 :: bj.ad.track.66mobi.com
 0.0.0.0 bootpreload.uve.weibo.com
 :: bootpreload.uve.weibo.com
+0.0.0.0 brandadsstatic.vivo.com.cn
+:: brandadsstatic.vivo.com.cn
 0.0.0.0 bsrv.qq.com
 :: bsrv.qq.com
 0.0.0.0 business-api.tiktok.com
@@ -583,6 +593,8 @@
 :: dsp-x.jd.com
 0.0.0.0 dsp.fcbox.com
 :: dsp.fcbox.com
+0.0.0.0 dsplog-adnet.vivo.com.cn
+:: dsplog-adnet.vivo.com.cn
 0.0.0.0 dxp.baidu.com
 :: dxp.baidu.com
 0.0.0.0 e.ad.xiaomi.com
@@ -1125,6 +1137,8 @@
 :: tracelog-debug.qquanquan.com
 0.0.0.0 tracelog-debug.yunxish.com
 :: tracelog-debug.yunxish.com
+0.0.0.0 tracking-adnet.vivo.com.cn
+:: tracking-adnet.vivo.com.cn
 0.0.0.0 tuiguang.meitu.com
 :: tuiguang.meitu.com
 0.0.0.0 tvapp.hpplay.cn
