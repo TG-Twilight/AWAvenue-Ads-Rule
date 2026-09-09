@@ -649,7 +649,7 @@ full:s.amazon-adsystem.com
 full:s1.cdn-sg.advlion.com
 full:s8t.teads.tv
 full:saad.ms.zhangyue.net
-full:safebrowsing.urlsec.gg.com
+full:safebrowsing.urlsec.qq.com
 full:samsung-com.112.2o7.net
 full:samsungads.com
 full:scs.openspeech.cn

@@ -707,7 +707,7 @@ full:s1.cdn-sg.advlion.com
 full:s8t.teads.tv
 full:saad.ms.zhangyue.net
 full:saas.hpplay.cn
-full:safebrowsing.urlsec.gg.com
+full:safebrowsing.urlsec.qq.com
 full:samsung-com.112.2o7.net
 full:samsungads.com
 full:saxysec.com

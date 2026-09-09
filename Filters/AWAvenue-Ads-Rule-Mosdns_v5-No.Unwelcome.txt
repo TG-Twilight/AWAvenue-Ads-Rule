@@ -2,8 +2,8 @@
 #--------------------------------------
 #Total lines: 851
 #Version: 1.7.6-release
-#Update time: 2026-09-09 23:06:35 UTC+8
-#Update content: 移除-normal.zijieapi.com关键词通配，避免误杀抖音接口，fix #215，感谢@jackmoo1
+#Update time: 2026-09-09 23:12:52 UTC+8
+#Update content: 更正safebrowsing.urlsec域名后缀gg.com为qq.com，fix #213，感谢@VJMOD
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -648,7 +648,7 @@ full:s.amazon-adsystem.com
 full:s1.cdn-sg.advlion.com
 full:s8t.teads.tv
 full:saad.ms.zhangyue.net
-full:safebrowsing.urlsec.gg.com
+full:safebrowsing.urlsec.qq.com
 full:samsung-com.112.2o7.net
 full:samsungads.com
 full:scs.openspeech.cn
