@@ -52,7 +52,7 @@ After subscribing, you will usually notice:
 
 Compared with per-app ad removal, network-layer filtering costs less, covers more (e.g. router deployment), and stays mostly invisible while you use your apps as usual.
 
-> As of July 2025, we can block over 90% of ad SDK traffic on Teyvat.
+> As of September 2026, we can block over 90% of ad SDK traffic on Teyvat.
 
 > [!IMPORTANT]
 > Before opening an Issue or asking in the group, please read the [FAQ](https://awavenue.top/Knowledge.html#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98-%E4%B8%8E%E7%AD%94%E7%96%91). Many common questions are already answered there.
@@ -81,6 +81,21 @@ For **AdGuard Home / AdGuard / AdGuard DNS** and other tools that support Adbloc
 | ghproxy | [Subscribe](https://ghfast.top/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt) |
 
 More formats and mirrors → [Official site · Subscription](https://awavenue.top/Sub.html)
+
+### Four subscription variants
+
+Since 1.7.6-release the rules are split into three categories — **Ads / Privacy / Unwelcome** — and built into four variants:
+
+| Variant | Contents | Best for | AdGuard link |
+|:-------:|----------|----------|:------------:|
+| Full protection | Ads + Privacy + Unwelcome | The default, complete experience | [Subscribe](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt) |
+| Ads only | Ads | Maximum compatibility, minimal interference | [Subscribe](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Adguard-Only.Ads.txt) |
+| Ads + Unwelcome | Privacy rules excluded | Keeping analytics and telemetry working | [Subscribe](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Adguard-No.Privacy.txt) |
+| Ads + Privacy | Unwelcome rules excluded | Keeping updates, push and related connections | [Subscribe](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Adguard-No.Unwelcome.txt) |
+
+"Unwelcome" covers forced updates, P2P/PCDN, push channels and cloud-control delivery. Blocking them does not change ad filtering, but it may affect those features — hence the separate category.
+
+The table lists AdGuard format only; the same four variants exist for every other tool (Clash, Quantumult X, hosts, Mosdns, …) under [`Filters/`](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/tree/main/Filters), named `AWAvenue-Ads-Rule-<tool>-<variant>.<ext>`. The [subscription generator](https://awavenue.top/Sub.html) builds the right link for you, so there is no need to memorise filenames.
 
 ---
 
@@ -147,8 +162,8 @@ This is a personal project, maintained as time allows. Issues and PRs are welcom
       </a>
     </td>
     <td>
-      <a href="https://termius.com/" target="_blank" title="Termius provides a secure, reliable, and collaborative SSH client.">
-        <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/Termius/card-termius.svg" alt="Termius" width="360" height="110" title="Termius provides a secure, reliable, and collaborative SSH client.">
+      <a href="https://xtyun.co/#/register?code=M1w4rjdl" target="_blank" title="XTCloud — Travel the world, high-speed connectivity.">
+        <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/XTCloud/card-xtcloud.svg" alt="XTCloud" width="360" height="110" title="XTCloud — Travel the world, high-speed connectivity.">
       </a>
     </td>
   </tr>

@@ -52,7 +52,7 @@
 
 相较于逐个 App 配置去广告，网络层过滤成本更低、覆盖更广（例如路由器部署），在无感过滤的同时尽量不影响正常使用。
 
-> 截止 2025 年 7 月，可拦截提瓦特大陆现有九成以上的广告 SDK 内容。
+> 截止 2026 年 9 月，可拦截提瓦特大陆现有九成以上的广告 SDK 内容。
 
 > [!IMPORTANT]
 > 提交 Issue / 进群反馈前，请先阅读 [常见问题](https://awavenue.top/Knowledge.html#%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98-%E4%B8%8E%E7%AD%94%E7%96%91)，很多疑问已有说明。
@@ -81,6 +81,21 @@
 | ghproxy | [订阅地址](https://ghfast.top/https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt) |
 
 其他格式与更多加速线路见 → [官方网站 · 订阅规则](https://awavenue.top/Sub.html)
+
+### 四种订阅方案
+
+自 1.7.6-release 起，规则按性质分为**广告 / 隐私 / 不受欢迎**三类，并据此构建四种订阅：
+
+| 方案 | 包含内容 | 适合情况 | AdGuard 订阅 |
+|:----:|----------|----------|:------------:|
+| 完整防护 | 广告＋隐私＋不受欢迎 | 默认完整体验 | [订阅地址](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt) |
+| 纯广告 | 仅广告 | 兼容与最小干预优先 | [订阅地址](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Adguard-Only.Ads.txt) |
+| 广告＋不受欢迎 | 不包含隐私规则 | 希望保留统计与遥测 | [订阅地址](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Adguard-No.Privacy.txt) |
+| 广告＋隐私 | 不包含不受欢迎规则 | 希望保留更新、推送和相关连接 | [订阅地址](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Adguard-No.Unwelcome.txt) |
+
+其中「不受欢迎」指强制更新、P2P/PCDN、推送、云控下发一类——拦截它们不影响广告过滤效果，但可能影响对应功能，所以单独分了出来。
+
+上表只列了 AdGuard 格式；其余工具（Clash、Quantumult X、hosts、Mosdns 等）的四种变体同样存在于 [`Filters/`](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/tree/main/Filters) 目录，文件名规律为 `AWAvenue-Ads-Rule-<工具>-<变体>.<后缀>`。推荐直接用 [官网订阅生成器](https://awavenue.top/Sub.html) 按需生成，不必记文件名。
 
 ---
 
@@ -147,8 +162,8 @@
       </a>
     </td>
     <td>
-      <a href="https://termius.com/" target="_blank" title="Termius提供安全、可靠且支持协作的 SSH 客户端。">
-        <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/Termius/card-termius.svg" alt="Termius" width="360" height="110" title="Termius提供安全、可靠且支持协作的 SSH 客户端。">
+      <a href="https://xtyun.co/#/register?code=M1w4rjdl" target="_blank" title="XTCloud — 畅游世界，高速互联。">
+        <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/XTCloud/card-xtcloud.svg" alt="XTCloud" width="360" height="110" title="XTCloud — 畅游世界，高速互联。">
       </a>
     </td>
   </tr>
