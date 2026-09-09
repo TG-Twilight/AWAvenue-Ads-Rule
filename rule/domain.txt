@@ -36,7 +36,6 @@ ad.shunchangzhixing.com
 ad.tencentmusic.com
 ad.toutiao.com
 ad.v3mh.com
-ad.weibo.com
 ad.winrar.com.cn
 ad.ximalaya.com
 ad.xunkids.com
@@ -348,7 +347,6 @@ iadctest.qwapi.com
 iadmoo.apple.com
 iadmusicmat.music.126.net
 iadsdk.apple.com
-iadworkbench.apple.com
 ifs.tanx.com
 ii.gdt.qq.com
 image-ad.sm.cn
