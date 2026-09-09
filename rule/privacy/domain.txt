@@ -158,7 +158,7 @@ report.tv.kohesport.qq.com
 resolve.umeng.com
 rp.hpplay.cn
 rps.hpplay.cn
-safebrowsing.urlsec.gg.com
+safebrowsing.urlsec.qq.com
 samsung-com.112.2o7.net
 scs.openspeech.cn
 securemetrics.apple.com
