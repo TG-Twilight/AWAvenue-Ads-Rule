@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule (No.Privacy)
 #--------------------------------------
-#Total lines: 734
+#Total lines: 733
 #Version: 1.7.6-release
-#Update time: 2026-09-08 21:10:07 UTC+8
-#Update content: 新增拦截微博/美图/百度等广告与隐私上报域名#214，感谢@VJMOD
+#Update time: 2026-09-09 23:06:35 UTC+8
+#Update content: 移除-normal.zijieapi.com关键词通配，避免误杀抖音接口，fix #215，感谢@jackmoo1
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -742,4 +742,3 @@ keyword:-ad.sm.cn
 keyword:-ad.video.yximgs.com
 keyword:-ad.wtzw.com
 keyword:-be-pack-sign.pglstatp-toutiao.com
-keyword:-normal.zijieapi.com
