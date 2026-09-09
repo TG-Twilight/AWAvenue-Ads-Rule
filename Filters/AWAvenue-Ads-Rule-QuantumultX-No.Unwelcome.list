@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule (No.Unwelcome)
 #--------------------------------------
-#Total lines: 858
+#Total lines: 856
 #Version: 1.7.6-release
-#Update time: 2026-09-09 23:25:51 UTC+8
-#Update content: 新增拦截vivo广告日志/请求/素材域名7条，fix #205，感谢@woshidadi2026
+#Update time: 2026-09-09 23:35:30 UTC+8
+#Update content: 移除广告主投放后台域名ad.weibo.com与iadworkbench.apple.com，此类后台不属拦截范围
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -49,7 +49,6 @@ DOMAIN,ad.shunchangzhixing.com,reject
 DOMAIN,ad.tencentmusic.com,reject
 DOMAIN,ad.toutiao.com,reject
 DOMAIN,ad.v3mh.com,reject
-DOMAIN,ad.weibo.com,reject
 DOMAIN,ad.winrar.com.cn,reject
 DOMAIN,ad.ximalaya.com,reject
 DOMAIN,ad.xunkids.com,reject
@@ -433,7 +432,6 @@ DOMAIN,iadctest.qwapi.com,reject
 DOMAIN,iadmoo.apple.com,reject
 DOMAIN,iadmusicmat.music.126.net,reject
 DOMAIN,iadsdk.apple.com,reject
-DOMAIN,iadworkbench.apple.com,reject
 DOMAIN,ifacelog.iqiyi.com,reject
 DOMAIN,ifs.tanx.com,reject
 DOMAIN,ii.gdt.qq.com,reject

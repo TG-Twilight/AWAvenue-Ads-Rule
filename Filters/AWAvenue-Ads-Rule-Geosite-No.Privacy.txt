@@ -49,7 +49,6 @@ full:ad.shunchangzhixing.com
 full:ad.tencentmusic.com
 full:ad.toutiao.com
 full:ad.v3mh.com
-full:ad.weibo.com
 full:ad.winrar.com.cn
 full:ad.ximalaya.com
 full:ad.xunkids.com
@@ -392,7 +391,6 @@ full:iadctest.qwapi.com
 full:iadmoo.apple.com
 full:iadmusicmat.music.126.net
 full:iadsdk.apple.com
-full:iadworkbench.apple.com
 full:ifs.tanx.com
 full:ii.gdt.qq.com
 full:image-ad.sm.cn

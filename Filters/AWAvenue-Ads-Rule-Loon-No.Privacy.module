@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2026-09-09 23:25:51 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2026-09-09 23:35:30 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -45,7 +45,6 @@ DOMAIN,ad.shunchangzhixing.com,REJECT,extended-matching,pre-matching
 DOMAIN,ad.tencentmusic.com,REJECT,extended-matching,pre-matching
 DOMAIN,ad.toutiao.com,REJECT,extended-matching,pre-matching
 DOMAIN,ad.v3mh.com,REJECT,extended-matching,pre-matching
-DOMAIN,ad.weibo.com,REJECT,extended-matching,pre-matching
 DOMAIN,ad.winrar.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,ad.ximalaya.com,REJECT,extended-matching,pre-matching
 DOMAIN,ad.xunkids.com,REJECT,extended-matching,pre-matching
@@ -388,7 +387,6 @@ DOMAIN,iadctest.qwapi.com,REJECT,extended-matching,pre-matching
 DOMAIN,iadmoo.apple.com,REJECT,extended-matching,pre-matching
 DOMAIN,iadmusicmat.music.126.net,REJECT,extended-matching,pre-matching
 DOMAIN,iadsdk.apple.com,REJECT,extended-matching,pre-matching
-DOMAIN,iadworkbench.apple.com,REJECT,extended-matching,pre-matching
 DOMAIN,ifs.tanx.com,REJECT,extended-matching,pre-matching
 DOMAIN,ii.gdt.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,image-ad.sm.cn,REJECT,extended-matching,pre-matching

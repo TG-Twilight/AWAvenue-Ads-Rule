@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule (No.Unwelcome)
 !--------------------------------------
-!Total lines: 1684
+!Total lines: 1680
 !Version: 1.7.6-release
-!Update time: 2026-09-09 23:25:51 UTC+8
-!Update content: 新增拦截vivo广告日志/请求/素材域名7条，fix #205，感谢@woshidadi2026
+!Update time: 2026-09-09 23:35:30 UTC+8
+!Update content: 移除广告主投放后台域名ad.weibo.com与iadworkbench.apple.com，此类后台不属拦截范围
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -89,8 +89,6 @@ ip dns static add address=240.0.0.1 name=ad.toutiao.com
 ip dns static add address=:: name=ad.toutiao.com
 ip dns static add address=240.0.0.1 name=ad.v3mh.com
 ip dns static add address=:: name=ad.v3mh.com
-ip dns static add address=240.0.0.1 name=ad.weibo.com
-ip dns static add address=:: name=ad.weibo.com
 ip dns static add address=240.0.0.1 name=ad.winrar.com.cn
 ip dns static add address=:: name=ad.winrar.com.cn
 ip dns static add address=240.0.0.1 name=ad.ximalaya.com
@@ -857,8 +855,6 @@ ip dns static add address=240.0.0.1 name=iadmusicmat.music.126.net
 ip dns static add address=:: name=iadmusicmat.music.126.net
 ip dns static add address=240.0.0.1 name=iadsdk.apple.com
 ip dns static add address=:: name=iadsdk.apple.com
-ip dns static add address=240.0.0.1 name=iadworkbench.apple.com
-ip dns static add address=:: name=iadworkbench.apple.com
 ip dns static add address=240.0.0.1 name=ifacelog.iqiyi.com
 ip dns static add address=:: name=ifacelog.iqiyi.com
 ip dns static add address=240.0.0.1 name=ifs.tanx.com

@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule (No.Privacy)
 #--------------------------------------
-#Total lines: 740
+#Total lines: 738
 #Version: 1.7.6-release
-#Update time: 2026-09-09 23:25:50 UTC+8
-#Update content: 新增拦截vivo广告日志/请求/素材域名7条，fix #205，感谢@woshidadi2026
+#Update time: 2026-09-09 23:35:30 UTC+8
+#Update content: 移除广告主投放后台域名ad.weibo.com与iadworkbench.apple.com，此类后台不属拦截范围
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -48,7 +48,6 @@ full:ad.shunchangzhixing.com
 full:ad.tencentmusic.com
 full:ad.toutiao.com
 full:ad.v3mh.com
-full:ad.weibo.com
 full:ad.winrar.com.cn
 full:ad.ximalaya.com
 full:ad.xunkids.com
@@ -391,7 +390,6 @@ full:iadctest.qwapi.com
 full:iadmoo.apple.com
 full:iadmusicmat.music.126.net
 full:iadsdk.apple.com
-full:iadworkbench.apple.com
 full:ifs.tanx.com
 full:ii.gdt.qq.com
 full:image-ad.sm.cn
