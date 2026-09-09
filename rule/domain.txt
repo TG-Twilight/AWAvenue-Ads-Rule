@@ -63,9 +63,11 @@ adjust.cn
 adjust.com
 adks.hpplay.cn
 adlink-api.huan.tv
+adlog.vivo.com.cn
 adm.funshion.com
 admarketing.yahoo.net
 admobile.top
+adreq.vivo.com.cn
 ads-api-o.api.leiniao.com
 ads-api.tiktok.com
 ads-api.twitter.com
@@ -174,7 +176,9 @@ adx.appsdk.com.cn
 adx.sogaha.cn
 adx.tuia.cn
 adxlog-adnet.vivo.com.cn
+adxlog.vivo.com.cn
 adxserver.ad.cmvideo.cn
+adxstatic.vivo.com.cn
 aem.dentsuchina.cn
 afs.googlesyndication.com
 agn.aty.sohu.com
@@ -237,6 +241,7 @@ biz.weibo.com
 bj-td-menta-01-callback.advlion.com
 bj.ad.track.66mobi.com
 bootpreload.uve.weibo.com
+brandadsstatic.vivo.com.cn
 bsrv.qq.com
 business-api.tiktok.com
 c.bidtoolads.com
@@ -283,6 +288,7 @@ diagnosis.ad.xiaomi.com
 doubleclick-cn.net
 dsp-x.jd.com
 dsp.fcbox.com
+dsplog-adnet.vivo.com.cn
 dxp.baidu.com
 e.ad.xiaomi.com
 eclick.baidu.com
@@ -554,6 +560,7 @@ trace.aqyad.com
 tracelog-debug.aiclk.com
 tracelog-debug.qquanquan.com
 tracelog-debug.yunxish.com
+tracking-adnet.vivo.com.cn
 tuiguang.meitu.com
 tvapp.hpplay.cn
 tx-ad.a.yximgs.com
