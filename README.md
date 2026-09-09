@@ -138,8 +138,6 @@
 
 ## 赞助商
 
-### [XTCloud — 畅游世界，高速互联](https://xtyun.co/#/register?code=M1w4rjdl)
-
 <div align="center">
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">

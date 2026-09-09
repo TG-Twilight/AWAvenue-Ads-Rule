@@ -138,8 +138,6 @@ This is a personal project, maintained as time allows. Issues and PRs are welcom
 
 ## Sponsors
 
-### [XTCloud — Travel the world, high-speed connectivity](https://xtyun.co/#/register?code=M1w4rjdl)
-
 <div align="center">
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
