@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1872
+!Total lines: 1912
 !Version: 1.7.6-release
-!Update time: 2026-09-09 23:35:30 UTC+8
-!Update content: 移除广告主投放后台域名ad.weibo.com与iadworkbench.apple.com，此类后台不属拦截范围
+!Update time: 2026-09-20 20:30:39 UTC+8
+!Update content: 新增拦截欢效/章鱼移动/早范/AdGain等广告SDK域名11条，fix #216，感谢@Pideo1
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -19,10 +19,14 @@
 :: 1500022744.vodplayer.wxamedia.com
 0.0.0.0 1500026601.vodplayer.wxamedia.com
 :: 1500026601.vodplayer.wxamedia.com
+0.0.0.0 1rtb.com
+:: 1rtb.com
 0.0.0.0 8le8le.com
 :: 8le8le.com
 0.0.0.0 8rn1y79f02-1.algolianet.com
 :: 8rn1y79f02-1.algolianet.com
+0.0.0.0 a.market.xiaomi.com
+:: a.market.xiaomi.com
 0.0.0.0 a0.app.xiaomi.com
 :: a0.app.xiaomi.com
 0.0.0.0 aaid.umeng.com
@@ -149,6 +153,8 @@
 :: adguanggao.eee114.com
 0.0.0.0 adimg.uve.weibo.com
 :: adimg.uve.weibo.com
+0.0.0.0 adintl.cn
+:: adintl.cn
 0.0.0.0 adjust.cn
 :: adjust.cn
 0.0.0.0 adjust.com
@@ -161,6 +167,8 @@
 :: adlog.vivo.com.cn
 0.0.0.0 adm.funshion.com
 :: adm.funshion.com
+0.0.0.0 adm.zhangyuyidong.cn
+:: adm.zhangyuyidong.cn
 0.0.0.0 admarketing.yahoo.net
 :: admarketing.yahoo.net
 0.0.0.0 admobile.top
@@ -289,6 +297,8 @@
 :: adslvfile.qq.com
 0.0.0.0 adsmart.konka.com
 :: adsmart.konka.com
+0.0.0.0 adsmartget.datads.cn
+:: adsmartget.datads.cn
 0.0.0.0 adsmind.gdtimg.com
 :: adsmind.gdtimg.com
 0.0.0.0 adsmind.ugdtimg.com
@@ -375,6 +385,8 @@
 :: adx.ads.heytapmobi.com
 0.0.0.0 adx.ads.oppomobile.com
 :: adx.ads.oppomobile.com
+0.0.0.0 adx.adwangmai.com
+:: adx.adwangmai.com
 0.0.0.0 adx.appsdk.com.cn
 :: adx.appsdk.com.cn
 0.0.0.0 adx.sogaha.cn
@@ -711,6 +723,8 @@
 :: data.ads.oppomobile.com
 0.0.0.0 data.chsmarttv.com
 :: data.chsmarttv.com
+0.0.0.0 data.hicloud.com
+:: data.hicloud.com
 0.0.0.0 data.mistat.india.xiaomi.com
 :: data.mistat.india.xiaomi.com
 0.0.0.0 data.mistat.rus.xiaomi.com
@@ -721,6 +735,8 @@
 :: datacollection.uve.weibo.com
 0.0.0.0 dc.sigmob.cn
 :: dc.sigmob.cn
+0.0.0.0 de.ad.gameley.com
+:: de.ad.gameley.com
 0.0.0.0 de.tynt.com
 :: de.tynt.com
 0.0.0.0 diagnosis.ad.xiaomi.com
@@ -975,6 +991,8 @@
 :: janapi.jd.com
 0.0.0.0 jiguang.cn
 :: jiguang.cn
+0.0.0.0 jp.ad.gameley.com
+:: jp.ad.gameley.com
 0.0.0.0 jpush.cn
 :: jpush.cn
 0.0.0.0 jpush.html5.qq.com
@@ -1201,6 +1219,8 @@
 :: monsetting.toutiao.com
 0.0.0.0 mores.toponad.com
 :: mores.toponad.com
+0.0.0.0 mpcfg.fancydsp.com
+:: mpcfg.fancydsp.com
 0.0.0.0 ms.applovin.com
 :: ms.applovin.com
 0.0.0.0 ms.applvn.com
@@ -1429,10 +1449,14 @@
 :: sdk-ab-config.qquanquan.com
 0.0.0.0 sdk-cache.video.ptqy.gitv.tv
 :: sdk-cache.video.ptqy.gitv.tv
+0.0.0.0 sdk-track.66mobi.com
+:: sdk-track.66mobi.com
 0.0.0.0 sdk.1rtb.net
 :: sdk.1rtb.net
 0.0.0.0 sdk.ad.smaato.net
 :: sdk.ad.smaato.net
+0.0.0.0 sdk.adhuanxiao.com
+:: sdk.adhuanxiao.com
 0.0.0.0 sdk.adx.adwangmai.com
 :: sdk.adx.adwangmai.com
 0.0.0.0 sdk.aqyad.com
@@ -1445,10 +1469,14 @@
 :: sdk.e.qq.com
 0.0.0.0 sdk.hzsanjiaomao.com
 :: sdk.hzsanjiaomao.com
+0.0.0.0 sdk.hzzfcm.com
+:: sdk.hzzfcm.com
 0.0.0.0 sdk.markmedia.com.cn
 :: sdk.markmedia.com.cn
 0.0.0.0 sdk.mobads.adwangmai.com
 :: sdk.mobads.adwangmai.com
+0.0.0.0 sdk.zhangyuyidong.cn
+:: sdk.zhangyuyidong.cn
 0.0.0.0 sdkapi.cloooud.com
 :: sdkapi.cloooud.com
 0.0.0.0 sdkapp.uve.weibo.com
@@ -1465,6 +1493,8 @@
 :: sdkconfig.play.aiseet.atianqi.com
 0.0.0.0 sdkconfig.video.qq.com
 :: sdkconfig.video.qq.com
+0.0.0.0 sdklog.zhangyuyidong.cn
+:: sdklog.zhangyuyidong.cn
 0.0.0.0 sdkoptedge.chinanetcenter.com
 :: sdkoptedge.chinanetcenter.com
 0.0.0.0 sdkreport.e.qq.com
@@ -1699,6 +1729,8 @@
 :: tz.sec.xiaomi.com
 0.0.0.0 uapi.ads.heytapmobi.com
 :: uapi.ads.heytapmobi.com
+0.0.0.0 ubixioe.com
+:: ubixioe.com
 0.0.0.0 udc.yahoo.com
 :: udc.yahoo.com
 0.0.0.0 udcm.yahoo.com
@@ -1785,6 +1817,8 @@
 :: vipgslb.hpplay.cn
 0.0.0.0 virusinfo-cloudscan-cn.heytapmobi.com
 :: virusinfo-cloudscan-cn.heytapmobi.com
+0.0.0.0 vlion.cn
+:: vlion.cn
 0.0.0.0 vlive.qqvideo.tc.qq.com
 :: vlive.qqvideo.tc.qq.com
 0.0.0.0 volc.bj.ad.track.66mobi.com
@@ -1849,6 +1883,8 @@
 :: wxsnsdy.wxs.qq.com
 0.0.0.0 wxsnsdythumb.wxs.qq.com
 :: wxsnsdythumb.wxs.qq.com
+0.0.0.0 xadsmartget.adgain.cn
+:: xadsmartget.adgain.cn
 0.0.0.0 xc.gdt.qq.com
 :: xc.gdt.qq.com
 0.0.0.0 xcx.dcad01.com
@@ -1863,6 +1899,8 @@
 :: xlviirdr.com
 0.0.0.0 xycdn.com
 :: xycdn.com
+0.0.0.0 yfanads.com
+:: yfanads.com
 0.0.0.0 yk-ssp-ad.cp31.ott.cibntv.net
 :: yk-ssp-ad.cp31.ott.cibntv.net
 0.0.0.0 yk-ssp.ad.youku.com
@@ -1879,6 +1917,8 @@
 :: yumao.puata.info
 0.0.0.0 zeus.ad.xiaomi.com
 :: zeus.ad.xiaomi.com
+0.0.0.0 zhangyuyidong.cn
+:: zhangyuyidong.cn
 0.0.0.0 zhihu-web-analytics.zhihu.com
 :: zhihu-web-analytics.zhihu.com
 0.0.0.0 zjres-ad.kajicam.com

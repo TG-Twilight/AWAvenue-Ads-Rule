@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule (Only.Ads)
 #--------------------------------------
-#Total lines: 642
+#Total lines: 653
 #Version: 1.7.6-release
-#Update time: 2026-09-09 23:35:30 UTC+8
-#Update content: 移除广告主投放后台域名ad.weibo.com与iadworkbench.apple.com，此类后台不属拦截范围
+#Update time: 2026-09-20 20:30:39 UTC+8
+#Update content: 新增拦截欢效/章鱼移动/早范/AdGain等广告SDK域名11条，fix #216，感谢@Pideo1
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -76,6 +76,7 @@ payload:
   - DOMAIN,adlink-api.huan.tv
   - DOMAIN,adlog.vivo.com.cn
   - DOMAIN,adm.funshion.com
+  - DOMAIN,adm.zhangyuyidong.cn
   - DOMAIN,admarketing.yahoo.net
   - DOMAIN,admobile.top
   - DOMAIN,adreq.vivo.com.cn
@@ -140,6 +141,7 @@ payload:
   - DOMAIN,adsfs.oppomobile.com
   - DOMAIN,adslvfile.qq.com
   - DOMAIN,adsmart.konka.com
+  - DOMAIN,adsmartget.datads.cn
   - DOMAIN,adsmind.gdtimg.com
   - DOMAIN,adsmind.ugdtimg.com
   - DOMAIN,adsmoloco.com
@@ -295,6 +297,7 @@ payload:
   - DOMAIN,data.ads.oppomobile.com
   - DOMAIN,datacollection.uve.weibo.com
   - DOMAIN,dc.sigmob.cn
+  - DOMAIN,de.ad.gameley.com
   - DOMAIN,diagnosis.ad.xiaomi.com
   - DOMAIN,doubleclick-cn.net
   - DOMAIN,dsp-x.jd.com
@@ -375,6 +378,7 @@ payload:
   - DOMAIN,inner-hw.huazirc.com
   - DOMAIN,irc.qubiankeji.com
   - DOMAIN,iyfbodn.com
+  - DOMAIN,jp.ad.gameley.com
   - DOMAIN,kde.qq.com
   - DOMAIN,kepler.jd.com
   - DOMAIN,kl.67it.com
@@ -422,6 +426,7 @@ payload:
   - DOMAIN,monitor-ads-test.huan.tv
   - DOMAIN,monitor.adxsenmeng.com
   - DOMAIN,mores.toponad.com
+  - DOMAIN,mpcfg.fancydsp.com
   - DOMAIN,ms.applovin.com
   - DOMAIN,ms.applvn.com
   - DOMAIN,ms4.applovin.com
@@ -495,16 +500,20 @@ payload:
   - DOMAIN,saad.ms.zhangyue.net
   - DOMAIN,samsungads.com
   - DOMAIN,sdk-cache.video.ptqy.gitv.tv
+  - DOMAIN,sdk-track.66mobi.com
   - DOMAIN,sdk.1rtb.net
   - DOMAIN,sdk.ad.smaato.net
+  - DOMAIN,sdk.adhuanxiao.com
   - DOMAIN,sdk.adx.adwangmai.com
   - DOMAIN,sdk.aqyad.com
   - DOMAIN,sdk.beizi.biz
   - DOMAIN,sdk.cferw.com
   - DOMAIN,sdk.e.qq.com
   - DOMAIN,sdk.hzsanjiaomao.com
+  - DOMAIN,sdk.hzzfcm.com
   - DOMAIN,sdk.markmedia.com.cn
   - DOMAIN,sdk.mobads.adwangmai.com
+  - DOMAIN,sdk.zhangyuyidong.cn
   - DOMAIN,sdkapi.cloooud.com
   - DOMAIN,sdkapp.uve.weibo.com
   - DOMAIN,sdkauth.hpplay.cn
@@ -512,6 +521,7 @@ payload:
   - DOMAIN,sdkconfig.ad.xiaomi.com
   - DOMAIN,sdkconfig.play.aiseet.atianqi.com
   - DOMAIN,sdkconfig.video.qq.com
+  - DOMAIN,sdklog.zhangyuyidong.cn
   - DOMAIN,sdkreport.e.qq.com
   - DOMAIN,sdktmp.hubcloud.com.cn
   - DOMAIN,sdownload.stargame.com
@@ -622,6 +632,7 @@ payload:
   - DOMAIN,wxsnsdy.tc.qq.com
   - DOMAIN,wxsnsdy.wxs.qq.com
   - DOMAIN,wxsnsdythumb.wxs.qq.com
+  - DOMAIN,xadsmartget.adgain.cn
   - DOMAIN,xc.gdt.qq.com
   - DOMAIN,xcx.dcad01.com
   - DOMAIN,xiaomi-dtv.m.cn.miaozhen.com

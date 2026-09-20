@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule (No.Privacy)
 #--------------------------------------
-#Total lines: 738
+#Total lines: 749
 #Version: 1.7.6-release
-#Update time: 2026-09-09 23:35:30 UTC+8
-#Update content: 移除广告主投放后台域名ad.weibo.com与iadworkbench.apple.com，此类后台不属拦截范围
+#Update time: 2026-09-20 20:30:39 UTC+8
+#Update content: 新增拦截欢效/章鱼移动/早范/AdGain等广告SDK域名11条，fix #216，感谢@Pideo1
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -77,6 +77,7 @@ DOMAIN,adks.hpplay.cn
 DOMAIN,adlink-api.huan.tv
 DOMAIN,adlog.vivo.com.cn
 DOMAIN,adm.funshion.com
+DOMAIN,adm.zhangyuyidong.cn
 DOMAIN,admarketing.yahoo.net
 DOMAIN,admobile.top
 DOMAIN,adreq.vivo.com.cn
@@ -141,6 +142,7 @@ DOMAIN,adsfs.heytapimage.com
 DOMAIN,adsfs.oppomobile.com
 DOMAIN,adslvfile.qq.com
 DOMAIN,adsmart.konka.com
+DOMAIN,adsmartget.datads.cn
 DOMAIN,adsmind.gdtimg.com
 DOMAIN,adsmind.ugdtimg.com
 DOMAIN,adsmoloco.com
@@ -309,6 +311,7 @@ DOMAIN,da.anythinktech.com
 DOMAIN,data.ads.oppomobile.com
 DOMAIN,datacollection.uve.weibo.com
 DOMAIN,dc.sigmob.cn
+DOMAIN,de.ad.gameley.com
 DOMAIN,diagnosis.ad.xiaomi.com
 DOMAIN,dm.toutiao.com
 DOMAIN,domain.aishengji.com
@@ -408,6 +411,7 @@ DOMAIN,inner-hw.huazirc.com
 DOMAIN,irc.qubiankeji.com
 DOMAIN,iyfbodn.com
 DOMAIN,jiguang.cn
+DOMAIN,jp.ad.gameley.com
 DOMAIN,jpush.cn
 DOMAIN,jpush.html5.qq.com
 DOMAIN,jpush.io
@@ -466,6 +470,7 @@ DOMAIN,mobilead.kuwo.cn
 DOMAIN,monitor-ads-test.huan.tv
 DOMAIN,monitor.adxsenmeng.com
 DOMAIN,mores.toponad.com
+DOMAIN,mpcfg.fancydsp.com
 DOMAIN,ms.applovin.com
 DOMAIN,ms.applvn.com
 DOMAIN,ms4.applovin.com
@@ -554,16 +559,20 @@ DOMAIN,samsungads.com
 DOMAIN,saxysec.com
 DOMAIN,sdk-ab-config.qquanquan.com
 DOMAIN,sdk-cache.video.ptqy.gitv.tv
+DOMAIN,sdk-track.66mobi.com
 DOMAIN,sdk.1rtb.net
 DOMAIN,sdk.ad.smaato.net
+DOMAIN,sdk.adhuanxiao.com
 DOMAIN,sdk.adx.adwangmai.com
 DOMAIN,sdk.aqyad.com
 DOMAIN,sdk.beizi.biz
 DOMAIN,sdk.cferw.com
 DOMAIN,sdk.e.qq.com
 DOMAIN,sdk.hzsanjiaomao.com
+DOMAIN,sdk.hzzfcm.com
 DOMAIN,sdk.markmedia.com.cn
 DOMAIN,sdk.mobads.adwangmai.com
+DOMAIN,sdk.zhangyuyidong.cn
 DOMAIN,sdkapi.cloooud.com
 DOMAIN,sdkapp.uve.weibo.com
 DOMAIN,sdkauth.hpplay.cn
@@ -572,6 +581,7 @@ DOMAIN,sdkconfig.ad.intl.xiaomi.com
 DOMAIN,sdkconfig.ad.xiaomi.com
 DOMAIN,sdkconfig.play.aiseet.atianqi.com
 DOMAIN,sdkconfig.video.qq.com
+DOMAIN,sdklog.zhangyuyidong.cn
 DOMAIN,sdkoptedge.chinanetcenter.com
 DOMAIN,sdkreport.e.qq.com
 DOMAIN,sdktmp.hubcloud.com.cn
@@ -716,6 +726,7 @@ DOMAIN,wxsnsad.tc.qq.com
 DOMAIN,wxsnsdy.tc.qq.com
 DOMAIN,wxsnsdy.wxs.qq.com
 DOMAIN,wxsnsdythumb.wxs.qq.com
+DOMAIN,xadsmartget.adgain.cn
 DOMAIN,xc.gdt.qq.com
 DOMAIN,xcx.dcad01.com
 DOMAIN,xiaomi-dtv.m.cn.miaozhen.com

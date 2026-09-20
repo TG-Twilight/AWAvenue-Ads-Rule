@@ -76,6 +76,7 @@ full:adks.hpplay.cn
 full:adlink-api.huan.tv
 full:adlog.vivo.com.cn
 full:adm.funshion.com
+full:adm.zhangyuyidong.cn
 full:admarketing.yahoo.net
 full:admobile.top
 full:adreq.vivo.com.cn
@@ -140,6 +141,7 @@ full:adsfs.heytapimage.com
 full:adsfs.oppomobile.com
 full:adslvfile.qq.com
 full:adsmart.konka.com
+full:adsmartget.datads.cn
 full:adsmind.gdtimg.com
 full:adsmind.ugdtimg.com
 full:adsmoloco.com
@@ -295,6 +297,7 @@ full:da.anythinktech.com
 full:data.ads.oppomobile.com
 full:datacollection.uve.weibo.com
 full:dc.sigmob.cn
+full:de.ad.gameley.com
 full:diagnosis.ad.xiaomi.com
 full:doubleclick-cn.net
 full:dsp-x.jd.com
@@ -375,6 +378,7 @@ full:init.supersonicads.com
 full:inner-hw.huazirc.com
 full:irc.qubiankeji.com
 full:iyfbodn.com
+full:jp.ad.gameley.com
 full:kde.qq.com
 full:kepler.jd.com
 full:kl.67it.com
@@ -422,6 +426,7 @@ full:mobilead.kuwo.cn
 full:monitor-ads-test.huan.tv
 full:monitor.adxsenmeng.com
 full:mores.toponad.com
+full:mpcfg.fancydsp.com
 full:ms.applovin.com
 full:ms.applvn.com
 full:ms4.applovin.com
@@ -495,16 +500,20 @@ full:s8t.teads.tv
 full:saad.ms.zhangyue.net
 full:samsungads.com
 full:sdk-cache.video.ptqy.gitv.tv
+full:sdk-track.66mobi.com
 full:sdk.1rtb.net
 full:sdk.ad.smaato.net
+full:sdk.adhuanxiao.com
 full:sdk.adx.adwangmai.com
 full:sdk.aqyad.com
 full:sdk.beizi.biz
 full:sdk.cferw.com
 full:sdk.e.qq.com
 full:sdk.hzsanjiaomao.com
+full:sdk.hzzfcm.com
 full:sdk.markmedia.com.cn
 full:sdk.mobads.adwangmai.com
+full:sdk.zhangyuyidong.cn
 full:sdkapi.cloooud.com
 full:sdkapp.uve.weibo.com
 full:sdkauth.hpplay.cn
@@ -512,6 +521,7 @@ full:sdkconfig.ad.intl.xiaomi.com
 full:sdkconfig.ad.xiaomi.com
 full:sdkconfig.play.aiseet.atianqi.com
 full:sdkconfig.video.qq.com
+full:sdklog.zhangyuyidong.cn
 full:sdkreport.e.qq.com
 full:sdktmp.hubcloud.com.cn
 full:sdownload.stargame.com
@@ -622,6 +632,7 @@ full:wxsnsad.tc.qq.com
 full:wxsnsdy.tc.qq.com
 full:wxsnsdy.wxs.qq.com
 full:wxsnsdythumb.wxs.qq.com
+full:xadsmartget.adgain.cn
 full:xc.gdt.qq.com
 full:xcx.dcad01.com
 full:xiaomi-dtv.m.cn.miaozhen.com
@@ -636,3 +647,7 @@ full:ytx-file.110route.cn
 full:yumao.puata.info
 full:zeus.ad.xiaomi.com
 full:zjres-ad.kajicam.com
+keyword:-ad.sm.cn
+keyword:-ad.video.yximgs.com
+keyword:-ad.wtzw.com
+keyword:-be-pack-sign.pglstatp-toutiao.com

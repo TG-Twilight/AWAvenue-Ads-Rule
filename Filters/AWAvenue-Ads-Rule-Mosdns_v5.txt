@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 952
+#Total lines: 963
 #Version: 1.7.6-release
-#Update time: 2026-09-09 23:35:30 UTC+8
-#Update content: 移除广告主投放后台域名ad.weibo.com与iadworkbench.apple.com，此类后台不属拦截范围
+#Update time: 2026-09-20 20:30:39 UTC+8
+#Update content: 新增拦截欢效/章鱼移动/早范/AdGain等广告SDK域名11条，fix #216，感谢@Pideo1
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -83,6 +83,7 @@ full:adks.hpplay.cn
 full:adlink-api.huan.tv
 full:adlog.vivo.com.cn
 full:adm.funshion.com
+full:adm.zhangyuyidong.cn
 full:admarketing.yahoo.net
 full:admobile.top
 full:adreq.vivo.com.cn
@@ -147,6 +148,7 @@ full:adsfs.heytapimage.com
 full:adsfs.oppomobile.com
 full:adslvfile.qq.com
 full:adsmart.konka.com
+full:adsmartget.datads.cn
 full:adsmind.gdtimg.com
 full:adsmind.ugdtimg.com
 full:adsmoloco.com
@@ -363,6 +365,7 @@ full:data.mistat.rus.xiaomi.com
 full:data.mistat.xiaomi.com
 full:datacollection.uve.weibo.com
 full:dc.sigmob.cn
+full:de.ad.gameley.com
 full:de.tynt.com
 full:diagnosis.ad.xiaomi.com
 full:dlogs.bwton.com
@@ -490,6 +493,7 @@ full:ixav-cse.avlyun.com
 full:iyfbodn.com
 full:janapi.jd.com
 full:jiguang.cn
+full:jp.ad.gameley.com
 full:jpush.cn
 full:jpush.html5.qq.com
 full:jpush.io
@@ -603,6 +607,7 @@ full:monitor.music.qq.com
 full:monitor.uu.qq.com
 full:monsetting.toutiao.com
 full:mores.toponad.com
+full:mpcfg.fancydsp.com
 full:ms.applovin.com
 full:ms.applvn.com
 full:ms4.applovin.com
@@ -717,16 +722,20 @@ full:saxysec.com
 full:scs.openspeech.cn
 full:sdk-ab-config.qquanquan.com
 full:sdk-cache.video.ptqy.gitv.tv
+full:sdk-track.66mobi.com
 full:sdk.1rtb.net
 full:sdk.ad.smaato.net
+full:sdk.adhuanxiao.com
 full:sdk.adx.adwangmai.com
 full:sdk.aqyad.com
 full:sdk.beizi.biz
 full:sdk.cferw.com
 full:sdk.e.qq.com
 full:sdk.hzsanjiaomao.com
+full:sdk.hzzfcm.com
 full:sdk.markmedia.com.cn
 full:sdk.mobads.adwangmai.com
+full:sdk.zhangyuyidong.cn
 full:sdkapi.cloooud.com
 full:sdkapp.uve.weibo.com
 full:sdkauth.hpplay.cn
@@ -735,6 +744,7 @@ full:sdkconfig.ad.intl.xiaomi.com
 full:sdkconfig.ad.xiaomi.com
 full:sdkconfig.play.aiseet.atianqi.com
 full:sdkconfig.video.qq.com
+full:sdklog.zhangyuyidong.cn
 full:sdkoptedge.chinanetcenter.com
 full:sdkreport.e.qq.com
 full:sdktmp.hubcloud.com.cn
@@ -927,6 +937,7 @@ full:wxsnsad.tc.qq.com
 full:wxsnsdy.tc.qq.com
 full:wxsnsdy.wxs.qq.com
 full:wxsnsdythumb.wxs.qq.com
+full:xadsmartget.adgain.cn
 full:xc.gdt.qq.com
 full:xcx.dcad01.com
 full:xiaomi-dtv.m.cn.miaozhen.com

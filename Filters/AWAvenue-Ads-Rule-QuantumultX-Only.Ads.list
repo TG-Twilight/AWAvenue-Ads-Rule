@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule (Only.Ads)
 #--------------------------------------
-#Total lines: 642
+#Total lines: 653
 #Version: 1.7.6-release
-#Update time: 2026-09-09 23:35:30 UTC+8
-#Update content: 移除广告主投放后台域名ad.weibo.com与iadworkbench.apple.com，此类后台不属拦截范围
+#Update time: 2026-09-20 20:30:39 UTC+8
+#Update content: 新增拦截欢效/章鱼移动/早范/AdGain等广告SDK域名11条，fix #216，感谢@Pideo1
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -75,6 +75,7 @@ DOMAIN,adks.hpplay.cn,reject
 DOMAIN,adlink-api.huan.tv,reject
 DOMAIN,adlog.vivo.com.cn,reject
 DOMAIN,adm.funshion.com,reject
+DOMAIN,adm.zhangyuyidong.cn,reject
 DOMAIN,admarketing.yahoo.net,reject
 DOMAIN,admobile.top,reject
 DOMAIN,adreq.vivo.com.cn,reject
@@ -139,6 +140,7 @@ DOMAIN,adsfs.heytapimage.com,reject
 DOMAIN,adsfs.oppomobile.com,reject
 DOMAIN,adslvfile.qq.com,reject
 DOMAIN,adsmart.konka.com,reject
+DOMAIN,adsmartget.datads.cn,reject
 DOMAIN,adsmind.gdtimg.com,reject
 DOMAIN,adsmind.ugdtimg.com,reject
 DOMAIN,adsmoloco.com,reject
@@ -294,6 +296,7 @@ DOMAIN,da.anythinktech.com,reject
 DOMAIN,data.ads.oppomobile.com,reject
 DOMAIN,datacollection.uve.weibo.com,reject
 DOMAIN,dc.sigmob.cn,reject
+DOMAIN,de.ad.gameley.com,reject
 DOMAIN,diagnosis.ad.xiaomi.com,reject
 DOMAIN,doubleclick-cn.net,reject
 DOMAIN,dsp-x.jd.com,reject
@@ -374,6 +377,7 @@ DOMAIN,init.supersonicads.com,reject
 DOMAIN,inner-hw.huazirc.com,reject
 DOMAIN,irc.qubiankeji.com,reject
 DOMAIN,iyfbodn.com,reject
+DOMAIN,jp.ad.gameley.com,reject
 DOMAIN,kde.qq.com,reject
 DOMAIN,kepler.jd.com,reject
 DOMAIN,kl.67it.com,reject
@@ -421,6 +425,7 @@ DOMAIN,mobilead.kuwo.cn,reject
 DOMAIN,monitor-ads-test.huan.tv,reject
 DOMAIN,monitor.adxsenmeng.com,reject
 DOMAIN,mores.toponad.com,reject
+DOMAIN,mpcfg.fancydsp.com,reject
 DOMAIN,ms.applovin.com,reject
 DOMAIN,ms.applvn.com,reject
 DOMAIN,ms4.applovin.com,reject
@@ -494,16 +499,20 @@ DOMAIN,s8t.teads.tv,reject
 DOMAIN,saad.ms.zhangyue.net,reject
 DOMAIN,samsungads.com,reject
 DOMAIN,sdk-cache.video.ptqy.gitv.tv,reject
+DOMAIN,sdk-track.66mobi.com,reject
 DOMAIN,sdk.1rtb.net,reject
 DOMAIN,sdk.ad.smaato.net,reject
+DOMAIN,sdk.adhuanxiao.com,reject
 DOMAIN,sdk.adx.adwangmai.com,reject
 DOMAIN,sdk.aqyad.com,reject
 DOMAIN,sdk.beizi.biz,reject
 DOMAIN,sdk.cferw.com,reject
 DOMAIN,sdk.e.qq.com,reject
 DOMAIN,sdk.hzsanjiaomao.com,reject
+DOMAIN,sdk.hzzfcm.com,reject
 DOMAIN,sdk.markmedia.com.cn,reject
 DOMAIN,sdk.mobads.adwangmai.com,reject
+DOMAIN,sdk.zhangyuyidong.cn,reject
 DOMAIN,sdkapi.cloooud.com,reject
 DOMAIN,sdkapp.uve.weibo.com,reject
 DOMAIN,sdkauth.hpplay.cn,reject
@@ -511,6 +520,7 @@ DOMAIN,sdkconfig.ad.intl.xiaomi.com,reject
 DOMAIN,sdkconfig.ad.xiaomi.com,reject
 DOMAIN,sdkconfig.play.aiseet.atianqi.com,reject
 DOMAIN,sdkconfig.video.qq.com,reject
+DOMAIN,sdklog.zhangyuyidong.cn,reject
 DOMAIN,sdkreport.e.qq.com,reject
 DOMAIN,sdktmp.hubcloud.com.cn,reject
 DOMAIN,sdownload.stargame.com,reject
@@ -621,6 +631,7 @@ DOMAIN,wxsnsad.tc.qq.com,reject
 DOMAIN,wxsnsdy.tc.qq.com,reject
 DOMAIN,wxsnsdy.wxs.qq.com,reject
 DOMAIN,wxsnsdythumb.wxs.qq.com,reject
+DOMAIN,xadsmartget.adgain.cn,reject
 DOMAIN,xc.gdt.qq.com,reject
 DOMAIN,xcx.dcad01.com,reject
 DOMAIN,xiaomi-dtv.m.cn.miaozhen.com,reject

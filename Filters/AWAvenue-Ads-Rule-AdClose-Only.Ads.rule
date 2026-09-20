@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule (Only.Ads)
 #--------------------------------------
-#Total lines: 626
+#Total lines: 650
 #Version: 1.7.6-release
-#Update time: 2026-09-09 23:35:30 UTC+8
-#Update content: 移除广告主投放后台域名ad.weibo.com与iadworkbench.apple.com，此类后台不属拦截范围
+#Update time: 2026-09-20 20:30:39 UTC+8
+#Update content: 新增拦截欢效/章鱼移动/早范/AdGain等广告SDK域名11条，fix #216，感谢@Pideo1
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -15,7 +15,9 @@
 domain, 1500020991.vodplayer.wxamedia.com
 domain, 1500022744.vodplayer.wxamedia.com
 domain, 1500026601.vodplayer.wxamedia.com
+domain, 1rtb.com
 domain, 8le8le.com
+domain, a.market.xiaomi.com
 domain, a0.app.xiaomi.com
 domain, ad-api.4pyun.com
 domain, ad-cdn.qingting.fm
@@ -72,12 +74,14 @@ domain, adexp.liftoff.io
 domain, adexpo.tencentmusic.com
 domain, adguanggao.eee114.com
 domain, adimg.uve.weibo.com
+domain, adintl.cn
 domain, adjust.cn
 domain, adjust.com
 domain, adks.hpplay.cn
 domain, adlink-api.huan.tv
 domain, adlog.vivo.com.cn
 domain, adm.funshion.com
+domain, adm.zhangyuyidong.cn
 domain, admarketing.yahoo.net
 domain, admobile.top
 domain, adreq.vivo.com.cn
@@ -142,6 +146,7 @@ domain, adsfs.heytapimage.com
 domain, adsfs.oppomobile.com
 domain, adslvfile.qq.com
 domain, adsmart.konka.com
+domain, adsmartget.datads.cn
 domain, adsmind.gdtimg.com
 domain, adsmind.ugdtimg.com
 domain, adsmoloco.com
@@ -185,6 +190,7 @@ domain, adx-saas.advlion.com
 domain, adx-strategy-api-cn.statisticslinks.com
 domain, adx.ads.heytapmobi.com
 domain, adx.ads.oppomobile.com
+domain, adx.adwangmai.com
 domain, adx.appsdk.com.cn
 domain, adx.sogaha.cn
 domain, adx.tuia.cn
@@ -295,8 +301,10 @@ domain, d.applovin.com
 domain, d.applvn.com
 domain, da.anythinktech.com
 domain, data.ads.oppomobile.com
+domain, data.hicloud.com
 domain, datacollection.uve.weibo.com
 domain, dc.sigmob.cn
+domain, de.ad.gameley.com
 domain, diagnosis.ad.xiaomi.com
 domain, doubleclick-cn.net
 domain, dsp-x.jd.com
@@ -377,6 +385,7 @@ domain, init.supersonicads.com
 domain, inner-hw.huazirc.com
 domain, irc.qubiankeji.com
 domain, iyfbodn.com
+domain, jp.ad.gameley.com
 domain, kde.qq.com
 domain, kepler.jd.com
 domain, kl.67it.com
@@ -424,6 +433,7 @@ domain, mobilead.kuwo.cn
 domain, monitor-ads-test.huan.tv
 domain, monitor.adxsenmeng.com
 domain, mores.toponad.com
+domain, mpcfg.fancydsp.com
 domain, ms.applovin.com
 domain, ms.applvn.com
 domain, ms4.applovin.com
@@ -497,16 +507,20 @@ domain, s8t.teads.tv
 domain, saad.ms.zhangyue.net
 domain, samsungads.com
 domain, sdk-cache.video.ptqy.gitv.tv
+domain, sdk-track.66mobi.com
 domain, sdk.1rtb.net
 domain, sdk.ad.smaato.net
+domain, sdk.adhuanxiao.com
 domain, sdk.adx.adwangmai.com
 domain, sdk.aqyad.com
 domain, sdk.beizi.biz
 domain, sdk.cferw.com
 domain, sdk.e.qq.com
 domain, sdk.hzsanjiaomao.com
+domain, sdk.hzzfcm.com
 domain, sdk.markmedia.com.cn
 domain, sdk.mobads.adwangmai.com
+domain, sdk.zhangyuyidong.cn
 domain, sdkapi.cloooud.com
 domain, sdkapp.uve.weibo.com
 domain, sdkauth.hpplay.cn
@@ -514,6 +528,7 @@ domain, sdkconfig.ad.intl.xiaomi.com
 domain, sdkconfig.ad.xiaomi.com
 domain, sdkconfig.play.aiseet.atianqi.com
 domain, sdkconfig.video.qq.com
+domain, sdklog.zhangyuyidong.cn
 domain, sdkreport.e.qq.com
 domain, sdktmp.hubcloud.com.cn
 domain, sdownload.stargame.com
@@ -578,6 +593,7 @@ domain, tvapp.hpplay.cn
 domain, tx-ad.a.yximgs.com
 domain, tytx.m.cn.miaozhen.com
 domain, uapi.ads.heytapmobi.com
+domain, ubixioe.com
 domain, union.baidu.cn
 domain, union.baidu.com
 domain, unityads.unity3d.com
@@ -602,6 +618,7 @@ domain, video.dispatch.tc.qq.com
 domain, video.market.xiaomi.com
 domain, vipauth.hpplay.cn
 domain, vipgslb.hpplay.cn
+domain, vlion.cn
 domain, vlive.qqvideo.tc.qq.com
 domain, volc.bj.ad.track.66mobi.com
 domain, vungle.com
@@ -624,11 +641,13 @@ domain, wxsnsad.tc.qq.com
 domain, wxsnsdy.tc.qq.com
 domain, wxsnsdy.wxs.qq.com
 domain, wxsnsdythumb.wxs.qq.com
+domain, xadsmartget.adgain.cn
 domain, xc.gdt.qq.com
 domain, xcx.dcad01.com
 domain, xiaomi-dtv.m.cn.miaozhen.com
 domain, xlviiirdr.com
 domain, xlviirdr.com
+domain, yfanads.com
 domain, yk-ssp-ad.cp31.ott.cibntv.net
 domain, yk-ssp.ad.youku.com
 domain, ykad-data.cp31.ott.cibntv.net
@@ -637,4 +656,9 @@ domain, ykad-gateway.youku.com
 domain, ytx-file.110route.cn
 domain, yumao.puata.info
 domain, zeus.ad.xiaomi.com
+domain, zhangyuyidong.cn
 domain, zjres-ad.kajicam.com
+keyword, -ad.sm.cn
+keyword, -ad.video.yximgs.com
+keyword, -ad.wtzw.com
+keyword, -be-pack-sign.pglstatp-toutiao.com
