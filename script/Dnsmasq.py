@@ -8,5 +8,6 @@ def format_domain(List):
 
 
 def build(rule):
-    list = format_domain(rule.domain_list)
+    # address=/domain/# 本身即匹配该域名及其全部子域, 故 suffix 规则用同一语法表达
+    list = format_domain(sorted(set(rule.domain_list) | set(rule.suffix_list)))
     return {'list': list, 'suffix': '.conf', 'comment': '#', 'total': len(list)}

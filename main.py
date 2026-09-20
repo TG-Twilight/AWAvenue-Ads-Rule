@@ -1,17 +1,21 @@
 import os
+import re
 import config
 import importlib
 import subprocess
 from datetime import datetime
 
 
+def _tag_version_key(tag): # 取tag中的数字段做语义化排序, 避免字母序把1.10排到1.9之前
+    return [int(n) for n in re.findall(r'\d+', tag)]
+
 def get_latest_git_tag(): # 获取最新的git tag
     process = subprocess.Popen('git tag', stdout=subprocess.PIPE, shell=True)
     output, error = process.communicate()
-    tags = output.decode().strip().split('\n')
-    
+    tags = [tag.strip() for tag in output.decode().splitlines() if tag.strip()]
+
     if tags:
-        return tags[-1]
+        return max(tags, key=lambda tag: (_tag_version_key(tag), tag))
     else:
         return None
 

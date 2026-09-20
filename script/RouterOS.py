@@ -10,5 +10,6 @@ def format_domain(List):
     return domain
 
 def build(rule):
-    list = format_domain(rule.domain_list)
+    # 静态 DNS 条目为精确匹配, suffix 规则只能补出主域名本身; 通配需 regexp= 写法, 因其 CPU 开销大暂不采用
+    list = format_domain(sorted(set(rule.domain_list) | set(rule.suffix_list)))
     return {'list': list, 'suffix': '.txt', 'comment': '!', 'total': len(list)}

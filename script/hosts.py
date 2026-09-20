@@ -11,5 +11,6 @@ def format_domain(List):
 
 
 def build(rule):
-    list = format_domain(rule.domain_list)
+    # hosts 格式无法表达通配, suffix 规则只能补出主域名本身(子域仍无法覆盖), keyword/regex 则无解
+    list = format_domain(sorted(set(rule.domain_list) | set(rule.suffix_list)))
     return {'list': ["127.0.0.1 localhost", "::1 localhost", "", ""] + list, 'suffix': '.txt', 'comment': '!', 'total': len(list)}
