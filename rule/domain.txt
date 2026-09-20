@@ -64,6 +64,7 @@ adks.hpplay.cn
 adlink-api.huan.tv
 adlog.vivo.com.cn
 adm.funshion.com
+adm.zhangyuyidong.cn
 admarketing.yahoo.net
 admobile.top
 adreq.vivo.com.cn
@@ -128,6 +129,7 @@ adsfs.heytapimage.com
 adsfs.oppomobile.com
 adslvfile.qq.com
 adsmart.konka.com
+adsmartget.datads.cn
 adsmind.gdtimg.com
 adsmind.ugdtimg.com
 adsmoloco.com
@@ -283,6 +285,7 @@ da.anythinktech.com
 data.ads.oppomobile.com
 datacollection.uve.weibo.com
 dc.sigmob.cn
+de.ad.gameley.com
 diagnosis.ad.xiaomi.com
 doubleclick-cn.net
 dsp-x.jd.com
@@ -363,6 +366,7 @@ init.supersonicads.com
 inner-hw.huazirc.com
 irc.qubiankeji.com
 iyfbodn.com
+jp.ad.gameley.com
 kde.qq.com
 kepler.jd.com
 kl.67it.com
@@ -410,6 +414,7 @@ mobilead.kuwo.cn
 monitor-ads-test.huan.tv
 monitor.adxsenmeng.com
 mores.toponad.com
+mpcfg.fancydsp.com
 ms.applovin.com
 ms.applvn.com
 ms4.applovin.com
@@ -483,16 +488,20 @@ s8t.teads.tv
 saad.ms.zhangyue.net
 samsungads.com
 sdk-cache.video.ptqy.gitv.tv
+sdk-track.66mobi.com
 sdk.1rtb.net
 sdk.ad.smaato.net
+sdk.adhuanxiao.com
 sdk.adx.adwangmai.com
 sdk.aqyad.com
 sdk.beizi.biz
 sdk.cferw.com
 sdk.e.qq.com
 sdk.hzsanjiaomao.com
+sdk.hzzfcm.com
 sdk.markmedia.com.cn
 sdk.mobads.adwangmai.com
+sdk.zhangyuyidong.cn
 sdkapi.cloooud.com
 sdkapp.uve.weibo.com
 sdkauth.hpplay.cn
@@ -500,6 +509,7 @@ sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
 sdkconfig.play.aiseet.atianqi.com
 sdkconfig.video.qq.com
+sdklog.zhangyuyidong.cn
 sdkreport.e.qq.com
 sdktmp.hubcloud.com.cn
 sdownload.stargame.com
@@ -610,6 +620,7 @@ wxsnsad.tc.qq.com
 wxsnsdy.tc.qq.com
 wxsnsdy.wxs.qq.com
 wxsnsdythumb.wxs.qq.com
+xadsmartget.adgain.cn
 xc.gdt.qq.com
 xcx.dcad01.com
 xiaomi-dtv.m.cn.miaozhen.com
