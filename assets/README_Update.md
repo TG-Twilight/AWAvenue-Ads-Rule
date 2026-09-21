@@ -1,5 +1,9 @@
 # 更新日志：
 
+<p align="center">
+  <a href="#bottom"><img src="https://img.shields.io/badge/%E2%86%93%20%E7%9B%B4%E8%BE%BE%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC-FFD9DC?style=for-the-badge&labelColor=FFEBEB" alt="直达最新版本"></a>
+</p>
+
 ## 0.1.0-beta：2月11日，2023年
 🎉秋风广告规则诞生！最初版的 0.1.0-beta 仅在 Telegram 频道中发布，可以拦截部分 WeChat 订阅号广告、穿山甲sdk、Kwaishou Ads。
 <br />
@@ -760,3 +764,5 @@ Build:
 <br />
 
 ---
+
+<a name="bottom"></a>

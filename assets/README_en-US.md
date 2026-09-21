@@ -1,6 +1,6 @@
 <div align="center">
 
-[中文](/README.md) · **English** · [Changelog](/assets/README_Update.md) · [Website · GLOBAL](https://awavenue.top) · [Website · CHINA](https://doc.awads.cc)
+[中文](/README.md) · **English** · [Website · GLOBAL](https://awavenue.top) · [Website · CHINA](https://doc.awads.cc)
 
 <br/>
 
@@ -15,6 +15,7 @@
 <img src="https://img.shields.io/github/stars/TG-Twilight/AWAvenue-Ads-Rule?style=for-the-badge&colorA=FFEBEB&colorB=FFD9DC&logo=github&logoColor=pink" alt="Stars">
 <a href="https://t.me/AWAvenueAdsRule"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&colorA=DAE9FC&colorB=056DE8&label=Channel&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DAWAvenueAdsRule" alt="Telegram Channel"></a>
 <a href="https://t.me/AWAvenueAdsChat"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&colorA=DAE9FC&colorB=056DE8&label=Group&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3DAWAvenueAdsChat" alt="Telegram Group"></a>
+<a href="/assets/README_Update.md"><img src="https://img.shields.io/badge/Changelog-FFD9DC?style=for-the-badge&labelColor=FFEBEB&logo=github&logoColor=pink" alt="Changelog"></a>
 <a href="https://afdian.com/a/AdsRule" target="_blank"><img src="https://img.shields.io/badge/Sponsor-ffd700?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=ff9800" alt="Sponsor"></a>
 
 <br/>
@@ -138,29 +139,17 @@ This is a personal project, maintained as time allows. Issues and PRs are welcom
 
 ## Sponsors
 
-<div align="center">
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <a href="https://www.cloudflare.com/" target="_blank" title="Cloudflare provides fast, secure, and reliable global network and security services.">
-        <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/CLOUDFLARE/card-cloudflare.svg" alt="Cloudflare" width="280" height="86" title="Cloudflare provides fast, secure, and reliable global network and security services.">
-      </a>
-    </td>
-    <td>
-      <a href="https://1password.com/" target="_blank" title="1Password provides secure, easy-to-use password management with multi-device sync.">
-        <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/1Password/card-1password.svg" alt="1Password" width="280" height="86" title="1Password provides secure, easy-to-use password management with multi-device sync.">
-      </a>
-    </td>
-    <td>
-      <a href="https://xtyun.co/#/register?code=M1w4rjdl" target="_blank" title="XTCloud — Travel the world, high-speed connectivity.">
-        <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/XTCloud/card-xtcloud.svg" alt="XTCloud" width="280" height="86" title="XTCloud — Travel the world, high-speed connectivity.">
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+  <a href="https://www.cloudflare.com/" target="_blank" title="Cloudflare provides fast, secure, and reliable global network and security services.">
+    <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/CLOUDFLARE/card-cloudflare.svg" alt="Cloudflare" width="252" height="77" title="Cloudflare provides fast, secure, and reliable global network and security services.">
+  </a>
+  <a href="https://1password.com/" target="_blank" title="1Password provides secure, easy-to-use password management with multi-device sync.">
+    <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/1Password/card-1password.svg" alt="1Password" width="252" height="77" title="1Password provides secure, easy-to-use password management with multi-device sync.">
+  </a>
+  <a href="https://xtyun.co/#/register?code=M1w4rjdl" target="_blank" title="XTCloud — Travel the world, high-speed connectivity.">
+    <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/XTCloud/card-xtcloud.svg" alt="XTCloud" width="252" height="77" title="XTCloud — Travel the world, high-speed connectivity.">
+  </a>
+</p>
 
 ---
 
