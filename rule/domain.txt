@@ -456,6 +456,8 @@ pay.sboot.cn
 pgdt.gtimg.cn
 pgdt.ugdtimg.com
 pglstatp-toutiao.com
+pica-a-display.diwodiwo.xyz
+pica-ad-api.diwodiwo.xyz
 pixon.ads-pixiv.net
 pms.mb.qq.com
 pos.baidu.com
