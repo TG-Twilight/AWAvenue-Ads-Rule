@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2026-09-20 20:30:39 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2026-09-21 21:22:44 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -614,6 +614,8 @@ DOMAIN,pcm-img.zhls.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,pgdt.gtimg.cn,REJECT,extended-matching,pre-matching
 DOMAIN,pgdt.ugdtimg.com,REJECT,extended-matching,pre-matching
 DOMAIN,pglstatp-toutiao.com,REJECT,extended-matching,pre-matching
+DOMAIN,pica-a-display.diwodiwo.xyz,REJECT,extended-matching,pre-matching
+DOMAIN,pica-ad-api.diwodiwo.xyz,REJECT,extended-matching,pre-matching
 DOMAIN,pig.pupuapi.com,REJECT,extended-matching,pre-matching
 DOMAIN,pixon.ads-pixiv.net,REJECT,extended-matching,pre-matching
 DOMAIN,pl.cp31.ott.cibntv.net,REJECT,extended-matching,pre-matching

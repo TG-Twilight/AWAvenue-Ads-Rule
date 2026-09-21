@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule (No.Privacy)
 !--------------------------------------
-!Total lines: 1484
+!Total lines: 1488
 !Version: 1.7.6-release
-!Update time: 2026-09-20 20:30:39 UTC+8
-!Update content: 新增拦截欢效/章鱼移动/早范/AdGain等广告SDK域名11条，fix #216，感谢@Pideo1
+!Update time: 2026-09-21 21:22:44 UTC+8
+!Update content: 新增拦截哔咔漫画广告接口与展示页域名2条，fix #204，感谢@0xLac
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -1039,6 +1039,10 @@ ip dns static add address=240.0.0.1 name=pgdt.ugdtimg.com
 ip dns static add address=:: name=pgdt.ugdtimg.com
 ip dns static add address=240.0.0.1 name=pglstatp-toutiao.com
 ip dns static add address=:: name=pglstatp-toutiao.com
+ip dns static add address=240.0.0.1 name=pica-a-display.diwodiwo.xyz
+ip dns static add address=:: name=pica-a-display.diwodiwo.xyz
+ip dns static add address=240.0.0.1 name=pica-ad-api.diwodiwo.xyz
+ip dns static add address=:: name=pica-ad-api.diwodiwo.xyz
 ip dns static add address=240.0.0.1 name=pin.hpplay.cn
 ip dns static add address=:: name=pin.hpplay.cn
 ip dns static add address=240.0.0.1 name=pixon.ads-pixiv.net

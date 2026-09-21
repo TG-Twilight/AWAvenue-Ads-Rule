@@ -468,6 +468,8 @@ full:pay.sboot.cn
 full:pgdt.gtimg.cn
 full:pgdt.ugdtimg.com
 full:pglstatp-toutiao.com
+full:pica-a-display.diwodiwo.xyz
+full:pica-ad-api.diwodiwo.xyz
 full:pixon.ads-pixiv.net
 full:pms.mb.qq.com
 full:pos.baidu.com

@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule (No.Privacy)
 #--------------------------------------
-#Total lines: 746
+#Total lines: 748
 #Version: 1.7.6-release
-#Update time: 2026-09-20 20:30:39 UTC+8
-#Update content: 新增拦截欢效/章鱼移动/早范/AdGain等广告SDK域名11条，fix #216，感谢@Pideo1
+#Update time: 2026-09-21 21:22:44 UTC+8
+#Update content: 新增拦截哔咔漫画广告接口与展示页域名2条，fix #204，感谢@0xLac
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -527,6 +527,8 @@ domain, pcdn.yximgs.com
 domain, pgdt.gtimg.cn
 domain, pgdt.ugdtimg.com
 domain, pglstatp-toutiao.com
+domain, pica-a-display.diwodiwo.xyz
+domain, pica-ad-api.diwodiwo.xyz
 domain, pin.hpplay.cn
 domain, pixon.ads-pixiv.net
 domain, pkoplink.com

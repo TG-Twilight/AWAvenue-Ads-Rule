@@ -520,6 +520,8 @@ full:pcdn.yximgs.com
 full:pgdt.gtimg.cn
 full:pgdt.ugdtimg.com
 full:pglstatp-toutiao.com
+full:pica-a-display.diwodiwo.xyz
+full:pica-ad-api.diwodiwo.xyz
 full:pin.hpplay.cn
 full:pixon.ads-pixiv.net
 full:pkoplink.com
