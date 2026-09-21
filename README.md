@@ -144,24 +144,17 @@
   <tr>
     <td>
       <a href="https://www.cloudflare.com/" target="_blank" title="Cloudflare提供快速、安全且可靠的全球网络与安全服务。">
-        <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/CLOUDFLARE/card-cloudflare.svg" alt="Cloudflare" width="360" height="110" title="Cloudflare提供快速、安全且可靠的全球网络与安全服务。">
+        <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/CLOUDFLARE/card-cloudflare.svg" alt="Cloudflare" width="280" height="86" title="Cloudflare提供快速、安全且可靠的全球网络与安全服务。">
       </a>
     </td>
     <td>
       <a href="https://1password.com/" target="_blank" title="1Password提供安全、易用且支持多端同步的密码管理服务。">
-        <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/1Password/card-1password.svg" alt="1Password" width="360" height="110" title="1Password提供安全、易用且支持多端同步的密码管理服务。">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://zmto.com/" target="_blank" title="ZMTO提供安全、可靠且可扩展的云基础设施与 VPS 托管服务。">
-        <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/zmto/card-zmto.svg" alt="ZMTO" width="360" height="110" title="ZMTO提供安全、可靠且可扩展的云基础设施与 VPS 托管服务。">
+        <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/1Password/card-1password.svg" alt="1Password" width="280" height="86" title="1Password提供安全、易用且支持多端同步的密码管理服务。">
       </a>
     </td>
     <td>
       <a href="https://xtyun.co/#/register?code=M1w4rjdl" target="_blank" title="XTCloud — 畅游世界，高速互联。">
-        <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/XTCloud/card-xtcloud.svg" alt="XTCloud" width="360" height="110" title="XTCloud — 畅游世界，高速互联。">
+        <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/XTCloud/card-xtcloud.svg" alt="XTCloud" width="280" height="86" title="XTCloud — 畅游世界，高速互联。">
       </a>
     </td>
   </tr>

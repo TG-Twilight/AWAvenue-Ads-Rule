@@ -144,24 +144,17 @@ This is a personal project, maintained as time allows. Issues and PRs are welcom
   <tr>
     <td>
       <a href="https://www.cloudflare.com/" target="_blank" title="Cloudflare provides fast, secure, and reliable global network and security services.">
-        <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/CLOUDFLARE/card-cloudflare.svg" alt="Cloudflare" width="360" height="110" title="Cloudflare provides fast, secure, and reliable global network and security services.">
+        <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/CLOUDFLARE/card-cloudflare.svg" alt="Cloudflare" width="280" height="86" title="Cloudflare provides fast, secure, and reliable global network and security services.">
       </a>
     </td>
     <td>
       <a href="https://1password.com/" target="_blank" title="1Password provides secure, easy-to-use password management with multi-device sync.">
-        <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/1Password/card-1password.svg" alt="1Password" width="360" height="110" title="1Password provides secure, easy-to-use password management with multi-device sync.">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://zmto.com/" target="_blank" title="ZMTO provides secure, reliable, and scalable cloud infrastructure and VPS hosting.">
-        <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/zmto/card-zmto.svg" alt="ZMTO" width="360" height="110" title="ZMTO provides secure, reliable, and scalable cloud infrastructure and VPS hosting.">
+        <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/1Password/card-1password.svg" alt="1Password" width="280" height="86" title="1Password provides secure, easy-to-use password management with multi-device sync.">
       </a>
     </td>
     <td>
       <a href="https://xtyun.co/#/register?code=M1w4rjdl" target="_blank" title="XTCloud — Travel the world, high-speed connectivity.">
-        <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/XTCloud/card-xtcloud.svg" alt="XTCloud" width="360" height="110" title="XTCloud — Travel the world, high-speed connectivity.">
+        <img src="https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/refs/heads/main/assets/logo/XTCloud/card-xtcloud.svg" alt="XTCloud" width="280" height="86" title="XTCloud — Travel the world, high-speed connectivity.">
       </a>
     </td>
   </tr>
