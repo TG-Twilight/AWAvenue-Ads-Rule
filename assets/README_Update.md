@@ -716,3 +716,47 @@ Build:
 <br />
 
 ---
+
+## 1.7.8-release：9月21日，2026年
+<br />
+
+**本次修复了九种订阅格式长期未生效的 suffix 与 keyword 规则，使用这些格式的用户会看到条目数上涨，属于预期内的覆盖面修正。**
+
+main：
+<br />
+[新增]拦截 vivo 广告族 7 条，覆盖广告日志、广告请求、素材分发与投放监测。#205
+<br />
+[新增]拦截 新浪微博、网易、百度、猫眼、雅虎、苹果、联通、360、腾讯 等 44 条广告与隐私上报域名（广告 31 / 隐私 9 / 不受欢迎 4）。#214
+<br />
+[新增]拦截 欢效聚合广告、章鱼移动、早范传媒、AdGain 等广告 SDK 域名 11 条，来自某网盘的开屏与摇一摇广告抓包。#216
+<br />
+[新增]拦截 哔咔漫画 广告接口与广告展示页 2 条（其图源与存储域名不在拦截范围，不影响正常阅读）。#204
+<br />
+[新增]后缀规则收录 adsmoloco.com 与 unityads.unity3d.com，覆盖其全部子域。
+<br />
+[清理]移除 log.aliyuncs.com 后缀规则，此前误杀阿里云日志服务的正常业务。#211
+<br />
+[清理]移除 -normal.zijieapi.com 关键词通配，其子串匹配会误杀抖音正常接口。#215
+<br />
+[清理]移除广告主投放后台域名 ad.weibo.com 与 iadworkbench.apple.com——这类后台只有广告主本人登录才访问，端侧广告 SDK 从不请求，拦了对去广告零收益、纯属误伤。
+<br />
+[清理]去除后缀规则中重复的 ad.gameley.com 与 adx.adwangmai.com。
+<br />
+[修复]更正 safebrowsing.urlsec 的域名后缀，gg.com 实为 qq.com 之误。#213
+<br />
+[调整]README 补充四种订阅方案的说明，方便新用户对号入座。
+<br />
+
+Build:
+<br />
+[修复]AdClose、Dnsmasq、Geosite、Loon、Shadowrocket、Surge-module、hosts、RouterOS、RouterOS-Adlist 九个格式插件漏用 suffix 与 keyword 规则，本次补全。其中 hosts 与 RouterOS 系格式本身无通配能力，仅能补出后缀的主域名，子域仍无法覆盖。
+<br />
+[修复]版本号读取按字母序取末位，到 1.10.x 会排序错乱，改为按数字段做语义化排序。
+<br />
+<br />
+
+*本次更新由 Anthropic 公司提供的 Claude Opus 5 倾情完成——顺手把九个摸鱼的构建插件叫醒了😌*
+<br />
+<br />
+
+---
