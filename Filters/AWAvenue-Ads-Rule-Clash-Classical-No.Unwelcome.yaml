@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule (No.Unwelcome)
 #--------------------------------------
-#Total lines: 869
+#Total lines: 879
 #Version: 1.7.8-release
-#Update time: 2026-09-21 21:56:59 UTC+8
-#Update content: 新增拦截哔咔漫画广告接口与展示页域名2条，fix #204，感谢@0xLac
+#Update time: 2026-10-22 21:27:09 UTC+8
+#Update content: 新增海信与乐播广告拦截并调整会员推广分类
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -19,6 +19,8 @@ payload:
   - DOMAIN,aaid.umeng.com
   - DOMAIN,ad-api.4pyun.com
   - DOMAIN,ad-cdn.qingting.fm
+  - DOMAIN,ad-cmp.hismarttv.com
+  - DOMAIN,ad-download.hismarttv.com
   - DOMAIN,ad-files.4pyun.com
   - DOMAIN,ad-scope.com
   - DOMAIN,ad-scope.com.cn
@@ -288,6 +290,7 @@ payload:
   - DOMAIN,bj-td-menta-01-callback.advlion.com
   - DOMAIN,bj.ad.track.66mobi.com
   - DOMAIN,books-analytics-events.apple.com
+  - DOMAIN,boost-cmp.hismarttv.com
   - DOMAIN,bootpreload.uve.weibo.com
   - DOMAIN,brandadsstatic.vivo.com.cn
   - DOMAIN,browser.events.data.msn.cn
@@ -383,6 +386,7 @@ payload:
   - DOMAIN,fxgate.baidu.com
   - DOMAIN,g-adnet.hiaiabc.com
   - DOMAIN,g-staic.ganjingworld.com
+  - DOMAIN,g.cn.miaozhen.com
   - DOMAIN,g.dtv.cn.miaozhen.com
   - DOMAIN,g.fancyapi.com
   - DOMAIN,g2.ganjing.world
@@ -406,7 +410,6 @@ payload:
   - DOMAIN,h-adashx.ut.taobao.com
   - DOMAIN,h.trace.qq.com
   - DOMAIN,h5.analytics.126.net
-  - DOMAIN,h5.hpplay.com.cn
   - DOMAIN,hanlanad.com
   - DOMAIN,hc-ssp.sm.cn
   - DOMAIN,heads-ak.spotify.com.edgesuite.net
@@ -446,6 +449,7 @@ payload:
   - DOMAIN,img-x.jd.com
   - DOMAIN,img.adnyg.com.w.kunlungr.com
   - DOMAIN,img2.360buyimg.com
+  - DOMAIN,imp-cmp.hismarttv.com
   - DOMAIN,impression-asia.chinaliftoff.io
   - DOMAIN,impression-asia.liftoff.io
   - DOMAIN,impression.appsflyer.com
@@ -480,6 +484,7 @@ payload:
   - DOMAIN,liveats-vod.video.ptqy.gitv.tv
   - DOMAIN,livemonitor.huan.tv
   - DOMAIN,lm10111.jtrincc.cn
+  - DOMAIN,loading-cmp.hismarttv.com
   - DOMAIN,log-api-mn.huxiu.com
   - DOMAIN,log-api.huxiu.com
   - DOMAIN,log-api.pangolin-sdk-toutiao-b.com
@@ -569,6 +574,7 @@ payload:
   - DOMAIN,ms4.applovin.com
   - DOMAIN,ms4.applvn.com
   - DOMAIN,msdk.voiceads.cn
+  - DOMAIN,msg-cmp.hismarttv.com
   - DOMAIN,mssdk.volces.com
   - DOMAIN,mssdk.zijieapi.com
   - DOMAIN,mtj.baidu.com
@@ -613,6 +619,7 @@ payload:
   - DOMAIN,pagead2.googleadservices.com
   - DOMAIN,pagead2.googlesyndication.com
   - DOMAIN,pangolin-sdk-toutiao-b.com
+  - DOMAIN,paster-cmp.hismarttv.com
   - DOMAIN,pay.sboot.cn
   - DOMAIN,pcm-img.zhls.qq.com
   - DOMAIN,pgdt.gtimg.cn
@@ -636,6 +643,7 @@ payload:
   - DOMAIN,qmlog.baertt.com
   - DOMAIN,qqdata.ab.qq.com
   - DOMAIN,qzs.gdtimg.com
+  - DOMAIN,recmd-cmp.hismarttv.com
   - DOMAIN,recommend-drcn.hms.dbankcloud.cn
   - DOMAIN,report.dxunion.cn
   - DOMAIN,report.tencentmusic.com
@@ -646,6 +654,7 @@ payload:
   - DOMAIN,res2.hubcloud.com.cn
   - DOMAIN,res3.hubcloud.com.cn
   - DOMAIN,resolve.umeng.com
+  - DOMAIN,resource-cmp.hismarttv.com
   - DOMAIN,review.gdtimg.com
   - DOMAIN,rlog.popin.cc
   - DOMAIN,roi.soulapp.cn
@@ -805,6 +814,7 @@ payload:
   - DOMAIN,v2-ad.video.yximgs.com
   - DOMAIN,v2-api-channel-launcher.hismarttv.com
   - DOMAIN,v2.gdt.qq.com
+  - DOMAIN,v2.reachmax.cn
   - DOMAIN,v2mi.gdt.qq.com
   - DOMAIN,v3-ad.video.yximgs.com
   - DOMAIN,v3.gdt.qq.com

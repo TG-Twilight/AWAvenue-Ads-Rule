@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule (No.Unwelcome)
 #--------------------------------------
-#Total lines: 869
+#Total lines: 879
 #Version: 1.7.8-release
-#Update time: 2026-09-21 21:56:59 UTC+8
-#Update content: 新增拦截哔咔漫画广告接口与展示页域名2条，fix #204，感谢@0xLac
+#Update time: 2026-10-22 21:27:09 UTC+8
+#Update content: 新增海信与乐播广告拦截并调整会员推广分类
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -18,6 +18,8 @@ DOMAIN,a0.app.xiaomi.com,reject
 DOMAIN,aaid.umeng.com,reject
 DOMAIN,ad-api.4pyun.com,reject
 DOMAIN,ad-cdn.qingting.fm,reject
+DOMAIN,ad-cmp.hismarttv.com,reject
+DOMAIN,ad-download.hismarttv.com,reject
 DOMAIN,ad-files.4pyun.com,reject
 DOMAIN,ad-scope.com,reject
 DOMAIN,ad-scope.com.cn,reject
@@ -287,6 +289,7 @@ DOMAIN,biz.weibo.com,reject
 DOMAIN,bj-td-menta-01-callback.advlion.com,reject
 DOMAIN,bj.ad.track.66mobi.com,reject
 DOMAIN,books-analytics-events.apple.com,reject
+DOMAIN,boost-cmp.hismarttv.com,reject
 DOMAIN,bootpreload.uve.weibo.com,reject
 DOMAIN,brandadsstatic.vivo.com.cn,reject
 DOMAIN,browser.events.data.msn.cn,reject
@@ -382,6 +385,7 @@ DOMAIN,frontend-perf-service.e.kuaishou.com,reject
 DOMAIN,fxgate.baidu.com,reject
 DOMAIN,g-adnet.hiaiabc.com,reject
 DOMAIN,g-staic.ganjingworld.com,reject
+DOMAIN,g.cn.miaozhen.com,reject
 DOMAIN,g.dtv.cn.miaozhen.com,reject
 DOMAIN,g.fancyapi.com,reject
 DOMAIN,g2.ganjing.world,reject
@@ -405,7 +409,6 @@ DOMAIN,gvideo.qpic.cn,reject
 DOMAIN,h-adashx.ut.taobao.com,reject
 DOMAIN,h.trace.qq.com,reject
 DOMAIN,h5.analytics.126.net,reject
-DOMAIN,h5.hpplay.com.cn,reject
 DOMAIN,hanlanad.com,reject
 DOMAIN,hc-ssp.sm.cn,reject
 DOMAIN,heads-ak.spotify.com.edgesuite.net,reject
@@ -445,6 +448,7 @@ DOMAIN,img-c.heytapimage.com,reject
 DOMAIN,img-x.jd.com,reject
 DOMAIN,img.adnyg.com.w.kunlungr.com,reject
 DOMAIN,img2.360buyimg.com,reject
+DOMAIN,imp-cmp.hismarttv.com,reject
 DOMAIN,impression-asia.chinaliftoff.io,reject
 DOMAIN,impression-asia.liftoff.io,reject
 DOMAIN,impression.appsflyer.com,reject
@@ -479,6 +483,7 @@ DOMAIN,live-api.hktvmall.com,reject
 DOMAIN,liveats-vod.video.ptqy.gitv.tv,reject
 DOMAIN,livemonitor.huan.tv,reject
 DOMAIN,lm10111.jtrincc.cn,reject
+DOMAIN,loading-cmp.hismarttv.com,reject
 DOMAIN,log-api-mn.huxiu.com,reject
 DOMAIN,log-api.huxiu.com,reject
 DOMAIN,log-api.pangolin-sdk-toutiao-b.com,reject
@@ -568,6 +573,7 @@ DOMAIN,ms.applvn.com,reject
 DOMAIN,ms4.applovin.com,reject
 DOMAIN,ms4.applvn.com,reject
 DOMAIN,msdk.voiceads.cn,reject
+DOMAIN,msg-cmp.hismarttv.com,reject
 DOMAIN,mssdk.volces.com,reject
 DOMAIN,mssdk.zijieapi.com,reject
 DOMAIN,mtj.baidu.com,reject
@@ -612,6 +618,7 @@ DOMAIN,p66-ad.adkwai.com,reject
 DOMAIN,pagead2.googleadservices.com,reject
 DOMAIN,pagead2.googlesyndication.com,reject
 DOMAIN,pangolin-sdk-toutiao-b.com,reject
+DOMAIN,paster-cmp.hismarttv.com,reject
 DOMAIN,pay.sboot.cn,reject
 DOMAIN,pcm-img.zhls.qq.com,reject
 DOMAIN,pgdt.gtimg.cn,reject
@@ -635,6 +642,7 @@ DOMAIN,qcwx.medproad.com,reject
 DOMAIN,qmlog.baertt.com,reject
 DOMAIN,qqdata.ab.qq.com,reject
 DOMAIN,qzs.gdtimg.com,reject
+DOMAIN,recmd-cmp.hismarttv.com,reject
 DOMAIN,recommend-drcn.hms.dbankcloud.cn,reject
 DOMAIN,report.dxunion.cn,reject
 DOMAIN,report.tencentmusic.com,reject
@@ -645,6 +653,7 @@ DOMAIN,res1.hubcloud.com.cn,reject
 DOMAIN,res2.hubcloud.com.cn,reject
 DOMAIN,res3.hubcloud.com.cn,reject
 DOMAIN,resolve.umeng.com,reject
+DOMAIN,resource-cmp.hismarttv.com,reject
 DOMAIN,review.gdtimg.com,reject
 DOMAIN,rlog.popin.cc,reject
 DOMAIN,roi.soulapp.cn,reject
@@ -804,6 +813,7 @@ DOMAIN,v1-ad.video.yximgs.com,reject
 DOMAIN,v2-ad.video.yximgs.com,reject
 DOMAIN,v2-api-channel-launcher.hismarttv.com,reject
 DOMAIN,v2.gdt.qq.com,reject
+DOMAIN,v2.reachmax.cn,reject
 DOMAIN,v2mi.gdt.qq.com,reject
 DOMAIN,v3-ad.video.yximgs.com,reject
 DOMAIN,v3.gdt.qq.com,reject

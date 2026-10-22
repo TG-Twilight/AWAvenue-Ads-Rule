@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 962
+#Total lines: 973
 #Version: 1.7.8-release
-#Update time: 2026-09-21 21:56:59 UTC+8
-#Update content: 新增拦截哔咔漫画广告接口与展示页域名2条，fix #204，感谢@0xLac
+#Update time: 2026-10-22 21:27:09 UTC+8
+#Update content: 新增海信与乐播广告拦截并调整会员推广分类
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -24,6 +24,8 @@ domain, aaid.umeng.com
 domain, abtest-ch.snssdk.com
 domain, ad-api.4pyun.com
 domain, ad-cdn.qingting.fm
+domain, ad-cmp.hismarttv.com
+domain, ad-download.hismarttv.com
 domain, ad-files.4pyun.com
 domain, ad-scope.com
 domain, ad-scope.com.cn
@@ -305,6 +307,7 @@ domain, biz.weibo.com
 domain, bj-td-menta-01-callback.advlion.com
 domain, bj.ad.track.66mobi.com
 domain, books-analytics-events.apple.com
+domain, boost-cmp.hismarttv.com
 domain, bootpreload.uve.weibo.com
 domain, brandadsstatic.vivo.com.cn
 domain, browser.events.data.msn.cn
@@ -411,6 +414,7 @@ domain, frontend-perf-service.e.kuaishou.com
 domain, fxgate.baidu.com
 domain, g-adnet.hiaiabc.com
 domain, g-staic.ganjingworld.com
+domain, g.cn.miaozhen.com
 domain, g.dtv.cn.miaozhen.com
 domain, g.fancyapi.com
 domain, g2.ganjing.world
@@ -486,6 +490,7 @@ domain, img-c.heytapimage.com
 domain, img-x.jd.com
 domain, img.adnyg.com.w.kunlungr.com
 domain, img2.360buyimg.com
+domain, imp-cmp.hismarttv.com
 domain, impression-asia.chinaliftoff.io
 domain, impression-asia.liftoff.io
 domain, impression.appsflyer.com
@@ -532,6 +537,7 @@ domain, lives.l.aiseet.atianqi.com
 domain, lives.l.ott.video.qq.com
 domain, livewebbs2pcdn.msstatic.com
 domain, lm10111.jtrincc.cn
+domain, loading-cmp.hismarttv.com
 domain, log-api-mn.huxiu.com
 domain, log-api.huxiu.com
 domain, log-api.pangolin-sdk-toutiao-b.com
@@ -621,6 +627,7 @@ domain, ms.applvn.com
 domain, ms4.applovin.com
 domain, ms4.applvn.com
 domain, msdk.voiceads.cn
+domain, msg-cmp.hismarttv.com
 domain, mssdk.volces.com
 domain, mssdk.zijieapi.com
 domain, mtj.baidu.com
@@ -670,6 +677,7 @@ domain, p66-ad.adkwai.com
 domain, pagead2.googleadservices.com
 domain, pagead2.googlesyndication.com
 domain, pangolin-sdk-toutiao-b.com
+domain, paster-cmp.hismarttv.com
 domain, pay.sboot.cn
 domain, pcdn.xmcdn.com
 domain, pcdn.yximgs.com
@@ -699,6 +707,7 @@ domain, qmlog.baertt.com
 domain, qn-cdnfile1pcdn.msstatic.com
 domain, qqdata.ab.qq.com
 domain, qzs.gdtimg.com
+domain, recmd-cmp.hismarttv.com
 domain, recommend-drcn.hms.dbankcloud.cn
 domain, report.dxunion.cn
 domain, report.tencentmusic.com
@@ -709,6 +718,7 @@ domain, res1.hubcloud.com.cn
 domain, res2.hubcloud.com.cn
 domain, res3.hubcloud.com.cn
 domain, resolve.umeng.com
+domain, resource-cmp.hismarttv.com
 domain, review.gdtimg.com
 domain, rlog.popin.cc
 domain, rms-drcn.platform.dbankcloud.cn
@@ -904,6 +914,7 @@ domain, v1-ad.video.yximgs.com
 domain, v2-ad.video.yximgs.com
 domain, v2-api-channel-launcher.hismarttv.com
 domain, v2.gdt.qq.com
+domain, v2.reachmax.cn
 domain, v2mi.gdt.qq.com
 domain, v3-ad.video.yximgs.com
 domain, v3.gdt.qq.com

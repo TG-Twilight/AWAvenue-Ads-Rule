@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule (Only.Ads)
 !--------------------------------------
-!Total lines: 1296
+!Total lines: 1316
 !Version: 1.7.8-release
-!Update time: 2026-09-21 21:56:59 UTC+8
-!Update content: 新增拦截哔咔漫画广告接口与展示页域名2条，fix #204，感谢@0xLac
+!Update time: 2026-10-22 21:27:09 UTC+8
+!Update content: 新增海信与乐播广告拦截并调整会员推广分类
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -31,6 +31,10 @@
 :: ad-api.4pyun.com
 0.0.0.0 ad-cdn.qingting.fm
 :: ad-cdn.qingting.fm
+0.0.0.0 ad-cmp.hismarttv.com
+:: ad-cmp.hismarttv.com
+0.0.0.0 ad-download.hismarttv.com
+:: ad-download.hismarttv.com
 0.0.0.0 ad-files.4pyun.com
 :: ad-files.4pyun.com
 0.0.0.0 ad-scope.com
@@ -507,6 +511,8 @@
 :: bj-td-menta-01-callback.advlion.com
 0.0.0.0 bj.ad.track.66mobi.com
 :: bj.ad.track.66mobi.com
+0.0.0.0 boost-cmp.hismarttv.com
+:: boost-cmp.hismarttv.com
 0.0.0.0 bootpreload.uve.weibo.com
 :: bootpreload.uve.weibo.com
 0.0.0.0 brandadsstatic.vivo.com.cn
@@ -643,6 +649,8 @@
 :: g-adnet.hiaiabc.com
 0.0.0.0 g-staic.ganjingworld.com
 :: g-staic.ganjingworld.com
+0.0.0.0 g.cn.miaozhen.com
+:: g.cn.miaozhen.com
 0.0.0.0 g.dtv.cn.miaozhen.com
 :: g.dtv.cn.miaozhen.com
 0.0.0.0 g.fancyapi.com
@@ -677,8 +685,6 @@
 :: gslb.hpplay.cn
 0.0.0.0 gvideo.qpic.cn
 :: gvideo.qpic.cn
-0.0.0.0 h5.hpplay.com.cn
-:: h5.hpplay.com.cn
 0.0.0.0 hanlanad.com
 :: hanlanad.com
 0.0.0.0 hc-ssp.sm.cn
@@ -745,6 +751,8 @@
 :: img.adnyg.com.w.kunlungr.com
 0.0.0.0 img2.360buyimg.com
 :: img2.360buyimg.com
+0.0.0.0 imp-cmp.hismarttv.com
+:: imp-cmp.hismarttv.com
 0.0.0.0 impression-asia.chinaliftoff.io
 :: impression-asia.chinaliftoff.io
 0.0.0.0 impression-asia.liftoff.io
@@ -791,6 +799,8 @@
 :: liveats-vod.video.ptqy.gitv.tv
 0.0.0.0 lm10111.jtrincc.cn
 :: lm10111.jtrincc.cn
+0.0.0.0 loading-cmp.hismarttv.com
+:: loading-cmp.hismarttv.com
 0.0.0.0 log-api.pangolin-sdk-toutiao-b.com
 :: log-api.pangolin-sdk-toutiao-b.com
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
@@ -867,6 +877,8 @@
 :: ms4.applvn.com
 0.0.0.0 msdk.voiceads.cn
 :: msdk.voiceads.cn
+0.0.0.0 msg-cmp.hismarttv.com
+:: msg-cmp.hismarttv.com
 0.0.0.0 nadvideo2.baidu.com
 :: nadvideo2.baidu.com
 0.0.0.0 newvoice.chiq5.smart-tv.cn
@@ -931,6 +943,8 @@
 :: pagead2.googlesyndication.com
 0.0.0.0 pangolin-sdk-toutiao-b.com
 :: pangolin-sdk-toutiao-b.com
+0.0.0.0 paster-cmp.hismarttv.com
+:: paster-cmp.hismarttv.com
 0.0.0.0 pay.sboot.cn
 :: pay.sboot.cn
 0.0.0.0 pgdt.gtimg.cn
@@ -967,6 +981,8 @@
 :: qmlog.baertt.com
 0.0.0.0 qzs.gdtimg.com
 :: qzs.gdtimg.com
+0.0.0.0 recmd-cmp.hismarttv.com
+:: recmd-cmp.hismarttv.com
 0.0.0.0 recommend-drcn.hms.dbankcloud.cn
 :: recommend-drcn.hms.dbankcloud.cn
 0.0.0.0 res.hubcloud.com.cn
@@ -979,6 +995,8 @@
 :: res2.hubcloud.com.cn
 0.0.0.0 res3.hubcloud.com.cn
 :: res3.hubcloud.com.cn
+0.0.0.0 resource-cmp.hismarttv.com
+:: resource-cmp.hismarttv.com
 0.0.0.0 review.gdtimg.com
 :: review.gdtimg.com
 0.0.0.0 rlog.popin.cc
@@ -1207,6 +1225,8 @@
 :: v2-api-channel-launcher.hismarttv.com
 0.0.0.0 v2.gdt.qq.com
 :: v2.gdt.qq.com
+0.0.0.0 v2.reachmax.cn
+:: v2.reachmax.cn
 0.0.0.0 v2mi.gdt.qq.com
 :: v2mi.gdt.qq.com
 0.0.0.0 v3-ad.video.yximgs.com

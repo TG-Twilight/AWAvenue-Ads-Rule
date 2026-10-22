@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 965
+#Total lines: 976
 #Version: 1.7.8-release
-#Update time: 2026-09-21 21:56:59 UTC+8
-#Update content: 新增拦截哔咔漫画广告接口与展示页域名2条，fix #204，感谢@0xLac
+#Update time: 2026-10-22 21:27:09 UTC+8
+#Update content: 新增海信与乐播广告拦截并调整会员推广分类
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -19,6 +19,8 @@ DOMAIN,aaid.umeng.com
 DOMAIN,abtest-ch.snssdk.com
 DOMAIN,ad-api.4pyun.com
 DOMAIN,ad-cdn.qingting.fm
+DOMAIN,ad-cmp.hismarttv.com
+DOMAIN,ad-download.hismarttv.com
 DOMAIN,ad-files.4pyun.com
 DOMAIN,ad-scope.com
 DOMAIN,ad-scope.com.cn
@@ -298,6 +300,7 @@ DOMAIN,biz.weibo.com
 DOMAIN,bj-td-menta-01-callback.advlion.com
 DOMAIN,bj.ad.track.66mobi.com
 DOMAIN,books-analytics-events.apple.com
+DOMAIN,boost-cmp.hismarttv.com
 DOMAIN,bootpreload.uve.weibo.com
 DOMAIN,brandadsstatic.vivo.com.cn
 DOMAIN,browser.events.data.msn.cn
@@ -403,6 +406,7 @@ DOMAIN,frontend-perf-service.e.kuaishou.com
 DOMAIN,fxgate.baidu.com
 DOMAIN,g-adnet.hiaiabc.com
 DOMAIN,g-staic.ganjingworld.com
+DOMAIN,g.cn.miaozhen.com
 DOMAIN,g.dtv.cn.miaozhen.com
 DOMAIN,g.fancyapi.com
 DOMAIN,g2.ganjing.world
@@ -478,6 +482,7 @@ DOMAIN,img-c.heytapimage.com
 DOMAIN,img-x.jd.com
 DOMAIN,img.adnyg.com.w.kunlungr.com
 DOMAIN,img2.360buyimg.com
+DOMAIN,imp-cmp.hismarttv.com
 DOMAIN,impression-asia.chinaliftoff.io
 DOMAIN,impression-asia.liftoff.io
 DOMAIN,impression.appsflyer.com
@@ -524,6 +529,7 @@ DOMAIN,lives.l.aiseet.atianqi.com
 DOMAIN,lives.l.ott.video.qq.com
 DOMAIN,livewebbs2pcdn.msstatic.com
 DOMAIN,lm10111.jtrincc.cn
+DOMAIN,loading-cmp.hismarttv.com
 DOMAIN,log-api-mn.huxiu.com
 DOMAIN,log-api.huxiu.com
 DOMAIN,log-api.pangolin-sdk-toutiao-b.com
@@ -613,6 +619,7 @@ DOMAIN,ms.applvn.com
 DOMAIN,ms4.applovin.com
 DOMAIN,ms4.applvn.com
 DOMAIN,msdk.voiceads.cn
+DOMAIN,msg-cmp.hismarttv.com
 DOMAIN,mssdk.volces.com
 DOMAIN,mssdk.zijieapi.com
 DOMAIN,mtj.baidu.com
@@ -662,6 +669,7 @@ DOMAIN,p66-ad.adkwai.com
 DOMAIN,pagead2.googleadservices.com
 DOMAIN,pagead2.googlesyndication.com
 DOMAIN,pangolin-sdk-toutiao-b.com
+DOMAIN,paster-cmp.hismarttv.com
 DOMAIN,pay.sboot.cn
 DOMAIN,pcdn.xmcdn.com
 DOMAIN,pcdn.yximgs.com
@@ -691,6 +699,7 @@ DOMAIN,qmlog.baertt.com
 DOMAIN,qn-cdnfile1pcdn.msstatic.com
 DOMAIN,qqdata.ab.qq.com
 DOMAIN,qzs.gdtimg.com
+DOMAIN,recmd-cmp.hismarttv.com
 DOMAIN,recommend-drcn.hms.dbankcloud.cn
 DOMAIN,report.dxunion.cn
 DOMAIN,report.tencentmusic.com
@@ -701,6 +710,7 @@ DOMAIN,res1.hubcloud.com.cn
 DOMAIN,res2.hubcloud.com.cn
 DOMAIN,res3.hubcloud.com.cn
 DOMAIN,resolve.umeng.com
+DOMAIN,resource-cmp.hismarttv.com
 DOMAIN,review.gdtimg.com
 DOMAIN,rlog.popin.cc
 DOMAIN,rms-drcn.platform.dbankcloud.cn
@@ -895,6 +905,7 @@ DOMAIN,v1-ad.video.yximgs.com
 DOMAIN,v2-ad.video.yximgs.com
 DOMAIN,v2-api-channel-launcher.hismarttv.com
 DOMAIN,v2.gdt.qq.com
+DOMAIN,v2.reachmax.cn
 DOMAIN,v2mi.gdt.qq.com
 DOMAIN,v3-ad.video.yximgs.com
 DOMAIN,v3.gdt.qq.com

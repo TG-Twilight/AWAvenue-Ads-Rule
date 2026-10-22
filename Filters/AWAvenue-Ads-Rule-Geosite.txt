@@ -20,6 +20,8 @@ full:aaid.umeng.com
 full:abtest-ch.snssdk.com
 full:ad-api.4pyun.com
 full:ad-cdn.qingting.fm
+full:ad-cmp.hismarttv.com
+full:ad-download.hismarttv.com
 full:ad-files.4pyun.com
 full:ad-scope.com
 full:ad-scope.com.cn
@@ -299,6 +301,7 @@ full:biz.weibo.com
 full:bj-td-menta-01-callback.advlion.com
 full:bj.ad.track.66mobi.com
 full:books-analytics-events.apple.com
+full:boost-cmp.hismarttv.com
 full:bootpreload.uve.weibo.com
 full:brandadsstatic.vivo.com.cn
 full:browser.events.data.msn.cn
@@ -404,6 +407,7 @@ full:frontend-perf-service.e.kuaishou.com
 full:fxgate.baidu.com
 full:g-adnet.hiaiabc.com
 full:g-staic.ganjingworld.com
+full:g.cn.miaozhen.com
 full:g.dtv.cn.miaozhen.com
 full:g.fancyapi.com
 full:g2.ganjing.world
@@ -479,6 +483,7 @@ full:img-c.heytapimage.com
 full:img-x.jd.com
 full:img.adnyg.com.w.kunlungr.com
 full:img2.360buyimg.com
+full:imp-cmp.hismarttv.com
 full:impression-asia.chinaliftoff.io
 full:impression-asia.liftoff.io
 full:impression.appsflyer.com
@@ -525,6 +530,7 @@ full:lives.l.aiseet.atianqi.com
 full:lives.l.ott.video.qq.com
 full:livewebbs2pcdn.msstatic.com
 full:lm10111.jtrincc.cn
+full:loading-cmp.hismarttv.com
 full:log-api-mn.huxiu.com
 full:log-api.huxiu.com
 full:log-api.pangolin-sdk-toutiao-b.com
@@ -614,6 +620,7 @@ full:ms.applvn.com
 full:ms4.applovin.com
 full:ms4.applvn.com
 full:msdk.voiceads.cn
+full:msg-cmp.hismarttv.com
 full:mssdk.volces.com
 full:mssdk.zijieapi.com
 full:mtj.baidu.com
@@ -663,6 +670,7 @@ full:p66-ad.adkwai.com
 full:pagead2.googleadservices.com
 full:pagead2.googlesyndication.com
 full:pangolin-sdk-toutiao-b.com
+full:paster-cmp.hismarttv.com
 full:pay.sboot.cn
 full:pcdn.xmcdn.com
 full:pcdn.yximgs.com
@@ -692,6 +700,7 @@ full:qmlog.baertt.com
 full:qn-cdnfile1pcdn.msstatic.com
 full:qqdata.ab.qq.com
 full:qzs.gdtimg.com
+full:recmd-cmp.hismarttv.com
 full:recommend-drcn.hms.dbankcloud.cn
 full:report.dxunion.cn
 full:report.tencentmusic.com
@@ -702,6 +711,7 @@ full:res1.hubcloud.com.cn
 full:res2.hubcloud.com.cn
 full:res3.hubcloud.com.cn
 full:resolve.umeng.com
+full:resource-cmp.hismarttv.com
 full:review.gdtimg.com
 full:rlog.popin.cc
 full:rms-drcn.platform.dbankcloud.cn
@@ -896,6 +906,7 @@ full:v1-ad.video.yximgs.com
 full:v2-ad.video.yximgs.com
 full:v2-api-channel-launcher.hismarttv.com
 full:v2.gdt.qq.com
+full:v2.reachmax.cn
 full:v2mi.gdt.qq.com
 full:v3-ad.video.yximgs.com
 full:v3.gdt.qq.com

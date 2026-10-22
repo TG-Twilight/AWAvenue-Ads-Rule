@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule (No.Privacy)
 #--------------------------------------
-#Total lines: 751
+#Total lines: 762
 #Version: 1.7.8-release
-#Update time: 2026-09-21 21:56:59 UTC+8
-#Update content: 新增拦截哔咔漫画广告接口与展示页域名2条，fix #204，感谢@0xLac
+#Update time: 2026-10-22 21:27:09 UTC+8
+#Update content: 新增海信与乐播广告拦截并调整会员推广分类
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -17,6 +17,8 @@ full:a0.app.xiaomi.com
 full:abtest-ch.snssdk.com
 full:ad-api.4pyun.com
 full:ad-cdn.qingting.fm
+full:ad-cmp.hismarttv.com
+full:ad-download.hismarttv.com
 full:ad-files.4pyun.com
 full:ad-scope.com
 full:ad-scope.com.cn
@@ -263,6 +265,7 @@ full:bingads.microsoft.com
 full:biz.weibo.com
 full:bj-td-menta-01-callback.advlion.com
 full:bj.ad.track.66mobi.com
+full:boost-cmp.hismarttv.com
 full:bootpreload.uve.weibo.com
 full:brandadsstatic.vivo.com.cn
 full:browsercfg-drcn.cloud.dbankcloud.cn
@@ -340,6 +343,7 @@ full:frontend-perf-service.e.kuaishou.com
 full:fxgate.baidu.com
 full:g-adnet.hiaiabc.com
 full:g-staic.ganjingworld.com
+full:g.cn.miaozhen.com
 full:g.dtv.cn.miaozhen.com
 full:g.fancyapi.com
 full:g2.ganjing.world
@@ -403,6 +407,7 @@ full:img-c.heytapimage.com
 full:img-x.jd.com
 full:img.adnyg.com.w.kunlungr.com
 full:img2.360buyimg.com
+full:imp-cmp.hismarttv.com
 full:impression-asia.chinaliftoff.io
 full:impression-asia.liftoff.io
 full:impression.appsflyer.com
@@ -438,6 +443,7 @@ full:lives.l.aiseet.atianqi.com
 full:lives.l.ott.video.qq.com
 full:livewebbs2pcdn.msstatic.com
 full:lm10111.jtrincc.cn
+full:loading-cmp.hismarttv.com
 full:log-api.pangolin-sdk-toutiao-b.com
 full:log-api.pangolin-sdk-toutiao.com
 full:log-verify.dutils.com
@@ -476,6 +482,7 @@ full:ms.applvn.com
 full:ms4.applovin.com
 full:ms4.applvn.com
 full:msdk.voiceads.cn
+full:msg-cmp.hismarttv.com
 full:nadvideo2.baidu.com
 full:newvoice.chiq5.smart-tv.cn
 full:nex.163.com
@@ -513,6 +520,7 @@ full:p66-ad.adkwai.com
 full:pagead2.googleadservices.com
 full:pagead2.googlesyndication.com
 full:pangolin-sdk-toutiao-b.com
+full:paster-cmp.hismarttv.com
 full:pay.sboot.cn
 full:pcdn.xmcdn.com
 full:pcdn.yximgs.com
@@ -537,12 +545,14 @@ full:qcwx.medproad.com
 full:qmlog.baertt.com
 full:qn-cdnfile1pcdn.msstatic.com
 full:qzs.gdtimg.com
+full:recmd-cmp.hismarttv.com
 full:recommend-drcn.hms.dbankcloud.cn
 full:res.hubcloud.com.cn
 full:res1.applovin.com
 full:res1.hubcloud.com.cn
 full:res2.hubcloud.com.cn
 full:res3.hubcloud.com.cn
+full:resource-cmp.hismarttv.com
 full:review.gdtimg.com
 full:rlog.popin.cc
 full:rms-drcn.platform.dbankcloud.cn
@@ -691,6 +701,7 @@ full:v1-ad.video.yximgs.com
 full:v2-ad.video.yximgs.com
 full:v2-api-channel-launcher.hismarttv.com
 full:v2.gdt.qq.com
+full:v2.reachmax.cn
 full:v2mi.gdt.qq.com
 full:v3-ad.video.yximgs.com
 full:v3.gdt.qq.com
