@@ -21,6 +21,7 @@
 <br/>
 
 <p>
+  <a href="https://trendshift.io/repositories/221045?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-221045" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/221045/daily?language=Adblock%20Filter%20List" alt="TG-Twilight/AWAvenue-Ads-Rule | Trendshift Daily" width="250" height="55"/></a>
   <a href="https://www.star-history.com/tg-twilight/awavenue-ads-rule">
     <img src="https://api.star-history.com/badge?repo=TG-Twilight/AWAvenue-Ads-Rule&theme=light" alt="Star History Rank" width="195" height="55">
   </a>
