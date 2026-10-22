@@ -5,6 +5,8 @@
 a0.app.xiaomi.com
 ad-api.4pyun.com
 ad-cdn.qingting.fm
+ad-cmp.hismarttv.com
+ad-download.hismarttv.com
 ad-files.4pyun.com
 ad-scope.com
 ad-scope.com.cn
@@ -241,6 +243,7 @@ bingads.microsoft.com
 biz.weibo.com
 bj-td-menta-01-callback.advlion.com
 bj.ad.track.66mobi.com
+boost-cmp.hismarttv.com
 bootpreload.uve.weibo.com
 brandadsstatic.vivo.com.cn
 bsrv.qq.com
@@ -308,6 +311,7 @@ frontend-perf-service.e.kuaishou.com
 fxgate.baidu.com
 g-adnet.hiaiabc.com
 g-staic.ganjingworld.com
+g.cn.miaozhen.com
 g.dtv.cn.miaozhen.com
 g.fancyapi.com
 g2.ganjing.world
@@ -325,7 +329,6 @@ gorgon.youdao.com
 gromore.pangolin-sdk-toutiao.com
 gslb.hpplay.cn
 gvideo.qpic.cn
-h5.hpplay.com.cn
 hanlanad.com
 hc-ssp.sm.cn
 heads-ak.spotify.com.edgesuite.net
@@ -359,6 +362,7 @@ img-c.heytapimage.com
 img-x.jd.com
 img.adnyg.com.w.kunlungr.com
 img2.360buyimg.com
+imp-cmp.hismarttv.com
 impression-asia.chinaliftoff.io
 impression-asia.liftoff.io
 impression.appsflyer.com
@@ -382,6 +386,7 @@ litchiads.com
 live-api.hktvmall.com
 liveats-vod.video.ptqy.gitv.tv
 lm10111.jtrincc.cn
+loading-cmp.hismarttv.com
 log-api.pangolin-sdk-toutiao-b.com
 log-api.pangolin-sdk-toutiao.com
 log-verify.dutils.com
@@ -420,6 +425,7 @@ ms.applvn.com
 ms4.applovin.com
 ms4.applvn.com
 msdk.voiceads.cn
+msg-cmp.hismarttv.com
 nadvideo2.baidu.com
 newvoice.chiq5.smart-tv.cn
 nex.163.com
@@ -452,6 +458,7 @@ p66-ad.adkwai.com
 pagead2.googleadservices.com
 pagead2.googlesyndication.com
 pangolin-sdk-toutiao-b.com
+paster-cmp.hismarttv.com
 pay.sboot.cn
 pgdt.gtimg.cn
 pgdt.ugdtimg.com
@@ -470,12 +477,14 @@ q.i.gdt.qq.com
 qcwx.medproad.com
 qmlog.baertt.com
 qzs.gdtimg.com
+recmd-cmp.hismarttv.com
 recommend-drcn.hms.dbankcloud.cn
 res.hubcloud.com.cn
 res1.applovin.com
 res1.hubcloud.com.cn
 res2.hubcloud.com.cn
 res3.hubcloud.com.cn
+resource-cmp.hismarttv.com
 review.gdtimg.com
 rlog.popin.cc
 roi.soulapp.cn
@@ -589,6 +598,7 @@ v1-ad.video.yximgs.com
 v2-ad.video.yximgs.com
 v2-api-channel-launcher.hismarttv.com
 v2.gdt.qq.com
+v2.reachmax.cn
 v2mi.gdt.qq.com
 v3-ad.video.yximgs.com
 v3.gdt.qq.com
