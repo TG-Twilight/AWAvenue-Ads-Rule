@@ -1,1 +1,11 @@
 blank_issues_enabled: false
+contact_links:
+- name: 使用教程：安装、订阅与客户端配置
+  url: https://awavenue.top/Knowledge.html
+  about: 请先按教程自行配置；Issue 不提供代配置或一对一使用教学。
+- name: 常见问题：为什么有些广告无法拦截
+  url: https://awavenue.top/Knowledge.html#常见问题-与答疑
+  about: 先了解过滤能力与已知限制，避免重复提问或把能力范围外的需求当作漏拦截。
+- name: 选择订阅：格式与过滤范围
+  url: https://awavenue.top/Sub.html
+  about: 根据客户端选择格式与变体；保留推送、更新等功能可考虑 No.Unwelcome 或 Only.Ads。

@@ -1,61 +1,90 @@
-name: "Bug(错误拦截)提交"
-description: 问题报告.
-title: "[BUG] <问题标题>"
-labels: [
-  "bug"
-]
-
+name: 误拦截：正常功能异常
+description: 启用秋风广告规则后正常功能异常，且已完成对照排查。
+title: '[误拦截] '
+labels:
+- bug
 body:
-  - type: markdown
-    attributes:
-      value: |
-        提交 Issue 前，还请首先完成文末的自查步骤
+- type: markdown
+  attributes:
+    value: |
+      请用“应用或网站名称 + 出问题的功能”填写标题，一条 Issue 只讨论一个问题。
 
-  - type: textarea
-    id: description
-    attributes:
-      label: "问题描述"
-      description: 请输入简洁且明确的问题描述。
-      placeholder: 拦截xxx导致...功能出现...异常
-    validations:
+      **请先排查，再提交。** 先阅读[使用教程与常见问题](https://awavenue.top/Knowledge.html)，搜索[已有反馈（含已关闭）](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/issues?q=is%3Aissue)，更新订阅并确认加载成功。
+
+      默认版包含广告、隐私和不受欢迎三类规则，推送、更新、P2P/PCDN 等功能可能受“不受欢迎”类影响。需要保留这些功能，可先尝试 `No.Unwelcome`；仅需广告过滤可选 `Only.Ads`。详见[四种订阅方案](https://github.com/TG-Twilight/AWAvenue-Ads-Rule#四种订阅方案)。这不影响你报告实际误拦截。
+
+      **受理范围：** 本项目规则导致的异常。不受理代配置、使用教学、与本项目无关的问题或催更。缺少关键材料、重复或无关的反馈可能直接关闭；要求补充材料后 **7 天无回复可关闭**，补齐后可在原 Issue 申请重开。维护者不承诺处理时限，也不会反复催问。
+
+      涉及注册、登录、付费或特殊设备的场景，请自行完成取证；维护者不会为复现代注册、购买服务或获取设备。**请勿提供账号密码、Cookie、Token、完整代理订阅等敏感信息；日志只保留相关且已脱敏的部分，URL 请保留域名与相关路径并脱敏参数。**
+- type: checkboxes
+  id: prerequisites
+  attributes:
+    label: 提交前确认
+    options:
+    - label: 我已阅读教程、搜索已有反馈，并确认更新后的秋风广告规则已成功加载。
       required: true
-  
-  - type: textarea
-    id: repord
-    attributes:
-      label: "复现步骤"
-      description: 输入简明的问题复现步骤。
-      placeholder: 在xxxx上xxx导致xxx...
-    validations:
-      required: false
-  
-  - type: textarea
-    id: screenshot
-    attributes:
-      label: "问题截图"
-      description: 添加问题截图以便我们快速定位.
-      placeholder: "![图片描述](图片链接)"
-    validations:
-      required: false
-
-  - type: checkboxes
-    id: check
-    attributes:
-      label: 自查步骤
-      description: |
-        请确认已经遵守所有必选项，否则不排除将 Close Issue 直至 Ban
-      options:
-        - label: 我确认我已经详细阅读过[使用教程](https://awavenue.top/Knowledge.html)，且此问题并未在其中得到解决
-          required: true
-
-        - label: 我确认此问题是由本项目规则引起或与其相关，请勿提交与本项目无关 Issue
-          required: true
-
-        - label: 我确认此问题在本项目最新规则上依然存在，如因网络问题无法获取最新规则者还请自行解决
-          required: true
-
-        - label: 我确认我已经搜索过 [Issue Tracker](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/issues)，且并未查询到类似内容
-          required: true
-
-        - label: 我确认本 Issue 只提及一个问题，如有多个问题，烦请提交多个 Issue
-          required: true
+    - label: 我已完成下方对照排查，能够提供本项目规则与异常相关的依据。
+      required: true
+    - label: 我会关注并回复本 Issue 的补充请求；理解缺少关键材料或补充请求后 7 天无回复可关闭。
+      required: true
+- type: textarea
+  id: environment
+  attributes:
+    label: 使用环境
+    description: 填写设备/系统、过滤工具及版本、出现问题的应用及版本或网站地址。不要只写“最新版”。
+    placeholder: |-
+      设备与系统版本：
+      过滤工具与版本（说明部署在路由器还是本机）：
+      应用与版本 / 网站地址：
+  validations:
+    required: true
+- type: textarea
+  id: subscription
+  attributes:
+    label: 规则订阅与生效情况
+    description: 提供本项目规则的实际订阅地址或准确文件名、变体、规则头部 Update time 或客户端最近成功更新时间，并说明如何确认规则已加载生效。另列其他过滤规则、放行规则或重写；没有则写“无”。不要贴代理节点订阅。
+    placeholder: |-
+      本项目规则订阅地址 / 文件名：
+      变体（默认 / Only.Ads / No.Privacy / No.Unwelcome / 其他）：
+      规则更新时间：
+      加载/生效依据（导入状态、命中记录等）：
+      其他规则 / 放行规则 / 重写：
+  validations:
+    required: true
+- type: textarea
+  id: reproduction
+  attributes:
+    label: 问题与复现步骤
+    description: 从打开应用或页面开始，写出操作路径、预期结果和实际异常。若需要特定账号、地区或设备，请明确说明，并自行完成该场景的取证。
+    placeholder: |-
+      1. 打开……
+      2. 点击……
+      预期结果：
+      实际结果 / 报错：
+      是否每次出现、是否有登录等限制：
+  validations:
+    required: true
+- type: textarea
+  id: comparison
+  attributes:
+    label: 对照排查结果
+    description: 保持其他设置一致，分别记录启用、仅停用、恢复秋风广告规则后的结果。关闭整个过滤工具或所有规则，不能证明是本项目导致。域名放行测试可补充，但全局放行可能同时覆盖其他规则，不能替代上述对照。说明重启应用、刷新页面或处理缓存等实际操作，无须清除应用数据。
+    placeholder: |-
+      启用秋风广告规则时：
+      仅停用秋风广告规则后：
+      恢复秋风广告规则后：
+      重试方式及其他可能影响结果的因素：
+      单域名放行测试（选填，仅作补充）：
+  validations:
+    required: true
+- type: textarea
+  id: evidence
+  attributes:
+    label: 相关域名与排查证据
+    description: 粘贴相关拦截记录、命中规则、错误信息或对照截图，可拖入附件。已知域名请一行一个；尚未定位域名，请明确说明并提供对照证据。仅一句“关了就好了”不足以排查。
+    placeholder: |-
+      相关域名（未知请说明）：
+      请求时间 / 命中规则（能查到时填写）：
+      日志片段或截图，以及它们对应的复现步骤：
+  validations:
+    required: true

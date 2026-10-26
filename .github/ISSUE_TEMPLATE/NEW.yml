@@ -1,53 +1,89 @@
-name: "提交拦截域名"
-description: 提交拦截域名
-title: "[enhancement] <提交拦截域名>"
-labels: [
-  "enhancement"
-]
-
+name: 域名贡献：提交有证据的拦截域名
+description: 已定位域名并能说明用途与依据；只有广告现象请选择“漏拦截”。
+title: '[域名贡献] '
+labels:
+- enhancement
 body:
-  - type: markdown
-    attributes:
-      value: |
-        提交 Issue 前，还请首先完成文末的自查步骤
-        如果你擅长Pull requests你可以[点击这里提交Pull requests进行贡献](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/tree/build/rule)
+- type: markdown
+  attributes:
+    value: |
+      请用“应用或平台名称 + 域名用途”填写标题，每条 Issue 只提交同一场景的一组相关域名。
 
-  - type: textarea
-    id: domain
-    attributes:
-      label: "域名"
-      description: "域名一行一个"
-      placeholder: xxx.com
-    validations:
+      **只收有实证的域名。** “名字里有 ad”“其他规则也拦了”或一份没有说明的域名列表，都不能单独证明应当拦截。请提供实际请求、接口响应、可核验页面或明确代码调用等依据，并说明与所报用途的关系。
+
+      先搜索[已有反馈（含已关闭）](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/issues?q=is%3Aissue)，检查[现有规则源](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/tree/build/rule)，注意隐私/不受欢迎分类及后缀、关键词规则可能已经覆盖。已覆盖却仍出现广告，请选择“漏拦截”并提供实际请求记录。
+
+      广告归因/监测属于广告；纯统计、遥测、崩溃收集属于隐私；推送、强制更新、P2P/PCDN、云控属于不受欢迎。仅供广告主或媒体主使用的管理后台不收录。共享正常内容的域名不能仅因某个广告路径就整域封锁。
+
+      **受理范围：** 有依据的规则贡献。不受理纯许愿、整站封锁诉求或催更。缺少关键材料、重复或无关的反馈可能直接关闭；要求补充材料后 **7 天无回复可关闭**，补齐后可在原 Issue 申请重开。维护者不承诺处理时限，也不会反复催问。提交不代表一定收录。
+
+      涉及注册、登录、付费或特殊设备的场景，请自行完成取证；维护者不会为复现代注册、购买服务或获取设备。**请勿提供账号密码、Cookie、Token、完整代理订阅等敏感信息；日志只保留相关且已脱敏的部分，URL 请保留域名与相关路径并脱敏参数。**
+- type: checkboxes
+  id: prerequisites
+  attributes:
+    label: 提交前确认
+    options:
+    - label: 我已搜索已有反馈，并检查当前规则是否已覆盖这些域名。
       required: true
-
-  - type: textarea
-    id: illustrate
-    attributes:
-      label: "效果说明"
-      description: "简单说明此域名在哪个网站上 完整广告url为xxxxx"
-      placeholder: xxx.com是abc.com的广告url url为 https://xxx.com/ad.jpg
-    validations:
+    - label: 我提供了可核验的用途依据，不是仅凭域名命名、同行名单或个人喜好要求拦截。
       required: true
-
-  - type: textarea
-    id: screenshot
-    attributes:
-      label: "效果截图"
-      description: 如果可能，请提供效果图片
-      placeholder: "![图片描述](图片链接)"
-    validations:
-      required: false
-
-  - type: checkboxes
-    id: check
-    attributes:
-      label: 自查步骤
-      description: |
-        请确认已经遵守所有必选项，否则不排除将 Close Issue 直至 Ban
-      options:
-        - label: 我确认此拦截域名在本项目最新规则上并不存在，如因网络问题无法获取最新规则者还请自行解决
-          required: true
-
-        - label: 我确认我已经搜索过 [Issue Tracker](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/issues)，且并未查询到提交相同拦截域名的 Issue
-          required: true
+    - label: 我会关注并回复本 Issue 的补充请求；理解缺少关键材料或补充请求后 7 天无回复可关闭。
+      required: true
+- type: textarea
+  id: domain
+  attributes:
+    label: 待收录域名
+    description: 每行一个完整域名，不带协议、路径或通配符。不要直接填写整个主域来替代已观测的子域。
+    placeholder: |-
+      ads.example.com
+      metrics.example.net
+  validations:
+    required: true
+- type: dropdown
+  id: category
+  attributes:
+    label: 建议分类
+    description: 最终以核验结果为准；不确定请如实选择，不必猜测。
+    options:
+    - 广告（含广告监测与归因）
+    - 隐私（纯统计、遥测、崩溃等）
+    - 不受欢迎（推送、强更、P2P/PCDN、云控等）
+    - 涉及多个分类（在下方逐域说明）
+    - 不确定（在下方说明已知用途）
+  validations:
+    required: true
+- type: textarea
+  id: context
+  attributes:
+    label: 来源与触发场景
+    description: 说明在哪个应用/网站/设备中发现，以及如何触发相关请求；提供应用版本或页面地址。需要账号或特殊设备的，请说明限制并自行取证。
+    placeholder: |-
+      应用 / 网站 / 设备与版本：
+      触发步骤与发现方式：
+      访问或复现限制：
+  validations:
+    required: true
+- type: textarea
+  id: evidence
+  attributes:
+    label: 逐域用途与实证
+    description: 逐一对应域名、用途和证据。可提供脱敏请求日志及响应、广告素材链接、页面内容、代码位置等；说明证据如何证明该用途。可拖入截图或日志附件。同行规则只能补充参考。
+    placeholder: |-
+      域名：
+      用途：
+      实际请求 / 接口路径 / 页面或代码出处：
+      日志、响应、截图及其说明：
+  validations:
+    required: true
+- type: textarea
+  id: impact
+  attributes:
+    label: 拦截测试与正常功能影响
+    description: 说明使用的工具、单独拦截前后变化，以及检查过哪些正常功能。未测试请明确写“未测试”，不要推测为安全。已知内容、存储、登录、支付等共享用途或不应拦截的兄弟子域，也请列出。
+    placeholder: |-
+      测试工具与方法（或未测试及原因）：
+      拦截前 / 后：
+      检查过的正常功能与结果：
+      已知共享用途、不应拦截的域名及依据（没有发现不等于已证明不存在）：
+  validations:
+    required: true

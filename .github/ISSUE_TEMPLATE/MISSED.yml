@@ -1,0 +1,93 @@
+name: 漏拦截：仍有广告或其他应过滤请求
+description: 提供具体场景、环境、复现步骤及证据；不知道域名也可反馈。
+title: '[漏拦截] '
+labels:
+- enhancement
+body:
+- type: markdown
+  attributes:
+    value: |
+      请用“应用或网站名称 + 广告位置/请求用途”填写标题，一条 Issue 只讨论一个问题。
+
+      **不知道域名可以反馈，但不能只有一句“某某广告拦不住”。** 必须提供使用环境、规则加载情况、具体操作步骤及截图或日志，让他人能够复现或依据证据核验。
+
+      提交前先阅读[使用教程与常见问题](https://awavenue.top/Knowledge.html)，搜索[已有反馈（含已关闭）](https://github.com/TG-Twilight/AWAvenue-Ads-Rule/issues?q=is%3Aissue)，更新订阅并确认加载成功。注意 `Only.Ads` 不包含隐私和不受欢迎规则，`No.Privacy` / `No.Unwelcome` 分别排除对应分类；未订阅的分类不属于漏拦截。
+
+      本项目按网络请求域名等信息过滤，不能保证移除所有广告。广告与正常内容共用域名、本地内置或已缓存的广告，可能无法仅靠本规则解决；也不负责自动点击“跳过”或隐藏广告占位。
+
+      **受理范围：** 可复现或有证据的具体漏拦截。不受理“请支持某 App / 去掉全部广告”等纯许愿、代配置、使用教学、无关问题或催更。缺少关键材料、重复或无关的反馈可能直接关闭；要求补充材料后 **7 天无回复可关闭**，补齐后可在原 Issue 申请重开。维护者不承诺处理时限，也不会反复催问。
+
+      涉及注册、登录、付费或特殊设备的场景，请自行完成取证；维护者不会为复现代注册、购买服务或获取设备。**请勿提供账号密码、Cookie、Token、完整代理订阅等敏感信息；日志只保留相关且已脱敏的部分，URL 请保留域名与相关路径并脱敏参数。**
+      无法公开复现时，须自行提供足以核验的相关请求记录、响应或其他证据，仅有广告截图可能不足以继续排查。
+- type: checkboxes
+  id: prerequisites
+  attributes:
+    label: 提交前确认
+    options:
+    - label: 我已阅读教程、搜索已有反馈，并确认更新后的秋风广告规则已成功加载。
+      required: true
+    - label: 我提交的是下方可以复现或有证据核验的具体问题，而非仅要求支持某个应用。
+      required: true
+    - label: 我会关注并回复本 Issue 的补充请求；理解缺少关键材料或补充请求后 7 天无回复可关闭。
+      required: true
+- type: textarea
+  id: environment
+  attributes:
+    label: 使用环境
+    description: 填写设备/系统、过滤工具及版本、出现问题的应用及版本或网站地址。不要只写“最新版”。
+    placeholder: |-
+      设备与系统版本：
+      过滤工具与版本（说明部署在路由器还是本机）：
+      应用与版本 / 网站地址：
+  validations:
+    required: true
+- type: textarea
+  id: subscription
+  attributes:
+    label: 规则订阅与生效情况
+    description: 提供本项目规则的实际订阅地址或准确文件名、变体、规则头部 Update time 或客户端最近成功更新时间，并说明如何确认规则已加载生效。另列其他过滤规则、放行规则或重写；没有则写“无”。不要贴代理节点订阅。
+    placeholder: |-
+      本项目规则订阅地址 / 文件名：
+      变体（默认 / Only.Ads / No.Privacy / No.Unwelcome / 其他）：
+      规则更新时间：
+      加载/生效依据（导入状态、命中记录等）：
+      其他规则 / 放行规则 / 重写：
+  validations:
+    required: true
+- type: textarea
+  id: reproduction
+  attributes:
+    label: 具体问题与复现步骤
+    description: 说明广告位置或请求用途，从打开应用/页面开始逐步描述。附可访问的页面链接；如有账号、地区、付费或设备限制请写明。
+    placeholder: |-
+      广告位置 / 请求用途（开屏、播放前贴片、统计上报等）：
+      1. 打开……
+      2. 点击……
+      3. 等待多久后出现什么……
+      出现频率：
+      是否需要注册、登录、付费、特定地区或设备：
+      更新规则后采取的重试操作及结果：
+  validations:
+    required: true
+- type: textarea
+  id: evidence
+  attributes:
+    label: 截图、录屏或相关请求证据
+    description: 至少提供能对应上述步骤的截图、录屏或日志，并解释对应位置/时间。可直接拖入附件。需要账号等条件才能复现时，请自行提供可核验的请求、响应等材料；不要求维护者代注册。请勿仅粘贴无说明的大量日志。
+    placeholder: |-
+      截图 / 录屏 / 日志：
+      对应的操作步骤、时间与现象：
+      无法公开复现时，自行获取的请求或其他可核验证据：
+  validations:
+    required: true
+- type: textarea
+  id: domains
+  attributes:
+    label: 已定位的域名与尝试（选填）
+    description: 若知道域名，请一行一个，附相关请求路径、是否命中本规则及临时拦截效果。未知可以留空，不要猜测。
+    placeholder: |-
+      域名与请求路径：
+      当前命中情况：
+      临时拦截后的效果与正常功能是否受影响：
+  validations:
+    required: false
