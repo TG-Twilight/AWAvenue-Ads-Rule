@@ -765,4 +765,44 @@ Build:
 
 ---
 
+## 1.7.9-release：11月15日，2026年
+<br />
+
+**两个月没发版，攒了一堆存货：电视、手机一起。**
+
+main：
+<br />
+[新增]拦截 海x电视 广告族 9 条，覆盖广告策略、素材下发、曝光回执与开机广告。
+<br />
+[新增]拦截 乐播投屏 广告链路中的 秒针 与 ReachMax 监测域名 2 条。
+<br />
+[新增]拦截 小红x 开屏广告视频与图片素材域名 2 条（素材地址取自 App 本地开屏广告库）。
+<br />
+[新增]拦截 识x、小黑盒、淘x 实机抓包所得日志埋点与设备指纹上报域名 9 条（数美设备指纹、MobTech 数据上报、友x崩溃日志、火x引擎 APM、阿x云日志服务等）。MobTech 中与一键登录相关的域名未收，不影响手机号一键登录。
+<br />
+[新增]拦截 巨x引擎 转化 SDK 配置域名 1 条，此配置用于开启运营商取号标识采集。
+<br />
+[调整]乐播会员推广页 h5.hpplay.com.cn 改归「不受欢迎」类，使用 -Only.Ads 与 -No.Unwelcome 的用户不再拦截此页。
+<br />
+[清理]移除广告主投放后台域名 17 条（Amazon Ads API、TikTok Ads、百x联盟、穿x甲官网，以及 Apple / Yahoo / Yandex / Spotify / Bing 广告主站等）——这类后台只有广告主本人在浏览器里登录才访问，手机上的广告 SDK 从不请求，拦了对去广告零收益、纯属误伤。
+<br />
+[调整]Whyway 数据上报后缀 data.hicloud.com 改归「隐私」类。
+<br />
+[调整]Issue 反馈模板完善：不知道具体域名的漏拦截也可以反馈，附上复现步骤即可。
+<br />
+[调整]README 新增 Trendshift 徽章，统一徽章样式。
+<br />
+
+Build:
+<br />
+[修复]IP 规则自 2025 年 3 月起因 CIDR 写法不被识别而在构建时被静默丢弃，现已改为标准解析，纯 IP 与 CIDR 均可识别，无效行会在构建时打印警告。Clash-Classical、Loon、QuantumultX、Shadowrocket、Singbox、Surge-RULE-SET、Surge-module 七种格式的 13 条 IP 规则恢复生效，使用这些格式的用户会看到条目数上涨，属于预期内的修复。
+<br />
+<br />
+
+*本次更新由 Claude Opus 5.5 协作完成😎*
+<br />
+<br />
+
+---
+
 <a name="bottom"></a>
