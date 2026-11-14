@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule (No.Privacy)
 !--------------------------------------
-!Total lines: 1474
+!Total lines: 1478
 !Version: 1.7.8-release
-!Update time: 2026-11-14 22:07:16 UTC+8
-!Update content: 修复IP规则因CIDR写法被构建忽略的问题，华为数据上报后缀归入隐私类
+!Update time: 2026-11-14 22:15:54 UTC+8
+!Update content: 新增拦截小红书开屏广告视频与图片素材域名2条
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -169,6 +169,8 @@ ip dns static add address=240.0.0.1 name=ads-api.twitter.com
 ip dns static add address=:: name=ads-api.twitter.com
 ip dns static add address=240.0.0.1 name=ads-img-al.xhscdn.com
 ip dns static add address=:: name=ads-img-al.xhscdn.com
+ip dns static add address=240.0.0.1 name=ads-img-bak.xhscdn.com
+ip dns static add address=:: name=ads-img-bak.xhscdn.com
 ip dns static add address=240.0.0.1 name=ads-img-qc.xhscdn.com
 ip dns static add address=:: name=ads-img-qc.xhscdn.com
 ip dns static add address=240.0.0.1 name=ads-marketing-vivofs.vivo.com.cn
@@ -181,6 +183,8 @@ ip dns static add address=240.0.0.1 name=ads-video-al.xhscdn.com
 ip dns static add address=:: name=ads-video-al.xhscdn.com
 ip dns static add address=240.0.0.1 name=ads-video-qc.xhscdn.com
 ip dns static add address=:: name=ads-video-qc.xhscdn.com
+ip dns static add address=240.0.0.1 name=ads-vp5.xhscdn.com
+ip dns static add address=:: name=ads-vp5.xhscdn.com
 ip dns static add address=240.0.0.1 name=ads.95516.com
 ip dns static add address=:: name=ads.95516.com
 ip dns static add address=240.0.0.1 name=ads.adfunlink.com

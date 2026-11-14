@@ -86,12 +86,14 @@ full:adreq.vivo.com.cn
 full:ads-api-o.api.leiniao.com
 full:ads-api.twitter.com
 full:ads-img-al.xhscdn.com
+full:ads-img-bak.xhscdn.com
 full:ads-img-qc.xhscdn.com
 full:ads-marketing-vivofs.vivo.com.cn
 full:ads-sdk-api.ranfenghd.com
 full:ads-shopping.shouqianba.com
 full:ads-video-al.xhscdn.com
 full:ads-video-qc.xhscdn.com
+full:ads-vp5.xhscdn.com
 full:ads.95516.com
 full:ads.adfunlink.com
 full:ads.auctions.yahoo.com

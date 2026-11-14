@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2026-11-14 22:07:16 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2026-11-14 22:15:54 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -100,12 +100,14 @@ DOMAIN,adreq.vivo.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,ads-api-o.api.leiniao.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads-api.twitter.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads-img-al.xhscdn.com,REJECT,extended-matching,pre-matching
+DOMAIN,ads-img-bak.xhscdn.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads-img-qc.xhscdn.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads-marketing-vivofs.vivo.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,ads-sdk-api.ranfenghd.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads-shopping.shouqianba.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads-video-al.xhscdn.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads-video-qc.xhscdn.com,REJECT,extended-matching,pre-matching
+DOMAIN,ads-vp5.xhscdn.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads.95516.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads.adfunlink.com,REJECT,extended-matching,pre-matching
 DOMAIN,ads.auctions.yahoo.com,REJECT,extended-matching,pre-matching

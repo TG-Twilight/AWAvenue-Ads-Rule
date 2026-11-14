@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule (No.Unwelcome)
 #--------------------------------------
-#Total lines: 858
+#Total lines: 860
 #Version: 1.7.8-release
-#Update time: 2026-11-14 22:07:16 UTC+8
-#Update content: 修复IP规则因CIDR写法被构建忽略的问题，华为数据上报后缀归入隐私类
+#Update time: 2026-11-14 22:15:54 UTC+8
+#Update content: 新增拦截小红书开屏广告视频与图片素材域名2条
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -90,12 +90,14 @@
 .ads-api-o.api.leiniao.com
 .ads-api.twitter.com
 .ads-img-al.xhscdn.com
+.ads-img-bak.xhscdn.com
 .ads-img-qc.xhscdn.com
 .ads-marketing-vivofs.vivo.com.cn
 .ads-sdk-api.ranfenghd.com
 .ads-shopping.shouqianba.com
 .ads-video-al.xhscdn.com
 .ads-video-qc.xhscdn.com
+.ads-vp5.xhscdn.com
 .ads.95516.com
 .ads.adfunlink.com
 .ads.auctions.yahoo.com
