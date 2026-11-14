@@ -71,14 +71,11 @@ admarketing.yahoo.net
 admobile.top
 adreq.vivo.com.cn
 ads-api-o.api.leiniao.com
-ads-api.tiktok.com
 ads-api.twitter.com
 ads-img-al.xhscdn.com
 ads-img-qc.xhscdn.com
-ads-jp.tiktok.com
 ads-marketing-vivofs.vivo.com.cn
 ads-sdk-api.ranfenghd.com
-ads-sg.tiktok.com
 ads-shopping.shouqianba.com
 ads-video-al.xhscdn.com
 ads-video-qc.xhscdn.com
@@ -99,7 +96,6 @@ ads.pubmatic.com
 ads.raidrive.com
 ads.servebom.com
 ads.service.kugou.com
-ads.tiktok.com
 ads.v3mh.com
 ads.youtube.com
 ads.zhinengxiyifang.cn
@@ -136,7 +132,6 @@ adsmind.gdtimg.com
 adsmind.ugdtimg.com
 adsmoloco.com
 adsp.xunlei.com
-adspecs.yahoo.com
 adstat.izuiyou.com
 adstats.tencentmusic.com
 adstextview.qq.com
@@ -144,9 +139,7 @@ adstore-1252524079.file.myqcloud.com
 adstore-index-1252524079.file.myqcloud.com
 adstrategy.biz.weibo.com
 adstudio-assets.scdn.co
-adstudio.spotify.com
 adtago.s3.amazonaws.com
-adtech.yahooinc.com
 adtrack.quark.cn
 adtracker.adfunlink.com
 adtracker.medproad.com
@@ -154,12 +147,6 @@ adui.tg.meitu.com
 adv-api.shenshiads.com
 adv.sec.intl.miui.com
 adv.sec.miui.com
-advertising-api-eu.amazon.com
-advertising-api-fe.amazon.com
-advertising-api.amazon.com
-advertising.apple.com
-advertising.yahoo.com
-advertising.yandex.ru
 advice-ads.s3.amazonaws.com
 adview.cn
 adx-ad.smart-tv.cn
@@ -239,7 +226,6 @@ bdapi.ads.oppomobile.com
 beizi.biz
 bgg.baidu.com
 bianxian.com
-bingads.microsoft.com
 biz.weibo.com
 bj-td-menta-01-callback.advlion.com
 bj.ad.track.66mobi.com
@@ -281,7 +267,6 @@ config.inmobi.com
 config.unityads.unity3d.com
 cpc-service-square.aiclk.com
 cpro.baidustatic.com
-csjplatform.com
 d.applovin.com
 d.applvn.com
 da.anythinktech.com
@@ -585,8 +570,6 @@ tvapp.hpplay.cn
 tx-ad.a.yximgs.com
 tytx.m.cn.miaozhen.com
 uapi.ads.heytapmobi.com
-union.baidu.cn
-union.baidu.com
 unityads.unity3d.com
 update0.aiclk.com
 us.l.qq.com
