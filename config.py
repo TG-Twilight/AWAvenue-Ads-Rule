@@ -1,5 +1,6 @@
 import os
-import re
+import sys
+import ipaddress
 
 SCRIPT_PATH = os.path.join(os.getcwd(), "script") # 插件文件夹
 RULE_PATH = os.path.join(os.getcwd(), "rule") # 规则文件夹
@@ -55,30 +56,25 @@ class RuleList:
     def regex_file(self, filenames):
         return self._read_lines(filenames)
 
+    def _ip_networks(self, filenames, network_cls):
+        # 同时接受纯 IP 与 CIDR(如 1.2.3.4 / 1.2.3.4/32)，统一输出 CIDR 写法供插件生成 IP-CIDR 规则
+        ips = set()
+        for filename in filenames:
+            if not os.path.exists(filename):
+                continue
+            with open(filename, 'r') as file:
+                for line in file:
+                    ip = line.strip()
+                    if not ip:
+                        continue
+                    try:
+                        ips.add(str(network_cls(ip)))
+                    except ValueError:
+                        print(f"[警告] 跳过无效 IP 规则: {ip} ({filename})", file=sys.stderr)
+        return sorted(ips)
+
     def ip_file(self, filenames):
-        ipv4_pattern = re.compile(r'^(\d{1,3}\.){3}\d{1,3}$')
-        ips = set()
-        for filename in filenames:
-            if not os.path.exists(filename):
-                continue
-            with open(filename, 'r') as file:
-                for line in file:
-                    ip = line.strip()
-                    if ip and ipv4_pattern.match(ip):  # 添加空白检查
-                        parts = ip.split('.')
-                        if all(0 <= int(part) <= 255 for part in parts):
-                            ips.add(ip)
-        return sorted(ips)
-    
+        return self._ip_networks(filenames, ipaddress.IPv4Network)
+
     def ip6_file(self, filenames):
-        ipv6_pattern = re.compile(r'^([0-9a-fA-F]{0,4}:){2,7}[0-9a-fA-F]{0,4}$')
-        ips = set()
-        for filename in filenames:
-            if not os.path.exists(filename):
-                continue
-            with open(filename, 'r') as file:
-                for line in file:
-                    ip = line.strip()
-                    if ip and ipv6_pattern.match(ip):  # 添加空白检查
-                        ips.add(ip)
-        return sorted(ips)
+        return self._ip_networks(filenames, ipaddress.IPv6Network)
