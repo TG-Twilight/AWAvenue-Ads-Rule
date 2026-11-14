@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule (No.Unwelcome)
 #--------------------------------------
-#Total lines: 877
-#Version: 1.7.8-release
-#Update time: 2026-11-14 22:15:54 UTC+8
-#Update content: 新增拦截小红书开屏广告视频与图片素材域名2条
+#Total lines: 887
+#Version: 1.7.9-release
+#Update time: 2026-11-15 00:37:33 UTC+8
+#Update content: 新增拦截识x、小黑盒、淘x等App的日志埋点与设备指纹上报域名10条
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -261,6 +261,7 @@ payload:
   - DOMAIN,api.yfanads.com
   - DOMAIN,api5-normal-quic-lf.ixigua.com
   - DOMAIN,apiyd.my91app.com
+  - DOMAIN,apmplus.volces.com
   - DOMAIN,app-measurement.com
   - DOMAIN,applog-perf.uc.cn
   - DOMAIN,applog.lc.quark.cn
@@ -326,6 +327,7 @@ payload:
   - DOMAIN,click.liftoff.io
   - DOMAIN,click.oneplus.cn
   - DOMAIN,click4.chinaliftoff.io
+  - DOMAIN,client-upload.cn-shanghai.log.aliyuncs.com
   - DOMAIN,clog.miguvideo.com
   - DOMAIN,cloooud.com
   - DOMAIN,cn-api.anythinktech.com
@@ -362,6 +364,7 @@ payload:
   - DOMAIN,dsp-x.jd.com
   - DOMAIN,dsp.fcbox.com
   - DOMAIN,dsplog-adnet.vivo.com.cn
+  - DOMAIN,du-app.cn-hangzhou.log.aliyuncs.com
   - DOMAIN,dualstack-logs.amap.com
   - DOMAIN,dxp.baidu.com
   - DOMAIN,e.ad.xiaomi.com
@@ -370,6 +373,7 @@ payload:
   - DOMAIN,ef-dongfeng.tanx.com
   - DOMAIN,engine.dcad01.com
   - DOMAIN,entry.baidu.com
+  - DOMAIN,errnewlog.umeng.com
   - DOMAIN,et-eus.w.inmobi.com
   - DOMAIN,event.tradplusad.com
   - DOMAIN,events-drcn.op.dbankcloud.cn
@@ -382,6 +386,7 @@ payload:
   - DOMAIN,file.daihuo.qq.com
   - DOMAIN,firebaselogging-pa.googleapis.com
   - DOMAIN,flurry.com
+  - DOMAIN,fp-it.fengkongcloud.com
   - DOMAIN,frontend-perf-service.e.kuaishou.com
   - DOMAIN,fxgate.baidu.com
   - DOMAIN,g-adnet.hiaiabc.com
@@ -475,6 +480,7 @@ payload:
   - DOMAIN,l6.fancyapi.com
   - DOMAIN,launcher.smart-tv.cn
   - DOMAIN,launcherimg.smart-tv.cn
+  - DOMAIN,lf-event-manager.oceanengine.com
   - DOMAIN,lf3-ad-union-sdk.pglstatp-toutiao.com
   - DOMAIN,lf6-ad-union-sdk.pglstatp-toutiao.com
   - DOMAIN,lftxali.fancyapi.com
@@ -489,6 +495,7 @@ payload:
   - DOMAIN,log-api.huxiu.com
   - DOMAIN,log-api.pangolin-sdk-toutiao-b.com
   - DOMAIN,log-api.pangolin-sdk-toutiao.com
+  - DOMAIN,log-auth.zztfly.com
   - DOMAIN,log-report.com
   - DOMAIN,log-sdk.gifshow.com
   - DOMAIN,log-sdk.ksapisrv.com
@@ -710,6 +717,8 @@ payload:
   - DOMAIN,service.vmos.cn
   - DOMAIN,sf16-static.i18n-pglstatp.com
   - DOMAIN,sf3-fe-tos.pglstatp-toutiao.com
+  - DOMAIN,shihuo-new.log.shihuocdn.cn
+  - DOMAIN,shihuo.log.shihuocdn.cn
   - DOMAIN,shouji.sogou.com
   - DOMAIN,sigmob.com
   - DOMAIN,skdisplay.jd.com
@@ -801,6 +810,7 @@ payload:
   - DOMAIN,union-mlog.bigda.com
   - DOMAIN,union-record.oss-cn-zhangjiakou.aliyuncs.com
   - DOMAIN,unityads.unity3d.com
+  - DOMAIN,upc.zztfly.com
   - DOMAIN,update0.aiclk.com
   - DOMAIN,us.l.qq.com
   - DOMAIN,usr-api.aiclk.com

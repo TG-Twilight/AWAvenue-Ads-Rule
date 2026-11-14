@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule (No.Unwelcome)
 !--------------------------------------
-!Total lines: 1714
-!Version: 1.7.8-release
-!Update time: 2026-11-14 22:15:54 UTC+8
-!Update content: 新增拦截小红书开屏广告视频与图片素材域名2条
+!Total lines: 1734
+!Version: 1.7.9-release
+!Update time: 2026-11-15 00:37:33 UTC+8
+!Update content: 新增拦截识x、小黑盒、淘x等App的日志埋点与设备指纹上报域名10条
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -493,6 +493,8 @@ ip dns static add address=240.0.0.1 name=api5-normal-quic-lf.ixigua.com
 ip dns static add address=:: name=api5-normal-quic-lf.ixigua.com
 ip dns static add address=240.0.0.1 name=apiyd.my91app.com
 ip dns static add address=:: name=apiyd.my91app.com
+ip dns static add address=240.0.0.1 name=apmplus.volces.com
+ip dns static add address=:: name=apmplus.volces.com
 ip dns static add address=240.0.0.1 name=app-measurement.com
 ip dns static add address=:: name=app-measurement.com
 ip dns static add address=240.0.0.1 name=applog-perf.uc.cn
@@ -623,6 +625,8 @@ ip dns static add address=240.0.0.1 name=click.oneplus.cn
 ip dns static add address=:: name=click.oneplus.cn
 ip dns static add address=240.0.0.1 name=click4.chinaliftoff.io
 ip dns static add address=:: name=click4.chinaliftoff.io
+ip dns static add address=240.0.0.1 name=client-upload.cn-shanghai.log.aliyuncs.com
+ip dns static add address=:: name=client-upload.cn-shanghai.log.aliyuncs.com
 ip dns static add address=240.0.0.1 name=clog.miguvideo.com
 ip dns static add address=:: name=clog.miguvideo.com
 ip dns static add address=240.0.0.1 name=cloooud.com
@@ -697,6 +701,8 @@ ip dns static add address=240.0.0.1 name=dsp.fcbox.com
 ip dns static add address=:: name=dsp.fcbox.com
 ip dns static add address=240.0.0.1 name=dsplog-adnet.vivo.com.cn
 ip dns static add address=:: name=dsplog-adnet.vivo.com.cn
+ip dns static add address=240.0.0.1 name=du-app.cn-hangzhou.log.aliyuncs.com
+ip dns static add address=:: name=du-app.cn-hangzhou.log.aliyuncs.com
 ip dns static add address=240.0.0.1 name=dualstack-logs.amap.com
 ip dns static add address=:: name=dualstack-logs.amap.com
 ip dns static add address=240.0.0.1 name=dxp.baidu.com
@@ -713,6 +719,8 @@ ip dns static add address=240.0.0.1 name=engine.dcad01.com
 ip dns static add address=:: name=engine.dcad01.com
 ip dns static add address=240.0.0.1 name=entry.baidu.com
 ip dns static add address=:: name=entry.baidu.com
+ip dns static add address=240.0.0.1 name=errnewlog.umeng.com
+ip dns static add address=:: name=errnewlog.umeng.com
 ip dns static add address=240.0.0.1 name=et-eus.w.inmobi.com
 ip dns static add address=:: name=et-eus.w.inmobi.com
 ip dns static add address=240.0.0.1 name=event.tradplusad.com
@@ -737,6 +745,8 @@ ip dns static add address=240.0.0.1 name=firebaselogging-pa.googleapis.com
 ip dns static add address=:: name=firebaselogging-pa.googleapis.com
 ip dns static add address=240.0.0.1 name=flurry.com
 ip dns static add address=:: name=flurry.com
+ip dns static add address=240.0.0.1 name=fp-it.fengkongcloud.com
+ip dns static add address=:: name=fp-it.fengkongcloud.com
 ip dns static add address=240.0.0.1 name=frontend-perf-service.e.kuaishou.com
 ip dns static add address=:: name=frontend-perf-service.e.kuaishou.com
 ip dns static add address=240.0.0.1 name=fxgate.baidu.com
@@ -923,6 +933,8 @@ ip dns static add address=240.0.0.1 name=launcher.smart-tv.cn
 ip dns static add address=:: name=launcher.smart-tv.cn
 ip dns static add address=240.0.0.1 name=launcherimg.smart-tv.cn
 ip dns static add address=:: name=launcherimg.smart-tv.cn
+ip dns static add address=240.0.0.1 name=lf-event-manager.oceanengine.com
+ip dns static add address=:: name=lf-event-manager.oceanengine.com
 ip dns static add address=240.0.0.1 name=lf3-ad-union-sdk.pglstatp-toutiao.com
 ip dns static add address=:: name=lf3-ad-union-sdk.pglstatp-toutiao.com
 ip dns static add address=240.0.0.1 name=lf6-ad-union-sdk.pglstatp-toutiao.com
@@ -951,6 +963,8 @@ ip dns static add address=240.0.0.1 name=log-api.pangolin-sdk-toutiao-b.com
 ip dns static add address=:: name=log-api.pangolin-sdk-toutiao-b.com
 ip dns static add address=240.0.0.1 name=log-api.pangolin-sdk-toutiao.com
 ip dns static add address=:: name=log-api.pangolin-sdk-toutiao.com
+ip dns static add address=240.0.0.1 name=log-auth.zztfly.com
+ip dns static add address=:: name=log-auth.zztfly.com
 ip dns static add address=240.0.0.1 name=log-report.com
 ip dns static add address=:: name=log-report.com
 ip dns static add address=240.0.0.1 name=log-sdk.gifshow.com
@@ -1393,6 +1407,10 @@ ip dns static add address=240.0.0.1 name=sf16-static.i18n-pglstatp.com
 ip dns static add address=:: name=sf16-static.i18n-pglstatp.com
 ip dns static add address=240.0.0.1 name=sf3-fe-tos.pglstatp-toutiao.com
 ip dns static add address=:: name=sf3-fe-tos.pglstatp-toutiao.com
+ip dns static add address=240.0.0.1 name=shihuo-new.log.shihuocdn.cn
+ip dns static add address=:: name=shihuo-new.log.shihuocdn.cn
+ip dns static add address=240.0.0.1 name=shihuo.log.shihuocdn.cn
+ip dns static add address=:: name=shihuo.log.shihuocdn.cn
 ip dns static add address=240.0.0.1 name=shouji.sogou.com
 ip dns static add address=:: name=shouji.sogou.com
 ip dns static add address=240.0.0.1 name=sigmob.com
@@ -1577,6 +1595,8 @@ ip dns static add address=240.0.0.1 name=union-record.oss-cn-zhangjiakou.aliyunc
 ip dns static add address=:: name=union-record.oss-cn-zhangjiakou.aliyuncs.com
 ip dns static add address=240.0.0.1 name=unityads.unity3d.com
 ip dns static add address=:: name=unityads.unity3d.com
+ip dns static add address=240.0.0.1 name=upc.zztfly.com
+ip dns static add address=:: name=upc.zztfly.com
 ip dns static add address=240.0.0.1 name=update0.aiclk.com
 ip dns static add address=:: name=update0.aiclk.com
 ip dns static add address=240.0.0.1 name=us.l.qq.com

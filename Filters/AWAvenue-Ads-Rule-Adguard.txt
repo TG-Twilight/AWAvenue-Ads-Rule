@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 961
-!Version: 1.7.8-release
-!Update time: 2026-11-14 22:15:54 UTC+8
-!Update content: 新增拦截小红书开屏广告视频与图片素材域名2条
+!Total lines: 971
+!Version: 1.7.9-release
+!Update time: 2026-11-15 00:37:33 UTC+8
+!Update content: 新增拦截识x、小黑盒、淘x等App的日志埋点与设备指纹上报域名10条
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -255,6 +255,7 @@
 ||api.yfanads.com^
 ||api5-normal-quic-lf.ixigua.com^
 ||apiyd.my91app.com^
+||apmplus.volces.com^
 ||app-measurement.com^
 ||appcfg.v.qq.com^
 ||applog-perf.uc.cn^
@@ -327,6 +328,7 @@
 ||click.liftoff.io^
 ||click.oneplus.cn^
 ||click4.chinaliftoff.io^
+||client-upload.cn-shanghai.log.aliyuncs.com^
 ||clog.miguvideo.com^
 ||cloooud.com^
 ||cn-api.anythinktech.com^
@@ -367,6 +369,7 @@
 ||dsp-x.jd.com^
 ||dsp.fcbox.com^
 ||dsplog-adnet.vivo.com.cn^
+||du-app.cn-hangzhou.log.aliyuncs.com^
 ||dualstack-logs.amap.com^
 ||dxp.baidu.com^
 ||dyp2p-ali.douyucdn.cn^
@@ -377,6 +380,7 @@
 ||ef-dongfeng.tanx.com^
 ||engine.dcad01.com^
 ||entry.baidu.com^
+||errnewlog.umeng.com^
 ||et-eus.w.inmobi.com^
 ||event.tradplusad.com^
 ||events-drcn.op.dbankcloud.cn^
@@ -389,6 +393,7 @@
 ||file.daihuo.qq.com^
 ||firebaselogging-pa.googleapis.com^
 ||flurry.com^
+||fp-it.fengkongcloud.com^
 ||frontend-perf-service.e.kuaishou.com^
 ||fxgate.baidu.com^
 ||g-adnet.hiaiabc.com^
@@ -503,6 +508,7 @@
 ||l6.fancyapi.com^
 ||launcher.smart-tv.cn^
 ||launcherimg.smart-tv.cn^
+||lf-event-manager.oceanengine.com^
 ||lf3-ad-union-sdk.pglstatp-toutiao.com^
 ||lf6-ad-union-sdk.pglstatp-toutiao.com^
 ||lftxali.fancyapi.com^
@@ -521,6 +527,7 @@
 ||log-api.huxiu.com^
 ||log-api.pangolin-sdk-toutiao-b.com^
 ||log-api.pangolin-sdk-toutiao.com^
+||log-auth.zztfly.com^
 ||log-report.com^
 ||log-sdk.gifshow.com^
 ||log-sdk.ksapisrv.com^
@@ -760,6 +767,8 @@
 ||service.vmos.cn^
 ||sf16-static.i18n-pglstatp.com^
 ||sf3-fe-tos.pglstatp-toutiao.com^
+||shihuo-new.log.shihuocdn.cn^
+||shihuo.log.shihuocdn.cn^
 ||shouji.sogou.com^
 ||sigmob.com^
 ||skdisplay.jd.com^
@@ -875,6 +884,7 @@
 ||union-mlog.bigda.com^
 ||union-record.oss-cn-zhangjiakou.aliyuncs.com^
 ||unityads.unity3d.com^
+||upc.zztfly.com^
 ||update.avlyun.sec.miui.com^
 ||update.lejiao.tv^
 ||update0.aiclk.com^

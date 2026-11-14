@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule (Only.Ads)
 #--------------------------------------
-#Total lines: 646
-#Version: 1.7.8-release
-#Update time: 2026-11-14 22:15:54 UTC+8
-#Update content: 新增拦截小红书开屏广告视频与图片素材域名2条
+#Total lines: 647
+#Version: 1.7.9-release
+#Update time: 2026-11-15 00:37:33 UTC+8
+#Update content: 新增拦截识x、小黑盒、淘x等App的日志埋点与设备指纹上报域名10条
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -383,6 +383,7 @@ domain, ks.ferlytc.com
 domain, l6.fancyapi.com
 domain, launcher.smart-tv.cn
 domain, launcherimg.smart-tv.cn
+domain, lf-event-manager.oceanengine.com
 domain, lf3-ad-union-sdk.pglstatp-toutiao.com
 domain, lf6-ad-union-sdk.pglstatp-toutiao.com
 domain, lftxali.fancyapi.com

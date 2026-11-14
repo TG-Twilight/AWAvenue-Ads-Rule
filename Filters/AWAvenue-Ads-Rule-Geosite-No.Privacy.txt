@@ -418,6 +418,7 @@ full:kwpush.kuwo.cn
 full:l6.fancyapi.com
 full:launcher.smart-tv.cn
 full:launcherimg.smart-tv.cn
+full:lf-event-manager.oceanengine.com
 full:lf3-ad-union-sdk.pglstatp-toutiao.com
 full:lf6-ad-union-sdk.pglstatp-toutiao.com
 full:lftxali.fancyapi.com

@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 974
-#Version: 1.7.8-release
-#Update time: 2026-11-14 22:15:54 UTC+8
-#Update content: 新增拦截小红书开屏广告视频与图片素材域名2条
+#Total lines: 984
+#Version: 1.7.9-release
+#Update time: 2026-11-15 00:37:33 UTC+8
+#Update content: 新增拦截识x、小黑盒、淘x等App的日志埋点与设备指纹上报域名10条
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -268,6 +268,7 @@ DOMAIN,api.touch-moblie.com,reject
 DOMAIN,api.yfanads.com,reject
 DOMAIN,api5-normal-quic-lf.ixigua.com,reject
 DOMAIN,apiyd.my91app.com,reject
+DOMAIN,apmplus.volces.com,reject
 DOMAIN,app-measurement.com,reject
 DOMAIN,appcfg.v.qq.com,reject
 DOMAIN,applog-perf.uc.cn,reject
@@ -340,6 +341,7 @@ DOMAIN,click.googleanalytics.com,reject
 DOMAIN,click.liftoff.io,reject
 DOMAIN,click.oneplus.cn,reject
 DOMAIN,click4.chinaliftoff.io,reject
+DOMAIN,client-upload.cn-shanghai.log.aliyuncs.com,reject
 DOMAIN,clog.miguvideo.com,reject
 DOMAIN,cloooud.com,reject
 DOMAIN,cn-api.anythinktech.com,reject
@@ -380,6 +382,7 @@ DOMAIN,downloadxml.changhong.upgrade2.huan.tv,reject
 DOMAIN,dsp-x.jd.com,reject
 DOMAIN,dsp.fcbox.com,reject
 DOMAIN,dsplog-adnet.vivo.com.cn,reject
+DOMAIN,du-app.cn-hangzhou.log.aliyuncs.com,reject
 DOMAIN,dualstack-logs.amap.com,reject
 DOMAIN,dxp.baidu.com,reject
 DOMAIN,dyp2p-ali.douyucdn.cn,reject
@@ -390,6 +393,7 @@ DOMAIN,edge.ads.twitch.tv,reject
 DOMAIN,ef-dongfeng.tanx.com,reject
 DOMAIN,engine.dcad01.com,reject
 DOMAIN,entry.baidu.com,reject
+DOMAIN,errnewlog.umeng.com,reject
 DOMAIN,et-eus.w.inmobi.com,reject
 DOMAIN,event.tradplusad.com,reject
 DOMAIN,events-drcn.op.dbankcloud.cn,reject
@@ -402,6 +406,7 @@ DOMAIN,feed-image.baidu.com,reject
 DOMAIN,file.daihuo.qq.com,reject
 DOMAIN,firebaselogging-pa.googleapis.com,reject
 DOMAIN,flurry.com,reject
+DOMAIN,fp-it.fengkongcloud.com,reject
 DOMAIN,frontend-perf-service.e.kuaishou.com,reject
 DOMAIN,fxgate.baidu.com,reject
 DOMAIN,g-adnet.hiaiabc.com,reject
@@ -516,6 +521,7 @@ DOMAIN,kwpush.kuwo.cn,reject
 DOMAIN,l6.fancyapi.com,reject
 DOMAIN,launcher.smart-tv.cn,reject
 DOMAIN,launcherimg.smart-tv.cn,reject
+DOMAIN,lf-event-manager.oceanengine.com,reject
 DOMAIN,lf3-ad-union-sdk.pglstatp-toutiao.com,reject
 DOMAIN,lf6-ad-union-sdk.pglstatp-toutiao.com,reject
 DOMAIN,lftxali.fancyapi.com,reject
@@ -534,6 +540,7 @@ DOMAIN,log-api-mn.huxiu.com,reject
 DOMAIN,log-api.huxiu.com,reject
 DOMAIN,log-api.pangolin-sdk-toutiao-b.com,reject
 DOMAIN,log-api.pangolin-sdk-toutiao.com,reject
+DOMAIN,log-auth.zztfly.com,reject
 DOMAIN,log-report.com,reject
 DOMAIN,log-sdk.gifshow.com,reject
 DOMAIN,log-sdk.ksapisrv.com,reject
@@ -773,6 +780,8 @@ DOMAIN,service.changhong.upgrade2.huan.tv,reject
 DOMAIN,service.vmos.cn,reject
 DOMAIN,sf16-static.i18n-pglstatp.com,reject
 DOMAIN,sf3-fe-tos.pglstatp-toutiao.com,reject
+DOMAIN,shihuo-new.log.shihuocdn.cn,reject
+DOMAIN,shihuo.log.shihuocdn.cn,reject
 DOMAIN,shouji.sogou.com,reject
 DOMAIN,sigmob.com,reject
 DOMAIN,skdisplay.jd.com,reject
@@ -888,6 +897,7 @@ DOMAIN,umini.shujupie.com,reject
 DOMAIN,union-mlog.bigda.com,reject
 DOMAIN,union-record.oss-cn-zhangjiakou.aliyuncs.com,reject
 DOMAIN,unityads.unity3d.com,reject
+DOMAIN,upc.zztfly.com,reject
 DOMAIN,update.avlyun.sec.miui.com,reject
 DOMAIN,update.lejiao.tv,reject
 DOMAIN,update0.aiclk.com,reject

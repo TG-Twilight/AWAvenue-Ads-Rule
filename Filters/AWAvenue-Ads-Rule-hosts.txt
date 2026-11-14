@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1908
-!Version: 1.7.8-release
-!Update time: 2026-11-14 22:15:54 UTC+8
-!Update content: 新增拦截小红书开屏广告视频与图片素材域名2条
+!Total lines: 1928
+!Version: 1.7.9-release
+!Update time: 2026-11-15 00:37:33 UTC+8
+!Update content: 新增拦截识x、小黑盒、淘x等App的日志埋点与设备指纹上报域名10条
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -513,6 +513,8 @@
 :: api5-normal-quic-lf.ixigua.com
 0.0.0.0 apiyd.my91app.com
 :: apiyd.my91app.com
+0.0.0.0 apmplus.volces.com
+:: apmplus.volces.com
 0.0.0.0 app-measurement.com
 :: app-measurement.com
 0.0.0.0 appcfg.v.qq.com
@@ -657,6 +659,8 @@
 :: click.oneplus.cn
 0.0.0.0 click4.chinaliftoff.io
 :: click4.chinaliftoff.io
+0.0.0.0 client-upload.cn-shanghai.log.aliyuncs.com
+:: client-upload.cn-shanghai.log.aliyuncs.com
 0.0.0.0 clog.miguvideo.com
 :: clog.miguvideo.com
 0.0.0.0 cloooud.com
@@ -739,6 +743,8 @@
 :: dsp.fcbox.com
 0.0.0.0 dsplog-adnet.vivo.com.cn
 :: dsplog-adnet.vivo.com.cn
+0.0.0.0 du-app.cn-hangzhou.log.aliyuncs.com
+:: du-app.cn-hangzhou.log.aliyuncs.com
 0.0.0.0 dualstack-logs.amap.com
 :: dualstack-logs.amap.com
 0.0.0.0 dxp.baidu.com
@@ -759,6 +765,8 @@
 :: engine.dcad01.com
 0.0.0.0 entry.baidu.com
 :: entry.baidu.com
+0.0.0.0 errnewlog.umeng.com
+:: errnewlog.umeng.com
 0.0.0.0 et-eus.w.inmobi.com
 :: et-eus.w.inmobi.com
 0.0.0.0 event.tradplusad.com
@@ -783,6 +791,8 @@
 :: firebaselogging-pa.googleapis.com
 0.0.0.0 flurry.com
 :: flurry.com
+0.0.0.0 fp-it.fengkongcloud.com
+:: fp-it.fengkongcloud.com
 0.0.0.0 frontend-perf-service.e.kuaishou.com
 :: frontend-perf-service.e.kuaishou.com
 0.0.0.0 fxgate.baidu.com
@@ -1011,6 +1021,8 @@
 :: launcher.smart-tv.cn
 0.0.0.0 launcherimg.smart-tv.cn
 :: launcherimg.smart-tv.cn
+0.0.0.0 lf-event-manager.oceanengine.com
+:: lf-event-manager.oceanengine.com
 0.0.0.0 lf3-ad-union-sdk.pglstatp-toutiao.com
 :: lf3-ad-union-sdk.pglstatp-toutiao.com
 0.0.0.0 lf6-ad-union-sdk.pglstatp-toutiao.com
@@ -1047,6 +1059,8 @@
 :: log-api.pangolin-sdk-toutiao-b.com
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
 :: log-api.pangolin-sdk-toutiao.com
+0.0.0.0 log-auth.zztfly.com
+:: log-auth.zztfly.com
 0.0.0.0 log-report.com
 :: log-report.com
 0.0.0.0 log-sdk.gifshow.com
@@ -1525,6 +1539,10 @@
 :: sf16-static.i18n-pglstatp.com
 0.0.0.0 sf3-fe-tos.pglstatp-toutiao.com
 :: sf3-fe-tos.pglstatp-toutiao.com
+0.0.0.0 shihuo-new.log.shihuocdn.cn
+:: shihuo-new.log.shihuocdn.cn
+0.0.0.0 shihuo.log.shihuocdn.cn
+:: shihuo.log.shihuocdn.cn
 0.0.0.0 shouji.sogou.com
 :: shouji.sogou.com
 0.0.0.0 sigmob.com
@@ -1757,6 +1775,8 @@
 :: union-record.oss-cn-zhangjiakou.aliyuncs.com
 0.0.0.0 unityads.unity3d.com
 :: unityads.unity3d.com
+0.0.0.0 upc.zztfly.com
+:: upc.zztfly.com
 0.0.0.0 update.avlyun.sec.miui.com
 :: update.avlyun.sec.miui.com
 0.0.0.0 update.lejiao.tv

@@ -248,6 +248,7 @@ full:api.touch-moblie.com
 full:api.yfanads.com
 full:api5-normal-quic-lf.ixigua.com
 full:apiyd.my91app.com
+full:apmplus.volces.com
 full:app-measurement.com
 full:applog-perf.uc.cn
 full:applog.lc.quark.cn
@@ -313,6 +314,7 @@ full:click.googleanalytics.com
 full:click.liftoff.io
 full:click.oneplus.cn
 full:click4.chinaliftoff.io
+full:client-upload.cn-shanghai.log.aliyuncs.com
 full:clog.miguvideo.com
 full:cloooud.com
 full:cn-api.anythinktech.com
@@ -349,6 +351,7 @@ full:doubleclick-cn.net
 full:dsp-x.jd.com
 full:dsp.fcbox.com
 full:dsplog-adnet.vivo.com.cn
+full:du-app.cn-hangzhou.log.aliyuncs.com
 full:dualstack-logs.amap.com
 full:dxp.baidu.com
 full:e.ad.xiaomi.com
@@ -357,6 +360,7 @@ full:edge.ads.twitch.tv
 full:ef-dongfeng.tanx.com
 full:engine.dcad01.com
 full:entry.baidu.com
+full:errnewlog.umeng.com
 full:et-eus.w.inmobi.com
 full:event.tradplusad.com
 full:events-drcn.op.dbankcloud.cn
@@ -369,6 +373,7 @@ full:feed-image.baidu.com
 full:file.daihuo.qq.com
 full:firebaselogging-pa.googleapis.com
 full:flurry.com
+full:fp-it.fengkongcloud.com
 full:frontend-perf-service.e.kuaishou.com
 full:fxgate.baidu.com
 full:g-adnet.hiaiabc.com
@@ -462,6 +467,7 @@ full:ks.ferlytc.com
 full:l6.fancyapi.com
 full:launcher.smart-tv.cn
 full:launcherimg.smart-tv.cn
+full:lf-event-manager.oceanengine.com
 full:lf3-ad-union-sdk.pglstatp-toutiao.com
 full:lf6-ad-union-sdk.pglstatp-toutiao.com
 full:lftxali.fancyapi.com
@@ -476,6 +482,7 @@ full:log-api-mn.huxiu.com
 full:log-api.huxiu.com
 full:log-api.pangolin-sdk-toutiao-b.com
 full:log-api.pangolin-sdk-toutiao.com
+full:log-auth.zztfly.com
 full:log-report.com
 full:log-sdk.gifshow.com
 full:log-sdk.ksapisrv.com
@@ -697,6 +704,8 @@ full:sentry.music.163.com
 full:service.vmos.cn
 full:sf16-static.i18n-pglstatp.com
 full:sf3-fe-tos.pglstatp-toutiao.com
+full:shihuo-new.log.shihuocdn.cn
+full:shihuo.log.shihuocdn.cn
 full:shouji.sogou.com
 full:sigmob.com
 full:skdisplay.jd.com
@@ -788,6 +797,7 @@ full:umini.shujupie.com
 full:union-mlog.bigda.com
 full:union-record.oss-cn-zhangjiakou.aliyuncs.com
 full:unityads.unity3d.com
+full:upc.zztfly.com
 full:update0.aiclk.com
 full:us.l.qq.com
 full:usr-api.aiclk.com
