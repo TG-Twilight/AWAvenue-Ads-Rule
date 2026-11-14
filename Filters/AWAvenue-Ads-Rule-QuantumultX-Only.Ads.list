@@ -1,14 +1,27 @@
 #Title: AWAvenue Ads Rule (Only.Ads)
 #--------------------------------------
-#Total lines: 665
+#Total lines: 660
 #Version: 1.7.8-release
-#Update time: 2026-10-22 21:27:09 UTC+8
-#Update content: 新增海信与乐播广告拦截并调整会员推广分类
+#Update time: 2026-11-14 22:07:16 UTC+8
+#Update content: 修复IP规则因CIDR写法被构建忽略的问题，华为数据上报后缀归入隐私类
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
 
 
+IP-CIDR,111.20.26.186/32,reject
+IP-CIDR,112.84.130.73/32,reject
+IP-CIDR,116.142.251.100/32,reject
+IP-CIDR,116.177.251.215/32,reject
+IP-CIDR,120.77.173.114/32,reject
+IP-CIDR,123.56.23.22/32,reject
+IP-CIDR,14.29.101.160/32,reject
+IP-CIDR,14.29.101.168/32,reject
+IP-CIDR,14.29.101.169/32,reject
+IP-CIDR,182.254.116.116/32,reject
+IP-CIDR,203.205.137.89/32,reject
+IP-CIDR,218.77.192.51/32,reject
+IP-CIDR,38.190.225.166/32,reject
 DOMAIN,1500020991.vodplayer.wxamedia.com,reject
 DOMAIN,1500022744.vodplayer.wxamedia.com,reject
 DOMAIN,1500026601.vodplayer.wxamedia.com,reject
@@ -82,14 +95,11 @@ DOMAIN,admarketing.yahoo.net,reject
 DOMAIN,admobile.top,reject
 DOMAIN,adreq.vivo.com.cn,reject
 DOMAIN,ads-api-o.api.leiniao.com,reject
-DOMAIN,ads-api.tiktok.com,reject
 DOMAIN,ads-api.twitter.com,reject
 DOMAIN,ads-img-al.xhscdn.com,reject
 DOMAIN,ads-img-qc.xhscdn.com,reject
-DOMAIN,ads-jp.tiktok.com,reject
 DOMAIN,ads-marketing-vivofs.vivo.com.cn,reject
 DOMAIN,ads-sdk-api.ranfenghd.com,reject
-DOMAIN,ads-sg.tiktok.com,reject
 DOMAIN,ads-shopping.shouqianba.com,reject
 DOMAIN,ads-video-al.xhscdn.com,reject
 DOMAIN,ads-video-qc.xhscdn.com,reject
@@ -110,7 +120,6 @@ DOMAIN,ads.pubmatic.com,reject
 DOMAIN,ads.raidrive.com,reject
 DOMAIN,ads.servebom.com,reject
 DOMAIN,ads.service.kugou.com,reject
-DOMAIN,ads.tiktok.com,reject
 DOMAIN,ads.v3mh.com,reject
 DOMAIN,ads.youtube.com,reject
 DOMAIN,ads.zhinengxiyifang.cn,reject
@@ -147,7 +156,6 @@ DOMAIN,adsmind.gdtimg.com,reject
 DOMAIN,adsmind.ugdtimg.com,reject
 DOMAIN,adsmoloco.com,reject
 DOMAIN,adsp.xunlei.com,reject
-DOMAIN,adspecs.yahoo.com,reject
 DOMAIN,adstat.izuiyou.com,reject
 DOMAIN,adstats.tencentmusic.com,reject
 DOMAIN,adstextview.qq.com,reject
@@ -155,9 +163,7 @@ DOMAIN,adstore-1252524079.file.myqcloud.com,reject
 DOMAIN,adstore-index-1252524079.file.myqcloud.com,reject
 DOMAIN,adstrategy.biz.weibo.com,reject
 DOMAIN,adstudio-assets.scdn.co,reject
-DOMAIN,adstudio.spotify.com,reject
 DOMAIN,adtago.s3.amazonaws.com,reject
-DOMAIN,adtech.yahooinc.com,reject
 DOMAIN,adtrack.quark.cn,reject
 DOMAIN,adtracker.adfunlink.com,reject
 DOMAIN,adtracker.medproad.com,reject
@@ -165,12 +171,6 @@ DOMAIN,adui.tg.meitu.com,reject
 DOMAIN,adv-api.shenshiads.com,reject
 DOMAIN,adv.sec.intl.miui.com,reject
 DOMAIN,adv.sec.miui.com,reject
-DOMAIN,advertising-api-eu.amazon.com,reject
-DOMAIN,advertising-api-fe.amazon.com,reject
-DOMAIN,advertising-api.amazon.com,reject
-DOMAIN,advertising.apple.com,reject
-DOMAIN,advertising.yahoo.com,reject
-DOMAIN,advertising.yandex.ru,reject
 DOMAIN,advice-ads.s3.amazonaws.com,reject
 DOMAIN,adview.cn,reject
 DOMAIN,adx-ad.smart-tv.cn,reject
@@ -250,7 +250,6 @@ DOMAIN,bdapi.ads.oppomobile.com,reject
 DOMAIN,beizi.biz,reject
 DOMAIN,bgg.baidu.com,reject
 DOMAIN,bianxian.com,reject
-DOMAIN,bingads.microsoft.com,reject
 DOMAIN,biz.weibo.com,reject
 DOMAIN,bj-td-menta-01-callback.advlion.com,reject
 DOMAIN,bj.ad.track.66mobi.com,reject
@@ -292,7 +291,6 @@ DOMAIN,config.inmobi.com,reject
 DOMAIN,config.unityads.unity3d.com,reject
 DOMAIN,cpc-service-square.aiclk.com,reject
 DOMAIN,cpro.baidustatic.com,reject
-DOMAIN,csjplatform.com,reject
 DOMAIN,d.applovin.com,reject
 DOMAIN,d.applvn.com,reject
 DOMAIN,da.anythinktech.com,reject
@@ -596,8 +594,6 @@ DOMAIN,tvapp.hpplay.cn,reject
 DOMAIN,tx-ad.a.yximgs.com,reject
 DOMAIN,tytx.m.cn.miaozhen.com,reject
 DOMAIN,uapi.ads.heytapmobi.com,reject
-DOMAIN,union.baidu.cn,reject
-DOMAIN,union.baidu.com,reject
 DOMAIN,unityads.unity3d.com,reject
 DOMAIN,update0.aiclk.com,reject
 DOMAIN,us.l.qq.com,reject
@@ -664,7 +660,6 @@ DOMAIN-SUFFIX,ad.gameley.com,reject
 DOMAIN-SUFFIX,adintl.cn,reject
 DOMAIN-SUFFIX,adsmoloco.com,reject
 DOMAIN-SUFFIX,adx.adwangmai.com,reject
-DOMAIN-SUFFIX,data.hicloud.com,reject
 DOMAIN-SUFFIX,ubixioe.com,reject
 DOMAIN-SUFFIX,unityads.unity3d.com,reject
 DOMAIN-SUFFIX,vlion.cn,reject

@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule (No.Privacy)
 #--------------------------------------
-#Total lines: 758
+#Total lines: 740
 #Version: 1.7.8-release
-#Update time: 2026-10-22 21:27:09 UTC+8
-#Update content: 新增海信与乐播广告拦截并调整会员推广分类
+#Update time: 2026-11-14 22:07:16 UTC+8
+#Update content: 修复IP规则因CIDR写法被构建忽略的问题，华为数据上报后缀归入隐私类
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -84,14 +84,11 @@
 .admobile.top
 .adreq.vivo.com.cn
 .ads-api-o.api.leiniao.com
-.ads-api.tiktok.com
 .ads-api.twitter.com
 .ads-img-al.xhscdn.com
 .ads-img-qc.xhscdn.com
-.ads-jp.tiktok.com
 .ads-marketing-vivofs.vivo.com.cn
 .ads-sdk-api.ranfenghd.com
-.ads-sg.tiktok.com
 .ads-shopping.shouqianba.com
 .ads-video-al.xhscdn.com
 .ads-video-qc.xhscdn.com
@@ -112,7 +109,6 @@
 .ads.raidrive.com
 .ads.servebom.com
 .ads.service.kugou.com
-.ads.tiktok.com
 .ads.v3mh.com
 .ads.youtube.com
 .ads.zhinengxiyifang.cn
@@ -149,7 +145,6 @@
 .adsmind.ugdtimg.com
 .adsmoloco.com
 .adsp.xunlei.com
-.adspecs.yahoo.com
 .adstat.izuiyou.com
 .adstats.tencentmusic.com
 .adstextview.qq.com
@@ -157,9 +152,7 @@
 .adstore-index-1252524079.file.myqcloud.com
 .adstrategy.biz.weibo.com
 .adstudio-assets.scdn.co
-.adstudio.spotify.com
 .adtago.s3.amazonaws.com
-.adtech.yahooinc.com
 .adtrack.quark.cn
 .adtracker.adfunlink.com
 .adtracker.medproad.com
@@ -167,12 +160,6 @@
 .adv-api.shenshiads.com
 .adv.sec.intl.miui.com
 .adv.sec.miui.com
-.advertising-api-eu.amazon.com
-.advertising-api-fe.amazon.com
-.advertising-api.amazon.com
-.advertising.apple.com
-.advertising.yahoo.com
-.advertising.yandex.ru
 .advice-ads.s3.amazonaws.com
 .adview.cn
 .adx-ad.smart-tv.cn
@@ -261,7 +248,6 @@
 .beizi.biz
 .bgg.baidu.com
 .bianxian.com
-.bingads.microsoft.com
 .biz.weibo.com
 .bj-td-menta-01-callback.advlion.com
 .bj.ad.track.66mobi.com
@@ -307,7 +293,6 @@
 .config.unityads.unity3d.com
 .cpc-service-square.aiclk.com
 .cpro.baidustatic.com
-.csjplatform.com
 .d.applovin.com
 .d.applvn.com
 .da.anythinktech.com
@@ -684,8 +669,6 @@
 .tytx.m.cn.miaozhen.com
 .uapi.ads.heytapmobi.com
 .uhabo.com
-.union.baidu.cn
-.union.baidu.com
 .unityads.unity3d.com
 .update.avlyun.sec.miui.com
 .update.lejiao.tv
@@ -761,7 +744,6 @@
 .adintl.cn
 .adsmoloco.com
 .adx.adwangmai.com
-.data.hicloud.com
 .ubixioe.com
 .unityads.unity3d.com
 .vlion.cn

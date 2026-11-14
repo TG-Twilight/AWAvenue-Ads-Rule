@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 976
+#Total lines: 959
 #Version: 1.7.8-release
-#Update time: 2026-10-22 21:27:09 UTC+8
-#Update content: 新增海信与乐播广告拦截并调整会员推广分类
+#Update time: 2026-11-14 22:07:16 UTC+8
+#Update content: 修复IP规则因CIDR写法被构建忽略的问题，华为数据上报后缀归入隐私类
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -90,14 +90,11 @@ full:admarketing.yahoo.net
 full:admobile.top
 full:adreq.vivo.com.cn
 full:ads-api-o.api.leiniao.com
-full:ads-api.tiktok.com
 full:ads-api.twitter.com
 full:ads-img-al.xhscdn.com
 full:ads-img-qc.xhscdn.com
-full:ads-jp.tiktok.com
 full:ads-marketing-vivofs.vivo.com.cn
 full:ads-sdk-api.ranfenghd.com
-full:ads-sg.tiktok.com
 full:ads-shopping.shouqianba.com
 full:ads-video-al.xhscdn.com
 full:ads-video-qc.xhscdn.com
@@ -118,7 +115,6 @@ full:ads.pubmatic.com
 full:ads.raidrive.com
 full:ads.servebom.com
 full:ads.service.kugou.com
-full:ads.tiktok.com
 full:ads.v3mh.com
 full:ads.youtube.com
 full:ads.zhinengxiyifang.cn
@@ -155,7 +151,6 @@ full:adsmind.gdtimg.com
 full:adsmind.ugdtimg.com
 full:adsmoloco.com
 full:adsp.xunlei.com
-full:adspecs.yahoo.com
 full:adstat.izuiyou.com
 full:adstats.tencentmusic.com
 full:adstextview.qq.com
@@ -163,9 +158,7 @@ full:adstore-1252524079.file.myqcloud.com
 full:adstore-index-1252524079.file.myqcloud.com
 full:adstrategy.biz.weibo.com
 full:adstudio-assets.scdn.co
-full:adstudio.spotify.com
 full:adtago.s3.amazonaws.com
-full:adtech.yahooinc.com
 full:adtrack.quark.cn
 full:adtracker.adfunlink.com
 full:adtracker.medproad.com
@@ -173,12 +166,6 @@ full:adui.tg.meitu.com
 full:adv-api.shenshiads.com
 full:adv.sec.intl.miui.com
 full:adv.sec.miui.com
-full:advertising-api-eu.amazon.com
-full:advertising-api-fe.amazon.com
-full:advertising-api.amazon.com
-full:advertising.apple.com
-full:advertising.yahoo.com
-full:advertising.yandex.ru
 full:advice-ads.s3.amazonaws.com
 full:adview.cn
 full:adx-ad.smart-tv.cn
@@ -295,7 +282,6 @@ full:beizi.biz
 full:bes-mtj.baidu.com
 full:bgg.baidu.com
 full:bianxian.com
-full:bingads.microsoft.com
 full:biz.weibo.com
 full:bj-td-menta-01-callback.advlion.com
 full:bj.ad.track.66mobi.com
@@ -356,7 +342,6 @@ full:cpc-service-square.aiclk.com
 full:cpro.baidustatic.com
 full:crash2.zhihu.com
 full:crashlyticsreports-pa.googleapis.com
-full:csjplatform.com
 full:d.applovin.com
 full:d.applvn.com
 full:da.anythinktech.com
@@ -887,8 +872,6 @@ full:umengjmacs.m.taobao.com
 full:umini.shujupie.com
 full:union-mlog.bigda.com
 full:union-record.oss-cn-zhangjiakou.aliyuncs.com
-full:union.baidu.cn
-full:union.baidu.com
 full:unityads.unity3d.com
 full:update.avlyun.sec.miui.com
 full:update.lejiao.tv

@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1938
+!Total lines: 1904
 !Version: 1.7.8-release
-!Update time: 2026-10-22 21:27:09 UTC+8
-!Update content: 新增海信与乐播广告拦截并调整会员推广分类
+!Update time: 2026-11-14 22:07:16 UTC+8
+!Update content: 修复IP规则因CIDR写法被构建忽略的问题，华为数据上报后缀归入隐私类
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -177,22 +177,16 @@ ip dns static add address=240.0.0.1 name=adreq.vivo.com.cn
 ip dns static add address=:: name=adreq.vivo.com.cn
 ip dns static add address=240.0.0.1 name=ads-api-o.api.leiniao.com
 ip dns static add address=:: name=ads-api-o.api.leiniao.com
-ip dns static add address=240.0.0.1 name=ads-api.tiktok.com
-ip dns static add address=:: name=ads-api.tiktok.com
 ip dns static add address=240.0.0.1 name=ads-api.twitter.com
 ip dns static add address=:: name=ads-api.twitter.com
 ip dns static add address=240.0.0.1 name=ads-img-al.xhscdn.com
 ip dns static add address=:: name=ads-img-al.xhscdn.com
 ip dns static add address=240.0.0.1 name=ads-img-qc.xhscdn.com
 ip dns static add address=:: name=ads-img-qc.xhscdn.com
-ip dns static add address=240.0.0.1 name=ads-jp.tiktok.com
-ip dns static add address=:: name=ads-jp.tiktok.com
 ip dns static add address=240.0.0.1 name=ads-marketing-vivofs.vivo.com.cn
 ip dns static add address=:: name=ads-marketing-vivofs.vivo.com.cn
 ip dns static add address=240.0.0.1 name=ads-sdk-api.ranfenghd.com
 ip dns static add address=:: name=ads-sdk-api.ranfenghd.com
-ip dns static add address=240.0.0.1 name=ads-sg.tiktok.com
-ip dns static add address=:: name=ads-sg.tiktok.com
 ip dns static add address=240.0.0.1 name=ads-shopping.shouqianba.com
 ip dns static add address=:: name=ads-shopping.shouqianba.com
 ip dns static add address=240.0.0.1 name=ads-video-al.xhscdn.com
@@ -233,8 +227,6 @@ ip dns static add address=240.0.0.1 name=ads.servebom.com
 ip dns static add address=:: name=ads.servebom.com
 ip dns static add address=240.0.0.1 name=ads.service.kugou.com
 ip dns static add address=:: name=ads.service.kugou.com
-ip dns static add address=240.0.0.1 name=ads.tiktok.com
-ip dns static add address=:: name=ads.tiktok.com
 ip dns static add address=240.0.0.1 name=ads.v3mh.com
 ip dns static add address=:: name=ads.v3mh.com
 ip dns static add address=240.0.0.1 name=ads.youtube.com
@@ -307,8 +299,6 @@ ip dns static add address=240.0.0.1 name=adsmoloco.com
 ip dns static add address=:: name=adsmoloco.com
 ip dns static add address=240.0.0.1 name=adsp.xunlei.com
 ip dns static add address=:: name=adsp.xunlei.com
-ip dns static add address=240.0.0.1 name=adspecs.yahoo.com
-ip dns static add address=:: name=adspecs.yahoo.com
 ip dns static add address=240.0.0.1 name=adstat.izuiyou.com
 ip dns static add address=:: name=adstat.izuiyou.com
 ip dns static add address=240.0.0.1 name=adstats.tencentmusic.com
@@ -323,12 +313,8 @@ ip dns static add address=240.0.0.1 name=adstrategy.biz.weibo.com
 ip dns static add address=:: name=adstrategy.biz.weibo.com
 ip dns static add address=240.0.0.1 name=adstudio-assets.scdn.co
 ip dns static add address=:: name=adstudio-assets.scdn.co
-ip dns static add address=240.0.0.1 name=adstudio.spotify.com
-ip dns static add address=:: name=adstudio.spotify.com
 ip dns static add address=240.0.0.1 name=adtago.s3.amazonaws.com
 ip dns static add address=:: name=adtago.s3.amazonaws.com
-ip dns static add address=240.0.0.1 name=adtech.yahooinc.com
-ip dns static add address=:: name=adtech.yahooinc.com
 ip dns static add address=240.0.0.1 name=adtrack.quark.cn
 ip dns static add address=:: name=adtrack.quark.cn
 ip dns static add address=240.0.0.1 name=adtracker.adfunlink.com
@@ -343,18 +329,6 @@ ip dns static add address=240.0.0.1 name=adv.sec.intl.miui.com
 ip dns static add address=:: name=adv.sec.intl.miui.com
 ip dns static add address=240.0.0.1 name=adv.sec.miui.com
 ip dns static add address=:: name=adv.sec.miui.com
-ip dns static add address=240.0.0.1 name=advertising-api-eu.amazon.com
-ip dns static add address=:: name=advertising-api-eu.amazon.com
-ip dns static add address=240.0.0.1 name=advertising-api-fe.amazon.com
-ip dns static add address=:: name=advertising-api-fe.amazon.com
-ip dns static add address=240.0.0.1 name=advertising-api.amazon.com
-ip dns static add address=:: name=advertising-api.amazon.com
-ip dns static add address=240.0.0.1 name=advertising.apple.com
-ip dns static add address=:: name=advertising.apple.com
-ip dns static add address=240.0.0.1 name=advertising.yahoo.com
-ip dns static add address=:: name=advertising.yahoo.com
-ip dns static add address=240.0.0.1 name=advertising.yandex.ru
-ip dns static add address=:: name=advertising.yandex.ru
 ip dns static add address=240.0.0.1 name=advice-ads.s3.amazonaws.com
 ip dns static add address=:: name=advice-ads.s3.amazonaws.com
 ip dns static add address=240.0.0.1 name=adview.cn
@@ -589,8 +563,6 @@ ip dns static add address=240.0.0.1 name=bgg.baidu.com
 ip dns static add address=:: name=bgg.baidu.com
 ip dns static add address=240.0.0.1 name=bianxian.com
 ip dns static add address=:: name=bianxian.com
-ip dns static add address=240.0.0.1 name=bingads.microsoft.com
-ip dns static add address=:: name=bingads.microsoft.com
 ip dns static add address=240.0.0.1 name=biz.weibo.com
 ip dns static add address=:: name=biz.weibo.com
 ip dns static add address=240.0.0.1 name=bj-td-menta-01-callback.advlion.com
@@ -711,8 +683,6 @@ ip dns static add address=240.0.0.1 name=crash2.zhihu.com
 ip dns static add address=:: name=crash2.zhihu.com
 ip dns static add address=240.0.0.1 name=crashlyticsreports-pa.googleapis.com
 ip dns static add address=:: name=crashlyticsreports-pa.googleapis.com
-ip dns static add address=240.0.0.1 name=csjplatform.com
-ip dns static add address=:: name=csjplatform.com
 ip dns static add address=240.0.0.1 name=d.applovin.com
 ip dns static add address=:: name=d.applovin.com
 ip dns static add address=240.0.0.1 name=d.applvn.com
@@ -1777,10 +1747,6 @@ ip dns static add address=240.0.0.1 name=union-mlog.bigda.com
 ip dns static add address=:: name=union-mlog.bigda.com
 ip dns static add address=240.0.0.1 name=union-record.oss-cn-zhangjiakou.aliyuncs.com
 ip dns static add address=:: name=union-record.oss-cn-zhangjiakou.aliyuncs.com
-ip dns static add address=240.0.0.1 name=union.baidu.cn
-ip dns static add address=:: name=union.baidu.cn
-ip dns static add address=240.0.0.1 name=union.baidu.com
-ip dns static add address=:: name=union.baidu.com
 ip dns static add address=240.0.0.1 name=unityads.unity3d.com
 ip dns static add address=:: name=unityads.unity3d.com
 ip dns static add address=240.0.0.1 name=update.avlyun.sec.miui.com

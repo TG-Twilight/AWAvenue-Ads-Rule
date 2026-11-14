@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule (No.Unwelcome)
 !--------------------------------------
-!Total lines: 1744
+!Total lines: 1710
 !Version: 1.7.8-release
-!Update time: 2026-10-22 21:27:09 UTC+8
-!Update content: 新增海信与乐播广告拦截并调整会员推广分类
+!Update time: 2026-11-14 22:07:16 UTC+8
+!Update content: 修复IP规则因CIDR写法被构建忽略的问题，华为数据上报后缀归入隐私类
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -177,22 +177,16 @@
 :: adreq.vivo.com.cn
 0.0.0.0 ads-api-o.api.leiniao.com
 :: ads-api-o.api.leiniao.com
-0.0.0.0 ads-api.tiktok.com
-:: ads-api.tiktok.com
 0.0.0.0 ads-api.twitter.com
 :: ads-api.twitter.com
 0.0.0.0 ads-img-al.xhscdn.com
 :: ads-img-al.xhscdn.com
 0.0.0.0 ads-img-qc.xhscdn.com
 :: ads-img-qc.xhscdn.com
-0.0.0.0 ads-jp.tiktok.com
-:: ads-jp.tiktok.com
 0.0.0.0 ads-marketing-vivofs.vivo.com.cn
 :: ads-marketing-vivofs.vivo.com.cn
 0.0.0.0 ads-sdk-api.ranfenghd.com
 :: ads-sdk-api.ranfenghd.com
-0.0.0.0 ads-sg.tiktok.com
-:: ads-sg.tiktok.com
 0.0.0.0 ads-shopping.shouqianba.com
 :: ads-shopping.shouqianba.com
 0.0.0.0 ads-video-al.xhscdn.com
@@ -233,8 +227,6 @@
 :: ads.servebom.com
 0.0.0.0 ads.service.kugou.com
 :: ads.service.kugou.com
-0.0.0.0 ads.tiktok.com
-:: ads.tiktok.com
 0.0.0.0 ads.v3mh.com
 :: ads.v3mh.com
 0.0.0.0 ads.youtube.com
@@ -307,8 +299,6 @@
 :: adsmoloco.com
 0.0.0.0 adsp.xunlei.com
 :: adsp.xunlei.com
-0.0.0.0 adspecs.yahoo.com
-:: adspecs.yahoo.com
 0.0.0.0 adstat.izuiyou.com
 :: adstat.izuiyou.com
 0.0.0.0 adstats.tencentmusic.com
@@ -323,12 +313,8 @@
 :: adstrategy.biz.weibo.com
 0.0.0.0 adstudio-assets.scdn.co
 :: adstudio-assets.scdn.co
-0.0.0.0 adstudio.spotify.com
-:: adstudio.spotify.com
 0.0.0.0 adtago.s3.amazonaws.com
 :: adtago.s3.amazonaws.com
-0.0.0.0 adtech.yahooinc.com
-:: adtech.yahooinc.com
 0.0.0.0 adtrack.quark.cn
 :: adtrack.quark.cn
 0.0.0.0 adtracker.adfunlink.com
@@ -343,18 +329,6 @@
 :: adv.sec.intl.miui.com
 0.0.0.0 adv.sec.miui.com
 :: adv.sec.miui.com
-0.0.0.0 advertising-api-eu.amazon.com
-:: advertising-api-eu.amazon.com
-0.0.0.0 advertising-api-fe.amazon.com
-:: advertising-api-fe.amazon.com
-0.0.0.0 advertising-api.amazon.com
-:: advertising-api.amazon.com
-0.0.0.0 advertising.apple.com
-:: advertising.apple.com
-0.0.0.0 advertising.yahoo.com
-:: advertising.yahoo.com
-0.0.0.0 advertising.yandex.ru
-:: advertising.yandex.ru
 0.0.0.0 advice-ads.s3.amazonaws.com
 :: advice-ads.s3.amazonaws.com
 0.0.0.0 adview.cn
@@ -571,8 +545,6 @@
 :: bgg.baidu.com
 0.0.0.0 bianxian.com
 :: bianxian.com
-0.0.0.0 bingads.microsoft.com
-:: bingads.microsoft.com
 0.0.0.0 biz.weibo.com
 :: biz.weibo.com
 0.0.0.0 bj-td-menta-01-callback.advlion.com
@@ -685,8 +657,6 @@
 :: crash2.zhihu.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 :: crashlyticsreports-pa.googleapis.com
-0.0.0.0 csjplatform.com
-:: csjplatform.com
 0.0.0.0 d.applovin.com
 :: d.applovin.com
 0.0.0.0 d.applvn.com
@@ -1605,10 +1575,6 @@
 :: union-mlog.bigda.com
 0.0.0.0 union-record.oss-cn-zhangjiakou.aliyuncs.com
 :: union-record.oss-cn-zhangjiakou.aliyuncs.com
-0.0.0.0 union.baidu.cn
-:: union.baidu.cn
-0.0.0.0 union.baidu.com
-:: union.baidu.com
 0.0.0.0 unityads.unity3d.com
 :: unityads.unity3d.com
 0.0.0.0 update0.aiclk.com

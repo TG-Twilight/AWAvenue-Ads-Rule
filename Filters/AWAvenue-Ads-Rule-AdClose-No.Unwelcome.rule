@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule (No.Unwelcome)
 #--------------------------------------
-#Total lines: 876
+#Total lines: 859
 #Version: 1.7.8-release
-#Update time: 2026-10-22 21:27:09 UTC+8
-#Update content: 新增海信与乐播广告拦截并调整会员推广分类
+#Update time: 2026-11-14 22:07:16 UTC+8
+#Update content: 修复IP规则因CIDR写法被构建忽略的问题，华为数据上报后缀归入隐私类
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -94,14 +94,11 @@ domain, admarketing.yahoo.net
 domain, admobile.top
 domain, adreq.vivo.com.cn
 domain, ads-api-o.api.leiniao.com
-domain, ads-api.tiktok.com
 domain, ads-api.twitter.com
 domain, ads-img-al.xhscdn.com
 domain, ads-img-qc.xhscdn.com
-domain, ads-jp.tiktok.com
 domain, ads-marketing-vivofs.vivo.com.cn
 domain, ads-sdk-api.ranfenghd.com
-domain, ads-sg.tiktok.com
 domain, ads-shopping.shouqianba.com
 domain, ads-video-al.xhscdn.com
 domain, ads-video-qc.xhscdn.com
@@ -122,7 +119,6 @@ domain, ads.pubmatic.com
 domain, ads.raidrive.com
 domain, ads.servebom.com
 domain, ads.service.kugou.com
-domain, ads.tiktok.com
 domain, ads.v3mh.com
 domain, ads.youtube.com
 domain, ads.zhinengxiyifang.cn
@@ -159,7 +155,6 @@ domain, adsmind.gdtimg.com
 domain, adsmind.ugdtimg.com
 domain, adsmoloco.com
 domain, adsp.xunlei.com
-domain, adspecs.yahoo.com
 domain, adstat.izuiyou.com
 domain, adstats.tencentmusic.com
 domain, adstextview.qq.com
@@ -167,9 +162,7 @@ domain, adstore-1252524079.file.myqcloud.com
 domain, adstore-index-1252524079.file.myqcloud.com
 domain, adstrategy.biz.weibo.com
 domain, adstudio-assets.scdn.co
-domain, adstudio.spotify.com
 domain, adtago.s3.amazonaws.com
-domain, adtech.yahooinc.com
 domain, adtrack.quark.cn
 domain, adtracker.adfunlink.com
 domain, adtracker.medproad.com
@@ -177,12 +170,6 @@ domain, adui.tg.meitu.com
 domain, adv-api.shenshiads.com
 domain, adv.sec.intl.miui.com
 domain, adv.sec.miui.com
-domain, advertising-api-eu.amazon.com
-domain, advertising-api-fe.amazon.com
-domain, advertising-api.amazon.com
-domain, advertising.apple.com
-domain, advertising.yahoo.com
-domain, advertising.yandex.ru
 domain, advice-ads.s3.amazonaws.com
 domain, adview.cn
 domain, adx-ad.smart-tv.cn
@@ -291,7 +278,6 @@ domain, beizi.biz
 domain, bes-mtj.baidu.com
 domain, bgg.baidu.com
 domain, bianxian.com
-domain, bingads.microsoft.com
 domain, biz.weibo.com
 domain, bj-td-menta-01-callback.advlion.com
 domain, bj.ad.track.66mobi.com
@@ -348,7 +334,6 @@ domain, cpc-service-square.aiclk.com
 domain, cpro.baidustatic.com
 domain, crash2.zhihu.com
 domain, crashlyticsreports-pa.googleapis.com
-domain, csjplatform.com
 domain, d.applovin.com
 domain, d.applvn.com
 domain, da.anythinktech.com
@@ -808,8 +793,6 @@ domain, umengjmacs.m.taobao.com
 domain, umini.shujupie.com
 domain, union-mlog.bigda.com
 domain, union-record.oss-cn-zhangjiakou.aliyuncs.com
-domain, union.baidu.cn
-domain, union.baidu.com
 domain, unityads.unity3d.com
 domain, update0.aiclk.com
 domain, us.l.qq.com

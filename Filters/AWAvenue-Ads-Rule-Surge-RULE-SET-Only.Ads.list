@@ -1,14 +1,27 @@
 #Title: AWAvenue Ads Rule (Only.Ads)
 #--------------------------------------
-#Total lines: 665
+#Total lines: 660
 #Version: 1.7.8-release
-#Update time: 2026-10-22 21:27:09 UTC+8
-#Update content: 新增海信与乐播广告拦截并调整会员推广分类
+#Update time: 2026-11-14 22:07:16 UTC+8
+#Update content: 修复IP规则因CIDR写法被构建忽略的问题，华为数据上报后缀归入隐私类
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
 
 
+IP-CIDR,111.20.26.186/32
+IP-CIDR,112.84.130.73/32
+IP-CIDR,116.142.251.100/32
+IP-CIDR,116.177.251.215/32
+IP-CIDR,120.77.173.114/32
+IP-CIDR,123.56.23.22/32
+IP-CIDR,14.29.101.160/32
+IP-CIDR,14.29.101.168/32
+IP-CIDR,14.29.101.169/32
+IP-CIDR,182.254.116.116/32
+IP-CIDR,203.205.137.89/32
+IP-CIDR,218.77.192.51/32
+IP-CIDR,38.190.225.166/32
 DOMAIN,1500020991.vodplayer.wxamedia.com
 DOMAIN,1500022744.vodplayer.wxamedia.com
 DOMAIN,1500026601.vodplayer.wxamedia.com
@@ -82,14 +95,11 @@ DOMAIN,admarketing.yahoo.net
 DOMAIN,admobile.top
 DOMAIN,adreq.vivo.com.cn
 DOMAIN,ads-api-o.api.leiniao.com
-DOMAIN,ads-api.tiktok.com
 DOMAIN,ads-api.twitter.com
 DOMAIN,ads-img-al.xhscdn.com
 DOMAIN,ads-img-qc.xhscdn.com
-DOMAIN,ads-jp.tiktok.com
 DOMAIN,ads-marketing-vivofs.vivo.com.cn
 DOMAIN,ads-sdk-api.ranfenghd.com
-DOMAIN,ads-sg.tiktok.com
 DOMAIN,ads-shopping.shouqianba.com
 DOMAIN,ads-video-al.xhscdn.com
 DOMAIN,ads-video-qc.xhscdn.com
@@ -110,7 +120,6 @@ DOMAIN,ads.pubmatic.com
 DOMAIN,ads.raidrive.com
 DOMAIN,ads.servebom.com
 DOMAIN,ads.service.kugou.com
-DOMAIN,ads.tiktok.com
 DOMAIN,ads.v3mh.com
 DOMAIN,ads.youtube.com
 DOMAIN,ads.zhinengxiyifang.cn
@@ -147,7 +156,6 @@ DOMAIN,adsmind.gdtimg.com
 DOMAIN,adsmind.ugdtimg.com
 DOMAIN,adsmoloco.com
 DOMAIN,adsp.xunlei.com
-DOMAIN,adspecs.yahoo.com
 DOMAIN,adstat.izuiyou.com
 DOMAIN,adstats.tencentmusic.com
 DOMAIN,adstextview.qq.com
@@ -155,9 +163,7 @@ DOMAIN,adstore-1252524079.file.myqcloud.com
 DOMAIN,adstore-index-1252524079.file.myqcloud.com
 DOMAIN,adstrategy.biz.weibo.com
 DOMAIN,adstudio-assets.scdn.co
-DOMAIN,adstudio.spotify.com
 DOMAIN,adtago.s3.amazonaws.com
-DOMAIN,adtech.yahooinc.com
 DOMAIN,adtrack.quark.cn
 DOMAIN,adtracker.adfunlink.com
 DOMAIN,adtracker.medproad.com
@@ -165,12 +171,6 @@ DOMAIN,adui.tg.meitu.com
 DOMAIN,adv-api.shenshiads.com
 DOMAIN,adv.sec.intl.miui.com
 DOMAIN,adv.sec.miui.com
-DOMAIN,advertising-api-eu.amazon.com
-DOMAIN,advertising-api-fe.amazon.com
-DOMAIN,advertising-api.amazon.com
-DOMAIN,advertising.apple.com
-DOMAIN,advertising.yahoo.com
-DOMAIN,advertising.yandex.ru
 DOMAIN,advice-ads.s3.amazonaws.com
 DOMAIN,adview.cn
 DOMAIN,adx-ad.smart-tv.cn
@@ -250,7 +250,6 @@ DOMAIN,bdapi.ads.oppomobile.com
 DOMAIN,beizi.biz
 DOMAIN,bgg.baidu.com
 DOMAIN,bianxian.com
-DOMAIN,bingads.microsoft.com
 DOMAIN,biz.weibo.com
 DOMAIN,bj-td-menta-01-callback.advlion.com
 DOMAIN,bj.ad.track.66mobi.com
@@ -292,7 +291,6 @@ DOMAIN,config.inmobi.com
 DOMAIN,config.unityads.unity3d.com
 DOMAIN,cpc-service-square.aiclk.com
 DOMAIN,cpro.baidustatic.com
-DOMAIN,csjplatform.com
 DOMAIN,d.applovin.com
 DOMAIN,d.applvn.com
 DOMAIN,da.anythinktech.com
@@ -596,8 +594,6 @@ DOMAIN,tvapp.hpplay.cn
 DOMAIN,tx-ad.a.yximgs.com
 DOMAIN,tytx.m.cn.miaozhen.com
 DOMAIN,uapi.ads.heytapmobi.com
-DOMAIN,union.baidu.cn
-DOMAIN,union.baidu.com
 DOMAIN,unityads.unity3d.com
 DOMAIN,update0.aiclk.com
 DOMAIN,us.l.qq.com
@@ -664,7 +660,6 @@ DOMAIN-SUFFIX,ad.gameley.com
 DOMAIN-SUFFIX,adintl.cn
 DOMAIN-SUFFIX,adsmoloco.com
 DOMAIN-SUFFIX,adx.adwangmai.com
-DOMAIN-SUFFIX,data.hicloud.com
 DOMAIN-SUFFIX,ubixioe.com
 DOMAIN-SUFFIX,unityads.unity3d.com
 DOMAIN-SUFFIX,vlion.cn
