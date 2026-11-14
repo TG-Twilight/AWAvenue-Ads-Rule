@@ -19,6 +19,7 @@ analyticsengine.s3.amazonaws.com
 analyze.lemurbrowser.com
 api.kingdata.ksyun.com
 api.statsig.com
+apmplus.volces.com
 app-measurement.com
 applog-perf.uc.cn
 applog.lc.quark.cn
@@ -39,6 +40,7 @@ ccs.umeng.com
 cdn.ynuf.aliapp.org
 click.googleanalytics.com
 click.oneplus.cn
+client-upload.cn-shanghai.log.aliyuncs.com
 clog.miguvideo.com
 cnlogs.umeng.com
 cnlogs.umengcloud.com
@@ -54,13 +56,16 @@ data.mistat.rus.xiaomi.com
 data.mistat.xiaomi.com
 de.tynt.com
 dlogs.bwton.com
+du-app.cn-hangzhou.log.aliyuncs.com
 dualstack-logs.amap.com
+errnewlog.umeng.com
 events-drcn.op.dbankcloud.cn
 events.reddit.com
 events.redditmedia.com
 eventv1.leidong.rayenergytech.com
 firebaselogging-pa.googleapis.com
 flurry.com
+fp-it.fengkongcloud.com
 gdfp.gifshow.com
 geo.yahoo.com
 google-analytics.com
@@ -86,6 +91,7 @@ knicks.jd.com
 livemonitor.huan.tv
 log-api-mn.huxiu.com
 log-api.huxiu.com
+log-auth.zztfly.com
 log-report.com
 log-sdk.gifshow.com
 log-sdk.ksapisrv.com
@@ -164,6 +170,8 @@ scs.openspeech.cn
 securemetrics.apple.com
 sensors-log.dongqiudi.com
 sentry.music.163.com
+shihuo-new.log.shihuocdn.cn
+shihuo.log.shihuocdn.cn
 shouji.sogou.com
 smetrics.samsung.com
 sngmta.qq.com
@@ -201,6 +209,7 @@ umengjmacs.m.taobao.com
 umini.shujupie.com
 union-mlog.bigda.com
 union-record.oss-cn-zhangjiakou.aliyuncs.com
+upc.zztfly.com
 utoken.umeng.com
 virusinfo-cloudscan-cn.heytapmobi.com
 watson.microsoft.com
