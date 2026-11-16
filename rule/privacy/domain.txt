@@ -6,6 +6,7 @@ adashx.m.taobao.com
 adashxgc.ut.taobao.com
 aegis.qq.com
 alog.umeng.com
+alogsus.umeng.com
 alogus.umeng.com
 analysis.chatglm.cn
 analysis.yozocloud.cn
@@ -17,6 +18,7 @@ analytics.s3.amazonaws.com
 analytics.woozooo.com
 analyticsengine.s3.amazonaws.com
 analyze.lemurbrowser.com
+android.bugly.qq.com
 api.kingdata.ksyun.com
 api.statsig.com
 apmplus.volces.com
@@ -58,7 +60,10 @@ de.tynt.com
 dlogs.bwton.com
 du-app.cn-hangzhou.log.aliyuncs.com
 dualstack-logs.amap.com
+errlog.umeng.com
+errlogos.umeng.com
 errnewlog.umeng.com
+errnewlogos.umeng.com
 events-drcn.op.dbankcloud.cn
 events.reddit.com
 events.redditmedia.com
@@ -186,6 +191,7 @@ tdsdk.xdrig.com
 telemetry.sdk.inmobi.com
 tj.b.qq.com
 tj.video.qq.com
+tobapplog.ctobsnssdk.com
 toblog.ctobsnssdk.com
 trace.qq.com
 track.lc.quark.cn
