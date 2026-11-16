@@ -178,9 +178,9 @@
 
 <div align="center">
 
-<img src="https://count.getloli.com/get/@TG-Twiligh?theme=booru-helltaker&darkmode=0" alt="Profile Views" width="520">
+<img src="https://count.awavenue.top/get/@TG-Twilight?theme=booru-helltaker&darkmode=0" alt="Profile Views" width="520">
 
-<sub>访问统计自 2024 年 6 月起 · 偶尔(其实是经常)会寄</sub>
+<sub>访问统计自 2024 年 6 月起 · 现已自托管，不会再寄了</sub>
 
 <br/>
 

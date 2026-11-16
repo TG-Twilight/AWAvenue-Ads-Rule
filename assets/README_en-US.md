@@ -178,9 +178,9 @@ This is a personal project, maintained as time allows. Issues and PRs are welcom
 
 <div align="center">
 
-<img src="https://count.getloli.com/get/@TG-Twiligh?theme=booru-helltaker&darkmode=0" alt="Profile Views" width="520">
+<img src="https://count.awavenue.top/get/@TG-Twilight?theme=booru-helltaker&darkmode=0" alt="Profile Views" width="520">
 
-<sub>View stats since June 2024 · occasionally (okay, often) down</sub>
+<sub>View stats since June 2024 · now self-hosted, no more downtime</sub>
 
 <br/>
 
