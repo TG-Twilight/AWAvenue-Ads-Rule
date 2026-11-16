@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 971
+#Total lines: 985
 #Version: 1.7.9-release
-#Update time: 2026-11-15 00:37:33 UTC+8
-#Update content: 新增拦截识x、小黑盒、淘x等App的日志埋点与设备指纹上报域名10条
+#Update time: 2026-11-16 17:36:05 UTC+8
+#Update content: 新增拦截TopOn聚合与上海领页广告接口8条及崩溃日志与埋点上报域名6条
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -183,6 +183,7 @@ full:adx-saas.advlion.com
 full:adx-strategy-api-cn.statisticslinks.com
 full:adx.ads.heytapmobi.com
 full:adx.ads.oppomobile.com
+full:adx.anythinktech.com
 full:adx.appsdk.com.cn
 full:adx.sogaha.cn
 full:adx.tuia.cn
@@ -201,6 +202,7 @@ full:alicoccdncnc-xn.inter.71edge.com
 full:alicoccdnct-xn.inter.71edge.com
 full:alltbcsp2p.baidu.com
 full:alog.umeng.com
+full:alogsus.umeng.com
 full:alogus.umeng.com
 full:als.baidu.com
 full:amdcopen.m.taobao.com
@@ -219,6 +221,7 @@ full:analytics.tiktok.com
 full:analytics.woozooo.com
 full:analyticsengine.s3.amazonaws.com
 full:analyze.lemurbrowser.com
+full:android.bugly.qq.com
 full:andrqd.play.aiseet.atianqi.com
 full:ap.dongdianqiu.com
 full:ap.dongqiudi.com
@@ -285,6 +288,7 @@ full:beizi.biz
 full:bes-mtj.baidu.com
 full:bgg.baidu.com
 full:bianxian.com
+full:bid.shanghailingye.cn
 full:biz.weibo.com
 full:bj-td-menta-01-callback.advlion.com
 full:bj.ad.track.66mobi.com
@@ -331,7 +335,10 @@ full:click4.chinaliftoff.io
 full:client-upload.cn-shanghai.log.aliyuncs.com
 full:clog.miguvideo.com
 full:cloooud.com
+full:cn-api-sec.anythinktech.com
 full:cn-api.anythinktech.com
+full:cn-da.anythinktech.com
+full:cn-tk.anythinktech.com
 full:cnlogs.umeng.com
 full:cnlogs.umengcloud.com
 full:cnzz.com
@@ -349,6 +356,7 @@ full:crashlyticsreports-pa.googleapis.com
 full:d.applovin.com
 full:d.applvn.com
 full:da.anythinktech.com
+full:da.statisticslinks.com
 full:data-sdk-uuid-log.d.meituan.net
 full:data.ads.oppomobile.com
 full:data.chsmarttv.com
@@ -380,7 +388,10 @@ full:edge.ads.twitch.tv
 full:ef-dongfeng.tanx.com
 full:engine.dcad01.com
 full:entry.baidu.com
+full:errlog.umeng.com
+full:errlogos.umeng.com
 full:errnewlog.umeng.com
+full:errnewlogos.umeng.com
 full:et-eus.w.inmobi.com
 full:event.tradplusad.com
 full:events-drcn.op.dbankcloud.cn
@@ -780,6 +791,7 @@ full:smetrics.samsung.com
 full:sms.ads.oppomobile.com
 full:sngmta.qq.com
 full:snowflake.qq.com
+full:ssapi.anythinktech.com
 full:ssp.cloooud.com
 full:staging-notify.sec.miui.com
 full:stat.dongqiudi.com
@@ -825,6 +837,7 @@ full:test.e.ad.xiaomi.com
 full:tj.b.qq.com
 full:tj.video.qq.com
 full:tk.anythinktech.com
+full:tk.statisticslinks.com
 full:tmead.y.qq.com
 full:tmeadcomm.y.qq.com
 full:tmfmazu-wangka.m.qq.com
@@ -842,6 +855,7 @@ full:tnc3-alisc1.toutiaoapi.com
 full:tnc3-bjlgy.bytedance.com
 full:tnc3-bjlgy.snssdk.com
 full:tnc3-bjlgy.toutiaoapi.com
+full:tobapplog.ctobsnssdk.com
 full:toblog.ctobsnssdk.com
 full:tpa-hcdn.iqiyi.com
 full:tpc.googlesyndication-cn.com

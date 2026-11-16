@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 984
+#Total lines: 998
 #Version: 1.7.9-release
-#Update time: 2026-11-15 00:37:33 UTC+8
-#Update content: 新增拦截识x、小黑盒、淘x等App的日志埋点与设备指纹上报域名10条
+#Update time: 2026-11-16 17:36:05 UTC+8
+#Update content: 新增拦截TopOn聚合与上海领页广告接口8条及崩溃日志与埋点上报域名6条
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -197,6 +197,7 @@ payload:
   - DOMAIN,adx-strategy-api-cn.statisticslinks.com
   - DOMAIN,adx.ads.heytapmobi.com
   - DOMAIN,adx.ads.oppomobile.com
+  - DOMAIN,adx.anythinktech.com
   - DOMAIN,adx.appsdk.com.cn
   - DOMAIN,adx.sogaha.cn
   - DOMAIN,adx.tuia.cn
@@ -215,6 +216,7 @@ payload:
   - DOMAIN,alicoccdnct-xn.inter.71edge.com
   - DOMAIN,alltbcsp2p.baidu.com
   - DOMAIN,alog.umeng.com
+  - DOMAIN,alogsus.umeng.com
   - DOMAIN,alogus.umeng.com
   - DOMAIN,als.baidu.com
   - DOMAIN,amdcopen.m.taobao.com
@@ -233,6 +235,7 @@ payload:
   - DOMAIN,analytics.woozooo.com
   - DOMAIN,analyticsengine.s3.amazonaws.com
   - DOMAIN,analyze.lemurbrowser.com
+  - DOMAIN,android.bugly.qq.com
   - DOMAIN,andrqd.play.aiseet.atianqi.com
   - DOMAIN,ap.dongdianqiu.com
   - DOMAIN,ap.dongqiudi.com
@@ -299,6 +302,7 @@ payload:
   - DOMAIN,bes-mtj.baidu.com
   - DOMAIN,bgg.baidu.com
   - DOMAIN,bianxian.com
+  - DOMAIN,bid.shanghailingye.cn
   - DOMAIN,biz.weibo.com
   - DOMAIN,bj-td-menta-01-callback.advlion.com
   - DOMAIN,bj.ad.track.66mobi.com
@@ -345,7 +349,10 @@ payload:
   - DOMAIN,client-upload.cn-shanghai.log.aliyuncs.com
   - DOMAIN,clog.miguvideo.com
   - DOMAIN,cloooud.com
+  - DOMAIN,cn-api-sec.anythinktech.com
   - DOMAIN,cn-api.anythinktech.com
+  - DOMAIN,cn-da.anythinktech.com
+  - DOMAIN,cn-tk.anythinktech.com
   - DOMAIN,cnlogs.umeng.com
   - DOMAIN,cnlogs.umengcloud.com
   - DOMAIN,cnzz.com
@@ -363,6 +370,7 @@ payload:
   - DOMAIN,d.applovin.com
   - DOMAIN,d.applvn.com
   - DOMAIN,da.anythinktech.com
+  - DOMAIN,da.statisticslinks.com
   - DOMAIN,data-sdk-uuid-log.d.meituan.net
   - DOMAIN,data.ads.oppomobile.com
   - DOMAIN,data.chsmarttv.com
@@ -394,7 +402,10 @@ payload:
   - DOMAIN,ef-dongfeng.tanx.com
   - DOMAIN,engine.dcad01.com
   - DOMAIN,entry.baidu.com
+  - DOMAIN,errlog.umeng.com
+  - DOMAIN,errlogos.umeng.com
   - DOMAIN,errnewlog.umeng.com
+  - DOMAIN,errnewlogos.umeng.com
   - DOMAIN,et-eus.w.inmobi.com
   - DOMAIN,event.tradplusad.com
   - DOMAIN,events-drcn.op.dbankcloud.cn
@@ -794,6 +805,7 @@ payload:
   - DOMAIN,sms.ads.oppomobile.com
   - DOMAIN,sngmta.qq.com
   - DOMAIN,snowflake.qq.com
+  - DOMAIN,ssapi.anythinktech.com
   - DOMAIN,ssp.cloooud.com
   - DOMAIN,staging-notify.sec.miui.com
   - DOMAIN,stat.dongqiudi.com
@@ -839,6 +851,7 @@ payload:
   - DOMAIN,tj.b.qq.com
   - DOMAIN,tj.video.qq.com
   - DOMAIN,tk.anythinktech.com
+  - DOMAIN,tk.statisticslinks.com
   - DOMAIN,tmead.y.qq.com
   - DOMAIN,tmeadcomm.y.qq.com
   - DOMAIN,tmfmazu-wangka.m.qq.com
@@ -856,6 +869,7 @@ payload:
   - DOMAIN,tnc3-bjlgy.bytedance.com
   - DOMAIN,tnc3-bjlgy.snssdk.com
   - DOMAIN,tnc3-bjlgy.toutiaoapi.com
+  - DOMAIN,tobapplog.ctobsnssdk.com
   - DOMAIN,toblog.ctobsnssdk.com
   - DOMAIN,tpa-hcdn.iqiyi.com
   - DOMAIN,tpc.googlesyndication-cn.com

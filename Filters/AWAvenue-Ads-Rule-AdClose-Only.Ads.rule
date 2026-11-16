@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule (Only.Ads)
 #--------------------------------------
-#Total lines: 647
+#Total lines: 655
 #Version: 1.7.9-release
-#Update time: 2026-11-15 00:37:33 UTC+8
-#Update content: 新增拦截识x、小黑盒、淘x等App的日志埋点与设备指纹上报域名10条
+#Update time: 2026-11-16 17:36:05 UTC+8
+#Update content: 新增拦截TopOn聚合与上海领页广告接口8条及崩溃日志与埋点上报域名6条
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -182,6 +182,7 @@ domain, adx-strategy-api-cn.statisticslinks.com
 domain, adx.ads.heytapmobi.com
 domain, adx.ads.oppomobile.com
 domain, adx.adwangmai.com
+domain, adx.anythinktech.com
 domain, adx.appsdk.com.cn
 domain, adx.sogaha.cn
 domain, adx.tuia.cn
@@ -246,6 +247,7 @@ domain, bdapi.ads.oppomobile.com
 domain, beizi.biz
 domain, bgg.baidu.com
 domain, bianxian.com
+domain, bid.shanghailingye.cn
 domain, biz.weibo.com
 domain, bj-td-menta-01-callback.advlion.com
 domain, bj.ad.track.66mobi.com
@@ -279,7 +281,10 @@ domain, click.chinaliftoff.io
 domain, click.liftoff.io
 domain, click4.chinaliftoff.io
 domain, cloooud.com
+domain, cn-api-sec.anythinktech.com
 domain, cn-api.anythinktech.com
+domain, cn-da.anythinktech.com
+domain, cn-tk.anythinktech.com
 domain, commercial.shouji.360.cn
 domain, conf.hpplay.cn
 domain, config.chsmarttv.com
@@ -290,6 +295,7 @@ domain, cpro.baidustatic.com
 domain, d.applovin.com
 domain, d.applvn.com
 domain, da.anythinktech.com
+domain, da.statisticslinks.com
 domain, data.ads.oppomobile.com
 domain, datacollection.uve.weibo.com
 domain, dc.sigmob.cn
@@ -544,6 +550,7 @@ domain, sl.hpplay.cn
 domain, smad.ms.zhangyue.net
 domain, smartad.10010.com
 domain, sms.ads.oppomobile.com
+domain, ssapi.anythinktech.com
 domain, ssp.cloooud.com
 domain, static-s.iqiyi.com
 domain, static.ads-twitter.com
@@ -576,6 +583,7 @@ domain, tencent-dtv.m.cn.miaozhen.com
 domain, test.ad.xiaomi.com
 domain, test.e.ad.xiaomi.com
 domain, tk.anythinktech.com
+domain, tk.statisticslinks.com
 domain, tmead.y.qq.com
 domain, tmeadcomm.y.qq.com
 domain, tpc.googlesyndication-cn.com

@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule (No.Privacy)
 #--------------------------------------
-#Total lines: 743
+#Total lines: 751
 #Version: 1.7.9-release
-#Update time: 2026-11-15 00:37:33 UTC+8
-#Update content: 新增拦截识x、小黑盒、淘x等App的日志埋点与设备指纹上报域名10条
+#Update time: 2026-11-16 17:36:05 UTC+8
+#Update content: 新增拦截TopOn聚合与上海领页广告接口8条及崩溃日志与埋点上报域名6条
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -178,6 +178,7 @@ payload:
   - 'adx-strategy-api-cn.statisticslinks.com'
   - 'adx.ads.heytapmobi.com'
   - 'adx.ads.oppomobile.com'
+  - 'adx.anythinktech.com'
   - 'adx.appsdk.com.cn'
   - 'adx.sogaha.cn'
   - 'adx.tuia.cn'
@@ -251,6 +252,7 @@ payload:
   - 'beizi.biz'
   - 'bgg.baidu.com'
   - 'bianxian.com'
+  - 'bid.shanghailingye.cn'
   - 'biz.weibo.com'
   - 'bj-td-menta-01-callback.advlion.com'
   - 'bj.ad.track.66mobi.com'
@@ -288,7 +290,10 @@ payload:
   - 'click.liftoff.io'
   - 'click4.chinaliftoff.io'
   - 'cloooud.com'
+  - 'cn-api-sec.anythinktech.com'
   - 'cn-api.anythinktech.com'
+  - 'cn-da.anythinktech.com'
+  - 'cn-tk.anythinktech.com'
   - 'commercial.shouji.360.cn'
   - 'conf.hpplay.cn'
   - 'config.chsmarttv.com'
@@ -299,6 +304,7 @@ payload:
   - 'd.applovin.com'
   - 'd.applvn.com'
   - 'da.anythinktech.com'
+  - 'da.statisticslinks.com'
   - 'data.ads.oppomobile.com'
   - 'datacollection.uve.weibo.com'
   - 'dc.sigmob.cn'
@@ -603,6 +609,7 @@ payload:
   - 'smad.ms.zhangyue.net'
   - 'smartad.10010.com'
   - 'sms.ads.oppomobile.com'
+  - 'ssapi.anythinktech.com'
   - 'ssp.cloooud.com'
   - 'staging-notify.sec.miui.com'
   - 'static-s.iqiyi.com'
@@ -638,6 +645,7 @@ payload:
   - 'test.ad.xiaomi.com'
   - 'test.e.ad.xiaomi.com'
   - 'tk.anythinktech.com'
+  - 'tk.statisticslinks.com'
   - 'tmead.y.qq.com'
   - 'tmeadcomm.y.qq.com'
   - 'tmfmazu-wangka.m.qq.com'

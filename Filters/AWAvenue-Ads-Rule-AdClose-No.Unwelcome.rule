@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule (No.Unwelcome)
 #--------------------------------------
-#Total lines: 871
+#Total lines: 885
 #Version: 1.7.9-release
-#Update time: 2026-11-15 00:37:33 UTC+8
-#Update content: 新增拦截识x、小黑盒、淘x等App的日志埋点与设备指纹上报域名10条
+#Update time: 2026-11-16 17:36:05 UTC+8
+#Update content: 新增拦截TopOn聚合与上海领页广告接口8条及崩溃日志与埋点上报域名6条
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -188,6 +188,7 @@ domain, adx-strategy-api-cn.statisticslinks.com
 domain, adx.ads.heytapmobi.com
 domain, adx.ads.oppomobile.com
 domain, adx.adwangmai.com
+domain, adx.anythinktech.com
 domain, adx.appsdk.com.cn
 domain, adx.sogaha.cn
 domain, adx.tuia.cn
@@ -204,6 +205,7 @@ domain, ali-ad.a.yximgs.com
 domain, alicoccdncnc-xn.inter.71edge.com
 domain, alicoccdnct-xn.inter.71edge.com
 domain, alog.umeng.com
+domain, alogsus.umeng.com
 domain, alogus.umeng.com
 domain, als.baidu.com
 domain, an.facebook.com
@@ -221,6 +223,7 @@ domain, analytics.tiktok.com
 domain, analytics.woozooo.com
 domain, analyticsengine.s3.amazonaws.com
 domain, analyze.lemurbrowser.com
+domain, android.bugly.qq.com
 domain, andrqd.play.aiseet.atianqi.com
 domain, ap.dongdianqiu.com
 domain, ap.dongqiudi.com
@@ -281,6 +284,7 @@ domain, beizi.biz
 domain, bes-mtj.baidu.com
 domain, bgg.baidu.com
 domain, bianxian.com
+domain, bid.shanghailingye.cn
 domain, biz.weibo.com
 domain, bj-td-menta-01-callback.advlion.com
 domain, bj.ad.track.66mobi.com
@@ -323,7 +327,10 @@ domain, click4.chinaliftoff.io
 domain, client-upload.cn-shanghai.log.aliyuncs.com
 domain, clog.miguvideo.com
 domain, cloooud.com
+domain, cn-api-sec.anythinktech.com
 domain, cn-api.anythinktech.com
+domain, cn-da.anythinktech.com
+domain, cn-tk.anythinktech.com
 domain, cnlogs.umeng.com
 domain, cnlogs.umengcloud.com
 domain, cnzz.com
@@ -341,6 +348,7 @@ domain, crashlyticsreports-pa.googleapis.com
 domain, d.applovin.com
 domain, d.applvn.com
 domain, da.anythinktech.com
+domain, da.statisticslinks.com
 domain, data-sdk-uuid-log.d.meituan.net
 domain, data.ads.oppomobile.com
 domain, data.chsmarttv.com
@@ -367,7 +375,10 @@ domain, edge.ads.twitch.tv
 domain, ef-dongfeng.tanx.com
 domain, engine.dcad01.com
 domain, entry.baidu.com
+domain, errlog.umeng.com
+domain, errlogos.umeng.com
 domain, errnewlog.umeng.com
+domain, errnewlogos.umeng.com
 domain, et-eus.w.inmobi.com
 domain, event.tradplusad.com
 domain, events-drcn.op.dbankcloud.cn
@@ -723,6 +734,7 @@ domain, smetrics.samsung.com
 domain, sms.ads.oppomobile.com
 domain, sngmta.qq.com
 domain, snowflake.qq.com
+domain, ssapi.anythinktech.com
 domain, ssp.cloooud.com
 domain, stat.dongqiudi.com
 domain, stat.y.qq.com
@@ -765,8 +777,10 @@ domain, test.e.ad.xiaomi.com
 domain, tj.b.qq.com
 domain, tj.video.qq.com
 domain, tk.anythinktech.com
+domain, tk.statisticslinks.com
 domain, tmead.y.qq.com
 domain, tmeadcomm.y.qq.com
+domain, tobapplog.ctobsnssdk.com
 domain, toblog.ctobsnssdk.com
 domain, tpc.googlesyndication-cn.com
 domain, tpc.googlesyndication.com

@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule (Only.Ads)
 #--------------------------------------
-#Total lines: 663
+#Total lines: 671
 #Version: 1.7.9-release
-#Update time: 2026-11-15 00:37:33 UTC+8
-#Update content: 新增拦截识x、小黑盒、淘x等App的日志埋点与设备指纹上报域名10条
+#Update time: 2026-11-16 17:36:05 UTC+8
+#Update content: 新增拦截TopOn聚合与上海领页广告接口8条及崩溃日志与埋点上报域名6条
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -188,6 +188,7 @@ DOMAIN,adx-saas.advlion.com
 DOMAIN,adx-strategy-api-cn.statisticslinks.com
 DOMAIN,adx.ads.heytapmobi.com
 DOMAIN,adx.ads.oppomobile.com
+DOMAIN,adx.anythinktech.com
 DOMAIN,adx.appsdk.com.cn
 DOMAIN,adx.sogaha.cn
 DOMAIN,adx.tuia.cn
@@ -252,6 +253,7 @@ DOMAIN,bdapi.ads.oppomobile.com
 DOMAIN,beizi.biz
 DOMAIN,bgg.baidu.com
 DOMAIN,bianxian.com
+DOMAIN,bid.shanghailingye.cn
 DOMAIN,biz.weibo.com
 DOMAIN,bj-td-menta-01-callback.advlion.com
 DOMAIN,bj.ad.track.66mobi.com
@@ -285,7 +287,10 @@ DOMAIN,click.chinaliftoff.io
 DOMAIN,click.liftoff.io
 DOMAIN,click4.chinaliftoff.io
 DOMAIN,cloooud.com
+DOMAIN,cn-api-sec.anythinktech.com
 DOMAIN,cn-api.anythinktech.com
+DOMAIN,cn-da.anythinktech.com
+DOMAIN,cn-tk.anythinktech.com
 DOMAIN,commercial.shouji.360.cn
 DOMAIN,conf.hpplay.cn
 DOMAIN,config.chsmarttv.com
@@ -296,6 +301,7 @@ DOMAIN,cpro.baidustatic.com
 DOMAIN,d.applovin.com
 DOMAIN,d.applvn.com
 DOMAIN,da.anythinktech.com
+DOMAIN,da.statisticslinks.com
 DOMAIN,data.ads.oppomobile.com
 DOMAIN,datacollection.uve.weibo.com
 DOMAIN,dc.sigmob.cn
@@ -550,6 +556,7 @@ DOMAIN,sl.hpplay.cn
 DOMAIN,smad.ms.zhangyue.net
 DOMAIN,smartad.10010.com
 DOMAIN,sms.ads.oppomobile.com
+DOMAIN,ssapi.anythinktech.com
 DOMAIN,ssp.cloooud.com
 DOMAIN,static-s.iqiyi.com
 DOMAIN,static.ads-twitter.com
@@ -582,6 +589,7 @@ DOMAIN,tencent-dtv.m.cn.miaozhen.com
 DOMAIN,test.ad.xiaomi.com
 DOMAIN,test.e.ad.xiaomi.com
 DOMAIN,tk.anythinktech.com
+DOMAIN,tk.statisticslinks.com
 DOMAIN,tmead.y.qq.com
 DOMAIN,tmeadcomm.y.qq.com
 DOMAIN,tpc.googlesyndication-cn.com

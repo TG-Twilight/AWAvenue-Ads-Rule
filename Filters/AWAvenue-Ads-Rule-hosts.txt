@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule
 !--------------------------------------
-!Total lines: 1928
+!Total lines: 1956
 !Version: 1.7.9-release
-!Update time: 2026-11-15 00:37:33 UTC+8
-!Update content: 新增拦截识x、小黑盒、淘x等App的日志埋点与设备指纹上报域名10条
+!Update time: 2026-11-16 17:36:05 UTC+8
+!Update content: 新增拦截TopOn聚合与上海领页广告接口8条及崩溃日志与埋点上报域名6条
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -369,6 +369,8 @@
 :: adx.ads.oppomobile.com
 0.0.0.0 adx.adwangmai.com
 :: adx.adwangmai.com
+0.0.0.0 adx.anythinktech.com
+:: adx.anythinktech.com
 0.0.0.0 adx.appsdk.com.cn
 :: adx.appsdk.com.cn
 0.0.0.0 adx.sogaha.cn
@@ -405,6 +407,8 @@
 :: alltbcsp2p.baidu.com
 0.0.0.0 alog.umeng.com
 :: alog.umeng.com
+0.0.0.0 alogsus.umeng.com
+:: alogsus.umeng.com
 0.0.0.0 alogus.umeng.com
 :: alogus.umeng.com
 0.0.0.0 als.baidu.com
@@ -441,6 +445,8 @@
 :: analyticsengine.s3.amazonaws.com
 0.0.0.0 analyze.lemurbrowser.com
 :: analyze.lemurbrowser.com
+0.0.0.0 android.bugly.qq.com
+:: android.bugly.qq.com
 0.0.0.0 andrqd.play.aiseet.atianqi.com
 :: andrqd.play.aiseet.atianqi.com
 0.0.0.0 ap.dongdianqiu.com
@@ -573,6 +579,8 @@
 :: bgg.baidu.com
 0.0.0.0 bianxian.com
 :: bianxian.com
+0.0.0.0 bid.shanghailingye.cn
+:: bid.shanghailingye.cn
 0.0.0.0 biz.weibo.com
 :: biz.weibo.com
 0.0.0.0 bj-td-menta-01-callback.advlion.com
@@ -665,8 +673,14 @@
 :: clog.miguvideo.com
 0.0.0.0 cloooud.com
 :: cloooud.com
+0.0.0.0 cn-api-sec.anythinktech.com
+:: cn-api-sec.anythinktech.com
 0.0.0.0 cn-api.anythinktech.com
 :: cn-api.anythinktech.com
+0.0.0.0 cn-da.anythinktech.com
+:: cn-da.anythinktech.com
+0.0.0.0 cn-tk.anythinktech.com
+:: cn-tk.anythinktech.com
 0.0.0.0 cnlogs.umeng.com
 :: cnlogs.umeng.com
 0.0.0.0 cnlogs.umengcloud.com
@@ -701,6 +715,8 @@
 :: d.applvn.com
 0.0.0.0 da.anythinktech.com
 :: da.anythinktech.com
+0.0.0.0 da.statisticslinks.com
+:: da.statisticslinks.com
 0.0.0.0 data-sdk-uuid-log.d.meituan.net
 :: data-sdk-uuid-log.d.meituan.net
 0.0.0.0 data.ads.oppomobile.com
@@ -765,8 +781,14 @@
 :: engine.dcad01.com
 0.0.0.0 entry.baidu.com
 :: entry.baidu.com
+0.0.0.0 errlog.umeng.com
+:: errlog.umeng.com
+0.0.0.0 errlogos.umeng.com
+:: errlogos.umeng.com
 0.0.0.0 errnewlog.umeng.com
 :: errnewlog.umeng.com
+0.0.0.0 errnewlogos.umeng.com
+:: errnewlogos.umeng.com
 0.0.0.0 et-eus.w.inmobi.com
 :: et-eus.w.inmobi.com
 0.0.0.0 event.tradplusad.com
@@ -1565,6 +1587,8 @@
 :: sngmta.qq.com
 0.0.0.0 snowflake.qq.com
 :: snowflake.qq.com
+0.0.0.0 ssapi.anythinktech.com
+:: ssapi.anythinktech.com
 0.0.0.0 ssp.cloooud.com
 :: ssp.cloooud.com
 0.0.0.0 staging-notify.sec.miui.com
@@ -1655,6 +1679,8 @@
 :: tj.video.qq.com
 0.0.0.0 tk.anythinktech.com
 :: tk.anythinktech.com
+0.0.0.0 tk.statisticslinks.com
+:: tk.statisticslinks.com
 0.0.0.0 tmead.y.qq.com
 :: tmead.y.qq.com
 0.0.0.0 tmeadcomm.y.qq.com
@@ -1689,6 +1715,8 @@
 :: tnc3-bjlgy.snssdk.com
 0.0.0.0 tnc3-bjlgy.toutiaoapi.com
 :: tnc3-bjlgy.toutiaoapi.com
+0.0.0.0 tobapplog.ctobsnssdk.com
+:: tobapplog.ctobsnssdk.com
 0.0.0.0 toblog.ctobsnssdk.com
 :: toblog.ctobsnssdk.com
 0.0.0.0 tpa-hcdn.iqiyi.com

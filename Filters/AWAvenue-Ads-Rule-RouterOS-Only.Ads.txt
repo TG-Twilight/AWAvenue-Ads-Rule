@@ -1,9 +1,9 @@
 !Title: AWAvenue Ads Rule (Only.Ads)
 !--------------------------------------
-!Total lines: 1286
+!Total lines: 1302
 !Version: 1.7.9-release
-!Update time: 2026-11-15 00:37:33 UTC+8
-!Update content: 新增拦截识x、小黑盒、淘x等App的日志埋点与设备指纹上报域名10条
+!Update time: 2026-11-16 17:36:05 UTC+8
+!Update content: 新增拦截TopOn聚合与上海领页广告接口8条及崩溃日志与埋点上报域名6条
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -349,6 +349,8 @@ ip dns static add address=240.0.0.1 name=adx.ads.oppomobile.com
 ip dns static add address=:: name=adx.ads.oppomobile.com
 ip dns static add address=240.0.0.1 name=adx.adwangmai.com
 ip dns static add address=:: name=adx.adwangmai.com
+ip dns static add address=240.0.0.1 name=adx.anythinktech.com
+ip dns static add address=:: name=adx.anythinktech.com
 ip dns static add address=240.0.0.1 name=adx.appsdk.com.cn
 ip dns static add address=:: name=adx.appsdk.com.cn
 ip dns static add address=240.0.0.1 name=adx.sogaha.cn
@@ -477,6 +479,8 @@ ip dns static add address=240.0.0.1 name=bgg.baidu.com
 ip dns static add address=:: name=bgg.baidu.com
 ip dns static add address=240.0.0.1 name=bianxian.com
 ip dns static add address=:: name=bianxian.com
+ip dns static add address=240.0.0.1 name=bid.shanghailingye.cn
+ip dns static add address=:: name=bid.shanghailingye.cn
 ip dns static add address=240.0.0.1 name=biz.weibo.com
 ip dns static add address=:: name=biz.weibo.com
 ip dns static add address=240.0.0.1 name=bj-td-menta-01-callback.advlion.com
@@ -543,8 +547,14 @@ ip dns static add address=240.0.0.1 name=click4.chinaliftoff.io
 ip dns static add address=:: name=click4.chinaliftoff.io
 ip dns static add address=240.0.0.1 name=cloooud.com
 ip dns static add address=:: name=cloooud.com
+ip dns static add address=240.0.0.1 name=cn-api-sec.anythinktech.com
+ip dns static add address=:: name=cn-api-sec.anythinktech.com
 ip dns static add address=240.0.0.1 name=cn-api.anythinktech.com
 ip dns static add address=:: name=cn-api.anythinktech.com
+ip dns static add address=240.0.0.1 name=cn-da.anythinktech.com
+ip dns static add address=:: name=cn-da.anythinktech.com
+ip dns static add address=240.0.0.1 name=cn-tk.anythinktech.com
+ip dns static add address=:: name=cn-tk.anythinktech.com
 ip dns static add address=240.0.0.1 name=commercial.shouji.360.cn
 ip dns static add address=:: name=commercial.shouji.360.cn
 ip dns static add address=240.0.0.1 name=conf.hpplay.cn
@@ -565,6 +575,8 @@ ip dns static add address=240.0.0.1 name=d.applvn.com
 ip dns static add address=:: name=d.applvn.com
 ip dns static add address=240.0.0.1 name=da.anythinktech.com
 ip dns static add address=:: name=da.anythinktech.com
+ip dns static add address=240.0.0.1 name=da.statisticslinks.com
+ip dns static add address=:: name=da.statisticslinks.com
 ip dns static add address=240.0.0.1 name=data.ads.oppomobile.com
 ip dns static add address=:: name=data.ads.oppomobile.com
 ip dns static add address=240.0.0.1 name=datacollection.uve.weibo.com
@@ -1073,6 +1085,8 @@ ip dns static add address=240.0.0.1 name=smartad.10010.com
 ip dns static add address=:: name=smartad.10010.com
 ip dns static add address=240.0.0.1 name=sms.ads.oppomobile.com
 ip dns static add address=:: name=sms.ads.oppomobile.com
+ip dns static add address=240.0.0.1 name=ssapi.anythinktech.com
+ip dns static add address=:: name=ssapi.anythinktech.com
 ip dns static add address=240.0.0.1 name=ssp.cloooud.com
 ip dns static add address=:: name=ssp.cloooud.com
 ip dns static add address=240.0.0.1 name=static-s.iqiyi.com
@@ -1137,6 +1151,8 @@ ip dns static add address=240.0.0.1 name=test.e.ad.xiaomi.com
 ip dns static add address=:: name=test.e.ad.xiaomi.com
 ip dns static add address=240.0.0.1 name=tk.anythinktech.com
 ip dns static add address=:: name=tk.anythinktech.com
+ip dns static add address=240.0.0.1 name=tk.statisticslinks.com
+ip dns static add address=:: name=tk.statisticslinks.com
 ip dns static add address=240.0.0.1 name=tmead.y.qq.com
 ip dns static add address=:: name=tmead.y.qq.com
 ip dns static add address=240.0.0.1 name=tmeadcomm.y.qq.com

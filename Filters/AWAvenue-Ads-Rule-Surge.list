@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 967
+#Total lines: 981
 #Version: 1.7.9-release
-#Update time: 2026-11-15 00:37:33 UTC+8
-#Update content: 新增拦截识x、小黑盒、淘x等App的日志埋点与设备指纹上报域名10条
+#Update time: 2026-11-16 17:36:05 UTC+8
+#Update content: 新增拦截TopOn聚合与上海领页广告接口8条及崩溃日志与埋点上报域名6条
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -183,6 +183,7 @@
 .adx-strategy-api-cn.statisticslinks.com
 .adx.ads.heytapmobi.com
 .adx.ads.oppomobile.com
+.adx.anythinktech.com
 .adx.appsdk.com.cn
 .adx.sogaha.cn
 .adx.tuia.cn
@@ -201,6 +202,7 @@
 .alicoccdnct-xn.inter.71edge.com
 .alltbcsp2p.baidu.com
 .alog.umeng.com
+.alogsus.umeng.com
 .alogus.umeng.com
 .als.baidu.com
 .amdcopen.m.taobao.com
@@ -219,6 +221,7 @@
 .analytics.woozooo.com
 .analyticsengine.s3.amazonaws.com
 .analyze.lemurbrowser.com
+.android.bugly.qq.com
 .andrqd.play.aiseet.atianqi.com
 .ap.dongdianqiu.com
 .ap.dongqiudi.com
@@ -285,6 +288,7 @@
 .bes-mtj.baidu.com
 .bgg.baidu.com
 .bianxian.com
+.bid.shanghailingye.cn
 .biz.weibo.com
 .bj-td-menta-01-callback.advlion.com
 .bj.ad.track.66mobi.com
@@ -331,7 +335,10 @@
 .client-upload.cn-shanghai.log.aliyuncs.com
 .clog.miguvideo.com
 .cloooud.com
+.cn-api-sec.anythinktech.com
 .cn-api.anythinktech.com
+.cn-da.anythinktech.com
+.cn-tk.anythinktech.com
 .cnlogs.umeng.com
 .cnlogs.umengcloud.com
 .cnzz.com
@@ -349,6 +356,7 @@
 .d.applovin.com
 .d.applvn.com
 .da.anythinktech.com
+.da.statisticslinks.com
 .data-sdk-uuid-log.d.meituan.net
 .data.ads.oppomobile.com
 .data.chsmarttv.com
@@ -380,7 +388,10 @@
 .ef-dongfeng.tanx.com
 .engine.dcad01.com
 .entry.baidu.com
+.errlog.umeng.com
+.errlogos.umeng.com
 .errnewlog.umeng.com
+.errnewlogos.umeng.com
 .et-eus.w.inmobi.com
 .event.tradplusad.com
 .events-drcn.op.dbankcloud.cn
@@ -780,6 +791,7 @@
 .sms.ads.oppomobile.com
 .sngmta.qq.com
 .snowflake.qq.com
+.ssapi.anythinktech.com
 .ssp.cloooud.com
 .staging-notify.sec.miui.com
 .stat.dongqiudi.com
@@ -825,6 +837,7 @@
 .tj.b.qq.com
 .tj.video.qq.com
 .tk.anythinktech.com
+.tk.statisticslinks.com
 .tmead.y.qq.com
 .tmeadcomm.y.qq.com
 .tmfmazu-wangka.m.qq.com
@@ -842,6 +855,7 @@
 .tnc3-bjlgy.bytedance.com
 .tnc3-bjlgy.snssdk.com
 .tnc3-bjlgy.toutiaoapi.com
+.tobapplog.ctobsnssdk.com
 .toblog.ctobsnssdk.com
 .tpa-hcdn.iqiyi.com
 .tpc.googlesyndication-cn.com

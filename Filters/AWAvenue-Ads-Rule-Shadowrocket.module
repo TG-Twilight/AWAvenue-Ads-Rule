@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2026-11-15 00:37:33 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2026-11-16 17:36:05 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -193,6 +193,7 @@ DOMAIN,adx-saas.advlion.com,REJECT,extended-matching,pre-matching
 DOMAIN,adx-strategy-api-cn.statisticslinks.com,REJECT,extended-matching,pre-matching
 DOMAIN,adx.ads.heytapmobi.com,REJECT,extended-matching,pre-matching
 DOMAIN,adx.ads.oppomobile.com,REJECT,extended-matching,pre-matching
+DOMAIN,adx.anythinktech.com,REJECT,extended-matching,pre-matching
 DOMAIN,adx.appsdk.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,adx.sogaha.cn,REJECT,extended-matching,pre-matching
 DOMAIN,adx.tuia.cn,REJECT,extended-matching,pre-matching
@@ -211,6 +212,7 @@ DOMAIN,alicoccdncnc-xn.inter.71edge.com,REJECT,extended-matching,pre-matching
 DOMAIN,alicoccdnct-xn.inter.71edge.com,REJECT,extended-matching,pre-matching
 DOMAIN,alltbcsp2p.baidu.com,REJECT,extended-matching,pre-matching
 DOMAIN,alog.umeng.com,REJECT,extended-matching,pre-matching
+DOMAIN,alogsus.umeng.com,REJECT,extended-matching,pre-matching
 DOMAIN,alogus.umeng.com,REJECT,extended-matching,pre-matching
 DOMAIN,als.baidu.com,REJECT,extended-matching,pre-matching
 DOMAIN,amdcopen.m.taobao.com,REJECT,extended-matching,pre-matching
@@ -229,6 +231,7 @@ DOMAIN,analytics.tiktok.com,REJECT,extended-matching,pre-matching
 DOMAIN,analytics.woozooo.com,REJECT,extended-matching,pre-matching
 DOMAIN,analyticsengine.s3.amazonaws.com,REJECT,extended-matching,pre-matching
 DOMAIN,analyze.lemurbrowser.com,REJECT,extended-matching,pre-matching
+DOMAIN,android.bugly.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,andrqd.play.aiseet.atianqi.com,REJECT,extended-matching,pre-matching
 DOMAIN,ap.dongdianqiu.com,REJECT,extended-matching,pre-matching
 DOMAIN,ap.dongqiudi.com,REJECT,extended-matching,pre-matching
@@ -295,6 +298,7 @@ DOMAIN,beizi.biz,REJECT,extended-matching,pre-matching
 DOMAIN,bes-mtj.baidu.com,REJECT,extended-matching,pre-matching
 DOMAIN,bgg.baidu.com,REJECT,extended-matching,pre-matching
 DOMAIN,bianxian.com,REJECT,extended-matching,pre-matching
+DOMAIN,bid.shanghailingye.cn,REJECT,extended-matching,pre-matching
 DOMAIN,biz.weibo.com,REJECT,extended-matching,pre-matching
 DOMAIN,bj-td-menta-01-callback.advlion.com,REJECT,extended-matching,pre-matching
 DOMAIN,bj.ad.track.66mobi.com,REJECT,extended-matching,pre-matching
@@ -341,7 +345,10 @@ DOMAIN,click4.chinaliftoff.io,REJECT,extended-matching,pre-matching
 DOMAIN,client-upload.cn-shanghai.log.aliyuncs.com,REJECT,extended-matching,pre-matching
 DOMAIN,clog.miguvideo.com,REJECT,extended-matching,pre-matching
 DOMAIN,cloooud.com,REJECT,extended-matching,pre-matching
+DOMAIN,cn-api-sec.anythinktech.com,REJECT,extended-matching,pre-matching
 DOMAIN,cn-api.anythinktech.com,REJECT,extended-matching,pre-matching
+DOMAIN,cn-da.anythinktech.com,REJECT,extended-matching,pre-matching
+DOMAIN,cn-tk.anythinktech.com,REJECT,extended-matching,pre-matching
 DOMAIN,cnlogs.umeng.com,REJECT,extended-matching,pre-matching
 DOMAIN,cnlogs.umengcloud.com,REJECT,extended-matching,pre-matching
 DOMAIN,cnzz.com,REJECT,extended-matching,pre-matching
@@ -359,6 +366,7 @@ DOMAIN,crashlyticsreports-pa.googleapis.com,REJECT,extended-matching,pre-matchin
 DOMAIN,d.applovin.com,REJECT,extended-matching,pre-matching
 DOMAIN,d.applvn.com,REJECT,extended-matching,pre-matching
 DOMAIN,da.anythinktech.com,REJECT,extended-matching,pre-matching
+DOMAIN,da.statisticslinks.com,REJECT,extended-matching,pre-matching
 DOMAIN,data-sdk-uuid-log.d.meituan.net,REJECT,extended-matching,pre-matching
 DOMAIN,data.ads.oppomobile.com,REJECT,extended-matching,pre-matching
 DOMAIN,data.chsmarttv.com,REJECT,extended-matching,pre-matching
@@ -390,7 +398,10 @@ DOMAIN,edge.ads.twitch.tv,REJECT,extended-matching,pre-matching
 DOMAIN,ef-dongfeng.tanx.com,REJECT,extended-matching,pre-matching
 DOMAIN,engine.dcad01.com,REJECT,extended-matching,pre-matching
 DOMAIN,entry.baidu.com,REJECT,extended-matching,pre-matching
+DOMAIN,errlog.umeng.com,REJECT,extended-matching,pre-matching
+DOMAIN,errlogos.umeng.com,REJECT,extended-matching,pre-matching
 DOMAIN,errnewlog.umeng.com,REJECT,extended-matching,pre-matching
+DOMAIN,errnewlogos.umeng.com,REJECT,extended-matching,pre-matching
 DOMAIN,et-eus.w.inmobi.com,REJECT,extended-matching,pre-matching
 DOMAIN,event.tradplusad.com,REJECT,extended-matching,pre-matching
 DOMAIN,events-drcn.op.dbankcloud.cn,REJECT,extended-matching,pre-matching
@@ -790,6 +801,7 @@ DOMAIN,smetrics.samsung.com,REJECT,extended-matching,pre-matching
 DOMAIN,sms.ads.oppomobile.com,REJECT,extended-matching,pre-matching
 DOMAIN,sngmta.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,snowflake.qq.com,REJECT,extended-matching,pre-matching
+DOMAIN,ssapi.anythinktech.com,REJECT,extended-matching,pre-matching
 DOMAIN,ssp.cloooud.com,REJECT,extended-matching,pre-matching
 DOMAIN,staging-notify.sec.miui.com,REJECT,extended-matching,pre-matching
 DOMAIN,stat.dongqiudi.com,REJECT,extended-matching,pre-matching
@@ -835,6 +847,7 @@ DOMAIN,test.e.ad.xiaomi.com,REJECT,extended-matching,pre-matching
 DOMAIN,tj.b.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,tj.video.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,tk.anythinktech.com,REJECT,extended-matching,pre-matching
+DOMAIN,tk.statisticslinks.com,REJECT,extended-matching,pre-matching
 DOMAIN,tmead.y.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,tmeadcomm.y.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,tmfmazu-wangka.m.qq.com,REJECT,extended-matching,pre-matching
@@ -852,6 +865,7 @@ DOMAIN,tnc3-alisc1.toutiaoapi.com,REJECT,extended-matching,pre-matching
 DOMAIN,tnc3-bjlgy.bytedance.com,REJECT,extended-matching,pre-matching
 DOMAIN,tnc3-bjlgy.snssdk.com,REJECT,extended-matching,pre-matching
 DOMAIN,tnc3-bjlgy.toutiaoapi.com,REJECT,extended-matching,pre-matching
+DOMAIN,tobapplog.ctobsnssdk.com,REJECT,extended-matching,pre-matching
 DOMAIN,toblog.ctobsnssdk.com,REJECT,extended-matching,pre-matching
 DOMAIN,tpa-hcdn.iqiyi.com,REJECT,extended-matching,pre-matching
 DOMAIN,tpc.googlesyndication-cn.com,REJECT,extended-matching,pre-matching

@@ -1,5 +1,5 @@
 #!name=AWAvenue Ads Rule
-#!desc=Update time: 2026-11-15 00:37:33 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+#!desc=Update time: 2026-11-16 17:36:05 UTC+8\nHomepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #!category=广告拦截
 #!author=TG-Twilight[https://github.com/TG-Twilight]
 #!icon=https://avatars.githubusercontent.com/u/121682528?s=144
@@ -185,6 +185,7 @@ DOMAIN,adx-saas.advlion.com,REJECT,extended-matching,pre-matching
 DOMAIN,adx-strategy-api-cn.statisticslinks.com,REJECT,extended-matching,pre-matching
 DOMAIN,adx.ads.heytapmobi.com,REJECT,extended-matching,pre-matching
 DOMAIN,adx.ads.oppomobile.com,REJECT,extended-matching,pre-matching
+DOMAIN,adx.anythinktech.com,REJECT,extended-matching,pre-matching
 DOMAIN,adx.appsdk.com.cn,REJECT,extended-matching,pre-matching
 DOMAIN,adx.sogaha.cn,REJECT,extended-matching,pre-matching
 DOMAIN,adx.tuia.cn,REJECT,extended-matching,pre-matching
@@ -249,6 +250,7 @@ DOMAIN,bdapi.ads.oppomobile.com,REJECT,extended-matching,pre-matching
 DOMAIN,beizi.biz,REJECT,extended-matching,pre-matching
 DOMAIN,bgg.baidu.com,REJECT,extended-matching,pre-matching
 DOMAIN,bianxian.com,REJECT,extended-matching,pre-matching
+DOMAIN,bid.shanghailingye.cn,REJECT,extended-matching,pre-matching
 DOMAIN,biz.weibo.com,REJECT,extended-matching,pre-matching
 DOMAIN,bj-td-menta-01-callback.advlion.com,REJECT,extended-matching,pre-matching
 DOMAIN,bj.ad.track.66mobi.com,REJECT,extended-matching,pre-matching
@@ -282,7 +284,10 @@ DOMAIN,click.chinaliftoff.io,REJECT,extended-matching,pre-matching
 DOMAIN,click.liftoff.io,REJECT,extended-matching,pre-matching
 DOMAIN,click4.chinaliftoff.io,REJECT,extended-matching,pre-matching
 DOMAIN,cloooud.com,REJECT,extended-matching,pre-matching
+DOMAIN,cn-api-sec.anythinktech.com,REJECT,extended-matching,pre-matching
 DOMAIN,cn-api.anythinktech.com,REJECT,extended-matching,pre-matching
+DOMAIN,cn-da.anythinktech.com,REJECT,extended-matching,pre-matching
+DOMAIN,cn-tk.anythinktech.com,REJECT,extended-matching,pre-matching
 DOMAIN,commercial.shouji.360.cn,REJECT,extended-matching,pre-matching
 DOMAIN,conf.hpplay.cn,REJECT,extended-matching,pre-matching
 DOMAIN,config.chsmarttv.com,REJECT,extended-matching,pre-matching
@@ -293,6 +298,7 @@ DOMAIN,cpro.baidustatic.com,REJECT,extended-matching,pre-matching
 DOMAIN,d.applovin.com,REJECT,extended-matching,pre-matching
 DOMAIN,d.applvn.com,REJECT,extended-matching,pre-matching
 DOMAIN,da.anythinktech.com,REJECT,extended-matching,pre-matching
+DOMAIN,da.statisticslinks.com,REJECT,extended-matching,pre-matching
 DOMAIN,data.ads.oppomobile.com,REJECT,extended-matching,pre-matching
 DOMAIN,datacollection.uve.weibo.com,REJECT,extended-matching,pre-matching
 DOMAIN,dc.sigmob.cn,REJECT,extended-matching,pre-matching
@@ -547,6 +553,7 @@ DOMAIN,sl.hpplay.cn,REJECT,extended-matching,pre-matching
 DOMAIN,smad.ms.zhangyue.net,REJECT,extended-matching,pre-matching
 DOMAIN,smartad.10010.com,REJECT,extended-matching,pre-matching
 DOMAIN,sms.ads.oppomobile.com,REJECT,extended-matching,pre-matching
+DOMAIN,ssapi.anythinktech.com,REJECT,extended-matching,pre-matching
 DOMAIN,ssp.cloooud.com,REJECT,extended-matching,pre-matching
 DOMAIN,static-s.iqiyi.com,REJECT,extended-matching,pre-matching
 DOMAIN,static.ads-twitter.com,REJECT,extended-matching,pre-matching
@@ -579,6 +586,7 @@ DOMAIN,tencent-dtv.m.cn.miaozhen.com,REJECT,extended-matching,pre-matching
 DOMAIN,test.ad.xiaomi.com,REJECT,extended-matching,pre-matching
 DOMAIN,test.e.ad.xiaomi.com,REJECT,extended-matching,pre-matching
 DOMAIN,tk.anythinktech.com,REJECT,extended-matching,pre-matching
+DOMAIN,tk.statisticslinks.com,REJECT,extended-matching,pre-matching
 DOMAIN,tmead.y.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,tmeadcomm.y.qq.com,REJECT,extended-matching,pre-matching
 DOMAIN,tpc.googlesyndication-cn.com,REJECT,extended-matching,pre-matching

@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule (No.Privacy)
 #--------------------------------------
-#Total lines: 760
+#Total lines: 768
 #Version: 1.7.9-release
-#Update time: 2026-11-15 00:37:33 UTC+8
-#Update content: 新增拦截识x、小黑盒、淘x等App的日志埋点与设备指纹上报域名10条
+#Update time: 2026-11-16 17:36:05 UTC+8
+#Update content: 新增拦截TopOn聚合与上海领页广告接口8条及崩溃日志与埋点上报域名6条
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -190,6 +190,7 @@ DOMAIN,adx-saas.advlion.com,reject
 DOMAIN,adx-strategy-api-cn.statisticslinks.com,reject
 DOMAIN,adx.ads.heytapmobi.com,reject
 DOMAIN,adx.ads.oppomobile.com,reject
+DOMAIN,adx.anythinktech.com,reject
 DOMAIN,adx.appsdk.com.cn,reject
 DOMAIN,adx.sogaha.cn,reject
 DOMAIN,adx.tuia.cn,reject
@@ -263,6 +264,7 @@ DOMAIN,bdcdncnc.inter.71edge.com,reject
 DOMAIN,beizi.biz,reject
 DOMAIN,bgg.baidu.com,reject
 DOMAIN,bianxian.com,reject
+DOMAIN,bid.shanghailingye.cn,reject
 DOMAIN,biz.weibo.com,reject
 DOMAIN,bj-td-menta-01-callback.advlion.com,reject
 DOMAIN,bj.ad.track.66mobi.com,reject
@@ -300,7 +302,10 @@ DOMAIN,click.chinaliftoff.io,reject
 DOMAIN,click.liftoff.io,reject
 DOMAIN,click4.chinaliftoff.io,reject
 DOMAIN,cloooud.com,reject
+DOMAIN,cn-api-sec.anythinktech.com,reject
 DOMAIN,cn-api.anythinktech.com,reject
+DOMAIN,cn-da.anythinktech.com,reject
+DOMAIN,cn-tk.anythinktech.com,reject
 DOMAIN,commercial.shouji.360.cn,reject
 DOMAIN,conf.hpplay.cn,reject
 DOMAIN,config.chsmarttv.com,reject
@@ -311,6 +316,7 @@ DOMAIN,cpro.baidustatic.com,reject
 DOMAIN,d.applovin.com,reject
 DOMAIN,d.applvn.com,reject
 DOMAIN,da.anythinktech.com,reject
+DOMAIN,da.statisticslinks.com,reject
 DOMAIN,data.ads.oppomobile.com,reject
 DOMAIN,datacollection.uve.weibo.com,reject
 DOMAIN,dc.sigmob.cn,reject
@@ -615,6 +621,7 @@ DOMAIN,slb-p2p.vcloud.ks-live.com,reject
 DOMAIN,smad.ms.zhangyue.net,reject
 DOMAIN,smartad.10010.com,reject
 DOMAIN,sms.ads.oppomobile.com,reject
+DOMAIN,ssapi.anythinktech.com,reject
 DOMAIN,ssp.cloooud.com,reject
 DOMAIN,staging-notify.sec.miui.com,reject
 DOMAIN,static-s.iqiyi.com,reject
@@ -650,6 +657,7 @@ DOMAIN,tencent-dtv.m.cn.miaozhen.com,reject
 DOMAIN,test.ad.xiaomi.com,reject
 DOMAIN,test.e.ad.xiaomi.com,reject
 DOMAIN,tk.anythinktech.com,reject
+DOMAIN,tk.statisticslinks.com,reject
 DOMAIN,tmead.y.qq.com,reject
 DOMAIN,tmeadcomm.y.qq.com,reject
 DOMAIN,tmfmazu-wangka.m.qq.com,reject

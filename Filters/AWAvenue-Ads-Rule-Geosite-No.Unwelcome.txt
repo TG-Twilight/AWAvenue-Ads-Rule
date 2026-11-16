@@ -182,6 +182,7 @@ full:adx-saas.advlion.com
 full:adx-strategy-api-cn.statisticslinks.com
 full:adx.ads.heytapmobi.com
 full:adx.ads.oppomobile.com
+full:adx.anythinktech.com
 full:adx.appsdk.com.cn
 full:adx.sogaha.cn
 full:adx.tuia.cn
@@ -198,6 +199,7 @@ full:ali-ad.a.yximgs.com
 full:alicoccdncnc-xn.inter.71edge.com
 full:alicoccdnct-xn.inter.71edge.com
 full:alog.umeng.com
+full:alogsus.umeng.com
 full:alogus.umeng.com
 full:als.baidu.com
 full:an.facebook.com
@@ -215,6 +217,7 @@ full:analytics.tiktok.com
 full:analytics.woozooo.com
 full:analyticsengine.s3.amazonaws.com
 full:analyze.lemurbrowser.com
+full:android.bugly.qq.com
 full:andrqd.play.aiseet.atianqi.com
 full:ap.dongdianqiu.com
 full:ap.dongqiudi.com
@@ -275,6 +278,7 @@ full:beizi.biz
 full:bes-mtj.baidu.com
 full:bgg.baidu.com
 full:bianxian.com
+full:bid.shanghailingye.cn
 full:biz.weibo.com
 full:bj-td-menta-01-callback.advlion.com
 full:bj.ad.track.66mobi.com
@@ -317,7 +321,10 @@ full:click4.chinaliftoff.io
 full:client-upload.cn-shanghai.log.aliyuncs.com
 full:clog.miguvideo.com
 full:cloooud.com
+full:cn-api-sec.anythinktech.com
 full:cn-api.anythinktech.com
+full:cn-da.anythinktech.com
+full:cn-tk.anythinktech.com
 full:cnlogs.umeng.com
 full:cnlogs.umengcloud.com
 full:cnzz.com
@@ -335,6 +342,7 @@ full:crashlyticsreports-pa.googleapis.com
 full:d.applovin.com
 full:d.applvn.com
 full:da.anythinktech.com
+full:da.statisticslinks.com
 full:data-sdk-uuid-log.d.meituan.net
 full:data.ads.oppomobile.com
 full:data.chsmarttv.com
@@ -360,7 +368,10 @@ full:edge.ads.twitch.tv
 full:ef-dongfeng.tanx.com
 full:engine.dcad01.com
 full:entry.baidu.com
+full:errlog.umeng.com
+full:errlogos.umeng.com
 full:errnewlog.umeng.com
+full:errnewlogos.umeng.com
 full:et-eus.w.inmobi.com
 full:event.tradplusad.com
 full:events-drcn.op.dbankcloud.cn
@@ -716,6 +727,7 @@ full:smetrics.samsung.com
 full:sms.ads.oppomobile.com
 full:sngmta.qq.com
 full:snowflake.qq.com
+full:ssapi.anythinktech.com
 full:ssp.cloooud.com
 full:stat.dongqiudi.com
 full:stat.y.qq.com
@@ -758,8 +770,10 @@ full:test.e.ad.xiaomi.com
 full:tj.b.qq.com
 full:tj.video.qq.com
 full:tk.anythinktech.com
+full:tk.statisticslinks.com
 full:tmead.y.qq.com
 full:tmeadcomm.y.qq.com
+full:tobapplog.ctobsnssdk.com
 full:toblog.ctobsnssdk.com
 full:tpc.googlesyndication-cn.com
 full:tpc.googlesyndication.com

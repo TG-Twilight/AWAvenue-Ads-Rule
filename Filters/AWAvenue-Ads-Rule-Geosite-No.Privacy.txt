@@ -177,6 +177,7 @@ full:adx-saas.advlion.com
 full:adx-strategy-api-cn.statisticslinks.com
 full:adx.ads.heytapmobi.com
 full:adx.ads.oppomobile.com
+full:adx.anythinktech.com
 full:adx.appsdk.com.cn
 full:adx.sogaha.cn
 full:adx.tuia.cn
@@ -250,6 +251,7 @@ full:bdcdncnc.inter.71edge.com
 full:beizi.biz
 full:bgg.baidu.com
 full:bianxian.com
+full:bid.shanghailingye.cn
 full:biz.weibo.com
 full:bj-td-menta-01-callback.advlion.com
 full:bj.ad.track.66mobi.com
@@ -287,7 +289,10 @@ full:click.chinaliftoff.io
 full:click.liftoff.io
 full:click4.chinaliftoff.io
 full:cloooud.com
+full:cn-api-sec.anythinktech.com
 full:cn-api.anythinktech.com
+full:cn-da.anythinktech.com
+full:cn-tk.anythinktech.com
 full:commercial.shouji.360.cn
 full:conf.hpplay.cn
 full:config.chsmarttv.com
@@ -298,6 +303,7 @@ full:cpro.baidustatic.com
 full:d.applovin.com
 full:d.applvn.com
 full:da.anythinktech.com
+full:da.statisticslinks.com
 full:data.ads.oppomobile.com
 full:datacollection.uve.weibo.com
 full:dc.sigmob.cn
@@ -602,6 +608,7 @@ full:slb-p2p.vcloud.ks-live.com
 full:smad.ms.zhangyue.net
 full:smartad.10010.com
 full:sms.ads.oppomobile.com
+full:ssapi.anythinktech.com
 full:ssp.cloooud.com
 full:staging-notify.sec.miui.com
 full:static-s.iqiyi.com
@@ -637,6 +644,7 @@ full:tencent-dtv.m.cn.miaozhen.com
 full:test.ad.xiaomi.com
 full:test.e.ad.xiaomi.com
 full:tk.anythinktech.com
+full:tk.statisticslinks.com
 full:tmead.y.qq.com
 full:tmeadcomm.y.qq.com
 full:tmfmazu-wangka.m.qq.com

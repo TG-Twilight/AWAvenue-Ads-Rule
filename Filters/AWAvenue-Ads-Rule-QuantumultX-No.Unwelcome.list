@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule (No.Unwelcome)
 #--------------------------------------
-#Total lines: 887
+#Total lines: 901
 #Version: 1.7.9-release
-#Update time: 2026-11-15 00:37:33 UTC+8
-#Update content: 新增拦截识x、小黑盒、淘x等App的日志埋点与设备指纹上报域名10条
+#Update time: 2026-11-16 17:36:05 UTC+8
+#Update content: 新增拦截TopOn聚合与上海领页广告接口8条及崩溃日志与埋点上报域名6条
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -194,6 +194,7 @@ DOMAIN,adx-saas.advlion.com,reject
 DOMAIN,adx-strategy-api-cn.statisticslinks.com,reject
 DOMAIN,adx.ads.heytapmobi.com,reject
 DOMAIN,adx.ads.oppomobile.com,reject
+DOMAIN,adx.anythinktech.com,reject
 DOMAIN,adx.appsdk.com.cn,reject
 DOMAIN,adx.sogaha.cn,reject
 DOMAIN,adx.tuia.cn,reject
@@ -210,6 +211,7 @@ DOMAIN,ali-ad.a.yximgs.com,reject
 DOMAIN,alicoccdncnc-xn.inter.71edge.com,reject
 DOMAIN,alicoccdnct-xn.inter.71edge.com,reject
 DOMAIN,alog.umeng.com,reject
+DOMAIN,alogsus.umeng.com,reject
 DOMAIN,alogus.umeng.com,reject
 DOMAIN,als.baidu.com,reject
 DOMAIN,an.facebook.com,reject
@@ -227,6 +229,7 @@ DOMAIN,analytics.tiktok.com,reject
 DOMAIN,analytics.woozooo.com,reject
 DOMAIN,analyticsengine.s3.amazonaws.com,reject
 DOMAIN,analyze.lemurbrowser.com,reject
+DOMAIN,android.bugly.qq.com,reject
 DOMAIN,andrqd.play.aiseet.atianqi.com,reject
 DOMAIN,ap.dongdianqiu.com,reject
 DOMAIN,ap.dongqiudi.com,reject
@@ -287,6 +290,7 @@ DOMAIN,beizi.biz,reject
 DOMAIN,bes-mtj.baidu.com,reject
 DOMAIN,bgg.baidu.com,reject
 DOMAIN,bianxian.com,reject
+DOMAIN,bid.shanghailingye.cn,reject
 DOMAIN,biz.weibo.com,reject
 DOMAIN,bj-td-menta-01-callback.advlion.com,reject
 DOMAIN,bj.ad.track.66mobi.com,reject
@@ -329,7 +333,10 @@ DOMAIN,click4.chinaliftoff.io,reject
 DOMAIN,client-upload.cn-shanghai.log.aliyuncs.com,reject
 DOMAIN,clog.miguvideo.com,reject
 DOMAIN,cloooud.com,reject
+DOMAIN,cn-api-sec.anythinktech.com,reject
 DOMAIN,cn-api.anythinktech.com,reject
+DOMAIN,cn-da.anythinktech.com,reject
+DOMAIN,cn-tk.anythinktech.com,reject
 DOMAIN,cnlogs.umeng.com,reject
 DOMAIN,cnlogs.umengcloud.com,reject
 DOMAIN,cnzz.com,reject
@@ -347,6 +354,7 @@ DOMAIN,crashlyticsreports-pa.googleapis.com,reject
 DOMAIN,d.applovin.com,reject
 DOMAIN,d.applvn.com,reject
 DOMAIN,da.anythinktech.com,reject
+DOMAIN,da.statisticslinks.com,reject
 DOMAIN,data-sdk-uuid-log.d.meituan.net,reject
 DOMAIN,data.ads.oppomobile.com,reject
 DOMAIN,data.chsmarttv.com,reject
@@ -372,7 +380,10 @@ DOMAIN,edge.ads.twitch.tv,reject
 DOMAIN,ef-dongfeng.tanx.com,reject
 DOMAIN,engine.dcad01.com,reject
 DOMAIN,entry.baidu.com,reject
+DOMAIN,errlog.umeng.com,reject
+DOMAIN,errlogos.umeng.com,reject
 DOMAIN,errnewlog.umeng.com,reject
+DOMAIN,errnewlogos.umeng.com,reject
 DOMAIN,et-eus.w.inmobi.com,reject
 DOMAIN,event.tradplusad.com,reject
 DOMAIN,events-drcn.op.dbankcloud.cn,reject
@@ -728,6 +739,7 @@ DOMAIN,smetrics.samsung.com,reject
 DOMAIN,sms.ads.oppomobile.com,reject
 DOMAIN,sngmta.qq.com,reject
 DOMAIN,snowflake.qq.com,reject
+DOMAIN,ssapi.anythinktech.com,reject
 DOMAIN,ssp.cloooud.com,reject
 DOMAIN,stat.dongqiudi.com,reject
 DOMAIN,stat.y.qq.com,reject
@@ -770,8 +782,10 @@ DOMAIN,test.e.ad.xiaomi.com,reject
 DOMAIN,tj.b.qq.com,reject
 DOMAIN,tj.video.qq.com,reject
 DOMAIN,tk.anythinktech.com,reject
+DOMAIN,tk.statisticslinks.com,reject
 DOMAIN,tmead.y.qq.com,reject
 DOMAIN,tmeadcomm.y.qq.com,reject
+DOMAIN,tobapplog.ctobsnssdk.com,reject
 DOMAIN,toblog.ctobsnssdk.com,reject
 DOMAIN,tpc.googlesyndication-cn.com,reject
 DOMAIN,tpc.googlesyndication.com,reject
